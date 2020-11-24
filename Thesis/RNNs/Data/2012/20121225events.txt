@@ -1,0 +1,51 @@
+:Product: 20121225events.txt
+:Created: 2012 Dec 28 0332 UT
+:Date: 2012 12 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Dec 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9680       0043   0046      0049  G15  5   XRA  1-8A      B4.6    1.0E-04   1635
+
+9690 +     0059   ////      0100  LEA  C   RSP  025-100   V/1                   
+
+9700       0240   0245      0252  G15  5   XRA  1-8A      B6.7    3.6E-04   1635
+
+9710       0358   0401      0423  G15  5   XRA  1-8A      B4.4    5.5E-04   1635
+
+9720       0459   0504      0508  G15  5   XRA  1-8A      C1.1    3.9E-04   1635
+
+9730       0531   0535      0540  G15  5   XRA  1-8A      B7.2    2.5E-04   1635
+
+9740       0638   0643      0647  G15  5   XRA  1-8A      C1.8    5.9E-04   1635
+9740       0641   0643      0647  LEA  3   FLA  N11E25    SF                1635
+
+9750       0652   ////      0722  SVI  C   RSP  102-160   VI/1                  
+9750       0717   ////      0717  LEA  C   RSP  073-145   III/1                 
+
+9760 +     0902   0905      0910  G15  5   XRA  1-8A      B5.7    2.0E-04   1635
+
+9770       1026   1039      1052  G15  5   XRA  1-8A      C1.1    1.4E-03       
+
+9780       1258   1304      1307  G15  5   XRA  1-8A      C4.1    1.2E-03   1635
+9780      B1301  U1303     A1315  SVI  3   FLA  N11W14    SF      ERU       1635
+
+9890      A1418   ////     A0959  SVI  3   DSF  S32W06    8                     
+
+9790 +     1547   1556      1602  G15  5   XRA  1-8A      B6.6    4.6E-04   1636
+
+9820       1747   ////      1808  PAL  C   RSP  025-180   VI/1                  
+
+9800       1748   ////      1748  SAG  C   RSP  025-118   III/1                 
+
+9810       1804   1810      1815  G15  5   XRA  1-8A      C3.0    1.1E-03   1635
+9810       1807   ////      1808  SAG  C   RSP  025-180   V/1               1635
+9810       1808   1810      1817  HOL  4   FLA  N13W17    SF      DSD       1635
+
+9830 +     2358   ////      2359  PAL  C   RSP  025-126   III/1                 

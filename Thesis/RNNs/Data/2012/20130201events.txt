@@ -1,0 +1,30 @@
+:Product: 20130201events.txt
+:Created: 2013 Feb 04 0332 UT
+:Date: 2013 02 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Feb 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4990 +     0334   0342      0346  G15  5   XRA  1-8A      B6.9    3.1E-04   1665
+4990 +     0336   0336      0336  PAL  G   RBR  245       180               1665
+4990       0337   0341      0352  LEA  3   FLA  N14E38    SF      ERU       1665
+4990 +     0338   ////      0338  CUL  C   RSP  018-130   III/1             1665
+
+5000       0351   ////      0352  LEA  C   RSP  025-140   III/2                 
+
+5010       0457   ////      0510  LEA  C   RSP  025-141   VI/2                  
+
+5020 +     0907   ////      0907  LEA  C   RSP  025-099   III/2                 
+
+5030       0912   0913      0918  SVI  3   FLA  N25E75    SF                1667
+
+5040       1057   ////      1057  SVI  C   RSP  026-054   III/1                 
+
+5050       1345   1349      1354  G15  5   XRA  1-8A      B3.6    1.4E-04   1665
+5050       1347   1347      1351  SVI  3   FLA  N14E33    SF                1665

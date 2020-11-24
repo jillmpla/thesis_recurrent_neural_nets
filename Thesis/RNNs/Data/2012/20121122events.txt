@@ -1,0 +1,87 @@
+:Product: 20121122events.txt
+:Created: 2012 Nov 25 0332 UT
+:Date: 2012 11 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Nov 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4300       0000   ////      0235  LEA  C   RSP  074-180   IV/1                  
+4300       0001   ////      0256  LEA  C   RSP  025-180   VI/2                  
+
+4280       0002   ////      0003  PAL  C   RSP  025-180   III/1                 
+4280 +     0002   0002      0003  LEA  G   RBR  245       1100                  
+4280 +     0003   0003      0003  LEA  G   RBR  410       110                   
+
+4290       0021   0021      0021  PAL  G   RBR  245       140                   
+
+4310       0122   0122      0122  PAL  G   RBR  245       370                   
+
+4320       0122   0122      0122  LEA  G   RBR  245       420                   
+
+4330       0254   ////      0255  PAL  C   RSP  025-180   III/1             1618
+4330       0255   0255      0256  LEA  3   FLA  N07W01    SF                1618
+4330 +     0255   0255      0255  LEA  G   RBR  245       320               1618
+4330 +     0255   0255      0255  LEA  G   RBR  410       230               1618
+
+4340       0315   0315      0315  PAL  G   RBR  245       100                   
+
+4350       0319   0319      0319  PAL  G   RBR  245       16000                 
+
+4370       0331   ////      0443  LEA  C   RSP  072-180   CTM/1                 
+4370       0405   ////      0405  LEA  C   RSP  030-119   III/1                 
+
+4380       0445   ////      0705  LEA  C   RSP  025-180   VI/2                  
+4380       0536   ////      0536  CUL  C   RSP  018-250   III/3                 
+
+4390       0629   ////      0705  SVI  C   RSP  025-180   VI/2                  
+4390 +     0652   ////      0655  CUL  C   RSP  018-400   III/3                 
+4390       0652   0652      0652  LEA  G   RBR  245       180                   
+
+4400       0749   0753      0755  G15  5   XRA  1-8A      B6.3    1.3E-04   1618
+4400       0752   0753      0755  LEA  3   FLA  N07W01    SF                1618
+
+4410 +     0803   ////      0804  SVI  C   RSP  025-176   III/1                 
+
+4420       0805   0805      0805  SVI  G   RBR  245       150                   
+
+4440 +     0848   ////      0907  LEA  C   RSP  025-180   VI/2                  
+
+4430       0905   ////      0906  SVI  C   RSP  025-180   III/2                 
+4430 +     0906   0906      0906  SVI  G   RBR  245       390                   
+
+4450       0924   ////      1514  SVI  C   RSP  075-180   CTM/1                 
+
+4460       1035   ////      1035  SVI  C   RSP  038-153   III/1                 
+
+4470 +     1322   ////      1323  SVI  C   RSP  025-180   III/1                 
+4470 +     1322   1322      1323  SVI  G   RBR  245       190                   
+
+4480 +     1414   ////      1431  SAG  C   RSP  025-180   VI/1                  
+4480 +     1430   1430      1430  SAG  G   RBR  245       180                   
+
+4490       1503   ////      1511  SAG  C   RSP  025-180   III/2                 
+4490 +     1509   1509      1510  SAG  G   RBR  245       1500                  
+
+4500       1527   ////      1547  SAG  C   RSP  025-180   VI/2                  
+4500       1535   1546      1557  G15  5   XRA  1-8A      B9.5    1.0E-03   1618
+4500 +     1546   1546      1546  SAG  G   RBR  245       290                   
+4500       1546   1546      1546  SAG  G   RBR  410       110                   
+4500       1546   1546      1546  SAG  G   RBR  610       99                    
+
+4510 +     1744   ////      1745  SAG  C   RSP  025-180   III/2                 
+
+4530       2026   ////      2026  CUL  C   RSP  030-150   III/1                 
+
+4540       2205   ////      2207  CUL  C   RSP  018-400   III/1                 
+
+4520 +     2205   ////      2205  LEA  C   RSP  025-180   III/2                 
+4520       2205   2205      2205  LEA  G   RBR  245       8400                  
+4520       2205   2205      2205  LEA  G   RBR  610       140                   
+
+4550       2255   ////      2255  LEA  C   RSP  074-180   III/1                 

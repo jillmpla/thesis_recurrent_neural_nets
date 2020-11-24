@@ -1,0 +1,60 @@
+:Product: 20121111events.txt
+:Created: 2012 Nov 14 0332 UT
+:Date: 2012 11 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Nov 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1830       0006   ////      0014  LEA  C   RSP  025-180   III/1                 
+
+1840       0045   0054      0104  G14  5   XRA  1-8A      C1.3    1.2E-03   1614
+1840       0047   ////      0110  LEA  C   RSP  025-180   VI/2                  
+1840       0104   ////      0124  LEA  C   RSP  130-180   CTM/1                 
+
+1990       0109   ////      0111  CUL  C   RSP  018-130   III/3                 
+
+1850       0140   ////      0140  LEA  C   RSP  025-149   III/1                 
+
+1860       0211   0233      0252  G14  5   XRA  1-8A      M1.0    1.7E-02   1614
+1860 +     0220   ////      0226  LEA  C   RSP  025-180   III/2                 
+1860 +     0228   ////      0235  LEA  C   RSP  039-110   II/1    659           
+
+2000       0302   ////      0304  CUL  C   RSP  018-080   III/2                 
+
+1870       0302   ////      0304  LEA  C   RSP  025-180   III/1                 
+
+1880       0348   ////      0409  LEA  C   RSP  025-180   VI/1                  
+1880       0409   ////      0409  CUL  C   RSP  018-260   III/2                 
+
+1890       0518   0530      0546  G14  5   XRA  1-8A      C1.6    2.3E-03       
+
+1900       0554   ////      0718  LEA  C   RSP  025-180   VI/1                  
+1900       0556   ////      0556  CUL  C   RSP  018-130   III/3                 
+
+2010       0759   ////      0759  CUL  C   RSP  030-060   III/1                 
+
+1930 +     0800   ////      0813  SVI  C   RSP  025-180   VI/2                  
+1930 +     0812   0812      0812  SVI  G   RBR  245       200                   
+
+1940       1052   ////      1052  SVI  C   RSP  025-180   III/2                 
+1940       1052   1052      1052  SVI  G   RBR  245       110                   
+
+1960 +     1254   ////      1305  SVI  C   RSP  025-180   VI/2                  
+1960 +     1258   1258      1258  SVI  G   RBR  245       130                   
+
+1970       1750   1750      1750  SAG  G   RBR  245       1000                  
+1970       1750   ////      1750  SAG  C   RSP  133-180   III/1                 
+
+1980       1902   1906      1909  G14  5   XRA  1-8A      C1.2    3.1E-04   1610
+
+2020       2009   ////      2010  CUL  C   RSP  023-140   III/1                 
+
+2030       2228   ////      2228  CUL  C   RSP  020-080   III/1                 
+
+2040       2243   2243      2243  LEA  G   RBR  245       120                   

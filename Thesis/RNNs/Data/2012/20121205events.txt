@@ -1,0 +1,37 @@
+:Product: 20121205events.txt
+:Created: 2012 Dec 08 0332 UT
+:Date: 2012 12 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Dec 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6690       0012   0028      0050  G15  5   XRA  1-8A      C1.7    3.0E-03   1628
+6690       0021   ////      0036  LEA  C   RSP  025-180   VI/1                  
+
+6700       0139   ////      0139  LEA  C   RSP  025-180   III/1                 
+
+6760       0519   ////      0524  CUL  C   RSP  020-270   III/1                 
+
+6720       0520   0556      0612  G15  5   XRA  1-8A      B4.1    1.0E-03       
+
+6710       0550   0550      0550  LEA  G   RBR  245       230                   
+
+6770       0740   ////      0740  CUL  C   RSP  020-050   III/1                 
+
+6870      A1432   ////     A0654  SVI  2   DSF  S51W10    35                    
+
+6730       1739   1751      1805  G15  5   XRA  1-8A      B8.6    1.0E-03   1621
+
+6740       1921   ////      1921  PAL  C   RSP  109-161   III/1                 
+
+6750       1931   1931      1931  SAG  G   RBR  245       500                   
+
+6780       2247   ////      2247  CUL  C   RSP  020-160   III/1                 
+
+6790 +     2247   ////      2247  LEA  C   RSP  025-180   III/1                 

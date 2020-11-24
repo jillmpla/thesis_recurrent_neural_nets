@@ -1,0 +1,32 @@
+:Product: 20121226events.txt
+:Created: 2012 Dec 29 0332 UT
+:Date: 2012 12 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Dec 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9840       0424   0430      0437  G15  5   XRA  1-8A      B9.4    5.5E-04   1635
+
+9850       0448   0455      0458  G15  5   XRA  1-8A      C3.9    1.3E-03   1635
+
+9860       0833   0911      0935  G15  5   XRA  1-8A      C1.5    4.5E-03   1635
+9860       0837   0837      0847  LEA  3   FLA  N10W24    SF                1635
+
+9870       1118   1125      1128  G15  5   XRA  1-8A      C1.6    5.5E-04   1635
+
+9880       1348   1353      1407  G15  5   XRA  1-8A      C1.0    8.9E-04   1635
+
+9900       1645   1648      1650  G15  5   XRA  1-8A      B8.4    1.4E-04   1635
+
+9910       1658   1714      1721  G15  5   XRA  1-8A      C1.6    1.5E-03   1635
+
+9920       2042   2048      2053  G15  5   XRA  1-8A      C1.2    4.9E-04   1635
+9920       2047   2048      2054  HOL  3   FLA  N12W26    SF      ERU       1635
+
+9930       2135   2138      2140  G15  5   XRA  1-8A      B4.5    7.3E-05       

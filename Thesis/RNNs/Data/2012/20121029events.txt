@@ -1,0 +1,30 @@
+:Product: 20121029events.txt
+:Created: 2012 Nov 01 0332 UT
+:Date: 2012 10 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Oct 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 870       0115   ////      0115  CUL  C   RSP  050-120   III/1                 
+
+ 880 +     0255   0302      0305  G14  5   XRA  1-8A      B6.9    2.9E-04   1596
+
+ 890       0320   ////      0320  CUL  C   RSP  040-120   III/1                 
+
+ 900       0549   0549      0549  LEA  G   RBR  245       140                   
+
+ 910       0721   0722      0722  SVI  G   RBR  245       110                   
+
+ 920 +     0810   0810      0810  SVI  G   RBR  245       180                   
+
+ 930       1055   ////      1056  SVI  U   RSP  055-128   III/1                 
+
+ 940       1243   ////      1244  SVI  C   RSP  025-133   III/1                 
+
+ 950       1357   ////      1357  SAG  C   RSP  025-047   III/1                 

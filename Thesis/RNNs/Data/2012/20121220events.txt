@@ -1,0 +1,55 @@
+:Product: 20121220events.txt
+:Created: 2012 Dec 23 0332 UT
+:Date: 2012 12 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Dec 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8870       0000   ////      0036  LEA  C   RSP  115-180   CTM/1                 
+8870       0000   0040      0111  LEA  G   RNS  245       190                   
+8870       0007   ////      0047  PAL  C   RSP  130-161   III/1                 
+
+8990       0231   ////      1048  LEA  C   RSP  107-172   III/1                 
+
+8880       0306   0306      0306  LEA  G   RBR  245       140                   
+
+8900       0419   0419      0419  LEA  G   RBR  245       190                   
+
+9070       0520   ////      0520  CUL  C   RSP  018-180   III/2                 
+
+8910       0542   0542      0542  LEA  G   RBR  245       100                   
+
+9020       0635   ////      1513  SVI  C   RSP  075-180   CTM/1                 
+
+8920       0719   0722      0726  G15  5   XRA  1-8A      B4.1    1.1E-04   1635
+
+8930 +     0750   0750      0750  LEA  G   RBR  245       110                   
+
+8950       0810   ////      0811  SVI  C   RSP  025-143   III/2                 
+
+8960       0815   0815      0816  LEA  G   RBR  245       140                   
+
+8980       0916   ////      0946  SVI  C   RSP  025-135   VI/2                  
+
+8970       0934   0934      0934  SVI  U   RBR  245       120                   
+
+9040       0943   0946      0949  G15  5   XRA  1-8A      B4.9    1.1E-04   1635
+
+9000       1110   1110      1110  SVI  U   RBR  245       150                   
+
+9010 +     1339   ////      1340  SVI  C   RSP  027-082   III/1                 
+
+9030       1620   ////      1623  SAG  C   RSP  025-140   III/2                 
+9030       1621   1634      1640  G15  5   XRA  1-8A      B4.4    4.4E-04   1634
+
+9050       1642   ////      2006  SAG  C   RSP  104-180   CTM/1                 
+
+9060 +     2109   ////      2109  CUL  C   RSP  018-180   III/2                 
+
+9080       2338   ////      2340  CUL  C   RSP  018-160   III/1                 

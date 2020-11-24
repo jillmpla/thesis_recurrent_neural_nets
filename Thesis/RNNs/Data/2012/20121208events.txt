@@ -1,0 +1,51 @@
+:Product: 20121208events.txt
+:Created: 2012 Dec 11 0332 UT
+:Date: 2012 12 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Dec 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6940       0042   0047      0051  G15  5   XRA  1-8A      B2.8    1.1E-04   1625
+
+6950       0313   ////      0313  LEA  C   RSP  025-115   III/1                 
+
+6960       0420   0425      0427  G15  5   XRA  1-8A      B9.5    1.4E-04   1629
+6960       0425   0427      0427  LEA  G   RBR  245       130                   
+
+7000       0437   ////      0749  LEA  C   RSP  025-150   VI/1                  
+
+6970       0516   0520      0522  G15  5   XRA  1-8A      B3.1    5.4E-05   1629
+6970       0519   0519      0519  LEA  G   RBR  245       800                   
+
+6980       0635   ////      0635  SVI  C   RSP  076-135   III/1                 
+6980       0635   0635      0635  LEA  G   RBR  245       110                   
+
+6990       0717   0720      0740  G15  5   XRA  1-8A      B2.2    2.5E-04       
+6990       0720   ////      0749  SVI  C   RSP  025-166   VI/1                  
+
+7010       0859   0903      0906  G15  5   XRA  1-8A      B3.6    9.3E-05       
+
+7050       1010   1014      1017  G15  5   XRA  1-8A      B2.9    7.4E-05       
+
+7020       1017   1022      1024  G15  5   XRA  1-8A      B8.4    2.1E-04   1629
+
+7030       1135   1138      1141  G15  5   XRA  1-8A      B3.2    6.9E-05   1629
+
+7040       1323   1328      1333  G15  5   XRA  1-8A      B3.7    1.6E-04   1629
+
+7060       1506   1510      1512  G15  5   XRA  1-8A      B4.5    8.7E-05   1629
+7060       1509   1511      1512  HOL  3   FLA  N13E37    SF      DSD       1629
+
+7070       1700   1703      1707  G15  5   XRA  1-8A      B2.5    6.9E-05   1629
+
+7080       1833   1837      1840  G15  5   XRA  1-8A      B5.2    1.3E-04   1629
+
+7120      A2319   ////     A1442  HOL  3   DSF  N02E40    13                    
+
+7130      A2319   ////     A1442  HOL  3   DSF  N16E39    16                    

@@ -1,0 +1,19 @@
+:Product: 20130122events.txt
+:Created: 2013 Jan 25 0332 UT
+:Date: 2013 01 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jan 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4420 +     0103   ////      0108  LEA  C   RSP  034-180   III/1                 
+
+4430       1026   1033      1042  G15  5   XRA  1-8A      B7.7    5.5E-04   1660
+4430       1029   1029      1043  SVI  3   FLA  N11W23    SF      ERU       1660
+
+4440       2047   2120      2141  G15  5   XRA  1-8A      B5.8    1.6E-03   1660

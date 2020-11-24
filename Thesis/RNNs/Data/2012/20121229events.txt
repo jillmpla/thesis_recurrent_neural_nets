@@ -1,0 +1,19 @@
+:Product: 20121229events.txt
+:Created: 2012 Dec 31 0332 UT
+:Date: 2012 12 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Dec 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 180       0557   0557      0557  LEA  G   RBR  410       200                   
+
+ 190       1203   1209      1214  G15  5   XRA  1-8A      B6.3    3.0E-04   1638
+
+ 200       1927   1933      1939  G15  5   XRA  1-8A      C1.5    7.3E-04   1638
+ 200       1929   1931      1940  HOL  3   FLA  N12E51    SF      ERU       1638

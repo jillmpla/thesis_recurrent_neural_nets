@@ -1,0 +1,38 @@
+:Product: 20121117events.txt
+:Created: 2012 Nov 20 0332 UT
+:Date: 2012 11 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Nov 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3000       0252   ////      0302  PAL  C   RSP  064-161   VI/1              1615
+3000       0254   ////      0302  LEA  C   RSP  025-180   III/2             1615
+3000 +     0259   0308      0323  G14  5   XRA  1-8A      C1.7    1.9E-03   1615
+3000       0309   0323      0329  LEA  3   FLA  N08W07    SF                1615
+
+3010 +     0402   0408      0423  G14  5   XRA  1-8A      C1.2    1.1E-03   1613
+
+3020       0455   0522      0544  G14  5   XRA  1-8A      B9.1    2.4E-03   1610
+
+3030 +     0752   ////      0753  LEA  C   RSP  025-180   III/1                 
+
+3050       1033   ////      1149  SVI  3   DSF  S16W62    6                 1609
+
+3040 +     1350   ////      1350  SVI  C   RSP  033-080   III/1                 
+
+3060 +     1558   1606      1615  G14  5   XRA  1-8A      C1.3    1.0E-03   1618
+
+3070 +     1802   1810      1814  G14  5   XRA  1-8A      C2.8    1.1E-03   1613
+3070 +     1804   ////      1811  SAG  C   RSP  025-180   III/2                 
+
+3080       1913   1913      1913  PAL  G   RBR  245       1100                  
+
+3090 +     2218   ////      2218  LEA  C   RSP  085-180   III/1                 
+
+3100       2302   2302      2302  LEA  G   RBR  610       110                   

@@ -1,0 +1,48 @@
+:Product: 20121212events.txt
+:Created: 2012 Dec 15 0332 UT
+:Date: 2012 12 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Dec 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7430       0002   0011      0018  G15  5   XRA  1-8A      B5.7    4.0E-04   1630
+7430       0006   0010      0016  LEA  3   FLA  N17W24    SF                1630
+
+7440       0031   ////      0031  LEA  C   RSP  025-088   III/1                 
+
+7450       0032   ////      0032  CUL  C   RSP  020-090   III/1                 
+
+7460       0105   0109      0112  G15  5   XRA  1-8A      B4.7    1.2E-04   1629
+7460       0108   0108      0110  LEA  3   FLA  N12W12    SF                1629
+
+7470       0302   0306      0309  G15  5   XRA  1-8A      B3.3    8.6E-05       
+
+7480 +     0344   ////      0345  CUL  C   RSP  018-180   III/1                 
+
+7560       0500   ////      0500  CUL  C   RSP  030-090   III/1                 
+
+7490       0722   0727      0730  G15  5   XRA  1-8A      C5.7    1.5E-03   1629
+7490       0724   0725      0735  LEA  3   FLA  N11W16    SF      BPT       1629
+7490       0724   ////      0726  CUL  C   RSP  018-00*   III/3             1629
+7490 +     0724   0724      0725  LEA  G   RBR  245       680               1629
+7490 +     0724   0724      0725  LEA  G   RBR  410       430               1629
+7490       0724   0725      0725  SVI  G   RBR  4995      96                1629
+7490       0724   0725      0725  SVI  G   RBR  8800      75                1629
+7490 +     0725   ////      0728  CUL  C   RSP  018-120   V/3               1629
+7490       0725   0725      0725  SVI  G   RBR  2695      63                1629
+
+7500       0959   ////      0959  SVI  C   RSP  025-180   III/1                 
+
+7520       1226   1239      1244  G15  5   XRA  1-8A      B5.0    4.2E-04       
+
+7530 +     1328   1335      1346  G15  5   XRA  1-8A      B9.5    7.4E-04   1629
+
+7540 +     1835   1847      1855  G15  5   XRA  1-8A      B7.9    7.2E-04   1629
+
+7550       1943   1946      1948  G15  5   XRA  1-8A      B4.3    7.1E-05       

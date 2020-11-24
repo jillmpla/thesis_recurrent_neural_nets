@@ -1,0 +1,50 @@
+:Product: 20121125events.txt
+:Created: 2012 Nov 28 0332 UT
+:Date: 2012 11 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Nov 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4880       0358   ////      0359  CUL  C   RSP  018-080   III/1                 
+
+4780       0358   ////      0446  LEA  C   RSP  025-180   VI/1                  
+4780 +     0445   ////      0447  CUL  C   RSP  018-200   III/2                 
+4780       0445   ////      0446  LEA  C   RSP  025-180   V/1                   
+
+4790      B0508   0511     A0515  LEA  1   FLA  N08W44    SF                1618
+
+4890       0545   ////      0545  CUL  C   RSP  060-180   III/1                 
+
+4900       0551   ////      0552  CUL  C   RSP  020-180   III/1                 
+
+4800       0612   0617      0622  G15  5   XRA  1-8A      B9.5    3.7E-04   1618
+
+4810      B0806   0808      0811  LEA  2   FLA  N08W46    SF                1618
+
+4820 +     0856   ////      0857  LEA  C   RSP  025-141   III/1                 
+
+4830       1015   ////      1016  SVI  C   RSP  025-148   III/1                 
+
+5160      A1426   ////     A1025  SVI  3   DSF  S23W18    19                    
+
+4840       1554   1620      1641  HOL  3   FLA  S12W12    SF                1620
+
+4850       2010   2014      2021  G15  5   XRA  1-8A      C1.7    7.7E-04   1619
+
+4860       2119   2122      2126  HOL  3   FLA  S12W15    SF      DSD       1620
+
+4870       2213   2216      2244  HOL  3   FLA  S12W15    SF      DSD       1620
+4870       2214   2218      2233  G15  5   XRA  1-8A      C1.4    1.3E-03   1620
+
+4910       2248   ////      2251  CUL  C   RSP  020-090   III/1                 
+
+4930       2254   2255      0324  LEA  3   FLA  S12W14    1F      ERU       1620
+
+4920       2333   ////      2333  PAL  C   RSP  075-087   III/1                 
+4920       2333   ////      2356  LEA  C   RSP  025-083   VI/1                  

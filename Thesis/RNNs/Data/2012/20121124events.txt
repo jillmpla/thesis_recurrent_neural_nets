@@ -1,0 +1,26 @@
+:Product: 20121124events.txt
+:Created: 2012 Nov 27 0332 UT
+:Date: 2012 11 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Nov 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4720 +     1314   1315      1315  SAG  G   RBR  245       420                   
+
+4730 +     1333   1340      1344  G15  5   XRA  1-8A      C3.3    1.3E-03   1618
+4730 +     1335   ////      1355  SAG  C   RSP  025-140   II/2    685       1618
+4730 +     1335   ////      1337  SAG  C   RSP  025-180   III/2             1618
+4730 +     1335   1335      1337  SAG  G   RBR  245       410               1618
+4730       1335   1336      1337  SAG  G   RBR  610       200               1618
+4730 +     1336   1336      1336  SVI  G   RBR  410       150               1618
+4730 +     1336   1336      1336  SVI  G   RBR  1415      87                1618
+4730       1336   1336      1336  SVI  G   RBR  2695      50                1618
+4730      B1337  U1337     A1354  SVI  3   FLA  N06W28    1N                1618
+
+4740       1531   1536      1545  G15  5   XRA  1-8A      B4.5    2.9E-04   1621

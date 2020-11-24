@@ -1,0 +1,58 @@
+:Product: 20121123events.txt
+:Created: 2012 Nov 26 0332 UT
+:Date: 2012 11 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Nov 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4560       0002   0002      0002  PAL  G   RBR  245       210                   
+
+4570       0002   0002      0002  LEA  G   RBR  245       160                   
+
+4580       0251   ////      0253  PAL  C   RSP  025-180   III/1                 
+
+4700      A1038   ////     A1417  LEA  4   DSF  S38E32    38                    
+
+4590 +     1206   1212      1218  G15  5   XRA  1-8A      C1.2    6.0E-04   1618
+
+4760      B1336   ////     A2230  SOH  4   CME  XUV,EUV,UV133-132/FS570           
+
+4600       1829   1832      1836  G15  5   XRA  1-8A      B7.6    2.1E-04       
+
+4610       1916   1916      1916  PAL  G   RBR  245       100                   
+4610 +     1916   1916      1919  SAG  G   RBR  410       240                   
+4610 +     1916   1919      1919  SAG  G   RBR  610       350                   
+
+4620 +     1917   1917      1917  SAG  G   RBR  245       110                   
+4620       1917   1921      1926  G15  5   XRA  1-8A      C1.2    4.7E-04   1618
+4620       1919   1919      1919  PAL  G   RBR  610       350                   
+4620 +     1922   ////      1923  SAG  C   RSP  025-180   III/1                 
+
+4630       1927   1930      1932  G15  5   XRA  1-8A      C2.5    3.0E-04   1618
+4630 +     1929   1929      1929  SAG  G   RBR  245       29000                 
+4630 +     1929   1929      1929  SAG  G   RBR  410       10000                 
+4630 +     1929   1929      1929  SAG  G   RBR  610       3200                  
+4630 +     1929   ////      1930  SAG  C   RSP  025-180   III/2                 
+
+4640       1936   1942      1944  G15  5   XRA  1-8A      C1.2    3.5E-04   1618
+4640 +     1938   1939      1939  PAL  G   RBR  410       820                   
+
+4680       1944   1947      1949  G15  5   XRA  1-8A      C1.2    1.9E-04   1618
+
+4650       1953   1956      1958  G15  5   XRA  1-8A      C1.7    2.4E-04   1618
+
+4660       2001   2005      2007  G15  5   XRA  1-8A      C1.0    2.2E-04   1618
+
+4670       2055   2100      2106  G15  5   XRA  1-8A      B8.1    4.0E-04       
+
+4690 +     2212   ////      2212  PAL  C   RSP  025-180   III/1                 
+
+4770      B2324   ////     A0411  SOH  3   CME  XUV,EUV,UV317-316/BS1278          
+
+4710       2336   2357      0013  G15  5   XRA  1-8A      C1.0    2.0E-03   1618
