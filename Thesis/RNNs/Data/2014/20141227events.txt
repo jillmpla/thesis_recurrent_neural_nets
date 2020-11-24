@@ -1,0 +1,28 @@
+:Product: 20141227events.txt
+:Created: 2014 Dec 30 0357 UT
+:Date: 2014 12 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Dec 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2560       0203   0216      0224  G15  5   XRA  1-8A      M2.2    1.4E-02   2249
+2560 +     0207   0216      0324  LEA  3   FLA  S11W48    2B      UMB       2249
+
+2580       0400   0605      0803  LEA  3   FLA  S11W49    1F                2249
+2580       0600   0611      0623  G15  5   XRA  1-8A      C1.9    2.0E-03   2249
+
+2590       0807   0824      0828  LEA  3   FLA  S12W51    SF                2249
+
+2600       0834   0835      0840  LEA  3   FLA  S12W51    SF                2249
+
+2610       0906  U0912     A0921  SVI  3   FLA  S13W51    SF      ERU       2249
+
+2620       1459   1505      1509  G15  5   XRA  1-8A      C1.3    5.5E-04   2248
+
+2750      A2337   ////     A1435  HOL  2   DSF  S37W10    10                    

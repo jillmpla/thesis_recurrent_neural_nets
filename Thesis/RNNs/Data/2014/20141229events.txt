@@ -1,0 +1,82 @@
+:Product: 20141229events.txt
+:Created: 2014 Dec 31 0357 UT
+:Date: 2014 12 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Dec 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2790       0030   ////      0030  LEA  C   RSP  028-074   III/1                 
+
+2800       0040   0042      0050  LEA  3   FLA  N06W55    SF                2250
+
+2810       0139   0139      0155  LEA  3   FLA  S12E48    SF      DSD       2251
+
+2820       0242   0244      0247  LEA  3   FLA  N06W56    SF                2250
+
+2870       0305   0337      0341  LEA  3   FLA  N06W56    SF                2250
+
+2830       0330   0341      0347  G15  5   XRA  1-8A      C1.4    1.1E-03   2248
+2830       0333   0342      0402  LEA  3   FLA  S21E13    SF      DSD       2248
+
+2860       0335   0337      0343  LEA  3   FLA  S12E46    SF      DSD       2251
+
+2840       0409   0412      0416  LEA  3   FLA  N06W57    SF                2250
+
+2850       0525   0529      0533  G15  5   XRA  1-8A      B8.6    2.9E-04   2248
+2850       0527   0531      0548  LEA  3   FLA  S20E12    SF      ERU       2248
+
+2880       0609   0616      0620  LEA  3   FLA  N08W59    SF      DSD       2250
+
+2890       0630   0707      0802  LEA  3   FLA  N08W59    SF      DSD       2250
+
+2930       0717   0719      0723  LEA  3   FLA  S22E13    SF      DSF       2248
+
+2900      B0818  U0820     A0824  SVI  3   FLA  S11E44    SF                2251
+
+3000       0818   0822      1012  LEA  3   FLA  N07W61    SF      ERU       2250
+
+2920      B0839  U0841      0846  SVI  3   FLA  N04W61    SF                2250
+
+2910       0848   0945      0950  LEA  3   FLA  S12E44    SF      DSD       2251
+
+3030       0953   0954      0957  SVI  3   FLA  N05W62    SF                2250
+
+2940       0955   0955      0957  SVI  3   FLA  S11E44    SF                2251
+
+2950       0959   1004      1008  SVI  3   FLA  S11E43    SF                2251
+
+3020       1021   1023      1029  LEA  3   FLA  N07W61    SF                2250
+
+3010       1023   1025      1026  LEA  3   FLA  S20E09    SF                2248
+
+2960       1027   1028      1033  LEA  3   FLA  S20E09    SF                2248
+
+3040      A1032   ////     A2220  LEA  3   DSF  N14W12    11                    
+
+2970       1034   1039      1043  G15  5   XRA  1-8A      C1.4    5.2E-04   2248
+2970       1037  U1048     A1111  SVI  3   FLA  S21E10    SF      ERU       2248
+
+2980       1046   1052      1058  G15  5   XRA  1-8A      C2.6    1.3E-03   2250
+2980       1048   1049      1055  SVI  3   FLA  N05W62    SF      DSD       2250
+
+2990       1125   1125      1130  SVI  3   FLA  S10E42    SF      ERU       2251
+
+3090       1540   ////      1616  HOL  3   DSF  N21W03    5                     
+
+3050       2153   2154      2156  HOL  2   FLA  S04E88    SF                    
+
+3060       2207   ////      2207  PAL  C   RSP  030-050   III/1                 
+
+3070       2244   2245      2249  LEA  2   FLA  S05E88    SF                    
+
+3080 +     2251   2251      2253  HOL  2   FLA  S04E83    SF                    
+
+3370      A2347   ////     A1446  HOL  3   DSF  N35W47    8                     
+
+3360 +    A2347   ////     A1009  COM  3   DSF  N15E31    26                    

@@ -1,0 +1,45 @@
+:Product: 20141228events.txt
+:Created: 2014 Dec 31 0357 UT
+:Date: 2014 12 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Dec 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2630       0039   0107      0122  LEA  3   FLA  S12W60    SF      DSD       2249
+
+2640       0135   0137      0144  LEA  3   FLA  S12W62    SF      DSD       2249
+
+2650       0153   0203      0204  LEA  3   FLA  S12W62    SF      DSD       2249
+
+2660       0222   0223      0226  LEA  3   FLA  S12W62    SF                2249
+
+2670       0231   0231      0236  LEA  3   FLA  S12W62    SF                2249
+
+2680       0309   0312      0318  LEA  3   FLA  S12W62    SF      DSD       2249
+
+2690       0614   ////      0620  LEA  C   RSP  034-112   III/1                 
+
+2700       0731   0734      0737  G15  5   XRA  1-8A      B9.9    2.2E-04   2249
+
+2710       0807   0807      0811  LEA  3   FLA  S13E59    SF      DSD       2251
+
+2720       0956   1007      1024  G15  5   XRA  1-8A      C1.7    2.3E-03   2248
+2720       0959   1005      1022  LEA  1   FLA  S20E23    SF                2248
+
+2730       1333   1340      1349  G15  5   XRA  1-8A      C2.3    1.7E-03   2248
+
+2740       1750   1759      1809  G15  5   XRA  1-8A      C3.3    2.7E-03   2248
+2740       1753   1755      1827  HOL  2   FLA  S19E18    SF      ERU       2248
+
+2760       2017   2019      2022  HOL  2   FLA  S11E52    SF      ERU       2251
+
+2770       2107   2118      2157  HOL  2   FLA  S11E52    1F      ERU       2251
+2770       2108   2114      2129  G15  5   XRA  1-8A      C1.3    1.3E-03   2251
+
+2780       2248   2258      2304  G15  5   XRA  1-8A      C1.1    8.3E-04       

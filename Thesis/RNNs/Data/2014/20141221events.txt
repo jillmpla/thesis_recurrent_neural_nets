@@ -1,0 +1,99 @@
+:Product: 20141221events.txt
+:Created: 2014 Dec 24 0357 UT
+:Date: 2014 12 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Dec 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1360       0000   ////      0343  PAL  C   RSP  075-180   CTM/1             2242
+1360       0000   0228      0934  LEA  3   FLA  S17W48    1N                2242
+
+1310       0002   ////      0004  LEA  C   RSP  029-090   III/1                 
+
+1320       0024   0030      0038  G15  5   XRA  1-8A      C4.2    2.6E-03   2242
+
+1330       0047   ////      0155  LEA  C   RSP  029-091   VI/1                  
+1330       0144   ////      0155  LEA  3   EPL  ////      0.17                  
+
+1340 +     0149   ////      0151  LEA  C   RSP  025-130   V/2                   
+
+1350       0205   0245      0304  G15  5   XRA  1-8A      C6.7    1.7E-02   2242
+1350       0235   ////      0235  LEA  C   RSP  025-067   III/1                 
+
+1370       0322   ////      0351  LEA  C   RSP  030-050   III/1                 
+
+1380       0447   0455      0508  G15  5   XRA  1-8A      C5.4    5.5E-03   2244
+1380       0451   ////      0506  LEA  C   RSP  025-053   VI/1              2244
+1380       0503   0503      0505  LEA  3   FLA  S02E42    SF                2244
+
+1390 +     0530   ////      0540  LEA  C   RSP  031-048   III/1                 
+
+1520       0628   ////      1513  SVI  C   RSP  025-172   CTM/2                 
+
+1400       0633   ////      0647  LEA  C   RSP  030-058   VI/1                  
+
+1410       0712   0712      0713  SVI  U   RBR  245       130                   
+
+1420       0718   0732      0751  G15  5   XRA  1-8A      M1.2    1.8E-02   2242
+1420 +    B0724  U0728     A0844  SVI  3   FLA  S21W48    1N      ERU       2242
+
+1430       0942   0942      0944  LEA  3   FLA  S17W48    SF                2242
+
+1440       0946   0947      1015  LEA  3   FLA  S17W48    SF                2242
+
+1450 +     1015   1015      1016  SVI  G   RBR  410       390                   
+1450 +     1015   ////      1016  LEA  C   RSP  044-180   III/1                 
+1450       1015   1015      1016  SVI  G   RBR  245       160                   
+
+1500       1121   ////      1202  SVI  C   RSP  025-180   VI/2                  
+1500       1124   1217      1257  G15  5   XRA  1-8A      M1.0    4.6E-02   2241
+
+1460       1132   1132      1132  SVI  G   RBR  410       110                   
+
+1470       1132   1132      1132  SVI  G   RBR  1415      68                    
+
+1480       1154   1155      1202  SVI  U   RBR  245       540                   
+1480       1154   1155      1157  SVI  U   RBR  410       330                   
+
+1490       1208   1215      1215  SVI  U   RBR  245       350                   
+1490       1209   1212      1217  SVI  U   RBR  410       170                   
+1490       1209   1209      1210  SVI  G   RBR  1415      100                   
+
+1620       1226   ////      2101  SAG  C   RSP  046-180   CTM/2                 
+
+1510       1313   1327      1336  SVI  3   FLA  S22W50    SF      ERU       2242
+
+1590       1543   1601      1613  G15  5   XRA  1-8A      C3.1    4.4E-03   2242
+1590       1548   1600      1846  HOL  2   FLA  S19W54    1F      ERU       2242
+
+1530       1603   ////      1608  SAG  C   RSP  025-071   III/1                 
+
+1600       1614   1651      1658  G15  5   XRA  1-8A      C5.2    9.6E-03   2242
+
+1610       1723   1755      1819  G15  5   XRA  1-8A      C5.1    1.5E-02   2242
+
+1540       1734   1734      1734  SAG  G   RBR  410       3100                  
+
+1570       1744   ////      1747  SAG  C   RSP  025-180   III/1                 
+
+1580       1754   1754      1754  PAL  G   RBR  410       1000                  
+
+1550       1754   1754      1754  SAG  G   RBR  410       1100                  
+
+1680       2155   ////      2359  LEA  C   RSP  051-180   CTM/2                 
+
+1670       2202   2249      2353  LEA  G   RNS  245       140                   
+
+1630       2214   ////      2214  LEA  C   RSP  030-059   III/1                 
+
+1640       2229   2229      2234  LEA  3   FLA  S17W58    SF                2237
+
+1650       2340   2340      2341  LEA  3   FLA  S13W67    SF                2237
+
+1660       2347   2349      2355  LEA  3   FLA  N18W72    SF                2239

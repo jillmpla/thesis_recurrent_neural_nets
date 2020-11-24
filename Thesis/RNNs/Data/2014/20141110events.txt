@@ -1,0 +1,81 @@
+:Product: 20141110events.txt
+:Created: 2014 Nov 13 0357 UT
+:Date: 2014 11 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Nov 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9900       0000   ////      0340  LEA  C   RSP  029-180   VI/1                  
+
+9870       0026   0034      0039  G15  5   XRA  1-8A      C1.2    7.6E-04   2203
+
+9910       0119   ////      0251  PAL  C   RSP  025-180   VI/1                  
+
+9880       0143   0146      0148  G15  5   XRA  1-8A      C1.0    1.7E-04   2205
+9880 +     0146   0153      0157  LEA  3   FLA  N15E05    SF      DSD       2205
+
+9890       0218   0222      0225  G15  5   XRA  1-8A      C7.6    1.5E-03   2205
+9890 +     0219   ////      0220  LEA  C   RSP  025-180   III/2             2205
+9890 +     0221   0223      0234  LEA  3   FLA  N15E04    SB      ERU       2205
+9890 +     0221   0221      0221  LEA  G   RBR  15400     170               2205
+9890       0221   0221      0221  PAL  G   RBR  8800      100               2205
+9890 +     0224   0224      0224  LEA  G   RBR  245       100               2205
+
+9920       0226   ////      0311  LEA  3   BSL  ////      0.03              2203
+
+9930      B0609   0609     A0623  LEA  1   FLA  N16E05    SF                2205
+
+9940       0658   ////      0659  LEA  U   RSP  035-045   III/1                 
+
+9960       0851   0852      0910  LEA  3   FLA  N15W00    SF                2205
+9960 +     0908   ////      1005  SVI  C   RSP  027-180   VI/1              2205
+
+9970       1017   1021      1047  G15  5   XRA  1-8A      C2.1    2.8E-03   2208
+9970       1019  U1019     A1039  SVI  3   FLA  S14E70    SF      ERU       2208
+
+9980       1201   ////      1202  SVI  C   RSP  027-080   III/1                 
+
+9990       1214   1237      1248  G15  5   XRA  1-8A      C5.0    6.0E-03   2205
+9990       1222  U1233     A1305  SVI  3   FLA  N13W02    SF      ERU       2205
+
+  10       1407  U1408      1411  SVI  3   FLA  N13W03    SF      ERU       2205
+
+  20       1420   ////      1420  SVI  U   RSP  115-128   III/1                 
+
+  30       1438   1441      1450  G15  5   XRA  1-8A      C1.2    6.6E-04   2205
+  30       1440   1441      1449  SVI  3   FLA  N14W03    SF                2205
+
+  40       1517   1521      1523  G15  5   XRA  1-8A      C1.9    4.2E-04   2205
+  40 +     1519   1530      1545  HOL  3   FLA  N16W04    SF      ERU       2205
+  40 +     1520   1520      1520  SAG  G   RBR  245       300               2205
+  40       1520   1520      1520  SAG  G   RBR  410       140               2205
+
+  50       1557   1618      1633  G15  5   XRA  1-8A      C1.8    3.1E-03   2205
+  50       1606   1612      1624  HOL  3   FLA  N16W04    SF      ERU       2205
+
+  60       1831   1835      1839  G15  5   XRA  1-8A      C1.3    4.1E-04   2205
+  60       1834   1835      1838  HOL  3   FLA  N14W05    SF      ERU       2205
+
+  70       1843   1844      1847  HOL  3   FLA  N15W06    SF      ERU       2205
+
+  80       1852   1852      1857  HOL  3   FLA  N15W06    SF      ERU       2205
+
+  90       2114   2115      2123  HOL  3   FLA  N15W06    SF      ERU       2205
+
+ 100       2242   2248      2303  HOL  3   FLA  S09E60    SF                2208
+ 100 +     2254   ////      2254  LEA  C   RSP  137-180   III/1             2208
+ 100 +     2254  U2254      2254  PAL  G   RBR  245       1700              2208
+ 100 +     2254   2254      2254  PAL  G   RBR  410       1000              2208
+
+ 110       2307   2308      2322  HOL  3   FLA  N15W06    SF      ERU       2205
+
+ 120       2326   2333      2338  G15  5   XRA  1-8A      C3.6    1.7E-03   2205
+ 120       2328   2335      2344  HOL  2   FLA  N15W05    1F      ERU       2205
+
+ 130       2355   0001      0008  G15  5   XRA  1-8A      C5.4    2.8E-03   2205

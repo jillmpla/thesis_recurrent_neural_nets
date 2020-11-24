@@ -1,0 +1,101 @@
+:Product: 20141128events.txt
+:Created: 2014 Dec 01 0357 UT
+:Date: 2014 11 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Nov 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4030       0025   ////      0026  CUL  C   RSP  350-600   III/1                 
+
+4010       0025   0026      0026  LEA  G   RBR  410       200                   
+4010       0025   ////      0044  LEA  C   RSP  039-180   VI/1                  
+4010       0026   0039      0111  LEA  3   FLA  S25E47    SF                    
+4010       0029   0040      0050  G15  5   XRA  1-8A      C7.5    6.5E-03   2222
+4010 +     0042   ////      0125  LEA  C   RSP  093-180   CTM/1                 
+
+4020       0120   0124      0127  LEA  3   FLA  S21E58    SF                2222
+
+4040       0144   0235      0320  LEA  1   FLA  S21E55    SF                2222
+
+4180       0157   ////      1034  LEA  C   RSP  035-180   CTM/2                 
+
+4040       0213   ////      0337  PAL  C   RSP  108-180   CTM/1             2222
+4040       0233   0236      0238  G15  5   XRA  1-8A      C1.5    2.4E-04   2222
+
+4050       0259   0259      0259  LEA  U   RBR  245       230                   
+
+4060       0348   0348      0352  LEA  2   FLA  S20E50    SF                2222
+
+4070       0355   0357      0402  LEA  2   FLA  S20E55    SF                2222
+
+4080       0406   0413      0414  LEA  2   FLA  S20E54    SF                2222
+
+4090       0418   0422      0424  G15  5   XRA  1-8A      C2.9    5.7E-04   2222
+
+4110       0520   0523      0544  LEA  G   RNS  410       150                   
+
+4100       0603   0603      0606  LEA  3   FLA  S19E57    SF      DSD       2222
+
+4220       0621   ////      1512  SVI  C   RSP  054-180   CTM/1                 
+
+4120       0700   0703      0704  LEA  3   FLA  S20E50    SF                2222
+
+4130       0719   0719      0722  LEA  3   FLA  S20E52    SF                2222
+
+4140       0730   0731      0738  LEA  3   FLA  S20E52    SF                2222
+
+4150       0754   0758      0803  LEA  3   FLA  N05E54    SF                2221
+
+4170       0757   0804      0821  LEA  3   FLA  S21E53    SF                2222
+
+4150       0800   ////      0923  LEA  C   RSP  034-161   VI/1              2221
+
+4160       0852   0854      0856  LEA  3   FLA  S21E53    SF      ERU       2222
+
+4190       0937   0948      0949  LEA  3   FLA  S20E50    SF      ERU       2222
+
+4200       0954   1011      1017  LEA  3   FLA  S20E50    SF      ERU       2222
+
+4210       1116   1120      1125  G15  5   XRA  1-8A      C2.0    7.8E-04   2222
+
+4230       1322   1322      1322  SAG  G   RBR  245       100                   
+
+4280       1502   ////      1904  SAG  C   RSP  103-180   CTM/1                 
+
+4240       1513   1513      1515  HOL  2   FLA  S18E48    SF                2222
+
+4250       1624   1626      1629  HOL  2   FLA  S19E47    SF      ERU       2222
+
+4110 +     1636   1652      1824  SAG  G   RNS  245       340                   
+
+4260       1708   1716      1719  HOL  2   FLA  N04W29    SF      ERU       2219
+
+4360       1753   ////      2359  PAL  C   RSP  118-180   CTM/1                 
+
+4270       1805   1806      1821  HOL  2   FLA  N04W29    SF      ERU       2219
+
+4290       1839   1840      1846  HOL  3   FLA  N04W31    SF      ERU       2219
+
+4300       1853   1853      1853  SAG  G   RBR  245       110                   
+
+4310       1919   1919      1919  SAG  G   RBR  245       110                   
+
+4320       1926   1926      1926  SAG  G   RBR  245       110                   
+
+4330       2012   2016      2019  G15  5   XRA  1-8A      C3.1    7.7E-04   2219
+4330       2015   2015      2022  HOL  2   FLA  N04W32    SF      DSD       2219
+
+4370       2149   ////      2359  LEA  C   RSP  028-180   CTM/1                 
+
+4340 +     2202   2203      2212  HOL  2   FLA  N04W32    SF      ERU       2219
+
+4370       2242   ////      2359  LEA  C   RSP  031-166   VI/1                  
+
+4350       2326   2329      2335  LEA  3   FLA  S22E48    SF                2222
+4350       2335   2335      2335  LEA  G   RBR  245       140               2222

@@ -1,0 +1,47 @@
+:Product: 20141119events.txt
+:Created: 2014 Nov 22 0357 UT
+:Date: 2014 11 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Nov 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2050 +     0009   ////      0010  CUL  C   RSP  018-140   III/1                 
+
+2060       0013   ////      0013  CUL  C   RSP  020-070   III/1                 
+
+2100       0708   ////      0737  LEA  C   RSP  026-141   VI/1                  
+2100 +     0731   ////      0732  SVI  C   RSP  025-139   III/1                 
+
+2110      B0914  U0914     A0925  SVI  2   FLA  S11E13    SF                2209
+
+2130      B0921  U0923     A0925  SVI  2   FLA  S10E29    SF                2214
+
+2120       0937   ////      0937  LEA  C   RSP  075-119   III/1                 
+
+2140 +     1305   ////      1339  SVI  C   RSP  025-180   VI/1                  
+
+2150       1416   1416      1434  HOL  3   FLA  S13E08    SF                2209
+
+2160       1614   1617      1627  HOL  3   FLA  S13E09    SF                2209
+
+2170       1857   1903      1907  G15  5   XRA  1-8A      C2.4    9.7E-04   2209
+2170       1903   1904      1929  HOL  2   FLA  S13E07    SF      ERU       2209
+
+2180       1957   1957      2015  HOL  3   FLA  S11E06    SF      ERU       2209
+
+2200       2052   2054      2115  HOL  3   FLA  S11E06    SF                2209
+
+2210       2147   2150      2152  G15  5   XRA  1-8A      C2.6    3.4E-04   2208
+2210       2149   ////      2150  CUL  C   RSP  440-780   III/1                 
+
+2220       2227   2228      2240  LEA  3   FLA  S13E05    SF                2209
+
+2230       2307   ////      2307  CUL  C   RSP  040-080   III/1                 
+
+2240       2307   ////      2307  LEA  C   RSP  037-109   III/1                 

@@ -1,0 +1,98 @@
+:Product: 20141130events.txt
+:Created: 2014 Dec 03 0357 UT
+:Date: 2014 11 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Nov 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4950       0000   ////      1036  LEA  C   RSP  035-180   CTM/2                 
+
+4780       0028   ////      0028  LEA  C   RSP  030-078   III/1                 
+
+4790       0043   0043      0043  LEA  G   RBR  245       160                   
+
+4800       0046   0046      0046  PAL  G   RBR  245       100                   
+
+4810       0123   0123      0123  PAL  G   RBR  245       100                   
+
+4820       0129   0139      0139  PAL  G   RBR  245       510                   
+4820       0131   ////      0155  LEA  C   RSP  027-180   VI/2                  
+
+4830       0141   0146      0147  PAL  G   RBR  245       330               2221
+4830       0142   0146      0150  G15  5   XRA  1-8A      C1.6    5.4E-04   2221
+4830       0142   ////      0143  CUL  C   RSP  018-260   III/2             2221
+4830       0145   0148      0151  LEA  3   FLA  N03E32    SF      ERU       2221
+
+4840       0151   0155      0157  PAL  G   RBR  245       280                   
+
+4850       0227   0227      0228  PAL  G   RBR  245       140                   
+
+4860       0242   0244      0253  LEA  3   FLA  N04W50    SF      DSD       2219
+4860       0245   0245      0245  PAL  G   RBR  245       140               2219
+
+4870       0258   0258      0258  PAL  G   RBR  245       110                   
+
+4880       0301   0301      0304  PAL  G   RBR  245       170                   
+
+4890       0306   0306      0306  PAL  G   RBR  245       110                   
+
+4910       0315   0326      0333  G15  5   XRA  1-8A      C1.4    1.3E-03   2222
+
+4900       0316   0317      0317  PAL  G   RBR  245       190                   
+
+4910       0319   0327      0344  LEA  3   FLA  S21E34    SF      ERU       2222
+
+4920       0346   ////      0407  LEA  C   RSP  032-146   VI/1                  
+
+4930       0401   0406      0409  G15  5   XRA  1-8A      C1.1    5.4E-04   2222
+4930       0404   0405      0408  LEA  3   FLA  S20E27    SF      ERU       2222
+
+4940       0452   0454      0538  LEA  3   FLA  S18E31    SF      ERU       2222
+4940       0517   ////      0530  LEA  C   RSP  029-180   VI/1              2222
+
+4960       0613   ////      1008  LEA  C   RSP  027-180   VI/2                  
+4960       0620   ////      1511  SVI  C   RSP  025-180   CTM/2                 
+4960       0625   ////      0625  CUL  C   RSP  025-720   III/1                 
+
+4970       0726   ////      0756  SVI  C   RSP  025-180   VI/1                  
+
+4980       0758   0828      0915  LEA  3   FLA  S18E29    SF      ERU       2222
+
+5010 +     0835   1017      1030  SVI  G   RNS  410       150                   
+
+4980 +     0842   0843      0843  SVI  G   RBR  410       970               2222
+4980       0842   0842      0843  LEA  G   RBR  610       130               2222
+4980 +     0843   0843      0843  SVI  G   RBR  245       9800              2222
+4980       0843   ////      0843  SVI  C   RSP  025-180   III/2             2222
+4980       0846   ////      0935  SVI  C   RSP  025-180   VI/1              2222
+
+4990       0913   0915      0921  LEA  3   FLA  S16W20    SF                2217
+
+5000       1015   1018      1018  LEA  G   RBR  410       120                   
+
+5060       1205   ////      2021  SAG  C   RSP  047-180   CTM/2                 
+
+5020       1317   1320      1322  G15  5   XRA  1-8A      C1.4    2.3E-04   2222
+
+5030       1343   1348      1353  G15  5   XRA  1-8A      C1.9    8.4E-04   2216
+
+5090       1707   ////      2359  PAL  C   RSP  072-180   CTM/1                 
+
+5040       1716   1719      1721  G15  5   XRA  1-8A      C2.1    3.4E-04   2221
+5040       1718   1719      1722  HOL  3   FLA  N05E28    SF      DSD       2221
+
+5010 +     1727   2132      2359  PAL  G   RNS  245       370                   
+
+5050       1831   1831      1831  PAL  G   RBR  410       100                   
+
+5100       2149   ////      2359  LEA  C   RSP  076-180   CTM/1                 
+
+5070       2222   2222      2222  LEA  G   RBR  245       710                   
+
+5080       2236   ////      2255  LEA  C   RSP  028-117   VI/1                  

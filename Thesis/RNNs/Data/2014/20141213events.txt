@@ -1,0 +1,88 @@
+:Product: 20141213events.txt
+:Created: 2014 Dec 16 0357 UT
+:Date: 2014 12 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Dec 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8570       0004   0012      0020  G15  5   XRA  1-8A      C2.6    1.9E-03   2237
+8570       0007   0008      0010  LEA  3   FLA  S19E64    SF      DSD       2237
+
+8580       0245   0249      0321  LEA  3   FLA  S05E27    SF      ERU       2227
+8580       0313   0318      0325  G15  5   XRA  1-8A      C2.7    1.5E-03   2227
+
+8590       0438   0438      0438  LEA  G   RBR  245       140                   
+
+8600       0442   0443      0445  LEA  3   FLA  N12E10    SF      ERU       2232
+
+8610       0513   0520      0525  G15  5   XRA  1-8A      M1.5    6.4E-03   2241
+8610       0516   0516      0516  LEA  G   RBR  8800      120                   
+8610 +     0516   0516      0516  LEA  G   RBR  15400     190                   
+
+8620       0555   0559      0605  G15  5   XRA  1-8A      C5.4    2.3E-03   2227
+8620       0556   0558      0616  LEA  3   FLA  S05E27    1N      DSD       2227
+8620       0556   ////      0600  LEA  C   RSP  095-180   III/1             2227
+8620       0556   0556      0556  LEA  G   RBR  245       120               2227
+
+8650       0618   ////      0638  LEA  2   EPL  ////      0.16                  
+
+8630       0633   ////      0633  LEA  C   RSP  037-077   III/1                 
+
+8640       0656   0703      0709  G15  5   XRA  1-8A      C2.2    1.3E-03   2241
+
+8660       0838   0846      0850  G15  5   XRA  1-8A      C6.0    2.4E-03   2241
+8660 +     0843   ////      0844  LEA  C   RSP  032-082   III/1                 
+
+8670       1003   1010      1016  G15  5   XRA  1-8A      C4.0    2.1E-03   2227
+8670 +     1006   ////      1011  SVI  C   RSP  043-158   III/1             2227
+8670 +     1006   1007      1021  SVI  3   FLA  S06W67    SF      ERU       2227
+8670       1006   1006      1007  LEA  G   RBR  245       500               2227
+
+8680       1049   1053      1056  G15  5   XRA  1-8A      C3.8    9.6E-04   2241
+
+8690 +     1256   1307      1324  SVI  3   FLA  S08E81    1F                2227
+8690 +     1307   1307      1307  SVI  G   RBR  245       180               2227
+
+8930       1324   1324      1328  SVI  3   FLA  S08W69    SF                2227
+
+8700       1408   ////      1443  SAG  C   RSP  025-180   CTM/1             2227
+8700 +     1441   1441      1442  SAG  G   RBR  245       580               2227
+8700       1442   1444     A1450  SVI  3   FLA  S05W69    SF      ERU       2227
+8700       1442   1442      1442  SVI  G   RBR  410       140               2227
+
+9090      A1447   ////     A0715  SVI  3   DSF  S09W28    13                    
+
+8710 +     1448   ////      1451  SAG  C   RSP  107-180   II/2    955           
+
+8720       1644   1646      1654  HOL  3   FLA  S19E54    SF      ERU       2237
+
+8730       1747   1749      1751  HOL  3   FLA  S09E80    SF      DSD       2241
+
+8740 +     1826   ////      1828  SAG  C   RSP  025-091   III/2                 
+
+8750 +     1916   ////      1916  SAG  C   RSP  025-055   III/1                 
+
+8760 +     1952   ////      1952  PAL  C   RSP  025-109   III/2                 
+
+8770       2025   ////      2030  PAL  C   RSP  025-062   III/1                 
+
+8780       2150   2157      2200  HOL  2   FLA  S02W71    SF      ERU       2227
+8780 +     2152   ////      2155  LEA  C   RSP  045-180   III/1             2227
+8780 +     2152   2152      2152  PAL  G   RBR  245       110               2227
+8780 +     2157   ////      2203  LEA  C   RSP  025-180   II/1    767       2227
+
+9220      A2211   ////     A1427  HOL  3   DSF  N05W35    9                     
+
+8790 +     2231   ////      2232  LEA  C   RSP  025-120   III/1                 
+
+8800       2257   2301      2302  LEA  3   FLA  S10E76    SF                2241
+
+8810       2324   2328      2329  LEA  3   FLA  S10E76    SF                2241
+
+8820 +     2330   ////      2337  LEA  C   RSP  025-180   III/2                 

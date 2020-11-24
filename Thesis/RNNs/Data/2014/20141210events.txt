@@ -1,0 +1,41 @@
+:Product: 20141210events.txt
+:Created: 2014 Dec 13 0357 UT
+:Date: 2014 12 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Dec 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8140       0146   0200      0203  LEA  3   FLA  S16E23    SF      ERU       2230
+8140       0203   0213      0221  G15  5   XRA  1-8A      C1.4    1.4E-03   2230
+
+8150       0204   0209      0225  LEA  3   FLA  S16E23    SF                2230
+8150       0214   ////      0214  PAL  C   RSP  025-066   III/1             2230
+
+8160       0337   ////      0337  LEA  C   RSP  033-098   III/1                 
+
+8170       0509   0509      0509  LEA  G   RBR  245       180                   
+
+8190       0851   0924      0939  G15  5   XRA  1-8A      C1.6    3.4E-03       
+
+8280      A1030   ////     A2210  LEA  3   DSF  S17E02    6                     
+
+8200       1504   1513      1527  HOL  3   FLA  N04E23    SF      ERU           
+8200       1506   1510      1515  G15  5   XRA  1-8A      C1.6    6.3E-04       
+
+8210       1658   1659      1659  SAG  G   RBR  245       730                   
+
+8220       1659   ////      1707  SAG  C   RSP  133-180   III/1                 
+8220       1707   1922      2030  G15  5   XRA  1-8A      C5.9    4.2E-02       
+
+8230       1856   1856      1903  HOL  3   FLA  N10E41    SF      ERU       2232
+
+8260 +     2230   2239      2308  HOL  3   FLA  N04E19    SF      ERU       2234
+8260       2233   ////      2332  LEA  C   RSP  027-132   VI/1              2234
+
+8270       2300   ////      2330  LEA  C   RSP  067-178   CTM/1                 

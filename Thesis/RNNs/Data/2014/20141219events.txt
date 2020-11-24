@@ -1,0 +1,118 @@
+:Product: 20141219events.txt
+:Created: 2014 Dec 22 0357 UT
+:Date: 2014 12 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Dec 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 580 +     0000   ////      0915  LEA  C   RSP  056-154   CTM/1                 
+ 580 +     0006   ////      0006  CUL  C   RSP  020-070   III/1                 
+
+ 650       0038   ////      0242  LEA  3   DSF  S28W48    7                     
+
+ 580       0040   ////      0119  LEA  C   RSP  027-132   VI/1                  
+
+ 660       0144   ////      0145  CUL  C   RSP  018-060   III/1                 
+
+ 590       0144   ////      0212  LEA  C   RSP  028-048   VI/1              2242
+ 590       0209   0213      0218  G15  5   XRA  1-8A      C4.2    1.5E-03   2242
+ 590       0210   0211      0227  LEA  3   FLA  S17W18    SF      DSD       2242
+
+ 600       0250   0255      0257  LEA  3   FLA  S15W21    SF                2242
+
+ 610       0259   0259      0304  LEA  3   FLA  S17W21    SF                2242
+
+ 620       0332   0343      0351  LEA  3   FLA  S16W21    SF                2242
+ 620       0338   0342      0346  G15  5   XRA  1-8A      C4.0    1.2E-03   2242
+
+ 630       0355   0356      0402  LEA  3   FLA  S17W21    SF                2242
+
+ 640       0406   0406      0431  LEA  3   FLA  S17W19    SF                2242
+
+ 720       0551   ////      0928  LEA  3   EPL  ////      0.16                  
+
+ 670       0610   0610      0613  LEA  3   FLA  S18W15    SF                2242
+
+ 680       0637   ////      0746  SVI  C   RSP  075-180   CTM/1                 
+
+ 690 +     0747   0749      0813  LEA  3   FLA  S09E04    SF      ERU       2241
+
+ 700       0814   0816      0822  SVI  3   FLA  S10E03    SF      ERU       2241
+
+ 710       0828   0828      0832  LEA  3   FLA  S17W19    SF                2242
+
+ 830       0840   ////      1433  SVI  C   RSP  075-180   CTM/1                 
+
+ 730       0843   0847      0858  LEA  3   FLA  S16W21    SF                2242
+
+ 740       0931   0944      0954  G15  5   XRA  1-8A      M1.3    1.1E-02   2242
+ 740 +     0932   0940      1007  SVI  3   FLA  S19W27    1N      ERU       2242
+
+ 770       0933   0938      0959  SVI  3   FLA  S25W28    SF      ERU       2235
+
+ 780 +     0935   0941      0949  SVI  3   FLA  S20W45    SF                2235
+
+ 740 +     0943   0943      0944  LEA  G   RBR  610       460               2242
+
+ 750       1016   1017      1017  LEA  G   RBR  610       340                   
+
+1000      A1028   ////     A2225  LEA  4   DSF  N19E29    9                     
+
+ 760       1028   1028      1029  LEA  G   RBR  610       200                   
+
+ 790       1041   1042      1043  SVI  3   FLA  S20W24    SF                2242
+
+ 800       1206   1208      1211  SVI  3   FLA  S21W21    SF                2242
+
+ 810       1255  U1303     A1328  SVI  3   FLA  S21W22    SF      ERU       2242
+
+ 820       1348   1352      1355  G15  5   XRA  1-8A      C2.5    7.0E-04   2242
+ 820       1349   1351      1400  SVI  3   FLA  S19W26    SF      ERU       2242
+
+ 840       1411   1411      1413  SVI  3   FLA  S20W24    SF                2242
+
+ 850       1443   1447      1456  G15  5   XRA  1-8A      C1.9    1.2E-03   2242
+ 850       1445   1448      1452  HOL  3   FLA  S20W23    SF      ERU       2242
+
+ 860       1458   1500      1507  HOL  3   FLA  S19W24    SF      ERU       2242
+
+ 870       1508   1526      1548  HOL  3   FLA  S22W25    SF      ERU       2242
+
+ 880       1606   1610      1613  G15  5   XRA  1-8A      C2.7    7.6E-04   2242
+ 880       1609   1609      1615  HOL  3   FLA  S18W28    SF      ERU       2242
+
+ 890       1622   1627      1725  HOL  3   FLA  S20W21    SF      ERU       2242
+ 890       1624   1632      1642  G15  5   XRA  1-8A      C5.3    4.4E-03   2242
+
+ 930       1721   1724      1733  HOL  3   FLA  S04E60    SF      DSD           
+
+ 900       1722   1725      1729  G15  5   XRA  1-8A      C2.8    7.9E-04   2242
+ 900       1728   1757      1942  HOL  3   FLA  S18W23    SF      ERU       2242
+
+ 920       1735   1845      1930  G15  5   XRA  1-8A      C9.5    4.0E-02   2242
+
+ 910       1741   ////      1930  SAG  C   RSP  034-113   VI/1              2241
+ 910       1752   1753      1803  HOL  3   FLA  S11W04    SF      ERU       2241
+ 910       1816   ////      2349  PAL  C   RSP  100-180   CTM/1             2241
+
+ 940       2015   2021      2025  HOL  3   FLA  S18W23    SF      ERU       2242
+
+ 950       2047   2047      2047  PAL  G   RBR  245       160                   
+
+ 960       2134   2138      2145  G15  5   XRA  1-8A      C1.7    8.7E-04   2242
+ 960       2135   2137      2143  HOL  3   FLA  S19W25    SF      ERU       2242
+
+ 970       2156   2159      2222  HOL  2   FLA  S20W23    SF      ERU       2242
+
+ 980 +     2223   2230      2255  LEA  3   FLA  S16W28    1F                2242
+ 980       2226   2230      2233  G15  5   XRA  1-8A      C3.2    8.5E-04   2242
+
+ 990       2335   2336      2340  HOL  3   FLA  S05E56    SF      ERU           
+
+1010       2342   2345      2350  LEA  3   FLA  S19W28    SF                2242

@@ -1,0 +1,54 @@
+:Product: 20141123events.txt
+:Created: 2014 Nov 26 0357 UT
+:Date: 2014 11 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Nov 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2800       0002   0003      0007  LEA  3   FLA  S11W42    SF      ERU       2209
+
+2810       0159   0159      0159  LEA  G   RBR  245       340                   
+
+2830       0330   0427      0443  G15  5   XRA  1-8A      C2.0    7.2E-03   2217
+
+2820       0356   0356      0356  LEA  G   RBR  245       720                   
+2820       0356   ////      0400  LEA  C   RSP  092-172   III/1                 
+
+2830       0357   ////      0357  CUL  C   RSP  150-400   III/1                 
+
+2840       0432   0433      0433  LEA  G   RBR  245       280                   
+
+2850       0527   0536      0602  LEA  3   FLA  S12W42    SF                2209
+2850       0532   0539      0544  G15  5   XRA  1-8A      C2.4    1.3E-03   2209
+2850       0534   0534      0535  LEA  G   RBR  245       2400              2209
+2850       0535   ////      0536  CUL  C   RSP  200-400   III/1             2209
+
+2930       0620   0636      0645  G15  5   XRA  1-8A      C2.3    2.9E-03   2217
+
+2960       0704   ////      0706  CUL  C   RSP  025-050   III/1                 
+
+2860       0705   ////      0705  LEA  C   RSP  034-065   III/1                 
+
+2870       0851   0900      0908  G15  5   XRA  1-8A      C2.1    1.7E-03   2217
+
+2880 +     0928   ////      0928  LEA  C   RSP  036-160   III/2                 
+
+2890       1041   1053      1116  G15  5   XRA  1-8A      C3.5    6.1E-03   2217
+
+2900       1537   1614      1623  G15  5   XRA  1-8A      C2.4    4.6E-03   2209
+2900       1538   1540      1555  HOL  2   FLA  S13W47    SF                2209
+
+2910       1800   1810      1813  G15  5   XRA  1-8A      C2.7    1.6E-03   2216
+2910       1801   1803      1828  HOL  3   FLA  S10E30    SF      ERU       2216
+
+2920       1809   1809      1814  HOL  3   FLA  S12W55    SF      DSD       2209
+
+2940       1837   1846      1902  G15  5   XRA  1-8A      C2.3    3.2E-03   2217
+
+2950       1907   1921      1934  G15  5   XRA  1-8A      C2.7    4.2E-03   2217

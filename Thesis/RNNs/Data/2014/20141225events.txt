@@ -1,0 +1,42 @@
+:Product: 20141225events.txt
+:Created: 2014 Dec 28 0357 UT
+:Date: 2014 12 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Dec 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2200       0204   0214      0215  LEA  3   FLA  S13W22    SF      PRB           
+
+2210       0502   ////      0504  LEA  C   RSP  025-180   III/1                 
+
+2220       0519   0523      0526  G15  5   XRA  1-8A      C4.0    1.1E-03   2242
+2220       0520   ////      0600  LEA  C   RSP  025-180   VI/2                  
+
+2230 +     0647   ////      0702  LEA  C   RSP  025-093   VI/1                  
+
+2240       0719   0719      0725  LEA  3   FLA  S13W25    SF      DSD           
+
+2250 +     0755   ////      0757  LEA  C   RSP  025-090   III/1                 
+
+2260       0846   ////      0853  SVI  C   RSP  025-081   III/2                 
+2260       0846   ////      0853  LEA  C   RSP  025-101   VI/1                  
+
+2270       0903   0903      0903  SVI  U   RBR  245       120                   
+
+2280 +     0943   ////      0944  SVI  C   RSP  025-079   III/2                 
+
+2290       1200   1211      1227  G15  5   XRA  1-8A      C4.3    5.7E-03   2248
+
+2300 +     1336   ////      1348  SVI  C   RSP  025-081   VI/2                  
+
+2310       1356   ////      1357  SVI  3   BSL  ////      0.18    B.9A      2241
+
+2320       1905   1911      1916  G15  5   XRA  1-8A      C1.7    8.8E-04   2248
+
+2330       1920   ////      1921  PAL  C   RSP  027-049   III/1                 

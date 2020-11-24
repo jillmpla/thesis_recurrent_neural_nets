@@ -1,0 +1,70 @@
+:Product: 20141104events.txt
+:Created: 2014 Nov 07 0357 UT
+:Date: 2014 11 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Nov 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8150      B0000   ////     B0314  LEA  3   LPS  ////      0.07                  
+8150 +     0008   ////      0147  LEA  C   RSP  028-180   VI/2                  
+
+8140       0055   0059      0105  LEA  3   FLA  N16E89    SN      LPS       2205
+
+8160       0247   0250      0253  LEA  3   FLA  N14E88    SF      ERU       2205
+
+8170 +     0254   ////      0255  PAL  C   RSP  048-180   III/1                 
+8170       0254   0254      0254  LEA  G   RBR  245       100                   
+
+8180       0331   0333      0335  LEA  3   FLA  N17E85    SF                2205
+
+8190       0356   ////      0405  LEA  C   RSP  076-180   III/1                 
+
+8200       0409   0418      0423  G15  5   XRA  1-8A      C2.1    1.3E-03   2205
+
+8210       0435   0450      0452  LEA  3   FLA  N15E82    SF                2205
+
+8220       0508   0510      0516  LEA  3   FLA  N12E79    SF      DSD       2205
+
+8230       0519   0534      0540  LEA  3   FLA  N16E84    SF                2205
+8230       0525   ////      0531  LEA  C   RSP  025-146   III/2             2205
+
+8240       0549   0551      0554  LEA  3   FLA  S11W69    SF                2197
+
+8250       0557   0559      0605  LEA  3   FLA  N16E81    SF                2205
+
+8260       0621   0625      0627  LEA  3   FLA  N16E81    SF                2205
+
+8270       0707   0711      0715  G15  5   XRA  1-8A      C1.5    5.3E-04   2205
+8270       0709   0709      0717  SVI  3   FLA  N18E86    SF                2205
+
+8280 +     0715   ////      0737  LEA  C   RSP  025-158   VI/1                  
+
+8290       0759   0838      0851  G15  5   XRA  1-8A      M2.6    7.1E-02   2205
+8290 +     0829   0834      0840  LEA  3   FLA  N15E82    SF                2205
+
+8300       0842   0918      0935  LEA  3   FLA  N15E82    1F      LPS       2205
+8300       0852   0904      0913  G15  5   XRA  1-8A      M2.3    2.9E-02   2205
+
+8290       0852   ////      0957  LEA  C   RSP  025-169   CTM/1             2205
+8290       0906   ////      0934  SVI  C   RSP  027-171   VI/1              2205
+
+8310 +     0932   ////      1319  SVI  3   LPS  ////      0.07    B.9A      2205
+8310 +     1011   1011      1015  SVI  3   FLA  N18E85    SF      LPS       2205
+
+8320       1039   1040      1045  SVI  3   FLA  N18E85    SF      LPS       2205
+
+8330       1308   ////      1328  SVI  C   RSP  027-171   VI/1                  
+8330       1317   ////      1328  SAG  C   RSP  102-176   CTM/1                 
+8330       1325   ////      1326  SAG  C   RSP  025-156   III/1                 
+
+8340       1734   1740      1746  G15  5   XRA  1-8A      C1.1    6.0E-04       
+
+8350       2251   ////      2251  LEA  C   RSP  025-083   III/1                 
+
+8360       2311   2315      2317  LEA  3   FLA  N15E78    SF                2205

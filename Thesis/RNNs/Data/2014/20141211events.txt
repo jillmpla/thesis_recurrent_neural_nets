@@ -1,0 +1,45 @@
+:Product: 20141211events.txt
+:Created: 2014 Dec 14 0357 UT
+:Date: 2014 12 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Dec 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8290       0121   0124      0126  G15  5   XRA  1-8A      C1.8    2.8E-04   2236
+
+8300       0316   0316      0324  LEA  3   FLA  N05E16    SF                2234
+
+8310       0325   0331      0345  LEA  3   FLA  N05E16    SF      ERU       2234
+8310       0325   0329      0332  G15  5   XRA  1-8A      C1.7    4.9E-04   2234
+
+8320       0441   0445      0450  LEA  3   FLA  N05E14    SF                2234
+
+8330       0501   0501      0501  LEA  G   RBR  245       600                   
+
+8340       0559   0602      0606  G15  5   XRA  1-8A      C1.5    4.2E-04   2232
+
+8350       0716   0716      0726  LEA  3   FLA  S13E06    SF                2230
+
+8360       0809   0810      0811  LEA  3   FLA  N04E09    SF                2234
+
+8370       0829   0833      0842  LEA  3   FLA  S12E64    SF                2235
+
+8380       0848   0856      0904  G15  5   XRA  1-8A      C3.8    2.6E-03   2234
+8380       0850   0856      0933  LEA  3   FLA  N05E11    SF      ERU       2234
+
+8390       1151   1155      1159  G15  5   XRA  1-8A      C1.4    4.8E-04   2235
+
+8400       1309   1317      1323  G15  5   XRA  1-8A      C1.8    1.2E-03   2230
+8400 +     1309   1309      1309  SVI  G   RBR  1415      130                   
+
+8410       1424   1427      1429  G15  5   XRA  1-8A      C1.4    2.2E-04   2234
+
+8530      A2331   ////     A1430  HOL  2   DSF  N25E08    13                    
+
+8540      A2331   ////     A1430  HOL  2   DSF  N12E11    9                     

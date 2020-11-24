@@ -1,0 +1,66 @@
+:Product: 20141125events.txt
+:Created: 2014 Nov 28 0357 UT
+:Date: 2014 11 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Nov 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3140       0103   ////      0104  LEA  C   RSP  125-172   III/1                 
+
+3150       0144   0144      0147  LEA  3   FLA  S19E60    SF                2217
+
+3160       0302   0303      0303  PAL  G   RBR  245       310                   
+
+3170       0306   0307      0307  PAL  G   RBR  245       250                   
+
+3180       0318   0320      0326  LEA  3   FLA  S19E60    SF                2217
+
+3190       0332   0332      0336  LEA  3   FLA  S12E14    SF      ERU       2216
+
+3200       0552   0554      0556  LEA  3   FLA  S19E58    SF                2217
+
+3210       0558   0603      0608  LEA  3   FLA  S19E58    SF                2217
+
+3220      B0717  U0846     A0852  SVI  3   FLA  S15E53    SF                2217
+
+3240      B1132  U1132     A1140  SVI  3   FLA  S17E54    SF                2217
+
+3250       1148   1150      1152  SVI  3   FLA  N05E15    SF                2219
+
+3260      B1154  U1211     A1313  SVI  3   FLA  N05E15    SF                2219
+
+3370      B1225  U1234     A1244  SVI  3   FLA  S20E55    SF                2217
+
+3260       1254   1257      1321  G15  5   XRA  1-8A      C1.1    1.6E-03   2217
+3260       1311   1311      1311  SAG  G   RBR  245       100               2219
+
+3380      B1315  U1353     A1426  SVI  3   FLA  N06E14    SF                2219
+
+3270      B1323  U1323     A1339  SVI  3   FLA  S17E56    SF                2217
+
+3280      B1341  U1341      1344  SVI  3   FLA  S17E56    SF                2217
+
+3290      B1350  U1358     A1411  SVI  3   FLA  S18E54    SF                2217
+
+3300      B1417  U1419     A1428  SVI  3   FLA  S16E22    SF                2220
+
+3310       1514   1514      1514  SAG  G   RBR  245       180                   
+
+3320       1715   1715      1715  SAG  G   RBR  245       140                   
+3320 +     1715   ////      1715  PAL  C   RSP  075-180   III/1                 
+
+3330       1853   1854      1900  HOL  3   FLA  N04E10    SF      DSD       2219
+
+3340       2023   2023      2023  PAL  G   RBR  245       120                   
+
+3350       2026   2026      2026  PAL  G   RBR  245       100                   
+
+3360       2042   2045      2048  G15  5   XRA  1-8A      C1.7    3.6E-04       
+
+3390       2151   ////      2151  LEA  C   RSP  125-180   III/1                 

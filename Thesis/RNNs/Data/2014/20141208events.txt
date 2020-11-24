@@ -1,0 +1,63 @@
+:Product: 20141208events.txt
+:Created: 2014 Dec 11 0357 UT
+:Date: 2014 12 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Dec 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7640 +     0012   ////      0038  LEA  C   RSP  027-180   VI/2                  
+7640 +     0019   ////      0022  CUL  C   RSP  018-180   III/1                 
+
+7630       0034   0039      0045  G15  5   XRA  1-8A      C2.2    9.1E-04   2222
+7630 +     0035   ////      0039  CUL  C   RSP  018-800   III/2             2222
+7630 +     0037   0037      0038  LEA  G   RBR  245       210               2222
+7630 +     0037   0037      0038  LEA  G   RBR  410       230               2222
+7630 +     0037   0038      0038  PAL  G   RBR  15400     92                2222
+7630 +     0037   0038      0038  PAL  G   RBR  2695      220               2222
+7630       0038   0038      0049  LEA  3   FLA  S19W69    SF      DSD       2222
+7630       0038   0038      0038  PAL  G   RBR  4995      97                2222
+7630       0038   0038      0038  PAL  G   RBR  8800      77                2222
+7630       0038   0038      0038  PAL  U   RBR  610       100               2222
+7630       0038   0038      0038  PAL  U   RBR  1415      61                2222
+
+7650       0117   ////      0153  LEA  C   RSP  025-098   VI/1                  
+7650 +     0148   ////      0154  CUL  C   RSP  018-090   III/1                 
+
+7660       0226   ////      0247  LEA  C   RSP  029-146   VI/1                  
+7660 +     0241   ////      0724  LEA  C   RSP  070-180   CTM/1                 
+7660       0247   ////      0247  CUL  C   RSP  020-090   III/1                 
+
+7670       0331   ////      0541  LEA  C   RSP  025-113   VI/2                  
+7670       0333   ////      0340  CUL  C   RSP  018-140   III/2                 
+7670       0333   0341      0345  G15  5   XRA  1-8A      C1.0    7.8E-04   2231
+
+7680       0449   0449      0449  LEA  U   RBR  245       140                   
+
+7690 +     0654   0654      0654  SVI  G   RBR  245       160                   
+
+7700 +     0705   ////      0711  LEA  C   RSP  026-061   III/1                 
+
+7710       0756   0756      0756  SVI  G   RBR  245       200                   
+
+7730       0912   ////      0915  LEA  C   RSP  034-075   III/1                 
+
+7720 +     0926   0927      0927  SVI  G   RBR  410       170                   
+
+7740       1148   ////      1148  SVI  C   RSP  044-136   III/1                 
+
+7750       1452   1455      1457  G15  5   XRA  1-8A      B9.6    1.5E-04       
+
+7760      B1749   1756      1802  HOL  2   FLA  S14E40    SF      DSD       2230
+7760       1753   1756      1800  G15  5   XRA  1-8A      C1.3    3.6E-04   2230
+
+7770       2002   2003      2003  PAL  G   RBR  245       260                   
+7770       2002   2003      2003  PAL  G   RBR  410       110                   
+
+7790 +     2243   ////      2359  LEA  C   RSP  110-180   CTM/1                 
+7790       2336   2336      2336  LEA  G   RBR  245       230                   

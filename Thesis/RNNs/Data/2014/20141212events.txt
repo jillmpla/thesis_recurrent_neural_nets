@@ -1,0 +1,42 @@
+:Product: 20141212events.txt
+:Created: 2014 Dec 15 0357 UT
+:Date: 2014 12 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Dec 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8420 +     0144   ////      0144  CUL  C   RSP  018-180   III/3                 
+
+8430       0146   ////      0146  CUL  C   RSP  023-050   III/1                 
+
+8440       0302   0306      0310  G15  5   XRA  1-8A      C1.0    3.6E-04   2230
+8440       0303   0307      0310  LEA  3   FLA  S17W03    SF                2230
+
+8460       0342   0457      0643  G15  5   XRA  1-8A      C1.2    1.2E-02       
+
+8450       0408   ////      0441  LEA  C   RSP  025-180   VI/1                  
+
+8470       0943   0948      0952  G15  5   XRA  1-8A      C1.5    5.7E-04   2235
+8470 +     0944  U0946     A1004  SVI  3   FLA  S07E48    SF      ERU       2235
+
+8500      B0959  U1009     A1241  SVI  3   FLA  S16W08    SF      ERU       2230
+
+8480      B1049  U1052     A1055  SVI  3   FLA  S06W49    SF                2227
+
+8490      B1109  U1109      1127  SVI  3   FLA  S06W50    SF                2227
+
+8510      B1138  U1158     A1221  SVI  3   FLA  S06W50    SF                2227
+
+8520       1435   1440      1442  G15  5   XRA  1-8A      C4.0    8.2E-04   2234
+8520 +     1436   1438      1445  SVI  3   FLA  N04W04    SF      ERU       2234
+8520 +     1439   1439      1439  SAG  G   RBR  410       400               2234
+
+8550       1923   1928      1930  G15  5   XRA  1-8A      C2.8    5.2E-04   2236
+
+8560       2303   2313      2322  G15  5   XRA  1-8A      C2.5    2.2E-03       

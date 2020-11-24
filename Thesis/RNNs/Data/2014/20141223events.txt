@@ -1,0 +1,54 @@
+:Product: 20141223events.txt
+:Created: 2014 Dec 26 0357 UT
+:Date: 2014 12 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Dec 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1890       0000   ////      0231  LEA  C   RSP  029-180   VI/1                  
+1890       0000   ////      0344  PAL  C   RSP  078-180   CTM/1                 
+
+1950       0000   ////      0905  LEA  C   RSP  068-180   CTM/1                 
+
+1890       0035   0052      0104  G15  5   XRA  1-8A      C2.1    3.1E-03       
+1890       0047   0050      0109  LEA  3   FLA  S16E01    SF      ERU           
+
+1900       0339   0358      0414  G15  5   XRA  1-8A      C1.4    2.9E-03   2244
+
+1910       0418   0418      0419  LEA  G   RBR  410       110                   
+
+1920       0445   0506      0608  G15  5   XRA  1-8A      C2.1    9.7E-03   2242
+
+1970       0646   ////      1048  SVI  C   RSP  075-172   CTM/1             2242
+1970       0739   0742      0746  G15  5   XRA  1-8A      C1.5    6.4E-04   2242
+1970       0741   0742      0744  SVI  3   FLA  S21W67    SF                2242
+
+1940       0807   0817      0838  G15  5   XRA  1-8A      C1.8    3.0E-03   2241
+1940 +     0812   0815      0822  LEA  3   FLA  S13W54    1F      DSD       2241
+1940 +     0814   ////      0814  LEA  C   RSP  025-099   III/1             2241
+
+1960       0915   0917      0927  LEA  3   FLA  N08E43    SF                2245
+
+2120      A1451   ////     A0719  SVI  3   DSF  S29W18    32                    
+
+1990       1945   1951      1959  G15  5   XRA  1-8A      C2.3    1.8E-03   2241
+
+2030       2037   ////      2037  CUL  C   RSP  025-045   III/1                 
+
+2040       2053   ////      2053  CUL  C   RSP  023-045   III/1                 
+
+2000       2122   2124      2127  G15  5   XRA  1-8A      C2.2    7.5E-04   2242
+2000       2124   2125      2127  HOL  3   FLA  S19W88    SF                2242
+
+2010       2129   2131      2138  G15  5   XRA  1-8A      C2.5    1.5E-03   2242
+
+2020       2244   2249      2256  G15  5   XRA  1-8A      C4.9    2.7E-03   2242
+2020       2244   2244      2250  HOL  3   FLA  S19W88    SF      DSD       2242
+
+2050       2341   ////      2341  CUL  C   RSP  025-050   III/1                 

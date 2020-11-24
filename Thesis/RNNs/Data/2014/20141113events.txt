@@ -1,0 +1,63 @@
+:Product: 20141113events.txt
+:Created: 2014 Nov 16 0357 UT
+:Date: 2014 11 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Nov 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 570       0029   0030      0036  LEA  2   FLA  S12E31    SF                2208
+
+ 580       0123   0123      0131  LEA  3   FLA  N10W27    SF                    
+
+ 590       0305   0307      0316  LEA  3   FLA  S12E31    SF                2208
+
+ 610       0404   0404      0411  LEA  3   FLA  S11E29    SF                2208
+
+ 620       0427   0429      0436  LEA  3   FLA  S11E28    SF                2208
+
+ 630       0455   0455      0455  LEA  G   RBR  245       530                   
+
+ 720       0516   0525      0529  G15  5   XRA  1-8A      C1.1    8.8E-04   2208
+
+ 640       0530   0530      0538  LEA  3   FLA  S11E28    SF                2208
+
+ 660       0539   0547      0624  LEA  3   FLA  S11E28    SF                2208
+
+ 650       0558   0607      0613  G15  5   XRA  1-8A      C8.4    5.2E-03   2209
+ 650       0601   0601      0601  LEA  G   RBR  8800      110                   
+
+ 680       0654   0710      0720  G15  5   XRA  1-8A      C2.2    3.2E-03   2208
+
+ 670 +     0654   ////      0654  SVI  C   RSP  102-180   III/1                 
+
+ 680       0655   ////      0655  CUL  C   RSP  120-180   III/1             2208
+ 680       0707   0708      0710  LEA  3   FLA  S07E33    SF                2208
+
+ 690       0835   0840      0851  LEA  2   FLA  S11E26    SF                2208
+
+ 700 +     0910   ////      0910  SVI  C   RSP  030-083   III/1                 
+
+ 730      B1105  U1118     A1225  SVI  3   FLA  S11E25    SF                2208
+
+ 880      A1245   ////     A0728  SVI  3   DSF  N40E45    6                     
+
+ 940      A1245   ////     A0728  SVI  3   DSF  N29E31    6                     
+
+ 740       1845   1848      1850  G15  5   XRA  1-8A      C2.7    4.3E-04   2205
+
+ 750       1917   1921      1923  G15  5   XRA  1-8A      C1.4    3.2E-04   2209
+
+ 760       2022   ////      2022  CUL  C   RSP  120-180   III/1                 
+
+ 770 +     2228   ////      2231  LEA  C   RSP  025-180   III/1                 
+ 770       2231   ////      2312  PAL  C   RSP  025-153   VI/1                  
+
+ 790       2324   2324      2333  LEA  3   FLA  N14W46    SF                2205
+
+ 960      A2342   ////     A1400  HOL  3   DSF  S23W05    13                2207

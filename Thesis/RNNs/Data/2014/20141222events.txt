@@ -1,0 +1,61 @@
+:Product: 20141222events.txt
+:Created: 2014 Dec 25 0357 UT
+:Date: 2014 12 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Dec 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1690       0000   ////      0344  PAL  C   RSP  078-180   CTM/2                 
+
+1700       0109   ////      0113  LEA  C   RSP  025-058   III/1             2242
+1700       0110   0112      0114  LEA  3   FLA  S18W58    SF                2242
+
+1710       0118   0149      0234  LEA  3   FLA  S19W54    1F      ERU       2242
+1710       0133   0149      0159  G15  5   XRA  1-8A      M1.0    1.1E-02   2242
+
+1740 +     0230   0230      0250  LEA  G   RNS  245       110                   
+
+1720       0233   ////      0234  LEA  C   RSP  031-054   III/1                 
+
+1730       0427   0454      0524  G15  5   XRA  1-8A      C8.7    2.0E-02   2242
+1730       0428   0428      0431  LEA  3   FLA  S20W56    SF                2242
+
+1750       0432   0452      0600  LEA  3   FLA  S20W56    1F      DSD       2242
+
+1840       0622   ////      1513  SVI  C   RSP  044-172   CTM/2                 
+
+1760       0752   0755      0801  LEA  3   FLA  S07E23    SF                2244
+
+1770 +     0843   0844      0848  SVI  3   FLA  S15W36    SF                2241
+
+1820 +     0845   0845      0848  SVI  3   FLA  S20W65    SF                2242
+
+1780       0900   ////      0900  SVI  C   RSP  029-059   III/1                 
+
+1790       0950   0950      0954  SVI  3   FLA  S21W65    SF                2242
+
+1800       1000   1005      1009  SVI  3   FLA  S21W65    SF                2242
+
+1810       1058   1107      1127  G15  5   XRA  1-8A      C7.0    9.7E-03   2242
+1810       1058  U1103      1128  SVI  3   FLA  S21W67    SF      ERU       2242
+
+1830       1107   1107      1112  SVI  3   FLA  S04E22    SF                2244
+
+1850       1253   ////      2101  SAG  C   RSP  047-180   CTM/1                 
+
+1980      A1445   ////     A0727  SVI  3   DSF  N22W25    9                     
+
+1860       2115   2225      2239  G15  5   XRA  1-8A      C5.7    1.5E-02   2241
+1860       2126   2134      2140  HOL  3   FLA  S13W44    SF      ERU       2241
+1860       2156   ////      2359  LEA  C   RSP  072-180   CTM/1             2241
+
+1870       2307   2308      2308  LEA  U   RBR  245       170                   
+1870       2308   ////      2308  CUL  C   RSP  220-400   III/1                 
+
+1880       2334   ////      2359  LEA  U   RSP  029-059   VI/1                  

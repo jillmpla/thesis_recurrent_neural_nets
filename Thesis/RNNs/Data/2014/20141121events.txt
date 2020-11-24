@@ -1,0 +1,63 @@
+:Product: 20141121events.txt
+:Created: 2014 Nov 24 0357 UT
+:Date: 2014 11 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Nov 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2380       0024   0032      0046  G15  5   XRA  1-8A      C1.6    1.7E-03   2216
+
+2390       0115   0121      0142  LEA  3   FLA  S11W11    SF      DSD       2209
+
+2400       0153   0156      0207  LEA  3   FLA  S11W13    SF      DSD       2209
+2400       0153   0158      0208  G15  5   XRA  1-8A      C1.4    9.8E-04   2209
+2400 +     0204   0205      0205  LEA  G   RBR  245       2500              2209
+2400 +     0205   ////      0205  CUL  C   RSP  130-380   III/1             2209
+
+2410       0348   0353      0359  G15  5   XRA  1-8A      C1.3    8.6E-04   2216
+2410       0350   0353      0356  LEA  3   FLA  S12E69    SF      ERU       2216
+
+2420       0441   0445      0448  G15  5   XRA  1-8A      C1.9    5.0E-04   2209
+2420       0444   0445      0453  LEA  3   FLA  S12W14    SF                2209
+
+2430       0454   0503      0515  LEA  3   FLA  S11W16    SF                2209
+
+2440 +     0658   0659      0659  LEA  G   RBR  245       250                   
+
+2450      B0744  U0815     A0834  SVI  3   FLA  S17W25    SF      ERU       2209
+2450       0749   0749      0749  LEA  G   RBR  245       140               2209
+
+2460 +     0923   0926      0933  LEA  3   FLA  S12W18    SF                2209
+
+2470      B1054  U1101     A1104  SVI  2   FLA  S13W18    SF      ERU       2209
+
+2480       1120   1131      1139  G15  5   XRA  1-8A      C1.2    1.3E-03   2216
+
+2510      B1124  U1130     A1215  SVI  3   FLA  S13W18    SF      ERU       2209
+
+2480      B1129  U1129     A1149  SVI  3   FLA  S10E61    SF                2216
+
+2490      B1241  U1246      1321  SVI  3   FLA  S12W20    SF                2209
+
+2500 +     1350   1352      1409  SVI  3   FLA  S14W19    SF                2209
+
+2690      A1457   ////     A0723  SVI  3   DSF  N16W28    8                     
+
+2520       1525   1525      1525  SAG  G   RBR  245       180                   
+
+2530       1604   1604      1610  HOL  2   FLA  S13W19    SF      ERU       2209
+
+2540 +     1817   1817      1817  SAG  G   RBR  410       1100                  
+
+2550       2056   2056      2056  PAL  G   RBR  245       480                   
+
+2560       2203   2214      2241  LEA  3   FLA  S11W24    SF                2209
+
+2570       2325   2333      2339  G15  5   XRA  1-8A      C1.1    9.1E-04   2209
+2570       2330   2332      2341  LEA  3   FLA  S14W21    SF                2209

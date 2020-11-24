@@ -1,0 +1,60 @@
+:Product: 20141226events.txt
+:Created: 2014 Dec 29 0357 UT
+:Date: 2014 12 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Dec 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2340       0012   ////      0012  LEA  C   RSP  028-037   III/1                 
+
+2350       0220   0220      0221  LEA  3   FLA  S20E51    SF                2248
+
+2360       0518   0525      0536  LEA  3   FLA  S12W37    SF                2249
+2360       0531   ////      0535  LEA  C   RSP  025-180   V/3               2249
+
+2370       0543   ////      0603  LEA  4   BSL  ////      0.19                  
+
+2410       0623   0623      0627  LEA  3   FLA  S12W37    SF                2249
+
+2380       0633   0634      0646  LEA  3   FLA  S12W37    SF                2249
+
+2390       0714   0717      0723  SVI  3   FLA  S13W38    SF      ERU       2249
+
+2400       0727   0727      0731  SVI  3   FLA  S13W39    SF      ERU       2249
+
+2420       0801   0828      0852  SVI  3   FLA  S13W40    SF      ERU       2249
+2420       0825   0830      0833  G15  5   XRA  1-8A      C1.7    5.4E-04   2249
+
+2430       0837   0841      0843  G15  5   XRA  1-8A      C1.5    3.5E-04   2249
+
+2450       0854   0930      0943  G15  5   XRA  1-8A      C2.1    4.4E-03   2249
+
+2440       0901   0904      0909  SVI  3   FLA  S13W40    SF      ERU       2249
+
+2450       0910  U1021     A1139  SVI  3   FLA  S13W40    SF      ERU       2249
+
+2530       0924   0929      0940  SVI  3   FLA  S21E42    SF                2248
+
+2460       1021   1023      1032  SVI  3   FLA  S21E42    SF                2248
+
+2470       1117   1124      1128  G15  5   XRA  1-8A      C2.4    1.1E-03   2249
+
+2480       1134   1138      1144  G15  5   XRA  1-8A      C1.9    8.3E-04   2248
+
+2490       1347   1350      1357  G15  5   XRA  1-8A      C1.4    6.3E-04       
+
+2500 +     1433   1433      1433  SAG  G   RBR  245       130                   
+
+2510       1504   1516      1525  G15  5   XRA  1-8A      C3.7    2.9E-03   2249
+
+2520       1800   1807      1815  G15  5   XRA  1-8A      C6.5    3.9E-03   2249
+
+2540       2105   2144      2215  G15  5   XRA  1-8A      C2.3    6.6E-03   2249
+
+2550       2350   2356      0006  G15  5   XRA  1-8A      C1.6    1.2E-03   2249

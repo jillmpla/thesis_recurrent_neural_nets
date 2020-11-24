@@ -1,0 +1,42 @@
+:Product: 20141120events.txt
+:Created: 2014 Nov 23 0357 UT
+:Date: 2014 11 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Nov 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2250       0014   0015      0017  LEA  3   FLA  S11W66    SF                2208
+
+2260       0201   ////      0201  LEA  C   RSP  030-051   III/1                 
+
+2360       0435   ////      0436  CUL  C   RSP  085-280   III/1                 
+
+2270 +     0435   ////      0439  LEA  C   RSP  075-180   III/2                 
+2270       0438   0438      0438  LEA  G   RBR  245       420                   
+
+2280       0631   0641      0655  G15  5   XRA  1-8A      C7.6    8.5E-03   2216
+2280       0654   ////      0654  CUL  C   RSP  023-057   III/1                 
+
+2370       0701   ////      0701  CUL  C   RSP  023-057   III/1                 
+
+2290       0726   0728      0748  SVI  3   FLA  S11E11    SF                2209
+
+2300       0929   0931      0931  LEA  G   RBR  610       1800                  
+
+2330      B0938  U0940     A1000  SVI  3   FLA  S14E01    SF                2209
+
+2310      B0946  U0947     A1011  SVI  3   FLA  S11E16    SF                2214
+
+2320      B1125  U1128     A1132  SVI  3   FLA  N15E68    SF                    
+
+2340       1936   1956      2009  G15  5   XRA  1-8A      C2.5    2.4E-03   2209
+2340       1949   1952      2034  HOL  3   FLA  S12W08    SF      ERU       2209
+
+2350       2103   2113      2129  G15  5   XRA  1-8A      C1.3    2.0E-03   2209
+2350       2104   2110      2137  HOL  3   FLA  S11W10    SF      DSD       2209

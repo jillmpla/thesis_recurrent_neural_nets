@@ -1,0 +1,55 @@
+:Product: 20141114events.txt
+:Created: 2014 Nov 17 0357 UT
+:Date: 2014 11 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Nov 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 800       0023   ////      0037  PAL  C   RSP  031-136   VI/1              2207
+ 800 +     0027   ////      0035  CUL  C   RSP  018-180   III/1             2207
+ 800       0036   0045      0105  LEA  3   FLA  S17W03    SF                2207
+
+ 810       0125   0127      0131  LEA  3   FLA  S12E17    SF                2208
+
+ 820 +     0155   0159      0214  LEA  3   FLA  S12E16    SF      ERU       2208
+
+ 830       0227   0232      0252  LEA  3   FLA  N13W52    SF                2205
+ 830 +     0227   ////      0230  PAL  C   RSP  099-180   III/1             2205
+
+ 840       0545   0552      0555  G15  5   XRA  1-8A      C3.2    1.1E-03   2208
+ 840       0547   0559      0622  LEA  3   FLA  S12E16    SF                2208
+
+ 850       0558   0602      0607  G15  5   XRA  1-8A      C4.2    1.5E-03   2208
+
+ 860 +     0730   0733      0742  LEA  3   FLA  S13E13    SF                2208
+
+ 870       0742   0748      0753  G15  5   XRA  1-8A      C5.4    2.1E-03   2209
+ 870 +     0745   0747      0753  LEA  3   FLA  S13E80    SF                2209
+
+ 900      B1332  U1332     A1346  SVI  3   FLA  S13E12    SF                2208
+
+ 910 +     1403   ////      1403  SAG  C   RSP  110-180   III/1                 
+
+ 920       1443   1458      1532  HOL  2   FLA  N19W58    SF      ERU       2205
+ 920       1447   1508      1534  G15  5   XRA  1-8A      C3.1    7.3E-03   2205
+
+ 930       1448   1448      1450  HOL  2   FLA  S13E09    SF      ERU       2208
+
+ 950       1714   1715      1719  HOL  3   FLA  S08E45    SF      DSD       2209
+
+ 970       2003   2011      2021  G15  5   XRA  1-8A      C3.3    2.6E-03   2208
+ 970 +     2005   ////      2008  PAL  C   RSP  107-180   III/1                 
+
+ 980       2225   ////      2225  LEA  C   RSP  027-047   III/1                 
+
+1000       2315   2339      2358  G15  5   XRA  1-8A      C2.0    3.6E-03   2209
+
+ 990 +     2324   ////      2325  LEA  C   RSP  025-180   III/2                 
+
+1000       2327   2339      2348  LEA  3   FLA  S12E71    1F      DSD       2209

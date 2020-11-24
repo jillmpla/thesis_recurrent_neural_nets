@@ -1,0 +1,83 @@
+:Product: 20141207events.txt
+:Created: 2014 Dec 10 0357 UT
+:Date: 2014 12 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Dec 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7290       0010   0014      0020  G15  5   XRA  1-8A      C1.2    5.3E-04   2222
+
+7300       0130   0138      0146  G15  5   XRA  1-8A      C2.7    1.8E-03   2222
+7300       0132   0134      0155  LEA  3   FLA  S23W60    SF      ERU       2222
+7300       0141   ////      0141  LEA  C   RSP  028-037   III/1             2222
+
+7310       0230   0230      0233  LEA  3   FLA  S05E27    SF                2227
+
+7320       0433   0434      0436  LEA  3   FLA  S22W68    SF      DSD       2222
+
+7330       0902   0902      0902  LEA  G   RBR  245       150                   
+
+7340       0914   0919      0924  G15  5   XRA  1-8A      C1.4    6.2E-04   2226
+
+7350 +     1012   1012      1019  SVI  3   FLA  S04E22    SF                2231
+
+7360       1018   1018      1018  SVI  G   RBR  245       110                   
+
+7380 +     1026   ////      1028  SVI  C   RSP  036-081   III/1                 
+
+7540      A1027   ////     A2205  LEA  3   DSF  S42E18    8                     
+
+7390       1034   ////      1124  SVI  C   RSP  102-180   CTM/1             2231
+7390       1040   1040      1040  SVI  G   RBR  245       160               2231
+7390       1044   1048      1054  G15  5   XRA  1-8A      C1.0    6.2E-04   2231
+7390       1044   1044      1047  SVI  3   FLA  S04E21    SF                2231
+
+7400       1106   1106      1106  SVI  G   RBR  245       280                   
+
+7410       1107   1114      1117  G15  5   XRA  1-8A      C1.1    6.4E-04   2231
+
+7420       1151   1152      1152  SVI  G   RBR  245       300                   
+
+7500       1209   1209      1327  SVI  G   RNS  245       180                   
+
+7430       1227   1227      1227  SAG  G   RBR  245       110                   
+
+7440 +     1333   1333      1333  SVI  G   RBR  245       130                   
+7440 +     1333   ////      1335  SVI  C   RSP  025-180   III/2                 
+
+7460 +     1340   1340      1341  SVI  G   RBR  245       790                   
+7460       1341   1341      1341  SVI  G   RBR  410       100                   
+
+7470       1358   ////      1427  SVI  C   RSP  101-180   CTM/1                 
+
+7780      A1359   ////     A1039  SVI  3   DSF  N21W46    12                    
+
+7470 +     1421   ////      1421  SAG  C   RSP  025-087   III/1                 
+
+7480       1551   ////      1551  SAG  C   RSP  025-180   III/1                 
+
+7490       1654   1657      1703  G15  5   XRA  1-8A      C1.2    4.5E-04   2222
+
+7510 +     1753   ////      1753  SAG  C   RSP  025-124   III/2                 
+
+7550       2012   ////      2012  CUL  C   RSP  020-057   III/1                 
+
+7560       2041   ////      2042  CUL  C   RSP  018-120   III/1                 
+
+7570       2050   ////      2057  CUL  C   RSP  018-120   III/1                 
+
+7580       2104   ////      2104  CUL  C   RSP  020-050   III/1                 
+
+7520 +     2153   ////      2156  LEA  C   RSP  030-090   III/1                 
+
+7530 +     2228   ////      2233  LEA  C   RSP  025-153   III/2                 
+
+7600 +     2308   ////      2308  CUL  C   RSP  023-090   III/1                 
+
+7610       2357   ////      2357  LEA  C   RSP  034-090   III/1                 

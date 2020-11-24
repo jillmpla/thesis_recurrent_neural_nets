@@ -1,0 +1,64 @@
+:Product: 20141231events.txt
+:Created: 2015 Jan 03 0357 UT
+:Date: 2014 12 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Dec 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3450      B0000   0002      0021  LEA  3   FLA  S06E68    SF                2253
+
+3460       0029   0154      0304  LEA  3   FLA  S06E64    1F      ERU       2253
+
+3470       0150   0155      0201  G15  5   XRA  1-8A      C1.6    7.6E-04   2251
+3470       0152   0152      0156  LEA  3   FLA  S12E19    SF                2251
+
+3480       0212   0212      0212  LEA  G   RBR  245       350                   
+
+3490       0321   ////      0321  LEA  C   RSP  029-050   III/1                 
+
+3500       0350   0354      0402  G15  5   XRA  1-8A      B9.3    5.2E-04   2253
+3500       0351   0353      0356  LEA  3   FLA  S06E64    SF                2253
+
+3510       0442   0444      0444  LEA  3   FLA  S05E63    SF                2253
+
+3520       0448   0452      0505  LEA  3   FLA  S05E62    SF      ERU       2253
+
+3530       0559   0602      0604  LEA  3   FLA  S06E60    SF                2253
+
+3540       0609   0610      0620  LEA  3   FLA  S06E60    SF                2253
+
+3550       0621   0626      0628  LEA  3   FLA  S06E60    SF                2253
+
+3560       0629   0639      0642  LEA  3   FLA  S06E60    SF                2253
+3560       0642   0648      0655  G15  5   XRA  1-8A      C1.7    1.0E-03   2253
+
+3570       0703   0704      0705  LEA  3   FLA  N06W81    SF                2250
+
+3580       0707   0751      0900  LEA  3   FLA  S07E62    1F      ERU       2253
+
+3620       0759   0807      0813  LEA  3   FLA  N06W82    SF                2250
+
+3590       0817   0818      0820  LEA  3   FLA  N06W82    SF                2250
+
+3600       0827   0827      0833  LEA  3   FLA  N06W85    SF                2250
+
+3610       0901   0903      1019  LEA  3   FLA  S06E58    1N      ERU       2253
+3610       0901   0904      0907  G15  5   XRA  1-8A      C1.2    2.5E-04   2253
+
+3630 +     0916   ////      0916  SVI  C   RSP  025-135   III/2                 
+
+3640       0948   ////      0949  LEA  C   RSP  030-076   III/1                 
+
+3650       1212   1216      1218  G15  5   XRA  1-8A      C1.0    2.3E-04   2251
+
+3660       1231   1235      1238  G15  5   XRA  1-8A      C1.4    3.9E-04   2253
+
+3670       1351   ////      1351  SVI  C   RSP  025-081   III/1                 
+
+3680       2302   2339      0017  G15  5   XRA  1-8A      C1.2    4.7E-03   2253

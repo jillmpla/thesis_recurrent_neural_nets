@@ -1,0 +1,96 @@
+:Product: 20141028events.txt
+:Created: 2014 Oct 31 0357 UT
+:Date: 2014 10 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Oct 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6130       0215   0242      0308  G15  5   XRA  1-8A      M3.4    7.6E-02   2192
+6130       0217   0221      0242  PAL  G   RBR  4995      60                2192
+6130       0217   0233      0255  PAL  G   RBR  15400     93                2192
+6130       0217   0238      0256  PAL  G   RBR  8800      80                2192
+6130       0221   0332      0427  LEA  3   FLA  S14W61    1B                2192
+
+6120       0232   0236      0239  LEA  G   RBR  15400     110                   
+
+6140       0323   0332      0341  G15  5   XRA  1-8A      M6.6    5.2E-02   2192
+6140 +     0333   0333      0333  PAL  G   RBR  15400     230                   
+6140       0333   0333      0333  PAL  G   RBR  8800      140                   
+
+6150       0435   0436      0446  LEA  3   FLA  S14W61    SF      ERU       2192
+
+6160       0449   0451      0453  LEA  3   FLA  S14W62    SF      DSD       2192
+6160       0450   ////      0450  LEA  C   RSP  055-123   III/1             2192
+
+6170       0525   0526      0527  LEA  3   FLA  S13W64    SF      ERU       2192
+
+6180       0534   0538      0545  LEA  3   FLA  S15W63    SF      ERU       2192
+
+6190 +     0546   0601      0618  LEA  3   FLA  S15W63    SF      ERU       2192
+6190       0606   0610      0617  G15  5   XRA  1-8A      C4.2    2.1E-03   2192
+
+6200 +     0633   0641      0652  LEA  3   FLA  S15W62    SF      DSD       2192
+
+6210       0640   0640      0646  SVI  3   FLA  S18W59    SF                2192
+
+6220 +     0702   0705      0709  SVI  3   FLA  S17W56    SF                2192
+6220       0703   0703      0703  LEA  G   RBR  245       100               2192
+
+6230 +     0747   ////      0927  LEA  C   RSP  029-175   VI/1              2192
+6230       0820   0824      0828  G15  5   XRA  1-8A      C6.5    2.0E-03   2192
+6230       0822   0824      0830  SVI  3   FLA  S22W63    SF      ERU       2192
+
+6240       0846   ////      0847  SVI  C   RSP  025-180   III/2             2192
+6240       0847   0847      0856  SVI  3   FLA  S19W61    SF                2192
+
+6250      B0938   0942      0945  LEA  2   FLA  S14W61    SF                2192
+
+6260 +     1012   ////      1013  SVI  C   RSP  029-081   III/1                 
+
+6270       1024   1024      1047  SVI  3   FLA  S17W61    SF                2192
+
+6280       1102   1105      1116  SVI  3   FLA  S17W62    1F      ERU       2192
+6280       1102   1106      1111  G15  5   XRA  1-8A      C5.3    2.0E-03   2192
+
+6290       1131   1134      1148  SVI  3   FLA  S17W60    SF      ERU       2192
+
+6300       1218   1221      1234  SVI  3   FLA  N10E03    SF                2195
+
+6310       1246   1247      1321  SVI  3   FLA  S18W63    SF      ERU       2192
+
+6320      B1330  U1335     A1339  SVI  3   FLA  S17W63    SF                2192
+
+6330       1354   1406      1423  G15  5   XRA  1-8A      M1.6    2.0E-02   2192
+6330 +    B1358  U1359     A1410  SVI  3   FLA  S18W72    SF      ERU       2192
+6330       1358   1359      1400  SVI  G   RBR  15400     110               2192
+6330       1358   1359      1400  SVI  G   RBR  8800      100               2192
+6330       1358   1359      1400  SVI  G   RBR  4995      70                2192
+6330       1359   1359      1359  SVI  G   RBR  2695      29                2192
+
+6340       1546   1547      1554  HOL  3   FLA  S17W64    SF      ERU       2192
+
+6350       1613   1616      1619  HOL  3   FLA  S16W67    SF      ERU       2192
+
+6360       1711   1720      1736  HOL  3   FLA  S16W67    SF      DSD       2192
+
+6370       1815   1816      1820  HOL  3   FLA  S21W67    SF      DSD       2192
+
+6380       1847   1847      1847  PAL  G   RBR  410       100                   
+
+6390       1907   1907      1907  SAG  G   RBR  410       100                   
+
+6400       1913   1915      1917  HOL  3   FLA  S16W68    SF      ERU       2192
+
+6410       2034   2038      2045  HOL  3   FLA  S15W68    SF      ERU       2192
+
+6420       2049   2049      2053  HOL  3   FLA  S16W68    SF      ERU       2192
+
+6430       2249   2252      2259  HOL  3   FLA  S16W69    SF      ERU       2192
+
+6440       2348   2348      2348  LEA  G   RBR  245       150                   

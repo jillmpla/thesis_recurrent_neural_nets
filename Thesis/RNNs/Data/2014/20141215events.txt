@@ -1,0 +1,63 @@
+:Product: 20141215events.txt
+:Created: 2014 Dec 18 0357 UT
+:Date: 2014 12 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Dec 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9320 +     0006   ////      0007  CUL  C   RSP  018-075   III/1                 
+
+9330       0125   0126      0130  LEA  3   FLA  S11E56    SF      DSD       2241
+
+9340       0134   0140      0144  G15  5   XRA  1-8A      C7.0    2.3E-03   2242
+9340 +     0138   ////      0139  CUL  C   RSP  018-260   III/2             2242
+9340       0138   0138      0144  LEA  3   FLA  S21E34    SF      ERU       2242
+
+9350       0153   0218      0239  LEA  3   FLA  S22E34    SF      ERU       2242
+
+9740       0207   ////      0208  CUL  C   RSP  018-060   III/1                 
+
+9750       0217   ////      0217  CUL  C   RSP  018-070   III/1                 
+
+9360       0319   0320      0321  LEA  3   FLA  N33E34    SF                2236
+
+9370       0323   0324      0326  LEA  3   FLA  N33E34    SF                2236
+
+9380       0403   0408      0411  LEA  3   FLA  S21E36    SF      DSD       2242
+
+9490       0442   ////      0443  CUL  C   RSP  100-160   III/1                 
+
+9390       0445   0446      0448  LEA  3   FLA  S11E55    SF                2241
+
+9400       0452   0458      0500  LEA  3   FLA  S21E36    SF      DSD       2242
+
+9410       0526   0527      0535  LEA  3   FLA  S21E36    SF                2242
+
+9420       0624   0624      0628  LEA  3   FLA  S11E55    SF                2241
+
+9500       0634   ////      0635  CUL  C   RSP  020-040   III/1                 
+
+9440       0648   ////      0648  LEA  C   RSP  045-075   III/1                 
+
+9450       0731   0733      0737  LEA  3   FLA  S11E54    SF                2241
+
+9460       0734   0735      0743  LEA  3   FLA  S21E35    SF                2242
+
+9470       1240   1243      1251  G15  5   XRA  1-8A      C1.5    7.9E-04   2239
+
+9480       2116   2121      2123  G15  5   XRA  1-8A      C4.5    1.0E-03   2242
+9480       2116   2121      2123  G15  5   XRA  1-8A      C4.5    1.0E-03   2242
+
+9510       2225   2240      2245  LEA  3   FLA  S21E29    SF                2242
+
+9520       2246   2308      2310  LEA  3   FLA  S18E27    SF                2242
+
+9530       2313   2313      2320  LEA  3   FLA  S20E24    SF                2242
+
+9540       2351   2351      2356  LEA  3   FLA  S19E28    SF      DSD       2242

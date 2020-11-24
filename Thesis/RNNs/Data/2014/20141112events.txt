@@ -1,0 +1,53 @@
+:Product: 20141112events.txt
+:Created: 2014 Nov 15 0357 UT
+:Date: 2014 11 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Nov 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 410       0054   0054      0054  LEA  G   RBR  245       160                   
+
+ 460       0113   ////      0115  CUL  C   RSP  018-180   III/1                 
+
+ 420       0113   ////      0115  LEA  C   RSP  025-150   III/2                 
+
+ 440       0224   0318      0329  G15  5   XRA  1-8A      C4.8    9.3E-03   2205
+
+ 430       0237   0237      0243  LEA  3   FLA  N14W20    SF                2205
+
+ 440       0251   0315      0349  LEA  3   FLA  N14W20    1F      DSD       2205
+
+ 450       0427   0427      0454  LEA  3   FLA  N14W20    SF                2205
+
+ 470       0804   0808      0814  LEA  3   FLA  N17W26    SF      DSD       2205
+
+ 480       0845   0849      0853  G15  5   XRA  1-8A      C1.9    6.3E-04   2205
+ 480       0847   0850      0854  LEA  2   FLA  N14W25    SF      ERU       2205
+
+ 490       0922   0925      0928  G15  5   XRA  1-8A      C1.4    3.2E-04       
+
+ 500       0948   0950      0952  LEA  3   FLA  N14W25    SF                2205
+
+ 510       1027   1046      1058  G15  5   XRA  1-8A      C5.1    6.8E-03   2005
+
+ 520       1633   ////      1634  SAG  C   RSP  025-151   III/2                 
+
+ 530       1736   1739      1741  G15  5   XRA  1-8A      C1.1    2.0E-04   2208
+ 530       1738   1738      1751  HOL  3   FLA  S12E35    SF      ERU       2208
+
+ 710       1831   1927      1952  G15  5   XRA  1-8A      C2.6    9.0E-03   2210
+
+ 540       2036   2043      2050  G15  5   XRA  1-8A      C3.7    2.3E-03   2208
+
+ 600       2233   ////      2233  CUL  C   RSP  020-045   III/1                 
+
+ 550       2310   2313      2320  G15  5   XRA  1-8A      C1.5    6.8E-04   2208
+ 550       2311   2313      2330  LEA  2   FLA  S12E31    SF                2208
+
+ 560       2335   2339      2342  LEA  2   FLA  S12E31    SF                2208

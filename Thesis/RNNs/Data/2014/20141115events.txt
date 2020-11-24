@@ -1,0 +1,64 @@
+:Product: 20141115events.txt
+:Created: 2014 Nov 18 0357 UT
+:Date: 2014 11 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Nov 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1010       0003   ////      0123  LEA  C   RSP  029-180   VI/1              2208
+1010       0007   ////      0010  PAL  C   RSP  029-180   III/1             2208
+1010       0026   0030      0031  LEA  3   FLA  S13E03    SF      DSD       2208
+
+1040       0245   0245      0252  LEA  3   FLA  N20W63    SF                2205
+
+1020       0250   0254      0257  LEA  3   FLA  S12E68    SF      DSD       2209
+
+1030       0611   0614      0618  G15  5   XRA  1-8A      C1.1    3.1E-04   2209
+
+1050       1140   1203      1210  G15  5   XRA  1-8A      M3.2    2.4E-02   2209
+1050       1142  U1157     A1240  SVI  3   FLA  S09E63    SB      ERU       2209
+1050       1154   1155      1205  SVI  G   RBR  8800      540               2209
+1050       1154   1155      1206  SVI  G   RBR  15400     470               2209
+1050       1154   1155      1204  SVI  G   RBR  4995      260               2209
+1050       1155   1155      1159  SVI  G   RBR  1415      190               2209
+1050       1155   1155      1203  SVI  G   RBR  2695      229               2209
+1050 +     1155   1158      1158  SVI  G   RBR  245       3900              2209
+1050 +     1156   1158      1158  SVI  G   RBR  410       160               2209
+1050       1203   1203      1205  SAG  G   RBR  610       130               2209
+
+1060 +     1427   ////      1427  SAG  C   RSP  114-180   III/1                 
+
+1280      A1427   ////     A0818  SVI  3   DSF  N07W52    8                     
+
+1070       1750   1750      1750  SAG  G   RBR  245       100                   
+
+1080 +     1914   ////      1923  PAL  C   RSP  099-180   III/1                 
+
+1090       1921   1922      1929  HOL  3   FLA  S13E57    SF      ERU       2209
+
+1100       2038   2046      2050  G15  5   XRA  1-8A      M3.7    1.3E-02   2209
+1100       2040   ////      2043  PAL  C   RSP  111-180   III/2             2209
+1100       2041   2043      2105  HOL  3   FLA  S13E63    1N      YSR       2209
+1100       2041   2043      2044  PAL  G   RBR  4995      390               2209
+1100       2041   2042      2044  PAL  G   RBR  8800      420               2209
+1100       2042   2043      2044  PAL  G   RBR  2695      240               2209
+1100       2042   2042      2046  PAL  G   RBR  245       1600              2209
+1100       2042   2042      2043  PAL  G   RBR  15400     200               2209
+1100       2042   2043      2046  PAL  U   RBR  610       94                2209
+1100       2043   2043      2043  PAL  G   RBR  1415      180               2209
+1100       2043   2043      2043  PAL  G   RBR  410       100               2209
+
+1110       2053   ////      2055  PAL  C   RSP  109-180   III/1                 
+
+1120       2156   2156      2159  HOL  3   FLA  S10E57    SF                2209
+
+1130       2257   2303      2312  LEA  3   FLA  S11E49    SF                2209
+
+1140 +     2333   2336      2352  HOL  2   FLA  S09E47    SF      ERU       2209
+1140       2333   2346      0000  G15  5   XRA  1-8A      C2.7    3.7E-03   2209

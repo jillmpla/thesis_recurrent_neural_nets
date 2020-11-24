@@ -1,0 +1,74 @@
+:Product: 20141122events.txt
+:Created: 2014 Nov 25 0357 UT
+:Date: 2014 11 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Nov 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2580       0001   0021      0050  G15  5   XRA  1-8A      C2.3    5.5E-03   2217
+
+2590       0054   0101      0106  G15  5   XRA  1-8A      C8.1    3.8E-03   2209
+2590       0056   0058      0131  LEA  3   FLA  S12W26    1B      ERU       2209
+2590 +     0056   0056      0057  LEA  G   RBR  410       3100              2209
+2590 +     0057   0057      0057  LEA  G   RBR  4995      110               2209
+2590       0057   0057      0057  PAL  G   RBR  8800      100               2209
+2590       0057   0057      0057  PAL  G   RBR  2695      100               2209
+
+2620       0224   ////      0243  LEA  C   RSP  028-138   VI/1                  
+
+2600       0332   0332      0332  LEA  G   RBR  245       200                   
+
+2610       0333   0337      0401  LEA  3   FLA  S12W27    SF                2209
+2610       0335   0341      0347  G15  5   XRA  1-8A      C2.4    1.3E-03   2209
+
+2630       0408   0413      0421  G15  5   XRA  1-8A      C1.7    1.1E-03   2216
+2630       0408   0410      0419  LEA  3   FLA  S11E54    SF                2216
+
+2640       0431   ////      0432  LEA  C   RSP  075-096   III/1                 
+
+2650       0558   0603      0607  G15  5   XRA  1-8A      C6.5    1.9E-03   2209
+2650       0600   0602      0627  LEA  3   FLA  S14W25    1N      DSD       2209
+2650       0600   0601      0601  LEA  G   RBR  1415      230               2209
+2650       0601   0601      0601  LEA  G   RBR  8800      130               2209
+2650 +     0601   0601      0601  LEA  G   RBR  410       280               2209
+
+2660       0609   0614      0617  G15  5   XRA  1-8A      C3.2    1.1E-03   2209
+2660 +     0612   0613      0613  LEA  G   RBR  245       1800                  
+
+2670       0631   0641      0643  LEA  3   FLA  S14W26    SF                2209
+
+2680 +     0910   ////      0913  SVI  C   RSP  027-133   III/1                 
+
+2700       0953   0957      1004  G15  5   XRA  1-8A      C1.5    7.5E-04   2209
+2700       0954   0954      0954  LEA  G   RBR  610       370               2209
+2700 +    B0956  U0956     A1022  SVI  3   FLA  S13W32    SF      ERU       2209
+
+2780      A1020   ////     A2203  LEA  3   DSF  N43W68    50                    
+
+2790      A1020   ////     A2203  LEA  3   DSF  S53W69    25                    
+
+2710       1136   ////      1136  SVI  C   RSP  027-081   III/1                 
+
+2720       1233   ////      1252  SVI  C   RSP  027-130   VI/2                  
+2720       1249   ////      1249  SAG  C   RSP  051-160   III/1                 
+
+2730       1309  U1309     A1326  SVI  3   FLA  S14W33    SF                2209
+2730       1309   1331      1356  G15  5   XRA  1-8A      C2.1    4.5E-03   2209
+
+2740       1311   1312      1313  SVI  3   FLA  S14W18    SF                2214
+
+2750       1421   1441      1507  G15  5   XRA  1-8A      C2.3    5.7E-03   2216
+
+2760       1706   1712      1740  HOL  2   FLA  S13W33    1N      ERU       2209
+2760       1708   1713      1719  G15  5   XRA  1-8A      C3.1    1.5E-03   2209
+2760 +     1710   1710      1710  SAG  G   RBR  245       140               2209
+2760       1711   1711      1711  SAG  G   RBR  610       110               2209
+2760       1711  U1711      1711  PAL  G   RBR  410       110               2209
+
+2770 +     2200   2217      2242  LEA  3   FLA  S11W37    SF                2209

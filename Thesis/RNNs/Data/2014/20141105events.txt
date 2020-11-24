@@ -1,0 +1,65 @@
+:Product: 20141105events.txt
+:Created: 2014 Nov 08 0357 UT
+:Date: 2014 11 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Nov 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8370       0412   0419      0419  LEA  3   FLA  N17E76    SF                2205
+
+8380       0430   0432      0442  LEA  3   FLA  N17E76    SF      DSD       2205
+
+8390       0510   0514      0519  LEA  3   FLA  N17E76    SF      DSD       2205
+8390       0512   0516      0520  G15  5   XRA  1-8A      C1.0    3.6E-04   2205
+
+8400       0639   0640      0651  LEA  3   FLA  N16E71    SF                2205
+
+8410 +     0717   0717      0717  LEA  G   RBR  410       320                   
+
+8420       0721   ////      0740  SVI  C   RSP  044-180   II/1    519           
+
+8430      B0905  U0905     A0908  SVI  3   FLA  S04W07    SF                2201
+
+8440       0926   0947      0955  G15  5   XRA  1-8A      M7.9    5.2E-02   2205
+8440 +     0940   0944      0949  SVI  G   RBR  4995      680     CastelliU 2205
+8440 +     0940   0941      0950  SVI  G   RBR  8800      1100    CastelliU 2205
+8440 +     0940   0942      0951  SVI  G   RBR  15400     1300    CastelliU 2205
+8440 +     0940   0941      0947  SVI  G   RBR  2695      240     CastelliU 2205
+8440 +     0941   0941      0946  SVI  G   RBR  1415      140     CastelliU 2205
+8440 +     0943   0946      0946  SVI  G   RBR  245       8900    CastelliU 2205
+8440       0943   0943      0943  SVI  G   RBR  410       430     CastelliU 2205
+8440 +     0943   ////      1002  LEA  C   RSP  034-180   II/2    639       2205
+8440 +    B0948  U0950     A1033  SVI  3   FLA  N20E68    1N      ERU       2205
+
+8450      B1145  U1151     A1154  SVI  3   FLA  N18E66    SF      ERU       2205
+
+8460      B1337  U1345     A1347  SVI  3   FLA  N18E65    SF                2205
+
+8470       1424   1428      1431  G15  5   XRA  1-8A      C2.1    5.0E-04       
+
+8480       1614   1621      1628  G15  5   XRA  1-8A      C1.7    1.1E-03   2205
+8480       1616   1625      1634  HOL  3   FLA  N18E67    SF      DSD       2205
+
+8490       1817   1819      1823  HOL  3   FLA  N17E66    SF      ERU       2205
+
+8500       1830   1833      1837  G15  5   XRA  1-8A      C2.5    6.5E-04   2205
+8500       1831   1835      1838  HOL  3   FLA  N17E65    SF      DSD       2205
+
+8510       1842   1843      1845  HOL  3   FLA  N17E65    SF                2205
+
+8520       1850   1944      2015  G15  5   XRA  1-8A      M2.9    7.8E-02   2205
+8520       1851   1942      2018  HOL  3   FLA  N17E65    1N      ERU       2205
+8520 +     1942   ////      1957  PAL  C   RSP  025-066   VI/1              2205
+8520 +     1945   ////      1947  SAG  C   RSP  025-180   II/1    1291      2205
+
+8530       2045   2046      2049  HOL  3   FLA  N17E64    SF                2205
+
+8540       2139   2140      2148  HOL  3   FLA  S04W16    SF                2201
+
+8550       2316   2325      2350  LEA  3   FLA  N16E70    SF                2205
