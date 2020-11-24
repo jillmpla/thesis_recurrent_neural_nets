@@ -1,0 +1,52 @@
+:Product: 20120609events.txt
+:Created: 2012 Jun 12 0332 UT
+:Date: 2012 06 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jun 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9070       0300   0308      0320  G15  5   XRA  1-8A      C1.5    1.4E-03   1499
+9070       0304   0304      0309  LEA  3   FLA  N15W21    SF                1499
+
+9080       0655   ////      0655  LEA  C   RSP  025-180   III/2                 
+
+9090       1027   1032      1037  G15  5   XRA  1-8A      C1.5    6.7E-04   1499
+
+9100       1120   1132      1135  G15  5   XRA  1-8A      M1.9    5.7E-03   1504
+9100 +     1130   1130      1132  SVI  G   RBR  2695      150                   
+9100 +     1130   1131      1132  SVI  G   RBR  4995      160                   
+9100 +     1131   1132      1132  SVI  G   RBR  8800      210                   
+9100 +     1131   1132      1132  SVI  G   RBR  15400     190                   
+9100       1131   1131      1131  SVI  G   RBR  1415      55                    
+
+9120       1303   ////      1416  SAG  C   RSP  025-053   VI/1                  
+
+9110       1337   1341      1355  HOL  3   FLA  S10E70    SF                1505
+
+9130       1410   1420      1450  HOL  3   FLA  N17W26    SF      ERU       1499
+
+9140       1523   1527      1531  G15  5   XRA  1-8A      C1.7    5.5E-04       
+
+9150       1645   1653      1656  G15  5   XRA  1-8A      M1.8    6.5E-03   1504
+9150       1649   1653      1659  HOL  3   FLA  S17E74    SF                1504
+
+9160       1725   1737      1807  HOL  3   FLA  N16W27    SF                1499
+
+9170       1809   1817      1821  HOL  3   FLA  N16W27    SF                1499
+
+9180       1830   1834      1836  G15  5   XRA  1-8A      C1.2    2.9E-04       
+9180 +     1830   ////      1830  SAG  C   RSP  025-180   III/1                 
+
+9190       2000   2004      2019  HOL  3   FLA  N16W29    SF      ERU       1499
+
+9200 +     2029   ////      2029  PAL  C   RSP  025-180   III/2             1499
+9200       2030   2032      2039  HOL  3   FLA  N16W29    SF                1499
+
+9210       2311   2314      2316  G15  5   XRA  1-8A      B8.7    1.3E-04       
+9210 +     2313   ////      2313  PAL  C   RSP  025-180   III/2                 

@@ -1,0 +1,101 @@
+:Product: 20120512events.txt
+:Created: 2012 May 15 0332 UT
+:Date: 2012 05 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 May 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3420 +     0000   ////      0451  PAL  C   RSP  025-180   CTM/2             1476
+3420       0000   ////      0935  LEA  C   RSP  025-180   III/1             1476
+
+3510       0004   ////      0451  PAL  C   RSP  025-180   VI/2                  
+
+3580       0013   0255      0747  LEA  U   RNS  245       520                   
+
+3430 +     0052   0053      0053  LEA  G   RBR  245       490               1476
+3430       0053   0054      0058  LEA  3   FLA  N11W13    SF                1476
+
+3440       0235   0235      0240  LEA  3   FLA  N06W14    SF                1476
+
+3450 +     0249   0249      0249  LEA  G   RBR  245       440                   
+
+3460       0254   0254      0255  LEA  G   RBR  245       2900                  
+
+3470       0304   0304      0304  PAL  U   RBR  245       900                   
+
+3480       0305   0306      0307  LEA  U   RBR  245       860                   
+
+3500       0317   0321      0326  G15  5   XRA  1-8A      C1.2    4.2E-04       
+
+3600       0347   ////      1133  SVI  C   RSP  025-180   CTM/1                 
+3600       0352   ////      1219  SVI  C   RSP  025-180   VI/1                  
+
+3520       0436   0439      0443  G15  5   XRA  1-8A      C1.3    3.3E-04   1476
+3520       0438   0439      0445  LEA  3   FLA  N12W05    SF                1476
+
+3530       0507   0517      0523  G15  5   XRA  1-8A      C1.9    1.3E-03   1476
+3530 +     0510   0516      0555  SVI  3   FLA  N06W16    SF      ERU       1476
+
+3540       0649   0655      0700  G15  5   XRA  1-8A      C1.7    7.6E-04   1476
+3540 +     0651   0714      0727  LEA  3   FLA  N06W16    SF                1476
+
+3550       0711   0715      0719  G15  5   XRA  1-8A      C1.5    5.0E-04       
+
+3570       0830   0921      1001  SVI  3   FLA  N06W18    SF                1476
+
+3560       0833   0854      0912  LEA  3   FLA  N06W14    SF                1476
+
+3570       0918   0924      0930  G15  5   XRA  1-8A      C1.4    7.7E-04   1476
+
+3590       1002   1003      1010  SVI  3   FLA  N06W19    SF                1476
+
+3610       1104   1104      1114  SVI  3   FLA  N08W15    SF                1476
+3610 +     1104   ////      1104  SAG  C   RSP  025-180   III/1             1476
+3610 +     1104   1104      1104  SVI  G   RBR  245       200               1476
+3610       1104   ////      1220  SAG  C   RSP  025-180   VI/1              1476
+
+3620 +     1126   1126      1126  SVI  G   RBR  245       150                   
+
+3630 +     1208   1208      1209  SVI  G   RBR  245       380                   
+
+3640 +     1232   1247      1303  SVI  3   FLA  N08W14    SF      ERU       1476
+3640       1237   1248      1251  G15  5   XRA  1-8A      C1.4    7.3E-04   1476
+
+3650       1313   ////      1415  SVI  C   RSP  025-083   VI/1              1476
+3650       1313   ////      1313  SAG  C   RSP  025-059   III/1             1476
+3650       1319   1325      1337  G15  5   XRA  1-8A      C2.5    1.8E-03   1476
+3650       1322   1323      1355  SVI  3   FLA  N08W17    SF      ERU       1476
+
+3660       1401   1407      1415  SVI  3   FLA  N06W20    SF                1476
+
+3670       1435   1436      1450  SVI  3   FLA  N09W16    SF                1476
+
+3680       1504   1505      1536  HOL  4   FLA  N08W17    SF      ERU       1476
+
+3690       1536   1536      1536  SAG  G   RBR  410       180                   
+
+3700 +     1608   1610      1616  HOL  4   FLA  N08W18    SF      ERU       1476
+
+3710       1709   1712      1717  HOL  4   FLA  N10W21    SF      ERU       1476
+3710 +     1712   1712      1712  SVI  G   RBR  410       240               1476
+
+3720       1718   1718      1718  SAG  G   RBR  410       170                   
+
+3750 +     1740   ////      2029  PAL  C   RSP  075-180   CTM/1                 
+3750       1752   ////      2039  PAL  C   RSP  025-056   VI/1                  
+
+3730       1752   ////      1759  SAG  C   RSP  025-039   III/1                 
+
+3740       1822   1822      1822  SAG  G   RBR  410       130                   
+
+3860      A2230   ////     A1251  HOL  2   DSF  S36W38    9                     
+
+3760       2323   ////      2323  PAL  C   RSP  025-037   III/1                 
+
+3770 +     2351   2352      2352  LEA  G   RBR  410       300                   

@@ -1,0 +1,70 @@
+:Product: 20120428events.txt
+:Created: 2012 May 01 0332 UT
+:Date: 2012 04 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Apr 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9250       0038   0048      0053  G15  5   XRA  1-8A      C1.5    1.0E-03   1459
+
+9260       0057   0059      0102  HOL  3   FLA  N10E33    SF      DSD       1467
+
+9270       0148   0154      0200  G15  5   XRA  1-8A      C1.4    7.8E-04   1461
+
+9280       0718   0718      0718  SVI  G   RBR  245       120                   
+
+9290 +     0718   ////      0719  LEA  C   RSP  025-180   III/2                 
+
+9300       0854   0901      0904  G15  5   XRA  1-8A      C1.7    7.0E-04   1469
+9300 +     0857   0858      0913  SVI  3   FLA  S20E26    SF      ERU       1469
+
+9310       0946   ////      0946  SVI  C   RSP  025-120   III/2                 
+
+9570      A1017   ////     A0430  SVI  3   DSF  S49W10    21                    
+
+9330 +     1211   ////      1211  SAG  C   RSP  025-139   III/1                 
+
+9320       1212   1215      1218  G15  5   XRA  1-8A      B7.3    1.6E-04   1466
+9320       1214   1215      1222  SVI  3   FLA  N11W42    SF                1466
+
+9360       1345   1414      1434  G15  5   XRA  1-8A      C1.1    2.9E-03   1466
+
+9340       1351   1353      1357  HOL  3   FLA  S18E69    SF                1470
+
+9350 +     1359   ////      1400  SAG  C   RSP  025-094   III/1                 
+
+9360       1413   1422      1434  HOL  3   FLA  N13W46    SF      ERU       1466
+
+9370       1448   1449      1452  HOL  3   FLA  N14W46    SF      ERU       1466
+
+9380 +     1457   ////      1459  SVI  C   RSP  025-080   III/1                 
+
+9400       1531   1537      1542  HOL  3   FLA  N14W47    SF      ERU       1466
+
+9410       1749   1750      1757  HOL  3   FLA  N12W49    SF      ERU       1466
+
+9420       1810   1811      1813  HOL  3   FLA  N12W49    SF      ERU       1466
+
+9430       1922   1923      1927  HOL  3   FLA  N12W49    SF      DSD       1466
+
+9440       1945   1954      1958  HOL  3   FLA  S25E17    SF      DSD       1469
+
+9460       1945   1946      2000  HOL  3   FLA  N12W50    SF      DSD       1466
+
+9470       2004   ////      2014  PAL  C   RSP  025-180   VI/1                  
+
+9450       2010   2013      2016  G15  5   XRA  1-8A      C1.1    4.3E-04   1467
+
+9480       2125   2126      2130  HOL  3   FLA  N12W51    SF      ERU       1466
+
+9490       2148   2214      2224  G15  5   XRA  1-8A      C1.1    1.9E-03   1467
+9490 +     2208   ////      2210  PAL  C   RSP  025-180   III/2             1467
+9490       2208   2213      2227  HOL  3   FLA  N10E21    SF      ERU       1467
+
+9500       2344   2344      2348  HOL  3   FLA  S23E76    SF                1471

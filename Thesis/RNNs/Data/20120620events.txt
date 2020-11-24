@@ -1,0 +1,49 @@
+:Product: 20120620events.txt
+:Created: 2012 Jun 23 0332 UT
+:Date: 2012 06 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jun 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1820 +     0146   0203      0223  G15  5   XRA  1-8A      C1.2    2.0E-03   1504
+
+1830       0326   ////      0326  CUL  C   RSP  020-060   III/1                 
+
+1840 +     0415   0421      0430  G15  5   XRA  1-8A      C1.0    6.7E-04   1504
+
+1850       0508   0508      0508  SVI  G   RBR  245       110                   
+
+1860 +     0534   0537      0737  LEA  G   RNS  245       130                   
+
+1870       0547   0547      0548  SVI  G   RBR  245       250                   
+
+1880 +     0549   0558      0610  G15  5   XRA  1-8A      C1.3    1.1E-03   1504
+
+1890       0620   0620      0620  SVI  G   RBR  245       100                   
+
+1900 +     0634   0640      0645  G15  5   XRA  1-8A      B6.7    3.2E-04   1504
+
+1910       0942   0946      0948  SVI  3   FLA  S20W73    SF                1504
+
+1920 +     1059   1108      1125  G15  5   XRA  1-8A      C1.5    1.8E-03   1504
+
+1930       1303   ////      1304  SVI  C   RSP  025-075   III/1                 
+
+1940 +     1345   ////      1346  SVI  C   RSP  025-069   III/1                 
+
+1950 +     1425   ////      1446  SVI  C   RSP  025-054   VI/1                  
+
+1960       1545   1553      1600  G15  5   XRA  1-8A      B7.8    5.2E-04   1504
+1960 +     1552   1554      1555  HOL  3   FLA  S20W78    SF      DSD       1504
+
+1970       1614   1628      1637  G15  5   XRA  1-8A      C3.1    2.8E-03   1504
+
+1980 +     2238   ////      2242  PAL  C   RSP  025-180   III/1                 
+
+1990       2324   ////      2324  CUL  C   RSP  020-050   III/1                 

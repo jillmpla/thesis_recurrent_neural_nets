@@ -1,0 +1,36 @@
+:Product: 20120610events.txt
+:Created: 2012 Jun 13 0332 UT
+:Date: 2012 06 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jun 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9220       0019   0026      0032  G15  5   XRA  1-8A      B8.6    5.3E-04       
+
+9230       0127   0208      0220  G15  5   XRA  1-8A      C1.0    3.0E-03       
+
+9240       0439   0451      0459  G15  5   XRA  1-8A      C1.1    1.1E-03   1504
+
+9250       0639   0645      0650  G15  5   XRA  1-8A      M1.3    5.0E-03   1504
+9250 +     0642   0643      0644  LEA  G   RBR  8800      160                   
+9250 +     0642   0642      0643  LEA  G   RBR  15400     140                   
+9250       0642   0644      0644  SVI  G   RBR  4995      79                    
+9250       0644   0644      0644  SVI  G   RBR  1415      71                    
+9250 +     0645   0645      0645  LEA  G   RBR  2695      100                   
+
+9260       1006   1007      1008  SAG  U   RBR  410       100                   
+
+9270       1810   1815      1821  G15  5   XRA  1-8A      C1.3    6.3E-04   1504
+9270       1812   1812      1816  HOL  3   FLA  S17E59    SF      ERU       1504
+
+9280       1942   1951      1958  G15  5   XRA  1-8A      C2.3    1.5E-03   1504
+9280       1946   1949      1957  HOL  3   FLA  S17E59    SF      ERU       1504
+
+9290       2316   2321      2325  G15  5   XRA  1-8A      C1.1    4.2E-04   1504
+9290       2319   2322      2326  HOL  3   FLA  S17E56    SF      DSD       1504

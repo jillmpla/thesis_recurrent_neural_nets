@@ -1,0 +1,39 @@
+:Product: 20120411events.txt
+:Created: 2012 Apr 14 0332 UT
+:Date: 2012 04 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Apr 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6010       0517   ////      0517  CUL  C   RSP  020-060   III/1                 
+
+5920 +     0548   ////      0549  LEA  C   RSP  039-180   III/1                 
+
+6020       0634   ////      0634  CUL  C   RSP  030-060   III/1                 
+
+5930 +     0734   ////      0735  LEA  C   RSP  025-180   III/2                 
+
+5940 +     0754   ////      0822  LEA  C   RSP  025-180   VI/2                  
+
+5950       0917   ////      0917  LEA  C   RSP  025-180   III/2                 
+
+5960       0917   ////      0917  SVI  C   RSP  025-160   III/2                 
+
+5970 +     1021   ////      1028  SVI  C   RSP  025-157   III/2             1455
+5970 +     1023   1030      1039  G15  5   XRA  1-8A      B2.7    2.0E-04   1455
+
+5980 +     1202   ////      1209  SAG  C   RSP  025-060   III/1                 
+
+5990       1651   1651      1655  HOL  3   FLA  N06E13    SF                1455
+
+6000       1656   1656      1659  HOL  3   FLA  N06E14    SF      ERU       1455
+
+6030 +     2314   ////      2314  PAL  C   RSP  025-147   III/1                 
+
+6040       2315   ////      2315  CUL  C   RSP  020-060   III/1                 

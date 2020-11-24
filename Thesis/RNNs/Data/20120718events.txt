@@ -1,0 +1,40 @@
+:Product: 20120718events.txt
+:Created: 2012 Jul 21 0332 UT
+:Date: 2012 07 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jul 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1390 +     0257   0309      0317  G15  5   XRA  1-8A      C3.9    3.6E-03   1520
+1390 +     0300   ////      0301  CUL  C   RSP  020-070   III/1             1520
+
+1430       0310   ////      0310  CUL  C   RSP  020-060   III/1                 
+
+1400 +     0555   0602      0609  G15  5   XRA  1-8A      C3.0    1.9E-03   1520
+
+1480      B0624   ////     A1330  SOH  4   CME  XUV,EUV,UV326-325/BS711           
+
+1410       0732   ////      0732  SVI  U   RSP  034-060   III/1                 
+
+1420       0819   0822      0824  SVI  3   FLA  S16E51    SF                1524
+
+1440 +     1141   ////      1251  SVI  C   RSP  025-180   VI/1                  
+
+1450 +     1249   1250      1250  SVI  G   RBR  245       1600                  
+
+1460 +     1304   1304      1304  SVI  G   RBR  245       640                   
+
+1470 +     1530   ////      1531  SVI  C   RSP  025-127   III/2                 
+
+1490 +     2203   2218      2233  G15  5   XRA  1-8A      C4.5    5.3E-03   1520
+
+1500       2246   ////      2257  CUL  C   RSP  018-050   III/2                 
+1500       2246   ////      2256  PAL  C   RSP  025-058   VI/1                  
+
+1510 +     2346   ////      2346  CUL  C   RSP  020-060   III/2                 

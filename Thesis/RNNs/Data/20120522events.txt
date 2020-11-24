@@ -1,0 +1,33 @@
+:Product: 20120522events.txt
+:Created: 2012 May 25 0332 UT
+:Date: 2012 05 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 May 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5380 +     0400   0404      0410  G15  5   XRA  1-8A      B4.8    2.1E-04   1485
+
+5390       0527   0532      0534  SVI  3   FLA  N09W34    SF                1484
+
+5400 +     0731   0735      0738  G15  5   XRA  1-8A      B5.9    1.6E-04   1484
+
+5410       1411   1411      1419  HOL  3   FLA  S24W64    SF      ERU       1483
+
+5420 +     1452   ////      1452  SVI  C   RSP  029-081   III/1                 
+
+5430       1710   1710      1710  PAL  U   RBR  410       130                   
+
+5440 +     1710   1710      1711  SAG  G   RBR  410       210                   
+5440 +     1711   1711      1711  SVI  G   RBR  245       79                    
+
+5460 +     1849   ////      1849  SAG  C   RSP  025-081   III/1                 
+
+5470 +     2039   ////      2039  PAL  C   RSP  025-087   III/1                 
+
+5480       2338   2339      2352  HOL  2   FLA  N12W43    SF      ERU       1484

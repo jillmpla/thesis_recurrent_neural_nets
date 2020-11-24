@@ -1,0 +1,45 @@
+:Product: 20120519events.txt
+:Created: 2012 May 22 0332 UT
+:Date: 2012 05 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 May 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4990       0115   0123      0131  G15  5   XRA  1-8A      C1.1    8.2E-04   1479
+4990 +     0117   ////      0120  LEA  C   RSP  025-180   III/2             1479
+4990       0124   0124      0134  LEA  3   FLA  N15W24    SF                1479
+
+5000 +     0437   ////      0442  LEA  C   RSP  025-180   III/1                 
+
+5010       0612   ////      0652  SVI  C   RSP  025-180   VI/1                  
+5010       0632   ////      0642  LEA  C   RSP  025-180   III/2                 
+
+5020       0723   ////      0802  SVI  C   RSP  025-062   VI/1                  
+
+5030 +     0807   ////      0808  SVI  C   RSP  025-180   III/2                 
+5030 +     0807   0807      0807  SVI  G   RBR  245       130                   
+
+5040       0854   ////      0908  SVI  C   RSP  025-180   VI/2                  
+5040       0856   ////      0902  LEA  C   RSP  025-180   III/2                 
+
+5070       1056   ////      1354  SVI  C   RSP  025-180   VI/1                  
+
+5050       1056   ////      1135  SAG  C   RSP  025-058   VI/1                  
+
+5080       1203   ////      1326  SAG  C   RSP  025-160   VI/2              1479
+5080       1204   1218      1231  G15  5   XRA  1-8A      C1.0    1.3E-03   1479
+5080       1206   1213      1225  SVI  3   FLA  N10W30    SF                1479
+
+5100 +     1315   ////      1909  HOL  4   EPL  ////      0.33    B.7A          
+
+5090 +     1517   ////      1527  SAG  C   RSP  025-053   III/2                 
+
+5110       1720   ////      1720  SAG  C   RSP  025-051   III/1                 
+
+5120 +     2209   ////      2210  SAG  C   RSP  025-086   III/1                 

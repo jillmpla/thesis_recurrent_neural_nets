@@ -1,0 +1,77 @@
+:Product: 20120716events.txt
+:Created: 2012 Jul 19 0332 UT
+:Date: 2012 07 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jul 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 670       0028   0029      0030  LEA  G   RBR  245       110               1519
+
+ 700       0111   ////      0121  PAL  C   RSP  025-180   VI/1              1519
+ 700 +     0112   ////      0114  CUL  C   RSP  018-180   III/1             1519
+ 700       0115   0115      0115  LEA  G   RBR  245       160               1519
+ 700       0116   0119      0128  HOL  3   FLA  S17W68    SF                1519
+
+ 830 +     0118   0154      1729  COM  G   RNS  245       310                   
+
+ 730       0328   ////      0328  CUL  C   RSP  040-090   III/1                 
+
+ 740 +     0343   ////      0343  LEA  C   RSP  025-180   III/1                 
+
+ 750       0348   ////      0349  CUL  C   RSP  018-160   III/2                 
+
+ 760       0441   0448      0451  SVI  3   FLA  S14W45    SF                1520
+
+ 770       0452   0458      0509  G15  5   XRA  1-8A      C3.0    2.2E-03   1522
+ 770 +     0453   0458      0509  SVI  3   FLA  N10W62    SF      ERU       1522
+ 770 +     0454   ////      0458  CUL  C   RSP  018-200   III/2             1522
+ 770       0455   0455      0455  SVI  G   RBR  245       120               1522
+
+ 930       0457   0505      0523  SVI  3   FLA  S15W45    SF                1520
+
+ 780       0547   ////      0547  LEA  C   RSP  025-048   III/1                 
+
+ 790       0708   0708      0708  LEA  G   RBR  410       120                   
+
+ 800       0817   0817      0817  SVI  G   RBR  245       120                   
+
+ 810       0918   0919      0919  LEA  G   RBR  245       130                   
+
+ 820 +     0926   0927      0927  SVI  G   RBR  245       270                   
+
+ 850 +     1105   1105      1105  SVI  G   RBR  245       320                   
+
+ 860       1113   ////      1122  SAG  C   RSP  025-180   III/1                 
+
+ 870       1150   1154      1156  SVI  3   FLA  N10W67    SF                1522
+
+ 880 +     1159   1159      1159  SVI  G   RBR  410       250                   
+
+ 890 +     1301   1310      1319  G15  5   XRA  1-8A      C2.2    2.0E-03   1520
+ 890       1301   ////      1302  SAG  C   RSP  025-180   III/1             1520
+
+ 970       1324   ////      1822  SAG  C   RSP  126-180   CTM/1                 
+
+ 900       1412   1412      1414  SVI  3   FLA  S20W58    SF                1521
+
+ 940       1413   1413      1414  SVI  3   FLA  S15W45    SF                1520
+
+ 910       1531   ////      1532  SAG  C   RSP  025-038   III/1                 
+
+ 920       1547   1548      1557  SVI  3   FLA  S20W60    SF                1521
+
+ 950 +     1829   1836      1840  G15  5   XRA  1-8A      C1.8    9.5E-04   1520
+
+ 960 +     1919   2003      2043  G15  5   XRA  1-8A      C7.5    2.3E-02   1520
+ 960       1935   1944      1952  HOL  3   FLA  S14W55    SF      ERU       1520
+
+ 980 +     2127   2141      2150  HOL  3   FLA  S20W68    2N      DSD       1521
+ 980       2135   2139      2145  G15  5   XRA  1-8A      C3.8    1.6E-03   1521
+
+ 990       2256   ////      2256  CUL  C   RSP  018-045   III/1                 

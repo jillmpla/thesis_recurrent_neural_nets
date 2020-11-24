@@ -1,0 +1,64 @@
+:Product: 20120517events.txt
+:Created: 2012 May 20 0332 UT
+:Date: 2012 05 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 May 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4610       0054   0054      0054  LEA  G   RBR  245       100                   
+
+4620       0125   0147      0214  G15  5   XRA  1-8A      M5.1    9.9E-02   1476
+4620       0128   0134      0308  LEA  3   FLA  N11W76    1F      BPT       1476
+4620 +     0129   0142      0158  LEA  G   RBR  245       1400              1476
+4620 +     0129   0142      0155  LEA  G   RBR  4995      750               1476
+4620 +     0129   0135      0149  LEA  G   RBR  8800      630               1476
+4620 +     0129   0142      0152  LEA  G   RBR  2695      540               1476
+4620       0130   0136      0144  LEA  G   RBR  15400     300               1476
+4620 +     0131   ////      0141  LEA  C   RSP  025-180   II/3    645       1476
+4620 +     0132   ////      0252  LEA  C   RSP  025-180   IV/2              1476
+4620 +     0133   ////      0137  CUL  C   RSP  018-200   III/3             1476
+4620 +     0134   0142      0150  LEA  G   RBR  410       560               1476
+4620 +     0135   0142      0144  LEA  G   RBR  610       170               1476
+4620      B0148   ////     A0530  SOH  3   CME  XUV,EUV,UV170-011/FS1618      1476
+4620 +     0203   0204      0204  LEA  G   RBR  1415      2500              1476
+
+4630       0244   ////      0250  CUL  C   RSP  020-140   III/1                 
+
+4730       0514   ////      0516  CUL  C   RSP  020-070   III/1                 
+
+4740       0548   ////      0553  CUL  C   RSP  020-060   III/1                 
+
+4640 +     1029   1029      1029  SVI  G   RBR  245       130                   
+
+4650 +     1037   1037      1037  SVI  G   RBR  245       230                   
+
+4660 +     1103   1103      1103  SVI  G   RBR  245       120                   
+
+4670       1150   1154      1200  G15  5   XRA  1-8A      C1.1    5.2E-04       
+
+4680 +     1232   ////      1442  SVI  C   RSP  025-084   VI/1                  
+
+4700       1530   ////      1718  SVI  3   EPL  ////      0.33    B.9A          
+
+4690       1548   ////      1548  SVI  C   RSP  036-049   III/1                 
+
+4710 +     1707   ////      1707  SVI  C   RSP  025-082   III/1                 
+4710       1707   ////      1744  SAG  C   RSP  025-058   VI/2                  
+
+4750       1826   ////      2314  PAL  C   RSP  025-180   VI/2                  
+4750       1852   1902      1937  G15  5   XRA  1-8A      C1.3    3.1E-03   1476
+
+4720 +     1929   1929      1929  SAG  G   RBR  245       180                   
+4720       1929   1929      1929  SAG  G   RBR  410       80                    
+
+4760       1947   1958      2017  G15  5   XRA  1-8A      C1.4    1.6E-03       
+
+4770       2117   2132      2144  G15  5   XRA  1-8A      C1.3    1.9E-03   1476
+
+4780       2245   2303      2325  G15  5   XRA  1-8A      C1.3    2.6E-03   1476

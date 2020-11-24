@@ -1,0 +1,81 @@
+:Product: 20120420events.txt
+:Created: 2012 Apr 23 0332 UT
+:Date: 2012 04 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Apr 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7250       0155   0202      0209  G15  5   XRA  1-8A      B9.0    5.9E-04   1463
+
+7260       0315   0322      0328  G15  5   XRA  1-8A      C1.1    6.7E-04   1462
+
+7270 +     0408   ////      0410  LEA  C   RSP  025-180   III/1                 
+
+7280       0522   ////      0544  SVI  C   RSP  025-125   VI/1                  
+7280       0523   ////      0533  LEA  C   RSP  025-136   III/1                 
+
+7290       0800   ////      0908  SVI  C   RSP  025-082   VI/1                  
+7290       0830   ////      0830  LEA  C   RSP  025-180   III/1                 
+
+7300       0943   ////      0943  SVI  C   RSP  075-083   III/1                 
+
+7310 +     1007   ////      1010  SAG  C   RSP  025-180   III/1                 
+
+7320       1009   ////      1011  SVI  C   RSP  025-180   III/2                 
+7320       1009   1010      1011  SVI  G   RBR  245       550                   
+7320       1009   1009      1010  SVI  G   RBR  410       68                    
+
+7330 +     1039   ////      1220  SVI  C   RSP  025-180   VI/2                  
+
+7340      B1155  U1155     A1202  SVI  3   FLA  S27W38    SF                1462
+
+7350 +     1313   ////      1313  SVI  C   RSP  025-082   III/1                 
+
+7360       1349   1355      1356  HOL  3   FLA  S19E46    SF      DSD           
+
+7370       1358   1401      1404  HOL  3   FLA  S18E45    SF                    
+
+7380       1412   1501      1708  HOL  3   FLA  S19E44    1F      PRB       1465
+7380 +     1423   ////      1425  SVI  C   RSP  028-059   III/1             1465
+
+7390 +     1449   1501      1532  G15  5   XRA  1-8A      C1.6    3.3E-03   1465
+
+7400       1544   1551      1604  HOL  3   FLA  S18E08    SF      ERU       1459
+7400 +     1621   ////      1735  PAL  C   RSP  109-180   CTM/1             1459
+
+7540       1646   1647      1649  G15  5   XRA  1-8A      C3.3    5.9E-04   1465
+
+7410       1717   1724      1731  HOL  3   FLA  S19E44    SF      ERU       1465
+7410       1722   1726      1736  G15  5   XRA  1-8A      C1.6    1.1E-03   1465
+
+7440       1723   1741      1751  HOL  3   FLA  S16E06    SF                1459
+
+7430       1735   1743      1747  HOL  3   FLA  S19E44    SF      DSD       1465
+
+7420 +     1743   ////      1744  SAG  C   RSP  025-064   III/1                 
+
+7450 +     1804   1815      1830  HOL  3   FLA  S19E44    SF      ERU       1465
+
+7490       1811   1814      1818  HOL  3   FLA  S27E00    SF      ERU           
+
+7460 +     1849   ////      1849  PAL  C   RSP  037-064   III/1                 
+
+7470       1906   1906      1910  HOL  3   FLA  S18E43    SF      ERU       1465
+
+7480 +     2000   2007      2010  G15  5   XRA  1-8A      C1.0    4.3E-04   1465
+
+7500       2044   2048      2051  G15  5   XRA  1-8A      C1.6    4.4E-04   1465
+7500       2045   2050      2055  HOL  3   FLA  S18E42    SF                1465
+
+7530       2051   2148      2148  SAG  G   RNS  245       120                   
+
+7510 +     2147   ////      2149  SAG  C   RSP  025-053   III/1                 
+
+7520       2225   2235      2244  G15  5   XRA  1-8A      C1.4    1.3E-03   1465
+7520       2227   2233      2240  HOL  3   FLA  S18E42    SF      DSD       1465

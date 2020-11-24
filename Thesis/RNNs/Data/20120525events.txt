@@ -1,0 +1,39 @@
+:Product: 20120525events.txt
+:Created: 2012 May 28 0332 UT
+:Date: 2012 05 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 May 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5650       0000   ////      0025  LEA  C   RSP  057-180   CTM/1                 
+
+5660       0156   0201      0205  G15  5   XRA  1-8A      C1.5    5.7E-04       
+
+5670       1009   1014      1022  G15  5   XRA  1-8A      C1.6    9.0E-04       
+
+5680       1054   1101      1108  G15  5   XRA  1-8A      C1.2    8.0E-04       
+
+5700       1124   1127      1133  G15  5   XRA  1-8A      B9.5    3.7E-04       
+
+5710       1549   1555      1605  G15  5   XRA  1-8A      C1.4    1.0E-03       
+5710       1552   1555      1600  HOL  3   FLA  S16E81    SF      ERU           
+
+5720       1829   1830      1832  HOL  4   FLA  S15E82    SF      ERU           
+
+5730 +     1953   1958      2000  G15  5   XRA  1-8A      C2.0    4.3E-04   1492
+
+5740       2002   2007      2009  G15  5   XRA  1-8A      C2.0    4.4E-04   1492
+5740       2006   2008      2013  HOL  3   FLA  S14E80    SF      ERU       1492
+
+5750       2102   ////      2240  SAG  C   RSP  100-180   CTM/1                 
+
+5760       2304   2308      2320  HOL  3   FLA  S13E80    SF      ERU       1492
+5760       2307   2310      2312  G15  5   XRA  1-8A      C1.1    1.8E-04   1492
+
+5770 +     2338   ////      2342  PAL  C   RSP  025-180   III/2                 

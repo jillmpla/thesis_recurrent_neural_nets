@@ -1,0 +1,69 @@
+:Product: 20120601events.txt
+:Created: 2012 Jun 04 0332 UT
+:Date: 2012 06 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jun 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6940       0114   ////      0114  CUL  C   RSP  023-060   III/1                 
+
+6950       0145   ////      0150  CUL  C   RSP  020-130   III/1                 
+
+6900 +     0145   ////      0149  PAL  C   RSP  025-165   III/1                 
+
+6910       0327   0327      0327  LEA  G   RBR  245       110                   
+
+6960       0423   ////      0427  CUL  C   RSP  020-100   III/1                 
+
+6920       0430   0431      0431  SVI  G   RBR  245       120                   
+
+6930       0448   0449      0452  SVI  3   FLA  N14E63    SF                1493
+
+6980       0512   ////      0525  SVI  C   RSP  027-153   VI/1                  
+
+6970 +     0526   0534      0541  G15  5   XRA  1-8A      C2.1    1.4E-03   1496
+
+6990       0546   0546      0546  LEA  G   RBR  245       170                   
+
+7000       0737   0740      0743  G15  5   XRA  1-8A      C1.1    2.5E-04   1493
+7000       0739   0740      0744  SVI  3   FLA  N15E59    SF                1493
+7000 +     0739   ////      0739  SVI  C   RSP  041-137   III/1             1493
+
+7010 +     1301   ////      1301  SVI  C   RSP  028-147   III/2                 
+
+7020       1332   ////      1332  SVI  C   RSP  082-127   III/1                 
+
+7030       1413   ////      1413  SAG  C   RSP  031-051   III/1                 
+
+7040       1554   ////      1554  SAG  C   RSP  031-050   III/1                 
+
+7050       1702   1710      1716  G15  5   XRA  1-8A      C2.4    1.4E-03   1498
+7050 +     1704   1707      1718  HOL  3   FLA  N11E74    1F      YSR       1498
+7050       1706   1706      1706  SAG  G   RBR  410       280               1498
+
+7060       1839   1840      1843  HOL  3   FLA  S23E40    SF                1497
+
+7070       1849   1853      1857  HOL  3   FLA  S15E12    SF      ERU       1495
+
+7080       1902   1904      1933  HOL  3   FLA  N12E54    SF                1493
+7080       1914   1915      1915  SAG  G   RBR  410       120               1493
+
+7090       1937   1940      1943  G15  5   XRA  1-8A      C1.8    4.0E-04   1488
+7090       1938   1940      1945  HOL  3   FLA  N13W81    SF                1488
+
+7100       2030   2033      2039  HOL  3   FLA  N11E55    SF                1493
+
+7110       2115   2119      2143  HOL  3   FLA  N11E55    SF      DSD       1493
+
+7120       2230   2241      2302  G15  5   XRA  1-8A      C3.3    5.2E-03       
+7120 +     2232   ////      2252  SAG  C   RSP  025-059   II/2    936           
+7120       2233   ////      2235  SAG  C   RSP  025-044   III/1                 
+7120       2233   ////      2307  PAL  C   RSP  025-050   VI/1                  
+
+7130       2338   2339      2352  HOL  3   FLA  N12E53    SF      ERU       1493

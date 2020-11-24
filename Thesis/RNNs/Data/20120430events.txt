@@ -1,0 +1,61 @@
+:Product: 20120430events.txt
+:Created: 2012 May 03 0332 UT
+:Date: 2012 04 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Apr 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9750       0000   ////      0000  LEA  G   RBR  610       100                   
+
+9760       0003   0005      0013  HOL  3   FLA  S30E42    SF      DSD       1472
+9760 +     0004   ////      0004  LEA  C   RSP  025-135   III/1             1472
+
+9770       0029   0033      0035  G15  5   XRA  1-8A      B7.6    1.7E-04       
+
+9780       0150   ////      0150  CUL  C   RSP  030-060   III/1                 
+
+9790       0247   ////      0250  CUL  C   RSP  023-060   III/1                 
+
+9800       0253   0259      0302  G15  5   XRA  1-8A      C2.4    6.9E-04   1471
+9800       0255   0258      0301  LEA  3   FLA  S24E63    SF                1471
+
+9810       0345   ////      0345  CUL  C   RSP  035-060   III/1                 
+
+9820       0505   0508      0512  G15  5   XRA  1-8A      B7.4    2.0E-04       
+
+9830       0602   0606      0610  G15  5   XRA  1-8A      B8.9    2.7E-04   1471
+9830       0604   0605      0608  LEA  3   FLA  S22E62    SF      BPT       1471
+9830       0609   ////      0610  SVI  C   RSP  027-083   III/1             1471
+
+9840 +     0656   0738      0819  G15  5   XRA  1-8A      C3.9    1.5E-02   1465
+9840 +     0727   ////      0733  LEA  C   RSP  025-102   II/1    645       1465
+
+9850       0828   ////      0901  SVI  C   RSP  025-083   VI/1                  
+
+9860       0913   0917      0921  G15  5   XRA  1-8A      C2.4    7.6E-04   1471
+9860      B0915  U0916     A0947  SVI  2   FLA  S24E60    SF                1471
+
+9870       1021   1026      1032  G15  5   XRA  1-8A      C5.6    2.2E-03   1471
+9870       1023   1025      1046  SVI  2   FLA  S24E59    SF                1471
+
+9880       1037   1041      1043  G15  5   XRA  1-8A      C6.0    1.1E-03       
+
+9890       1430   1436      1441  G15  5   XRA  1-8A      C1.2    5.6E-04   1471
+9890 +     1433   1435      1441  HOL  3   FLA  S26E57    SF      ERU       1471
+
+9900       1530   ////      1530  SVI  C   RSP  049-153   III/1                 
+
+9910       1553   ////      1553  SAG  C   RSP  036-100   III/1                 
+
+9920       1754   1756      1801  HOL  3   FLA  S26E57    SF      ERU       1471
+
+9930       1959   ////      2117  SAG  C   RSP  025-056   VI/1                  
+9930 +     2000   ////      2000  PAL  C   RSP  025-054   III/1                 
+
+9940       2223   2226      2228  HOL  3   FLA  S25E53    SF                1471

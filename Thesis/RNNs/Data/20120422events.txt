@@ -1,0 +1,84 @@
+:Product: 20120422events.txt
+:Created: 2012 Apr 25 0332 UT
+:Date: 2012 04 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Apr 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7830       0012   0018      0028  HOL  3   FLA  S25W57    SF      ERU       1462
+
+7840 +     0122   ////      0122  CUL  C   RSP  018-090   III/2                 
+
+8030       0141   ////      0141  CUL  C   RSP  023-065   III/1                 
+
+7860 +     0204   ////      0352  LEA  C   RSP  025-180   VI/2                  
+7860 +     0205   ////      0205  CUL  C   RSP  020-250   III/2                 
+
+8130       0225   ////      0225  CUL  C   RSP  020-080   III/1                 
+
+8140       0242   ////      0245  CUL  C   RSP  018-080   III/1                 
+
+8040       0449   ////      0449  CUL  C   RSP  023-060   III/1                 
+
+7870       0505   0505      0505  LEA  G   RBR  245       100                   
+
+8050       0528   ////      0528  CUL  C   RSP  023-060   III/1                 
+
+7880 +     0553   ////      0553  CUL  C   RSP  020-060   III/2                 
+
+7900 +     0705   0708      0710  G15  5   XRA  1-8A      C1.3    2.2E-04   1465
+7900       0709   ////      0719  SVI  C   RSP  025-087   VI/1              1465
+
+7940       0751   ////      1724  SVI  C   RSP  040-180   CTM/1                 
+
+7910       0911   0915      0922  G15  5   XRA  1-8A      B9.9    6.6E-04   1461
+
+7890 +     0920   0922      0937  SVI  G   RNS  245       120                   
+
+7920       0926   0928      0930  G15  5   XRA  1-8A      C1.0    2.9E-04   1461
+
+8060       1022   ////      2322  SAG  C   RSP  118-180   CTM/1                 
+
+7950       1335   ////      1442  SVI  C   RSP  025-180   VI/1                  
+7950       1349   ////      1503  HOL  3   EPL  ////      0.19                  
+
+7930 +     1359   1405      1413  G15  5   XRA  1-8A      C1.8    1.1E-03   1463
+7930       1404   ////      1528  SVI  3   EPL  ////      0.2     B.9A      1463
+
+7960       1517   ////      1523  SVI  C   RSP  025-086   III/1                 
+
+7970       1606   1606      1618  HOL  3   FLA  N16W36    SF      ERU       1460
+
+7980       1632   1639      1648  G15  5   XRA  1-8A      C1.2    1.1E-03   1459
+7980       1636   1638      1657  HOL  3   FLA  S15W21    SF      ERU       1459
+
+8000       1642   1642      1643  HOL  3   FLA  S19E21    SF      ERU       1465
+
+8070       1716   ////      2359  PAL  C   RSP  045-180   CTM/1                 
+
+7990       1748   1754      1800  G15  5   XRA  1-8A      C1.7    8.2E-04   1465
+7990       1750   1755      1827  HOL  3   FLA  S19E20    SF      ERU       1465
+
+8010 +     1953   ////      1955  PAL  C   RSP  025-180   III/2                 
+
+8080       2013   2038      2047  HOL  3   FLA  S20E18    SF      ERU       1465
+
+8090       2052   2056      2100  G15  5   XRA  1-8A      C1.9    6.0E-04   1459
+8090       2054   2054      2105  HOL  3   FLA  S14W24    SF      ERU       1459
+
+8100       2105   2110      2117  G15  5   XRA  1-8A      C1.7    9.2E-04   1460
+8100       2106   2115      2129  HOL  3   FLA  N16W38    SF                1460
+
+8150       2107   2110      2116  HOL  3   FLA  S14W24    SF      ERU       1459
+
+8110       2140   2146      2225  HOL  3   FLA  S20E18    SF      ERU       1465
+8110       2142   2148      2153  G15  5   XRA  1-8A      C2.4    1.1E-03   1465
+8110 +     2147   ////      2153  SAG  C   RSP  025-124   III/1             1465
+
+8120       2330   2330      2330  LEA  G   RBR  245       130                   

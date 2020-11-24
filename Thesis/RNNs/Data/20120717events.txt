@@ -1,0 +1,87 @@
+:Product: 20120717events.txt
+:Created: 2012 Jul 20 0332 UT
+:Date: 2012 07 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jul 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1010       0113   0113      0113  LEA  G   RBR  245       260                   
+
+1020       0114   ////      0114  CUL  C   RSP  130-260   III/1                 
+
+1030       0126   0126      0128  LEA  3   FLA  S20E65    SF                1524
+
+1040       0154   0203      0205  LEA  3   FLA  S20E65    SF                1524
+
+1050       0314   0335      0342  LEA  3   FLA  S19E63    SF                1524
+1050 +     0332   ////      0334  CUL  C   RSP  018-060   III/1                 
+
+1060       0351   0353      0356  LEA  3   FLA  S19E63    SF                1524
+
+1220       0357   0357      0400  LEA  3   FLA  S19E63    SF                1524
+
+1070       0400   0436      0459  LEA  3   FLA  S19E62    SF                1524
+
+1080       0403   0415      0421  G15  5   XRA  1-8A      C2.4    2.4E-03   1521
+1080       0413   0414      0418  LEA  3   FLA  S18W67    SF                1521
+
+1170       0550   ////      0856  LEA  C   RSP  087-180   CTM/1                 
+
+1090       0552   0605      0610  G15  5   XRA  1-8A      C1.5    1.4E-03   1521
+1090 +     0600   0605      0609  SVI  3   FLA  S19W84    SF                1521
+
+1100       0704   0704      0704  LEA  G   RBR  245       100                   
+
+1110       0709   0712      0719  LEA  3   FLA  S19E61    SF                1524
+
+1120 +     0730   0730      0747  LEA  3   FLA  S19E61    SF                1524
+
+1140 +     0752   0754      0758  LEA  3   FLA  S19E61    SF                1524
+
+1150 +     0801   0804      0805  SVI  3   FLA  S17E61    SF                1524
+
+1180       0807   0814      0817  LEA  3   FLA  S19E60    SF                1524
+
+1190 +     0857   0857      0900  LEA  3   FLA  S19E60    SF                1524
+
+1200       1146   1146      1153  SVI  3   FLA  S17E60    SF                1524
+
+1210 +     1153   1153      1153  SAG  G   RBR  245       120                   
+
+1260 +     1203   1715      1904  G15  5   XRA  1-8A      M1.7    2.1E-01   1520
+
+1330       1307   ////      1952  SAG  C   RSP  039-180   CTM/1                 
+
+1260 +     1328  U1643     A1802  COM  3   FLA  S28W65    1F                1520
+
+1280 +     1328   1348      1356  SVI  G   RNS  245       260                   
+
+1240      B1348   ////      1730  SOH  4   CME  XUV,EUV,UV153-304/FS814       1520
+
+1250       1607   ////      1608  SVI  C   RSP  027-041   III/1                 
+
+1300       1700   ////      1805  SVI  C   RSP  099-148   CTM/1                 
+1300       1716   ////      1955  SAG  C   RSP  025-117   VI/2                  
+
+1310       1716   ////      1733  SVI  C   RSP  025-112   VI/1                  
+
+1320       1732   ////      1733  PAL  C   RSP  025-050   III/1                 
+
+1270       1809   ////      1810  PAL  C   RSP  025-038   III/1                 
+
+1290       1821   ////      1822  PAL  C   RSP  025-068   III/1                 
+
+1340       2035   ////      2110  SAG  C   RSP  025-180   VI/2                  
+1340       2035   ////      2035  PAL  C   RSP  025-180   III/1                 
+
+1350 +     2058   ////      2100  PAL  C   RSP  025-180   III/2                 
+
+1360 +     2110   ////      2110  CUL  C   RSP  023-180   III/1                 
+
+1380       2324   ////      2324  LEA  C   RSP  078-146   III/1                 
