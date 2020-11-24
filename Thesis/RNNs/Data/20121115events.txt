@@ -1,0 +1,61 @@
+:Product: 20121115events.txt
+:Created: 2012 Nov 18 0332 UT
+:Date: 2012 11 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Nov 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2630 +     0014   ////      0014  LEA  C   RSP  025-122   III/1                 
+
+2640       0214   ////      0248  PAL  C   RSP  123-180   CTM/1                 
+
+2650 +     0319   ////      0328  LEA  C   RSP  025-120   III/1                 
+
+2660 +     0330   0334      0344  G14  5   XRA  1-8A      B8.2    5.6E-04   1610
+
+2670 +     0422   0437      0451  G14  5   XRA  1-8A      C6.3    7.1E-03   1610
+2670 +     0426   ////      0428  LEA  C   RSP  038-181   III/1             1610
+
+2790       0601   ////      0601  CUL  C   RSP  020-060   III/1                 
+
+2800       0616   ////      0616  CUL  C   RSP  020-060   III/1                 
+
+2810       0636   ////      0636  CUL  C   RSP  020-090   III/1                 
+
+2820       0756   ////      0756  CUL  C   RSP  020-050   III/1                 
+
+2680 +     0756   0802      0806  G14  5   XRA  1-8A      C2.8    1.1E-03   1613
+2680 +     0757   ////      0804  SVI  C   RSP  025-180   III/2             1613
+
+2690 +     1240   1254      1310  G14  5   XRA  1-8A      C3.2    4.6E-03   1615
+2690 +     1244   ////      1245  SAG  C   RSP  025-042   III/2             1615
+
+2700 +     1423   1430      1435  G14  5   XRA  1-8A      C2.1    9.8E-04   1613
+2700 +     1424   ////      1430  SAG  C   RSP  025-180   III/2             1613
+2700 +     1426   1426      1427  SAG  G   RBR  245       330               1613
+
+2710       1437   1437      1447  HOL  3   FLA  S25E10    SF                1613
+
+2720 +     1802   ////      2018  SAG  C   RSP  025-119   VI/1                  
+
+2730 +     2014   2021      2025  G14  5   XRA  1-8A      C1.0    5.0E-04   1613
+2730       2017   2018      2026  HOL  3   FLA  S24E09    SF                1613
+2730 +     2017   ////      2017  CUL  C   RSP  018-090   III/3             1613
+
+2740 +     2055   ////      2057  CUL  C   RSP  018-080   III/1                 
+
+2750       2129   ////      2129  PAL  C   RSP  025-086   III/1                 
+
+2760       2154   ////      2209  LEA  C   RSP  028-106   III/1                 
+2760       2159   ////      2332  LEA  C   RSP  075-180   CTM/1                 
+2760       2200   2214      2247  G14  5   XRA  1-8A      B8.3    2.1E-03   1611
+
+2770       2237   ////      2240  PAL  C   RSP  025-054   III/1                 
+
+2780       2245   ////      2306  LEA  C   RSP  025-084   VI/1                  

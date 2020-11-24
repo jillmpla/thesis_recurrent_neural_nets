@@ -1,0 +1,32 @@
+:Product: 20130101events.txt
+:Created: 2013 Jan 04 0332 UT
+:Date: 2013 01 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jan 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 290       0058   0103      0111  G15  5   XRA  1-8A      B7.8    4.4E-04       
+
+ 300       0736   ////      0737  SVI  C   RSP  025-123   III/1                 
+
+ 310       0847   0906      0913  G15  5   XRA  1-8A      C1.2    1.2E-03   1640
+ 310 +     0854   0905      0924  SVI  3   FLA  N25W01    SF      ERU       1640
+
+ 320       1151   ////      1521  SVI  C   RSP  027-180   CTM/1                 
+
+ 360       1426   1438      1456  G15  5   XRA  1-8A      B5.2    8.5E-04       
+
+ 330       1553   1558      1607  G15  5   XRA  1-8A      B6.2    4.1E-04   1640
+
+ 410       1607   ////      2109  SAG  C   RSP  141-180   CTM/1                 
+
+ 340       1801   1803      1807  HOL  3   FLA  N27W05    SF      DSD       1640
+
+ 350       2202   ////      2359  LEA  C   RSP  068-180   CTM/1                 
+ 350       2252   2258      2301  G15  5   XRA  1-8A      B4.7    2.5E-04   1640

@@ -1,0 +1,44 @@
+:Product: 20130107events.txt
+:Created: 2013 Jan 10 0332 UT
+:Date: 2013 01 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jan 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1350       0045   0102      0110  G15  5   XRA  1-8A      C1.1    1.5E-03   1645
+
+1360 +     0350   0354      0403  G15  5   XRA  1-8A      C1.0    6.1E-04   1653
+
+1470       0442   0452      0457  G15  5   XRA  1-8A      B8.0    6.4E-04   1653
+
+1370       0601   0601      0602  LEA  G   RBR  245       120                   
+
+1380 +     0635   0639      0646  G15  5   XRA  1-8A      C1.0    5.0E-04   1640
+
+1400       0739   0747      0751  G15  5   XRA  1-8A      C1.3    6.9E-04   1653
+
+1410       0810   0810      0811  LEA  G   RBR  610       850                   
+
+1420 +     0818   0818      0818  SVI  G   RBR  410       160                   
+
+1430       0836   0836      0836  LEA  G   RBR  610       130                   
+
+1440       0844   0852      0857  G15  5   XRA  1-8A      C3.1    1.7E-03   1640
+1440       0846   0849      0852  SVI  3   FLA  N27W72    SF                1640
+1440       0846   0846      0846  LEA  G   RBR  610       2800              1640
+
+1480       0947   0954      1000  G15  5   XRA  1-8A      C1.1    8.4E-04   1638
+
+1450       1421   1421      1421  SAG  G   RBR  410       140                   
+
+1460       1616   1616      1616  SAG  G   RBR  245       100                   
+
+1490       1814   1821      1824  G15  5   XRA  1-8A      C1.2    6.7E-04       
+
+1500       2344   2357      0004  G15  5   XRA  1-8A      C2.2    2.4E-03   1640

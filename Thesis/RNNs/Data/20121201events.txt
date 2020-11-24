@@ -1,0 +1,52 @@
+:Product: 20121201events.txt
+:Created: 2012 Dec 04 0332 UT
+:Date: 2012 12 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Dec 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6280       0353   0354      0356  LEA  3   FLA  S17W84    SF                1620
+
+6290       0445   ////      0445  LEA  C   RSP  025-097   III/1                 
+
+6300       0550   0550      0550  LEA  G   RBR  245       110                   
+
+6310       0607   0610      0612  G15  5   XRA  1-8A      B6.2    1.0E-04       
+
+6320       0633   0633      0633  LEA  G   RBR  245       230                   
+
+6330       0657   0657      0657  SVI  G   RBR  245       110                   
+
+6340       0711   0711      0712  SVI  G   RBR  245       190                   
+
+6350       0717   0717      0717  SVI  G   RBR  245       100                   
+
+6360       0721   0721      0721  LEA  G   RBR  245       130                   
+
+6370       0809   ////      0809  LEA  C   RSP  025-109   III/1                 
+6370       0809   ////      0830  SVI  C   RSP  025-133   VI/1                  
+
+6380       0831   0836      0844  G15  5   XRA  1-8A      C1.3    6.9E-04   1625
+6380       0834   0834      0839  LEA  3   FLA  N13E33    SF                1625
+
+6390       0914   0917      0920  G15  5   XRA  1-8A      B6.2    1.3E-04   1620
+6390       0915   ////      1015  SVI  C   RSP  075-180   CTM/1                 
+
+6400       0942   ////      1036  LEA  C   RSP  084-171   CTM/1                 
+6400 +     1015   ////      1016  SVI  C   RSP  034-108   III/2                 
+6400       1017   1030      1042  G15  5   XRA  1-8A      C1.9    2.1E-03   1620
+
+6410       1526   1530      1535  G15  5   XRA  1-8A      B4.4    1.7E-04       
+
+6420       1555   1601      1607  G15  5   XRA  1-8A      B7.1    3.8E-04   1625
+
+6430       2127   2142      2149  G15  5   XRA  1-8A      C1.1    9.7E-04       
+
+6450       2237   2259      2306  G15  5   XRA  1-8A      B9.4    1.2E-03   1625
+6450 +     2244   ////      2245  LEA  C   RSP  025-180   III/2                 

@@ -1,0 +1,67 @@
+:Product: 20130203events.txt
+:Created: 2013 Feb 06 0332 UT
+:Date: 2013 02 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Feb 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5150 +     0151   0156      0203  G15  5   XRA  1-8A      B6.9    3.9E-04   1667
+5150       0152   0155      0202  LEA  3   FLA  N22E55    SF                1667
+
+5160       0216   0224      0229  G15  5   XRA  1-8A      C2.2    1.1E-03   1667
+5160       0218   0220      0234  LEA  3   FLA  N22E55    SF      BPT       1667
+
+5170 +     0351   ////      0353  LEA  C   RSP  025-098   III/1                 
+
+5180       0427   0440      0514  LEA  3   FLA  N23E53    SF      BPT       1667
+5180       0436   0448      0504  G15  5   XRA  1-8A      B9.3    1.3E-03   1667
+
+5190       0556   0610      0615  G15  5   XRA  1-8A      C8.4    3.3E-03   1667
+5190       0607   0609      0624  LEA  3   FLA  N23E53    SN      ERU       1667
+5190       0614   ////      0615  CUL  C   RSP  020-090   III/1             1667
+
+5260 +     0719   ////      1022  LEA  C   RSP  025-180   VI/1                  
+5260 +     0726   ////      0728  CUL  C   RSP  020-180   III/2                 
+
+5200       0727   0728      0728  LEA  G   RBR  410       170                   
+
+5210       0743   0818      0853  G15  5   XRA  1-8A      C1.5    5.0E-03   1667
+5210       0748   ////      0751  CUL  C   RSP  020-070   III/1             1667
+5210       0755   ////      0933  LEA  C   RSP  025-084   CTM/1             1667
+5210       0813   0813     A0830  LEA  2   FLA  N23E53    SF                1667
+
+5220       0836   0837      0838  LEA  3   FLA  N23E53    SF                1667
+
+5230       0851   0851      0854  LEA  3   FLA  N23E53    SF      BPT       1667
+
+5240       0932   0934      0934  LEA  G   RBR  610       440                   
+
+5250      B0948   0953     A0956  LEA  2   FLA  N23E53    SF                1667
+
+5270       1021   ////      1026  SVI  C   RSP  025-115   III/1                 
+
+5280       1133   ////      1134  SVI  C   RSP  047-082   III/1                 
+
+5290       1439   1448      1459  G15  5   XRA  1-8A      B7.5    6.7E-04   1667
+
+5300       1702   ////      1709  SAG  C   RSP  025-180   III/1                 
+
+5430       1729   1801      1832  G15  5   XRA  1-8A      C1.5    4.0E-03   1665
+
+5310 +     1901   ////      1906  SAG  C   RSP  025-081   III/1                 
+
+5320       1958   ////      1958  PAL  C   RSP  025-054   III/1                 
+
+5340       2138   ////      2141  CUL  C   RSP  020-070   III/1                 
+
+5330       2139   ////      2139  PAL  C   RSP  025-049   III/1                 
+
+5350       2217   ////      2217  CUL  C   RSP  040-080   III/1                 
+
+5360 +     2315   ////      2343  LEA  C   RSP  025-079   VI/1                  

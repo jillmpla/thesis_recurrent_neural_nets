@@ -1,0 +1,82 @@
+:Product: 20121218events.txt
+:Created: 2012 Dec 21 0332 UT
+:Date: 2012 12 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Dec 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8280       0136   ////      0136  LEA  C   RSP  025-062   III/1                 
+
+8320       0238   ////      0613  LEA  C   RSP  120-180   CTM/1                 
+
+8290       0322   ////      0329  LEA  C   RSP  025-057   III/1                 
+
+8300       0356   ////      0449  LEA  C   RSP  025-063   III/1                 
+8300       0416   0416      0416  LEA  G   RBR  245       110                   
+
+8310       0514   0514      0514  LEA  G   RBR  245       100                   
+
+8330       0708   0708      0708  LEA  G   RBR  245       190                   
+
+8340 +     0746   0747      0747  SVI  G   RBR  245       630                   
+
+8350       0758   0758      0758  LEA  G   RBR  245       120                   
+
+8370       0947   0947      0947  LEA  G   RBR  245       120                   
+
+8380       0958   0958      0958  SVI  G   RBR  245       120                   
+
+8390 +     1036   1037      1038  SVI  G   RBR  245       430                   
+
+8400       1054   1054      1055  SVI  G   RBR  245       300                   
+
+8410       1115   1115      1115  SVI  G   RBR  245       200                   
+
+8520       1137   1141      1220  SVI  G   RNS  245       290                   
+
+8420 +     1235   ////      1235  SVI  C   RSP  025-143   III/2                 
+
+8450       1300   1308      1312  G15  5   XRA  1-8A      C1.4    9.2E-04   1631
+
+8430 +     1331   1331      1331  SVI  G   RBR  245       120                   
+
+8460 +     1345   ////      1512  SVI  C   RSP  075-180   CTM/1                 
+
+8440       1350   1350      1350  SAG  G   RBR  245       160                   
+8440       1350   ////      1350  SAG  C   RSP  056-117   III/1                 
+
+8470       1559   1559      1600  SAG  G   RBR  245       150                   
+
+8480       1610   1616      1620  SAG  G   RBR  245       100                   
+
+8490       1624   1624      1624  SAG  G   RBR  245       100                   
+
+8560       1636   1640      2005  SAG  G   RNS  245       200                   
+
+8500       1637   1642      1645  G15  5   XRA  1-8A      C1.3    4.4E-04   1633
+8500       1639   1639      1646  HOL  3   FLA  S06E25    SF      DSD       1633
+
+8530       1818   ////      1819  SAG  C   RSP  025-063   III/1                 
+
+8360 +     1833   2337      2359  PAL  G   RNS  245       310                   
+
+8540       1914   ////      1915  PAL  C   RSP  025-139   III/1                 
+8540       1914   ////      1915  SAG  C   RSP  025-180   V/1                   
+
+8580       1939   ////      2332  PAL  C   RSP  025-180   VI/1                  
+
+8550       1959   2003      2007  G15  5   XRA  1-8A      B9.5    3.2E-04   1634
+8550 +     2000   ////      2002  CUL  C   RSP  018-130   III/3                 
+
+8590       2154   2225      2255  LEA  G   RNS  610       240                   
+8590       2154   ////      2359  LEA  C   RSP  074-180   CTM/1                 
+
+8570       2212   ////      2220  LEA  C   RSP  025-123   III/1                 
+
+8600       2255   ////      2359  LEA  C   RSP  025-113   VI/1                  

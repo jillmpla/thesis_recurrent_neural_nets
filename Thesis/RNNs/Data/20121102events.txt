@@ -1,0 +1,25 @@
+:Product: 20121102events.txt
+:Created: 2012 Nov 05 0332 UT
+:Date: 2012 11 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Nov 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1320 +     0658   0703      0707  G14  5   XRA  1-8A      B6.9    2.3E-04   1598
+
+1340       1538   1538      1538  SAG  G   RBR  245       130                   
+
+1350       1727   ////      1727  SAG  C   RSP  025-068   III/1                 
+
+1360       1858   1920      1928  G14  5   XRA  1-8A      B5.8    7.8E-04   1598
+1360       1906   ////      2146  HOL  2   EPL  ////      0.15    B.5A          
+
+1370 +     1959   ////      2000  PAL  C   RSP  025-180   III/1                 
+
+1380       2318   2325      2333  G14  5   XRA  1-8A      B5.7    4.0E-04   1598

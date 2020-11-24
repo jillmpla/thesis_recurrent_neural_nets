@@ -1,0 +1,25 @@
+:Product: 20121109events.txt
+:Created: 2012 Nov 12 0332 UT
+:Date: 2012 11 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Nov 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1620       0012   0151      0241  G14  5   XRA  1-8A      C1.0    7.5E-03   1604
+
+1630       1041   1054      1101  G14  5   XRA  1-8A      B5.2    5.7E-04       
+
+1760       1606   ////      1606  SOH  3   CME  ////      000-360/FS650           
+
+1640       1802   1818      1827  G14  5   XRA  1-8A      B7.6    1.0E-03   1610
+
+1660       2131   ////      2136  PAL  C   RSP  025-076   III/1                 
+
+1680       2315   2353      0016  G14  5   XRA  1-8A      B7.5    2.3E-03   1610
+1680       2339   2350      2352  LEA  G   RBR  610       370                   

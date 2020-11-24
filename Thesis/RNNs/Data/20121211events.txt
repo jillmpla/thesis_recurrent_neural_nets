@@ -1,0 +1,45 @@
+:Product: 20121211events.txt
+:Created: 2012 Dec 14 0332 UT
+:Date: 2012 12 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Dec 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7270       0040   0046      0049  G15  5   XRA  1-8A      B5.7    2.0E-04   1630
+
+7280       0253   ////      0253  CUL  C   RSP  018-130   III/1                 
+
+7290       0302   0310      0315  G15  5   XRA  1-8A      B5.6    3.1E-04   1630
+7290       0306   0309      0315  LEA  3   FLA  N18W12    SF      ERU       1630
+
+7350       0545   ////      0545  CUL  C   RSP  020-050   III/1                 
+
+7360       0554   ////      0555  CUL  C   RSP  020-080   III/1                 
+
+7370       0758   ////      0759  CUL  C   RSP  030-057   III/1                 
+
+7310       1228   ////      1236  SVI  C   RSP  025-144   III/1                 
+
+7320       1310   ////      1312  SVI  C   RSP  025-140   III/2                 
+
+7510      A1355   ////     A0923  SVI  3   DSF  S19E14    8                     
+
+7330 +     1406   ////      1406  SVI  C   RSP  025-079   III/1                 
+
+7380       2041   ////      2041  CUL  C   RSP  025-180   III/1                 
+
+7390       2047   ////      2047  CUL  C   RSP  020-200   III/1                 
+
+7400       2120   ////      2121  CUL  C   RSP  018-100   III/1                 
+
+7340 +     2215   ////      2215  LEA  C   RSP  025-135   III/1                 
+
+7410       2222   ////      2222  CUL  C   RSP  023-080   III/1                 
+
+7420 +     2341   2346      2349  G15  5   XRA  1-8A      B5.7    1.7E-04   1630

@@ -1,0 +1,34 @@
+:Product: 20130102events.txt
+:Created: 2013 Jan 05 0332 UT
+:Date: 2013 01 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jan 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 480       0000   ////      0022  LEA  C   RSP  075-119   CTM/1                 
+
+ 370       0402   ////      0444  LEA  C   RSP  025-101   VI/1                  
+
+ 400       0707   ////      1058  SVI  C   RSP  075-171   CTM/1                 
+
+ 380       0921   0925      0934  G15  5   XRA  1-8A      B5.6    3.4E-04   1643
+
+ 390       0944   ////      0944  SVI  C   RSP  025-077   III/1                 
+
+ 420 +     1939   ////      1940  PAL  C   RSP  025-055   III/1                 
+
+ 470       2108   2109      2111  G15  5   XRA  1-8A      B4.2    9.2E-05       
+
+ 440 +     2133   ////      2359  PAL  C   RSP  025-180   CTM/1                 
+
+ 430       2249   2249      2249  LEA  G   RBR  245       120                   
+
+ 450 +     2325   ////      2325  LEA  C   RSP  025-045   III/1                 
+
+ 460       2331   2331      2331  LEA  G   RBR  245       110                   

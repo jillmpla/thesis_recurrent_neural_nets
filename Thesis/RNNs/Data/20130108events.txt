@@ -1,0 +1,49 @@
+:Product: 20130108events.txt
+:Created: 2013 Jan 11 0332 UT
+:Date: 2013 01 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jan 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1510       0038   ////      0038  CUL  C   RSP  020-090   III/1                 
+
+1520 +     0043   ////      0043  CUL  C   RSP  020-075   III/1                 
+
+1530       0115   0115      0115  LEA  G   RBR  245       130                   
+
+1540       0117   0121      0124  G15  5   XRA  1-8A      C2.1    5.6E-04   1654
+
+1630       0257   0304      0307  G15  5   XRA  1-8A      C1.5    8.1E-04       
+
+1640       0453   0458      0501  G15  5   XRA  1-8A      C1.2    5.8E-04       
+
+1650       0537   0542      0548  G15  5   XRA  1-8A      C1.1    7.9E-04   1653
+
+1680       0708   ////      0708  CUL  C   RSP  020-080   III/1                 
+
+1550       0718   0723      0726  G15  5   XRA  1-8A      C1.8    5.7E-04   1652
+
+1560       1357   1402      1404  G15  5   XRA  1-8A      C1.3    3.6E-04   1652
+
+1570       1417   1421      1429  G15  5   XRA  1-8A      C1.3    7.0E-04       
+
+1580       1601   1604      1607  G15  5   XRA  1-8A      C1.4    3.1E-04   1646
+
+1600 +     1803   ////      2124  PAL  C   RSP  109-180   CTM/1                 
+
+1590       1904   1912      1919  G15  5   XRA  1-8A      C4.0    2.4E-03   1640
+
+1610       2059   ////      2059  PAL  C   RSP  025-058   III/1                 
+
+1670       2154   ////      2359  PAL  C   RSP  109-180   CTM/1                 
+
+1660       2157   ////      2205  PAL  C   RSP  025-117   III/1                 
+1660       2205   ////      2359  LEA  C   RSP  080-180   CTM/1                 
+
+1690       2351   ////      2351  CUL  C   RSP  020-090   III/1                 

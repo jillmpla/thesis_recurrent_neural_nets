@@ -1,0 +1,51 @@
+:Product: 20121216events.txt
+:Created: 2012 Dec 19 0332 UT
+:Date: 2012 12 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Dec 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7860       0111   0115      0120  G15  5   XRA  1-8A      B5.5    2.1E-04   1633
+
+7970       0238   ////      0240  CUL  C   RSP  020-090   III/1                 
+
+7870       0300   0301      0306  LEA  3   FLA  N19W48    SF                1631
+
+7880       0316   0316      0329  LEA  3   FLA  N19W48    SF                1631
+
+7900       0335   ////      0922  LEA  C   RSP  025-180   VI/1                  
+
+7890       0538   0539      0550  LEA  3   FLA  N19W49    SF      BPT       1631
+
+7980       0708   ////      0708  CUL  C   RSP  057-090   III/1                 
+
+7910       1044   1047      1049  G15  5   XRA  1-8A      B6.4    9.5E-05       
+
+7920       1106   ////      1106  SVI  C   RSP  040-080   III/1                 
+
+7930       1241   ////      1247  SVI  C   RSP  028-170   III/1                 
+7930       1247   ////      1357  SAG  C   RSP  025-180   VI/1                  
+
+7940       1304   ////      1357  SVI  C   RSP  025-155   VI/1                  
+
+7950 +     1452   1455      1458  G15  5   XRA  1-8A      B5.4    1.2E-04   1633
+7950 +     1452   ////      1452  SAG  C   RSP  025-149   III/1             1633
+
+7960 +     1518   1521      1523  G15  5   XRA  1-8A      B5.3    8.7E-05   1631
+
+7990       2028   2103      2132  G15  5   XRA  1-8A      C1.1    3.6E-03   1631
+7990 +     2039   ////      2039  CUL  C   RSP  018-100   III/2                 
+
+8000 +     2205   2208      2209  PAL  G   RBR  245       1700                  
+8000       2207   2211      2215  G15  5   XRA  1-8A      C1.0    3.3E-04   1632
+8000 +     2208   ////      2211  CUL  C   RSP  018-300   III/3                 
+8000       2209   ////      2211  CUL  C   RSP  020-085   V/1                   
+
+8010       2320   2323      2325  G15  5   XRA  1-8A      B6.5    1.1E-04   1632
+8010       2323   2324      2333  LEA  3   FLA  N17W70    SF                1632

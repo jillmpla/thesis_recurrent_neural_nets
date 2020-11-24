@@ -1,0 +1,16 @@
+:Product: 20121104events.txt
+:Created: 2012 Nov 07 0332 UT
+:Date: 2012 11 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Nov 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1420       2023   ////      2023  PAL  C   RSP  025-048   III/1                 
+
+1430       2238   2241      2243  G14  5   XRA  1-8A      B2.6    4.1E-05   1603

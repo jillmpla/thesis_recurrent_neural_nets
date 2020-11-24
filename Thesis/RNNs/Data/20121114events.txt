@@ -1,0 +1,67 @@
+:Product: 20121114events.txt
+:Created: 2012 Nov 17 0332 UT
+:Date: 2012 11 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Nov 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2450 +     0000   ////      0107  LEA  C   RSP  043-180   CTM/1                 
+2450 +     0000   ////      0123  LEA  C   RSP  025-180   VI/2                  
+2450       0016   ////      0018  LEA  C   RSP  025-180   V/2                   
+2450 +     0017   ////      0019  CUL  C   RSP  018-140   III/3                 
+
+2460       0136   ////      0508  LEA  C   RSP  025-180   VI/2                  
+2460       0141   0142      0142  PAL  U   RBR  245       370                   
+2460       0214   0225      0243  G14  5   XRA  1-8A      C1.6    2.1E-03   1614
+2460       0216   ////      0223  PAL  C   RSP  081-180   III/1                 
+
+2470 +     0307   ////      0315  PAL  C   RSP  025-180   III/2                 
+2470       0311   0316      0319  G14  5   XRA  1-8A      C1.7    5.4E-04   1613
+
+2480       0359   0404      0407  G14  5   XRA  1-8A      M1.1    2.5E-03   1613
+2480       0400   ////      0406  CUL  C   RSP  018-00*   III/3                 
+2480       0402   0402      0403  LEA  G   RBR  245       220                   
+
+2490       0456   0502      0507  G14  5   XRA  1-8A      C1.0    4.7E-04   1613
+
+2500 +     0724   ////      0816  LEA  C   RSP  025-130   VI/1                  
+2500 +     0724   ////      0944  LEA  C   RSP  103-180   CTM/1                 
+
+2510 +     0926   ////      0927  LEA  C   RSP  025-146   III/1                 
+
+2520       1322   1327      1333  G14  5   XRA  1-8A      C1.3    6.4E-04   1614
+2520      B1325  U1348      1420  SVI  3   FLA  N18E37    1F                1614
+
+2530 +     1335   1345      1401  G14  5   XRA  1-8A      C4.3    5.0E-03   1614
+2530      B1343  U1344      1350  SVI  3   FLA  N11W06    SF                1611
+
+2540 +     1658   1704      1710  G14  5   XRA  1-8A      B9.5    5.2E-04   1614
+
+2550 +     1821   1829      1845  G14  5   XRA  1-8A      B9.0    1.1E-03   1610
+2550 +     1822   1822      1825  SAG  G   RBR  610       130               1610
+2550       1822   1824      1825  SAG  G   RBR  1415      44                1610
+2550 +     1823   1823      1823  SAG  G   RBR  245       110               1610
+
+2560       2112   2112      2113  PAL  U   RBR  245       750                   
+
+2570       2148   ////      2148  CUL  C   RSP  020-057   III/1                 
+
+2580       2159   ////      2159  CUL  C   RSP  018-057   III/1                 
+
+2590       2210   ////      2210  CUL  C   RSP  018-090   III/1                 
+
+2600       2210   ////      2245  LEA  C   RSP  025-180   VI/1                  
+2600 +     2240   ////      2241  CUL  C   RSP  018-090   III/2                 
+
+2610 +     2333   2341      2348  G14  5   XRA  1-8A      C1.3    8.6E-04   1613
+2610 +     2336   ////      2338  CUL  C   RSP  018-150   III/3             1613
+2610       2336   2339      2353  HOL  3   FLA  S23E18    SF                1613
+2610       2337   2337      2338  LEA  G   RBR  245       230               1613
+
+2620       2357   ////      2357  LEA  C   RSP  025-122   III/1                 

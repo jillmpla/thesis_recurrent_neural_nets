@@ -1,0 +1,54 @@
+:Product: 20130105events.txt
+:Created: 2013 Jan 08 0332 UT
+:Date: 2013 01 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jan 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 970       0130   0130      0130  LEA  G   RBR  245       100                   
+
+ 980       0131   ////      0352  PAL  C   RSP  080-180   CTM/1                 
+ 980       0219   0219      0219  LEA  G   RBR  245       110                   
+
+ 990 +     0324   0328      0332  G15  5   XRA  1-8A      C1.5    5.1E-04   1650
+
+1000       0350   0354      0357  G15  5   XRA  1-8A      C1.6    4.2E-04   1650
+1000       0351   0353      0356  LEA  3   FLA  S28E78    SF                1650
+
+1010       0400   ////      0400  LEA  C   RSP  025-061   III/1                 
+
+1020       0407   0408      0408  LEA  G   RBR  245       170                   
+
+1030       0429   0449      0452  G15  5   XRA  1-8A      C2.9    2.2E-03   1650
+1030       0440   0440      0440  LEA  G   RBR  245       140               1650
+1030       0443   0448      0451  LEA  3   FLA  S28E78    SF                1650
+
+1080 +     0452   0452      1054  LEA  G   RNS  245       200                   
+
+1040       0556   0603      0610  G15  5   XRA  1-8A      C1.5    9.4E-04   1652
+
+1050       0613   ////      0613  LEA  C   RSP  025-047   III/1                 
+
+1090       0632   ////      1524  SVI  C   RSP  075-180   CTM/1                 
+
+1060       0808   0811      0814  G15  5   XRA  1-8A      C1.4    3.1E-04   1650
+
+1070       0926   0931      0934  G15  5   XRA  1-8A      M1.7    4.2E-03   1652
+1070       0929   0929      0929  LEA  G   RBR  410       270                   
+
+1100       1427   ////      1745  SAG  C   RSP  105-180   CTM/1                 
+
+1110       1619   1622      1624  G15  5   XRA  1-8A      C1.3    2.2E-04   1645
+1110       1629   1634      1638  HOL  3   FLA  S13W26    SF      ERU       1645
+
+1130       1821   1821      1823  SAG  G   RBR  245       120                   
+
+1140 +     1905   ////      1934  SAG  C   RSP  121-180   CTM/1                 
+
+1150 +     2131   2139      2149  G15  5   XRA  1-8A      C2.1    1.8E-03   1653

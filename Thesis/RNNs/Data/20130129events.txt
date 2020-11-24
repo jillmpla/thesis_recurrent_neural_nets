@@ -1,0 +1,31 @@
+:Product: 20130129events.txt
+:Created: 2013 Feb 01 0332 UT
+:Date: 2013 01 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jan 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4690       0005   ////      0005  CUL  C   RSP  020-060   III/1                 
+
+4700 +     0041   ////      0042  LEA  C   RSP  025-156   III/1                 
+
+4710 +     0131   ////      0132  CUL  C   RSP  018-090   III/1                 
+
+4720       0226   ////      0227  CUL  C   RSP  018-090   III/1                 
+
+4770 +     0656   ////      0659  CUL  C   RSP  023-070   III/1                 
+
+4780       0758   ////      0758  CUL  C   RSP  027-060   III/1                 
+
+4740       0831   ////      0833  SVI  C   RSP  025-083   III/1                 
+
+4750       0900   ////      0901  SVI  C   RSP  025-077   III/1                 
+
+4760       1259   ////      1259  SVI  C   RSP  025-077   V/1                   
+4760       1259   ////      1259  SAG  C   RSP  025-039   III/1                 
