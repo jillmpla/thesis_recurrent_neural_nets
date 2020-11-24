@@ -1,0 +1,37 @@
+:Product: 20120124events.txt
+:Created: 2012 Jan 27 0332 UT
+:Date: 2012 01 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jan 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8080       0023   ////      0023  LEA  C   RSP  053-123   III/1                 
+
+8090       0119   0119      0123  LEA  3   FLA  N33W31    SF                1402
+
+8100       0148   ////      0148  LEA  C   RSP  025-138   III/1                 
+
+8110       0331   ////      0332  LEA  C   RSP  025-180   III/1                 
+8110       0332   0332      0332  LEA  G   RBR  245       120                   
+
+8120       0334   0335      0337  LEA  3   FLA  N19W33    SF                1401
+
+8130       0429   0433      0437  G15  5   XRA  1-8A      C1.0    3.4E-04       
+
+8140       0946   0953      0959  G15  5   XRA  1-8A      C2.5    1.3E-03   1402
+
+8150 +     1432   ////      1434  SAG  C   RSP  025-180   III/1                 
+
+8160 +     1657   1708      1710  G15  5   XRA  1-8A      C1.3    7.1E-04   1401
+
+8170       2033   2034      2036  HOL  3   FLA  N32W40    SF                1402
+
+8180       2047   2048      2054  HOL  3   FLA  N32W40    SF                1402
+
+8190       2245   2247      2248  HOL  3   FLA  N32W43    SF                1402

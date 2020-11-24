@@ -1,0 +1,33 @@
+:Product: 20120121events.txt
+:Created: 2012 Jan 24 0332 UT
+:Date: 2012 01 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jan 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7630       0413   0413      0413  LEA  G   RBR  245       330                   
+
+7640       0940   0940      0940  LEA  G   RBR  245       140                   
+
+7650       0940   0940      0940  SVI  G   RBR  245       120                   
+
+7660 +     0957   ////      0958  SVI  C   RSP  044-180   III/1                 
+
+7670      B1247   ////     B1301  SVI  3   BSL  ////      0.18    B.9A          
+
+7680 +     1329   ////      1338  SVI  C   RSP  025-046   III/1                 
+7680       1335   1342      1347  G15  5   XRA  1-8A      C2.4    1.2E-03       
+
+7690       1353   ////      1401  SVI  3   BSL  ////      0.18    B.9A          
+
+7700       2044   2120      2143  G15  5   XRA  1-8A      C1.3    3.5E-03   1402
+
+7710       2047   2049      2106  HOL  3   FLA  N18W07    SF                1401
+
+7700       2107   2108      2146  HOL  3   FLA  N27W03    SF                1402

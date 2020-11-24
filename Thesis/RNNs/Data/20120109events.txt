@@ -1,0 +1,66 @@
+:Product: 20120109events.txt
+:Created: 2012 Jan 12 0332 UT
+:Date: 2012 01 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jan 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5380       0002   0145      0253  LEA  3   FLA  N17W45    SF      ERU       1393
+
+5390       0255   0300      0316  LEA  3   FLA  N16W45    SF      ERU       1393
+
+5400       0323   0330      0351  LEA  3   FLA  N16W45    SF      ERU       1393
+
+5410       0352   0428      0459  LEA  3   FLA  N46W16    SF      ERU       1393
+
+5420       0500   0508      0527  LEA  3   FLA  N16W47    SF      ERU       1393
+
+5430       0606   0615      0624  LEA  3   FLA  N15W48    SF      ERU       1393
+
+5440       0929   ////      0930  SVI  C   RSP  030-141   III/1                 
+
+5470       1031   1042      1047  G15  5   XRA  1-8A      C1.1    9.2E-04   1393
+
+5450       1044   1044      1047  SVI  3   FLA  N16W48    SF                1393
+
+5480 +     1326   ////      1326  SVI  C   RSP  075-180   III/1                 
+
+5490 +     1347   ////      1347  SVI  C   RSP  038-180   III/1                 
+
+5500       1451   1456      1458  G15  5   XRA  1-8A      C1.4    3.7E-04   1391
+5500       1453   1453      1453  SAG  G   RBR  245       110                   
+
+5510       1522   ////      1525  SAG  C   RSP  037-180   III/1                 
+
+5520       1610   ////      1610  SAG  C   RSP  025-180   III/1                 
+
+5530       1715   1718      1721  G15  5   XRA  1-8A      C1.3    2.9E-04   1391
+5530       1717   ////      1719  SAG  C   RSP  075-169   III/1                 
+
+5540 +     1743   ////      1744  SAG  C   RSP  025-180   III/2                 
+5540 +     1743   1743      1744  SAG  G   RBR  245       340                   
+
+5550 +     1811   ////      1932  PAL  C   RSP  025-180   VI/2                  
+
+5560 +     1903   1904      1904  SAG  G   RBR  245       210                   
+5560 +     1904   1904      1904  SAG  G   RBR  610       100                   
+5560       1904   ////      1904  SAG  C   RSP  025-180   III/2                 
+
+5570       2001   2013      2028  G15  5   XRA  1-8A      C2.6    3.2E-03   1395
+5570      B2020  U2020      2040  HOL  2   FLA  N16E50    SF      ERU       1395
+
+5610      B2020   ////     B2114  HOL  3   DSF  N17E54    5                 1395
+
+5580 +     2057   ////      2101  PAL  C   RSP  025-180   III/2                 
+5580       2058   2058      2058  PAL  G   RBR  410       120                   
+5580       2101   2101      2101  PAL  G   RBR  245       290                   
+
+5590       2153   ////      2159  PAL  C   RSP  025-180   III/1                 
+
+5600       2250   ////      2309  LEA  C   RSP  025-180   VI/2                  

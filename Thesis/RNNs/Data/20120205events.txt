@@ -1,0 +1,16 @@
+:Product: 20120205events.txt
+:Created: 2012 Feb 08 0332 UT
+:Date: 2012 02 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Feb 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8780       0725   0729      0734  G15  5   XRA  1-8A      B3.1    1.1E-04   1410
+
+8790 +     1243   1247      1251  G15  5   XRA  1-8A      B2.4    8.0E-05   1410

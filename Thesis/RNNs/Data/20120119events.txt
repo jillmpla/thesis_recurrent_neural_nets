@@ -1,0 +1,76 @@
+:Product: 20120119events.txt
+:Created: 2012 Jan 22 0332 UT
+:Date: 2012 01 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jan 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7190       0034   0034      0034  LEA  G   RBR  245       160                   
+
+7200       0041   0042      0042  LEA  G   RBR  245       370                   
+
+7210 +     0204   ////      0407  LEA  C   RSP  094-180   CTM/1                 
+7210       0211   ////      0212  PAL  C   RSP  044-087   III/1                 
+7210       0211   ////      0311  LEA  C   RSP  025-105   VI/1                  
+7210 +     0215   0216      0216  LEA  G   RBR  245       190                   
+
+7220       0319   0319      0319  LEA  G   RBR  245       180                   
+
+7230       0336   0336      0336  LEA  G   RBR  245       160                   
+
+7240       0352   0355      0357  G15  5   XRA  1-8A      C1.2    2.0E-04       
+
+7250       0405   0405      0405  LEA  G   RBR  245       140                   
+
+7260       1011   ////      1012  SVI  C   RSP  028-039   III/1                 
+
+7270 +     1022   1026      1031  G15  5   XRA  1-8A      B8.9    3.5E-04   1402
+
+7280       1154   1154      1154  SVI  G   RBR  245       120                   
+
+7290       1200   1200      1200  SVI  G   RBR  245       130                   
+
+7310 +     1221   1221      1221  SVI  G   RNS  245       120                   
+
+7300       1241   1250      1300  G15  5   XRA  1-8A      C3.2    2.6E-03   1396
+7300 +     1241   ////      1249  SVI  C   RSP  025-180   III/2             1396
+7300       1249   1249      1259  SVI  3   FLA  N24W55    SF                1396
+7300 +     1252   ////      1301  SVI  C   RSP  029-084   II/1    933       1396
+
+7430       1311   ////      1453  SVI  C   RSP  025-172   VI/1                  
+
+7360       1344   1605      1750  G15  5   XRA  1-8A      M3.2    2.7E-01   1402
+7360       1413   1417      1420  SVI  3   FLA  N32E22    SF                1402
+
+7350       1414   1414      1418  SVI  3   FLA  N23W61    SF                1395
+
+7330 +     1437   1440      1451  SAG  G   RBR  1415      83                    
+7330 +     1437   1441      1451  SAG  G   RBR  4995      82                    
+7330       1437   1439      1451  SAG  G   RBR  245       81                    
+7330       1437   1443      1451  SAG  G   RBR  410       51                    
+7330 +     1438   1445      1451  SAG  G   RBR  610       66                    
+7330       1438   1441      1451  SAG  G   RBR  8800      58                    
+7330       1438   ////      1538  SVI  C   RSP  075-180   CTM/1                 
+7330       1438   ////      2127  SAG  C   RSP  025-180   IV/1                  
+7330       1440   1451      1451  SAG  G   RBR  15400     24                    
+7330 +     1440   1441      1446  SAG  G   RBR  2695      100                   
+
+7340 +     1457   1459      1516  SAG  G   RBR  245       210                   
+
+7360      B1512   ////     A1954  SOH  4   CME  XUV,EUV,UV041-040/FS1698      1402
+
+7370       1524   1607      2001  HOL  3   FLA  N30E30    2N      UMB       1402
+
+7410       1746   ////      2359  PAL  C   RSP  036-180   IV/1                  
+
+7390 +     1933   ////      1945  PAL  U   RSP  027-072   II/1    694           
+
+7400       2001   2003      2012  HOL  3   FLA  N28E26    SF                1402
+
+7420       2213   ////      2359  LEA  C   RSP  030-180   IV/1                  

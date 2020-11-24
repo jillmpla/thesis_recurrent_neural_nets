@@ -1,0 +1,47 @@
+:Product: 20120108events.txt
+:Created: 2012 Jan 11 0332 UT
+:Date: 2012 01 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jan 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5230       0209   0227      0246  G15  5   XRA  1-8A      C4.9    8.7E-03       
+
+5240       0321   0325      0329  G15  5   XRA  1-8A      C2.9    9.4E-04   1393
+5240       0324   0324      0328  LEA  3   FLA  N17W32    SF                1393
+
+5250       0433   0438      0449  G15  5   XRA  1-8A      C1.2    9.4E-04       
+
+5260       0551   0551      0551  LEA  G   RBR  245       340                   
+
+5270 +     0608   0613      0616  G15  5   XRA  1-8A      C1.9    5.7E-04   1393
+5270       0612   0613      0618  LEA  3   FLA  N16W33    SF                1393
+
+5280 +     1313   1319      1325  G15  5   XRA  1-8A      C1.8    9.3E-04   1389
+
+5460      A1353   ////     A0815  SVI  3   DSF  N53W10    16                    
+
+5290 +     1456   1500      1502  G15  5   XRA  1-8A      C1.3    2.9E-04   1389
+
+5300 +     1720   1726      1733  G15  5   XRA  1-8A      C1.4    8.1E-04   1389
+
+5310 +     1751   ////      1751  SAG  C   RSP  053-180   III/1                 
+
+5320 +     1824   ////      1825  SAG  C   RSP  045-180   III/1                 
+5320       1825   1826      1826  PAL  G   RBR  245       220                   
+
+5330 +     1914   1918      1926  G15  5   XRA  1-8A      B9.2    4.9E-04   1393
+
+5340       2017   2022      2038  G15  5   XRA  1-8A      B7.6    7.5E-04       
+
+5350       2145   ////      2147  PAL  C   RSP  025-180   III/1                 
+
+5360       2256   2303      2331  LEA  3   FLA  N17W41    SF      ERU       1393
+
+5370       2335   2336      2339  LEA  3   FLA  N17W44    SF      ERU       1393

@@ -1,0 +1,56 @@
+:Product: 20120313events.txt
+:Created: 2012 Mar 16 0332 UT
+:Date: 2012 03 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Mar 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3050      A0008   ////     A1715  HOL  3   DSF  N07W03    10                    
+
+2970       0145   0150      0156  G15  5   XRA  1-8A      C1.2    6.0E-04   1433
+
+2980       0655   0728      0835  G15  5   XRA  1-8A      C3.1    1.5E-02   1429
+
+2990       1046   ////      1058  SVI  C   RSP  025-082   VI/1                  
+
+3000       1324   1324      1324  SVI  U   RBR  245       110                   
+
+3020 +     1329   1329      1329  SVI  G   RNS  245       120                   
+
+3010 +     1459   ////      1524  SVI  C   RSP  025-052   VI/1                  
+
+3040       1635   1724      2046  HOL  3   FLA  N19W59    1B      UMB       1429
+
+3030       1703   ////      1704  SAG  C   RSP  050-180   III/1                 
+
+3040 +     1707   1721      1748  SAG  G   RBR  410       340     CastelliU 1429
+3040 +     1711   1725      1805  SAG  G   RBR  2695      1400    CastelliU 1429
+
+3060 +     1712   1722      1805  SAG  G   RBR  1415      530     CastelliU 1429
+3060 +     1712   1741      1825  G15  5   XRA  1-8A      M7.9    2.4E-01   1429
+3060       1712   1722      1803  SAG  G   RBR  610       2000    CastelliU 1429
+3060       1713   1724      1804  SAG  G   RBR  4995      2900    CastelliU 1429
+3060       1714   1714      1747  SAG  G   RBR  245       1200    CastelliU 1429
+3060       1714   1722      1804  SAG  G   RBR  8800      4100    CastelliU 1429
+
+3040       1715   ////      1736  SAG  C   RSP  025-180   II/3    1366      1429
+3040 +     1717   ////      1814  PAL  C   RSP  025-180   IV/3              1429
+3040       1718   ////      2217  PAL  C   RSP  025-180   VI/1              1429
+3040       1719   1720      1755  PAL  G   RBR  1415      650               1429
+3040       1719   1724      1751  PAL  G   RBR  4995      2800              1429
+3040       1719   1722      1750  PAL  G   RBR  8800      5000              1429
+3040       1720   1721      1735  PAL  G   RBR  245       230               1429
+3040       1720   1722      1723  PAL  G   RBR  610       510               1429
+3040       1726   1726      1732  SAG  G   RBR  15400     1100    CastelliU 1429
+3040       1728   ////      1728  PAL  C   RSP  025-180   III/2             1429
+3040      B1736   ////      1930  SOH  3   CME  XUV,EUV,UV305-304/FS1898      1429
+
+3060       1756   ////      1908  SAG  C   RSP  025-180   VI/1              1429
+
+3070       2053   2115      2125  HOL  3   FLA  N17W61    SF                1429

@@ -1,0 +1,17 @@
+:Product: 20120218events.txt
+:Created: 2012 Feb 21 0332 UT
+:Date: 2012 02 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Feb 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9880       0506   ////      0513  LEA  C   RSP  025-180   III/2                 
+9880       0511   0512      0512  LEA  G   RBR  245       960                   
+
+9890       1312   1316      1321  G15  5   XRA  1-8A      B3.7    1.4E-04       

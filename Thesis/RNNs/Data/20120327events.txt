@@ -1,0 +1,40 @@
+:Product: 20120327events.txt
+:Created: 2012 Mar 30 0332 UT
+:Date: 2012 03 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Mar 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4410 +     0232   ////      0311  LEA  C   RSP  025-180   VI/2              1444
+4410       0250   0308      0322  G15  5   XRA  1-8A      C5.3    7.0E-03   1444
+4410 +     0252   ////      0258  CUL  C   RSP  018-250   III/2             1444
+4410       0303   0308      0339  LEA  3   FLA  N19W05    1F      PRB       1444
+
+4420       0419   ////      0428  LEA  C   RSP  025-174   III/1             1442
+4420       0421   0430      0441  G15  5   XRA  1-8A      C1.7    1.7E-03   1442
+4420       0424   0424      0428  LEA  3   FLA  N11W02    SF                1442
+
+4430       0609   0612      0615  G15  5   XRA  1-8A      B3.3    7.5E-05   1442
+
+4440       0627   0631      0635  G15  5   XRA  1-8A      B3.8    1.3E-04   1444
+
+4510       0704   ////      0705  CUL  C   RSP  030-060   III/1                 
+
+4450       0831   ////      0832  SVI  U   RSP  025-050   III/1                 
+
+4480       1132   1136      1139  G15  5   XRA  1-8A      B6.9    1.9E-04   1442
+
+4490 +     1416   ////      1417  SVI  C   RSP  025-125   III/2                 
+
+4500       1650   1651      1701  HOL  3   FLA  N20W10    SF      ERU       1444
+
+4520       2115   ////      2115  CUL  C   RSP  020-060   III/1                 
+
+4530       2342   2345      2348  G15  5   XRA  1-8A      B5.6    1.1E-04   1438
+4530       2345   2345      2350  HOL  3   FLA  S14W25    SF      ERU       1438

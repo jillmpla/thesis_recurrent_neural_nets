@@ -1,0 +1,44 @@
+:Product: 20120314events.txt
+:Created: 2012 Mar 17 0332 UT
+:Date: 2012 03 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Mar 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3080       0433   ////      0434  LEA  C   RSP  025-100   III/2                 
+
+3090       0556   ////      0612  SVI  C   RSP  025-087   VI/1                  
+
+3100       0702   ////      0702  SVI  C   RSP  025-131   III/1                 
+
+3110 +     0831   ////      0930  LEA  C   RSP  025-165   VI/2                  
+
+3120       1245   1248      1254  SVI  3   FLA  N13E08    SF                1432
+
+3130       1508   1521      1536  G15  5   XRA  1-8A      M2.8    2.9E-02   1432
+3130       1511   1518      1615  SVI  3   FLA  N14E05    1N                1432
+3130 +     1518   1519      1520  SAG  G   RBR  2695      72                1432
+3130       1518   1520      1525  SAG  G   RBR  610       100               1432
+3130 +     1518   1519      1519  SAG  G   RBR  1415      54                1432
+3130 +     1519   1519      1521  SAG  G   RBR  410       100               1432
+3130 +     1533   1533      1533  SAG  G   RBR  245       160               1432
+
+3140 +     1539   1539      1539  SAG  G   RBR  410       220                   
+
+3150 +     1543   1543      1543  SAG  G   RBR  410       260                   
+
+3160 +     1545   1546      1548  SAG  G   RBR  410       110                   
+3160       1546   1546      1546  SAG  G   RBR  245       57                    
+
+3170       1848   1849      1855  HOL  3   FLA  N15E03    SF      ERU       1432
+
+3180 +     1952   ////      1953  SAG  C   RSP  025-180   III/1                 
+
+3190       2301   2318      2331  HOL  3   FLA  N20W76    SF      DSD       1429
+3190       2315   ////      2332  HOL  3   BSL  ////      0.2               1429

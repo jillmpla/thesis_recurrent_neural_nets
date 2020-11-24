@@ -1,0 +1,19 @@
+:Product: 20120223events.txt
+:Created: 2012 Feb 26 0332 UT
+:Date: 2012 02 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Feb 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  90      B0812   ////      1718  SOH  4   CME  XUV,EUV,UV207-053/FS553           
+
+  80       0834   0834      0834  LEA  G   RBR  245       210                   
+  80       0834   0834      0834  LEA  G   RBR  410       130                   
+
+ 150      A2316   ////     A1357  HOL  3   DSF  N36E26    30                    

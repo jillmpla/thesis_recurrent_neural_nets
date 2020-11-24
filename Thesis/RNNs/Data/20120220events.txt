@@ -1,0 +1,31 @@
+:Product: 20120220events.txt
+:Created: 2012 Feb 23 0332 UT
+:Date: 2012 02 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Feb 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9940       0121   0146      0149  LEA  3   FLA  N15E01    SF      BPT       1422
+9940       0141   0149      0158  G15  5   XRA  1-8A      B7.2    5.1E-04   1422
+
+9950 +     0339   0346      0352  G15  5   XRA  1-8A      C1.1    5.9E-04   1422
+
+9960       0441   0509      0535  G15  5   XRA  1-8A      C4.1    9.1E-03   1421
+9960       0446   0455      0538  LEA  3   FLA  N17E47    SF                1421
+
+9970       0626   0626      0629  LEA  3   FLA  N12E44    SF                1421
+
+9980       1120   1127      1132  G15  5   XRA  1-8A      C1.1    5.7E-04   1422
+
+9990       1452   ////      1452  SVI  C   RSP  027-078   III/1                 
+
+  10 +     2240   ////      2243  PAL  C   RSP  025-180   III/1                 
+
+  20       2339   2353      0003  G15  5   XRA  1-8A      B9.3    1.0E-03   1422
+  20 +     2342   2343      0003  HOL  3   FLA  N13W10    SF      ERU       1422

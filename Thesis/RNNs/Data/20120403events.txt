@@ -1,0 +1,21 @@
+:Product: 20120403events.txt
+:Created: 2012 Apr 06 0332 UT
+:Date: 2012 04 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Apr 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5160       0321   ////      0321  CUL  C   RSP  020-060   III/1                 
+
+5170       1225   1228      1235  G15  5   XRA  1-8A      B4.2    1.9E-04   1450
+5170       1228   1228      1234  SVI  3   FLA  N16E03    SF                1450
+
+5180       1516   1535      1550  G15  5   XRA  1-8A      B3.7    6.6E-04   1451
+
+5190       2115   2123      2138  G15  5   XRA  1-8A      B4.3    5.5E-04   1451

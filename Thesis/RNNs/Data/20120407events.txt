@@ -1,0 +1,52 @@
+:Product: 20120407events.txt
+:Created: 2012 Apr 10 0332 UT
+:Date: 2012 04 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Apr 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5410 +     0021   0026      0035  G15  5   XRA  1-8A      B3.0    2.0E-04   1452
+
+5420 +     0822   0827      0835  G15  5   XRA  1-8A      B2.1    1.3E-04   1452
+
+5430 +     0927   0936      0941  G15  5   XRA  1-8A      B7.4    4.2E-04   1450
+
+5440       1314   1314      1314  SVI  G   RBR  245       120                   
+
+5450 +     1314   1314      1330  SAG  G   RNS  245       140                   
+
+5460       1438   1438      1438  SVI  U   RBR  245       180                   
+
+5470       1438   1439      1439  SAG  G   RBR  245       110                   
+
+5480 +     1457   1457      1457  SAG  G   RBR  245       150                   
+
+5490 +     1610   ////      1610  SVI  C   RSP  036-051   III/1                 
+
+5500 +     1659   1708      1715  G15  5   XRA  1-8A      C2.4    1.4E-03   1452
+
+5510       1755   1756      1756  SAG  G   RBR  245       120                   
+
+5520 +     1823   1823      1823  SAG  G   RBR  245       680                   
+5520 +     1823   ////      1824  SAG  C   RSP  034-180   III/2                 
+
+5660       1825   ////      1900  BOU  3   DSF  N17W36    11                    
+
+5530       1838   ////      1838  SAG  C   RSP  025-038   III/1                 
+
+5580       1908   1955      2016  G15  5   XRA  1-8A      B6.8    2.5E-03   1451
+
+5540       2013   ////      2046  SAG  C   RSP  025-106   VI/1                  
+5540       2046   ////      2046  PAL  C   RSP  025-057   III/1                 
+
+5550 +     2105   2105      2105  PAL  G   RBR  245       190                   
+
+5560 +     2319   ////      2327  LEA  C   RSP  025-145   III/1                 
+
+5570       2352   ////      2353  LEA  C   RSP  025-097   III/1                 

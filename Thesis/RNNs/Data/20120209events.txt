@@ -1,0 +1,24 @@
+:Product: 20120209events.txt
+:Created: 2012 Feb 12 0332 UT
+:Date: 2012 02 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Feb 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9130      A0003   ////     A1727  HOL  3   DSF  N18E06    18                    
+
+9100       0459   0509      0514  G15  5   XRA  1-8A      B9.3    6.2E-04   1416
+
+9110       0920   0933      0950  G15  5   XRA  1-8A      C1.1    1.7E-03   1415
+
+9120       1200   1216      1228  G15  5   XRA  1-8A      B9.9    1.3E-03   1416
+
+9140       2201   2207      2217  G15  5   XRA  1-8A      B7.5    5.4E-04       
+
+9210      A2359   ////     A1530  HOL  3   DSF  S35E53    20                    

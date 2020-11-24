@@ -1,0 +1,18 @@
+:Product: 20120203events.txt
+:Created: 2012 Feb 06 0332 UT
+:Date: 2012 02 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Feb 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8730       0439   0447      0452  G15  5   XRA  1-8A      B7.4    4.1E-04   1410
+
+8740       1013   ////      1013  SVI  C   RSP  028-043   III/1                 
+
+8750       1023   ////      1024  LEA  C   RSP  025-180   III/1                 

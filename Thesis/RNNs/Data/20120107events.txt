@@ -1,0 +1,24 @@
+:Product: 20120107events.txt
+:Created: 2012 Jan 10 0332 UT
+:Date: 2012 01 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jan 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5170       0220   0230      0238  G15  5   XRA  1-8A      C1.1    1.2E-03       
+
+5180       0439   0453      0507  G15  5   XRA  1-8A      C1.6    2.2E-03       
+
+5190 +     1039   1042      1047  G15  5   XRA  1-8A      B9.9    3.3E-04   1390
+
+5200       1727   1730      1746  HOL  4   FLA  N16W25    SF                1393
+
+5210       1750   ////      1755  SAG  C   RSP  025-065   III/1                 
+
+5220       1948   1949      1958  HOL  3   FLA  N16W25    SF      ERU       1393

@@ -1,0 +1,43 @@
+:Product: 20120126events.txt
+:Created: 2012 Jan 29 0332 UT
+:Date: 2012 01 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jan 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8300       0000   0005      0010  G15  5   XRA  1-8A      C1.5    6.6E-04   1402
+8300       0001   0001      0001  LEA  G   RBR  410       100                   
+
+8310       0026   0036      0059  G15  5   XRA  1-8A      C5.8    7.6E-03   1402
+
+8320       0136   0136      0136  LEA  G   RBR  245       100                   
+
+8330       0140   0149      0200  G15  5   XRA  1-8A      C7.9    6.8E-03   1402
+8330 +     0142   0142      0145  LEA  G   RBR  410       1200                  
+8330       0148   0148      0148  LEA  G   RBR  245       110                   
+
+8340       0259   0259      0259  LEA  G   RBR  245       100                   
+
+8350       0358   0542      0703  G15  5   XRA  1-8A      C6.4    4.6E-02   1402
+8350      B0436   ////     A1006  SOH  3   CME  XUV,EUV,UV198-106/FS1243      11402
+
+8420       1001   1011      1021  G15  5   XRA  1-8A      C2.7    2.6E-03       
+
+8360       1703   ////      1704  SAG  C   RSP  025-171   III/1                 
+
+8370       1820   1820      1820  SAG  G   RBR  245       140                   
+
+8380       1835   1835      1835  SAG  G   RBR  245       100                   
+
+8390 +     1842   ////      1843  PAL  C   RSP  025-131   III/1                 
+
+8400       2038   2044      2051  G15  5   XRA  1-8A      C2.8    1.5E-03   1402
+8400       2041   2043      2053  HOL  4   FLA  N33W68    SF      ERU       1402
+
+8410       2155   2202      2210  G15  5   XRA  1-8A      C1.8    1.3E-03       

@@ -1,0 +1,26 @@
+:Product: 20120323events.txt
+:Created: 2012 Mar 26 0332 UT
+:Date: 2012 03 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Mar 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4020       1631   1639      1643  G15  5   XRA  1-8A      C6.5    2.1E-03       
+
+4030 +     1934   1940      1944  G15  5   XRA  1-8A      M1.0    3.0E-03   1445
+
+4040       2025   2028      2032  HOL  3   FLA  S22E80    SF      DSD           
+
+4050       2149   2154      2158  G15  5   XRA  1-8A      B7.0    2.5E-04       
+
+4060       2215   2219      2222  HOL  3   FLA  S22E80    SF                1445
+
+4070       2226   2229      2231  G15  5   XRA  1-8A      B5.8    9.0E-05       
+
+4080       2326   2329      2331  G15  5   XRA  1-8A      B3.8    6.2E-05       

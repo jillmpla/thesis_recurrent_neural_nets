@@ -1,0 +1,75 @@
+:Product: 20120123events.txt
+:Created: 2012 Jan 26 0332 UT
+:Date: 2012 01 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jan 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7870       0142   0145      0151  LEA  3   FLA  N29W20    SF                1402
+
+7880       0152   0236      0242  LEA  3   FLA  N29W20    SF      BPT       1402
+7880 +     0229   0230      0232  LEA  G   RBR  245       200               1402
+7880       0237   ////      0302  LEA  C   RSP  076-180   CTM/1             1402
+7880       0240   ////      0240  PAL  C   RSP  108-180   III/1             1402
+
+7890 +     0244   0244      0254  LEA  3   FLA  N28W20    1N                1402
+7890       0245   ////      0339  PAL  C   RSP  105-180   CTM/1             1402
+
+7980       0256   0404      0553  LEA  3   FLA  N28W21    2B      PRB       1402
+
+7900       0256   0304      0322  LEA  3   FLA  N28W20    1N                1402
+
+7910       0300   0300      0302  LEA  G   RBR  410       110               1401
+7910 +     0301   0302      0316  LEA  3   FLA  N18W25    SF                1401
+
+7920       0302   ////      0303  LEA  C   RSP  032-153   III/1                 
+
+7930       0305   0305      0305  LEA  G   RBR  410       100                   
+
+7940       0325   0326      0330  LEA  3   FLA  N18W25    SF                1401
+
+7980       0333   ////      0405  LEA  C   RSP  025-180   VII/2             1402
+7980       0334   0341      0408  LEA  G   RBR  245       4000    CastelliU 1402
+
+7950       0336   0336      0336  PAL  G   RBR  245       100                   
+
+7980       0338   0359      0434  G15  5   XRA  1-8A      M8.7    2.0E-01   1402
+7980       0339   0401      0413  LEA  G   RBR  410       7600    CastelliU 1402
+7980       0339   ////      0901  LEA  C   RSP  025-180   IV/2              1402
+7980 +     0339   0352      0426  COM  G   RBR  2695      5100    CASTELLIU 1402
+7980       0339   0350      0430  LEA  G   RBR  4995      7100    CastelliU 1402
+7980       0339   0350      0428  LEA  G   RBR  8800      6900    CastelliU 1402
+7980       0339   0405      0426  LEA  G   RBR  1415      1700    CastelliU 1402
+7980       0339   0404      0417  LEA  G   RBR  610       1900    CastelliU 1402
+7980       0339   0350      0425  LEA  G   RBR  15400     3900    CastelliU 1402
+
+7960       0344   0349      0349  PAL  G   RBR  245       740                   
+7960       0344   0345      0349  PAL  G   RBR  410       450                   
+7960       0344   0349      0349  PAL  G   RBR  610       190                   
+7960       0344   0349      0349  PAL  G   RBR  1415      1000                  
+7960       0344   0349      0349  PAL  G   RBR  2695      3200                  
+7960       0344   0349      0349  PAL  G   RBR  4995      8200                  
+7960       0344   0349      0349  PAL  G   RBR  8800      7400                  
+
+7980       0412   ////      0530  SOH  3   CME  XUV,EUV,UV329-328/FS2102      1402
+
+8050       0423   0424      0426  LEA  3   FLA  N18W25    1F                1401
+
+7990       0600   ////      0601  LEA  C   RSP  025-120   III/2                 
+
+8000       0704   0706      0710  LEA  3   FLA  N12W34    SF                1401
+
+8010       0815   ////      0816  SVI  C   RSP  028-050   III/1                 
+
+8020 +     0817   0820      0835  SVI  3   FLA  N25W26    SF                1402
+
+8060       1251   ////      1251  SVI  C   RSP  029-063   III/1                 
+
+8070 +     1940   2011      2026  G15  5   XRA  1-8A      C1.4    2.8E-03   1401
+8070       2009   2009      2025  HOL  3   FLA  N18W33    SF      ERU       1401

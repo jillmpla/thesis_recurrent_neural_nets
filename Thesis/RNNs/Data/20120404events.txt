@@ -1,0 +1,27 @@
+:Product: 20120404events.txt
+:Created: 2012 Apr 07 0332 UT
+:Date: 2012 04 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Apr 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5250       0323   0350      0403  G15  5   XRA  1-8A      B4.1    7.2E-04   1451
+
+5200       0324   ////      0324  CUL  C   RSP  020-090   III/1                 
+
+5260       0530   0557      0631  G15  5   XRA  1-8A      B7.0    1.8E-03   1450
+
+5230       0632   ////      0632  CUL  C   RSP  030-070   III/1                 
+
+5210 +     1541   1541      1541  SAG  G   RBR  245       160                   
+
+5220       1617   1627      1651  G15  5   XRA  1-8A      C1.2    1.9E-03   1450
+5220       1620   1624      1702  HOL  3   FLA  N15W11    SF      ERU       1450
+
+5240       2336   ////      2336  CUL  C   RSP  030-080   III/1                 

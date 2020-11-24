@@ -1,0 +1,58 @@
+:Product: 20120408events.txt
+:Created: 2012 Apr 11 0332 UT
+:Date: 2012 04 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Apr 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5590 +     0036   ////      0037  LEA  C   RSP  092-180   III/1                 
+
+5600       0101   0105      0111  G15  5   XRA  1-8A      B3.7    1.6E-04       
+
+5610       0151   0153      0201  LEA  3   FLA  N14W58    SF                1450
+
+5620 +     0249   0254      0301  G15  5   XRA  1-8A      B3.7    2.1E-04   1452
+
+5630       0345   ////      0345  LEA  C   RSP  025-127   III/1                 
+
+5640 +     0558   ////      0558  LEA  C   RSP  025-180   III/2                 
+
+5650       0806   0808      0808  SVI  G   RBR  245       230                   
+5650 +     0808   ////      0809  LEA  C   RSP  025-180   III/2                 
+
+5670 +     1126   1129      1132  G15  5   XRA  1-8A      B7.1    1.5E-04   1450
+
+5680 +     1253   ////      1253  SAG  C   RSP  025-051   III/1                 
+
+5690 +     1419   1424      1427  G15  5   XRA  1-8A      B2.7    8.2E-05   1450
+5690       1422   1423      1427  HOL  3   FLA  N18W64    SF      ERU       1450
+
+5700       1430   1430      1430  SAG  G   RBR  245       110                   
+
+5720       1453   1547      1607  G15  5   XRA  1-8A      B7.2    1.9E-03   1451
+
+5710       1457   1457      1502  HOL  3   FLA  N19W30    SF      BPT       1452
+
+5720       1539   1554      1610  HOL  3   FLA  N23W40    SF      ERU       1451
+
+5730       1611   1614      1617  HOL  3   FLA  N22W41    SF      ERU       1451
+
+5740       1825   ////      1825  SAG  C   RSP  025-038   III/1                 
+
+5750       1846   1853      1900  G15  5   XRA  1-8A      B6.8    4.1E-04   1451
+5750       1848   1851      1909  HOL  3   FLA  N21W42    SF      ERU       1451
+
+5760 +     2010   ////      2013  SAG  C   RSP  025-138   III/1                 
+
+5770       2016   2023      2029  G15  5   XRA  1-8A      B3.7    2.2E-04       
+
+5780       2334   2340      2349  G15  5   XRA  1-8A      B4.1    2.6E-04   1451
+5780 +     2338   2346      2354  HOL  3   FLA  N22W44    SF      ERU       1451
+
+5830      A2359   ////     A1605  HOL  2   DSF  N18W32    6                     

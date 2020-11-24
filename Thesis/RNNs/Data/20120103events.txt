@@ -1,0 +1,31 @@
+:Product: 20120103events.txt
+:Created: 2012 Jan 06 0332 UT
+:Date: 2012 01 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jan 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4780       0008   ////      0246  LEA  C   RSP  025-144   VI/1                  
+
+4750       0012   ////      0044  PAL  C   RSP  025-147   VI/1                  
+
+4790       0149   ////      0246  PAL  C   RSP  025-180   VI/1                  
+
+4760 +     0204   0204      0204  LEA  G   RBR  610       140                   
+
+4800 +     0331   0334      0338  G15  5   XRA  1-8A      B6.7    1.8E-04   1389
+
+4810 +     0414   0419      0427  G15  5   XRA  1-8A      B8.0    4.7E-04   1391
+
+4820       0826   ////      0826  SVI  C   RSP  113-171   III/1                 
+
+4830       1959   2009      2025  HOL  3   FLA  N11W41    SF      DSD       1390
+
+4840       2050   2053      2055  G15  5   XRA  1-8A      B7.7    1.1E-04   1389
+4840       2052   2052      2057  HOL  3   FLA  S26E02    SF      ERU       1389

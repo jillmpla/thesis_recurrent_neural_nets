@@ -1,0 +1,54 @@
+:Product: 20120122events.txt
+:Created: 2012 Jan 25 0332 UT
+:Date: 2012 01 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jan 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7720       0232   0257      0306  G15  5   XRA  1-8A      C7.1    1.0E-02       
+7720 +     0242   0242      0243  LEA  G   RBR  4995      140                   
+
+7730       0330   0339      0430  LEA  2   FLA  N18W13    1F                1401
+7730       0404   0404      0404  LEA  G   RBR  245       370               1401
+
+7740       0820   0820      0826  SVI  3   FLA  N18W14    SF                1401
+
+7750       0847   0854      0901  G15  5   XRA  1-8A      C2.2    1.3E-03   1401
+7750 +     0851   0852      0904  SVI  3   FLA  N18W14    SF      ERU       1401
+
+7760       0931   ////      0933  SVI  C   RSP  025-088   III/1                 
+
+7770       1200   1200      1209  SVI  3   FLA  N16W18    SF      ERU       1401
+
+7780       1238   1255      1347  G15  5   XRA  1-8A      C3.7    1.3E-02   1401
+7780       1241   1254      1313  SVI  3   FLA  N16W19    SF      ERU       1401
+
+7790       1600   ////      1600  SAG  C   RSP  053-180   III/1                 
+7790       1600   1600      1600  SAG  G   RBR  245       170                   
+
+7800       1832   1835      1843  HOL  3   FLA  N32W15    SF      DSD       1402
+
+7810       1915   1918      1920  G15  5   XRA  1-8A      B9.5    1.4E-04       
+7810       1917   1917      1917  SAG  G   RBR  410       130                   
+7810 +     1917   1917      1917  SAG  G   RBR  610       140                   
+
+7820       1926   1930      1934  HOL  3   FLA  N32W16    SF      ERU       1402
+7820 +     1929   1929      1929  SAG  G   RBR  245       280               1402
+
+7830       1957   1957      1957  SAG  G   RBR  245       100                   
+
+7840       2022   2026      2031  G15  5   XRA  1-8A      B9.8    3.7E-04   1402
+7840       2024   2027      2039  HOL  3   FLA  N33W16    SF      DSD       1402
+
+8030       2045   2046      2049  HOL  3   FLA  N33W16    SF                1402
+
+7850       2047   2053      2059  G15  5   XRA  1-8A      C2.0    1.1E-03   1401
+7850       2050   2052      2105  HOL  3   FLA  N19W20    SF      ERU       1401
+
+7860       2150   2150      2155  HOL  3   FLA  N19W36    SF                1407

@@ -1,0 +1,36 @@
+:Product: 20120102events.txt
+:Created: 2012 Jan 05 0332 UT
+:Date: 2012 01 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jan 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4650       0255   0300      0307  G15  5   XRA  1-8A      B7.6    4.3E-04       
+
+4660       0519   0521      0525  LEA  3   FLA  S22E20    SF                1389
+4660       0523   0528      0534  G15  5   XRA  1-8A      C1.6    7.8E-04   1389
+
+4670 +     0705   0724      0732  G15  5   XRA  1-8A      C1.5    1.6E-03   1389
+
+4680       0756   0802      0809  G15  5   XRA  1-8A      B8.4    5.1E-04       
+
+4690       0927   0930      0932  G15  5   XRA  1-8A      B6.1    1.0E-04   1389
+4690       0930   0931      0934  SVI  3   FLA  S28E21    SF                1389
+
+4700       1111   1118      1126  G15  5   XRA  1-8A      B8.2    5.8E-04       
+
+4710       1325   ////      1326  SVI  C   RSP  066-180   III/1                 
+
+4720       1345   ////      1347  SVI  C   RSP  025-084   III/1                 
+
+4730       1431   1524      1604  G15  5   XRA  1-8A      C2.4    8.7E-03       
+4730 +     1452   ////      1506  HOL  3   BSL  ////      0.28                  
+4730       1456   1457      1457  SAG  G   RBR  245       160                   
+
+4740       2337   ////      2341  PAL  C   RSP  025-153   III/1                 

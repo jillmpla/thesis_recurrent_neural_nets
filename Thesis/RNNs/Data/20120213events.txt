@@ -1,0 +1,27 @@
+:Product: 20120213events.txt
+:Created: 2012 Feb 16 0332 UT
+:Date: 2012 02 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Feb 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9690       0000   ////      0255  PAL  C   RSP  081-175   CTM/1                 
+9690       0018   0022      0026  G15  5   XRA  1-8A      B3.7    1.2E-04       
+
+9700       0053   0053      0053  LEA  G   RBR  245       120                   
+
+9710       0420   ////      0420  LEA  C   RSP  025-180   III/1                 
+
+9720       0626   ////      0627  LEA  C   RSP  025-082   III/1                 
+
+9730       0939   0939      0939  LEA  G   RBR  245       100                   
+
+9740 +     1246   ////      1442  SVI  C   RSP  075-180   CTM/1                 
+
+9750       2203   ////      2208  PAL  C   RSP  025-050   III/1                 

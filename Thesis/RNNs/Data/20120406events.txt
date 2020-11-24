@@ -1,0 +1,19 @@
+:Product: 20120406events.txt
+:Created: 2012 Apr 09 0332 UT
+:Date: 2012 04 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Apr 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5390       0000   ////      0004  LEA  C   RSP  025-180   VI/1                  
+5390       0003   0003      0003  PAL  U   RBR  245       690                   
+5390       0003   ////      0003  PAL  C   RSP  025-180   III/1                 
+
+5400       0358   0409      0425  G15  5   XRA  1-8A      B5.7    7.3E-04   1450
+5400       0401   0401      0410  LEA  3   FLA  N15W34    SF                1450

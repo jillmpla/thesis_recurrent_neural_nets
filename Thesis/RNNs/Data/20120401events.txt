@@ -1,0 +1,20 @@
+:Product: 20120401events.txt
+:Created: 2012 Apr 04 0332 UT
+:Date: 2012 04 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Apr 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4940      A0040   ////     A1329  HOL  3   DSF  N21E11    20                    
+
+4950      A0914   ////     A1434  SVI  3   DSF  N35E29    16                    
+
+4930       1449   1454      1457  HOL  3   FLA  N15E30    SF      ERU       1450
+
+4960       1828   1828      1828  SAG  G   RBR  245       100                   
