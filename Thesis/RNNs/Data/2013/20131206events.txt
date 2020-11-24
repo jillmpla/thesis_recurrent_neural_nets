@@ -1,0 +1,36 @@
+:Product: 20131206events.txt
+:Created: 2013 Dec 09 0332 UT
+:Date: 2013 12 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Dec 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1580       0007  U0008     A0021  LEA  3   FLA  S14E02    SF                1916
+
+1590       0303   ////      0431  LEA  C   RSP  144-180   CTM/1                 
+1590       0346   ////      0346  LEA  C   RSP  025-086   III/1                 
+
+1600       0435   ////      0436  LEA  C   RSP  025-079   III/1                 
+
+1610       0643   0648      0652  G15  5   XRA  1-8A      C2.7    1.0E-03   1909
+1610       0645   0648      0653  LEA  3   FLA  S17W34    SF                1909
+
+1620       0733   0737      0742  G15  5   XRA  1-8A      C2.1    8.3E-04       
+
+1630       0939   0943      0946  G15  5   XRA  1-8A      C2.2    5.9E-04       
+
+1640       0949   0953      0956  SVI  3   FLA  S19W35    SF                1909
+
+1650       1002   1005      1014  SVI  3   FLA  S12W02    SF      ERU       1916
+
+1660       1505   ////      1506  SAG  C   RSP  047-180   III/1                 
+
+1670       1736   1740      1746  G15  5   XRA  1-8A      C1.7    7.8E-04   1917
+
+1680       2306   2353      0009  G15  5   XRA  1-8A      C4.3    1.0E-02   1917

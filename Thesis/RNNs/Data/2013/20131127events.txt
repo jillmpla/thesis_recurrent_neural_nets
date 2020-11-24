@@ -1,0 +1,16 @@
+:Product: 20131127events.txt
+:Created: 2013 Nov 30 0332 UT
+:Date: 2013 11 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Nov 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 550       1355   1539      1618  G15  5   XRA  1-8A      C1.4    9.8E-03       
+
+ 600       2355   0041      0123  G15  5   XRA  1-8A      C1.4    6.3E-03       

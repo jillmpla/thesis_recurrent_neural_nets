@@ -1,0 +1,48 @@
+:Product: 20131228events.txt
+:Created: 2013 Dec 31 0332 UT
+:Date: 2013 12 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Dec 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5600       0056   ////      0056  LEA  C   RSP  025-080   III/1                 
+
+5610       0149   ////      0236  LEA  C   RSP  025-108   VI/1                  
+
+5620       0429   ////      0431  LEA  C   RSP  025-125   III/1                 
+
+5700       0703   0725      0738  G15  5   XRA  1-8A      C1.2    1.8E-03   1934
+
+5630 +     0803   ////      0803  SVI  C   RSP  025-115   III/1                 
+
+5640       0838   0906      0916  G15  5   XRA  1-8A      C1.4    2.5E-03   1936
+5640 +     0857   0909      0917  SVI  3   FLA  S17E12    SF      ERU       1936
+5640       0901   ////      0903  SVI  C   RSP  043-078   III/1             1936
+
+5650 +     0948   0952      1009  SVI  3   FLA  S16E16    SF      ERU       1936
+
+5740      A1030   ////     A2239  LEA  3   DSF  S50E30    6                     
+
+5660       1100   1118      1132  G15  5   XRA  1-8A      C1.2    1.8E-03   1936
+
+5690       1104   1104      1111  SVI  3   FLA  S18E15    SF      ERU       1936
+
+5660       1116   1116      1125  SVI  3   FLA  S19E17    SF      ERU       1936
+
+5670       1240   1247      1258  G15  5   XRA  1-8A      C3.0    2.0E-03   1936
+5670       1243   1245      1304  SVI  3   FLA  S17E10    SF      ERU       1936
+5670 +     1247   ////      1250  SAG  C   RSP  025-180   III/2             1936
+
+5680       1306   1315      1331  G15  5   XRA  1-8A      C2.6    3.5E-03   1934
+5680       1308   1314      1316  SVI  3   FLA  S20W34    SF                1934
+
+5710       1655   1655      1708  HOL  3   FLA  S18W35    SF      ERU       1934
+
+5720       1753   1802      1808  G15  5   XRA  1-8A      C9.3    4.6E-03   1936
+5720       1755   1800      1819  HOL  3   FLA  S18E07    SN      ERU       1936

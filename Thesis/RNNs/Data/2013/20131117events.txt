@@ -1,0 +1,96 @@
+:Product: 20131117events.txt
+:Created: 2013 Nov 20 0332 UT
+:Date: 2013 11 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Nov 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8430       0005   ////      0306  LEA  C   RSP  025-082   VI/1              1900
+
+8420       0017   0017      0017  LEA  G   RBR  245       110                   
+
+8430       0102   0107      0113  G15  5   XRA  1-8A      C3.5    1.6E-03   1900
+8430       0104   0106      0120  LEA  3   FLA  S19W39    SF      ERU       1900
+
+8440       0212   0217      0221  G15  5   XRA  1-8A      C3.2    1.2E-03   1900
+8440       0214   0220      0225  LEA  3   FLA  S19W40    SF                1900
+
+8450       0234   0234      0234  LEA  G   RBR  245       100                   
+
+8460       0341   ////      0347  LEA  C   RSP  029-144   III/1                 
+
+8470       0400   0403      0403  LEA  3   FLA  N10E25    SF      ERU       1899
+8470       0401   0401      0402  LEA  G   RBR  245       230               1899
+
+8480       0404   0407      0408  LEA  3   FLA  S21W05    SF      DSD       1897
+
+8490       0411   ////      0434  LEA  C   RSP  030-091   VI/1                  
+8490       0430   ////      0435  LEA  3   EPL  ////      0.15                  
+
+8500       0503   0503      0503  LEA  G   RBR  245       340                   
+
+8510       0506   0510      0513  G15  5   XRA  1-8A      M1.0    2.4E-03   1900
+8510       0508   0508      0519  LEA  3   FLA  S20W42    SN                1900
+
+8520       0523   0527      0530  G15  5   XRA  1-8A      C3.3    8.9E-04   1893
+8520       0525   0525      0528  LEA  3   FLA  S13W42    SF                1893
+8520       0529   ////      0530  LEA  C   RSP  033-100   III/1             1893
+
+8530       0619   ////      0619  LEA  C   RSP  025-055   III/1                 
+
+8600 +     0620   ////      1518  SVI  C   RSP  074-180   CTM/2                 
+
+8540 +     0714   0714      0714  LEA  G   RBR  245       190                   
+
+8550       0724   ////      0751  LEA  C   RSP  036-076   VI/1                  
+
+8560       0737   0801      0824  G15  5   XRA  1-8A      C4.9    1.1E-02   1893
+8560       0752   0754      0813  LEA  3   FLA  S17W39    SF      DSD       1893
+
+8570       0814   0814      0818  LEA  3   FLA  S12W47    SF                1893
+
+8580       0840   ////      0916  SVI  C   RSP  029-145   VI/1                  
+8580       0840   ////      0858  LEA  C   RSP  035-069   CTM/1                 
+
+8590       0954   0954      0954  SVI  U   RBR  245       100                   
+
+8610       1014   ////      1015  SVI  C   RSP  045-082   III/1                 
+
+8620       1036   ////      1036  SVI  U   RSP  048-067   III/1                 
+
+8630       1043   1047      1053  G15  5   XRA  1-8A      C2.8    1.2E-03   1893
+8630      B1045  U1046     A1049  SVI  3   FLA  S14W49    SF                1893
+
+8640       1410   1414      1418  G15  5   XRA  1-8A      C1.7    6.0E-04   1899
+
+8650       1503   1512      1516  G15  5   XRA  1-8A      C3.0    1.5E-03   1897
+8650       1511   1513      1516  HOL  2   FLA  S18E56    SF                1897
+
+8660       1524   ////      1754  SAG  C   RSP  025-083   VI/1                  
+
+8670       1701   1701      1701  SAG  G   RBR  245       110                   
+
+8680       1710   1710      1710  SAG  G   RBR  610       100                   
+
+8690 +     1729   1729      1729  SAG  G   RBR  610       140                   
+
+8700       1845   1845      1845  SAG  G   RBR  245       100                   
+
+8710       1859   1906      1910  G15  5   XRA  1-8A      C3.0    1.4E-03   1897
+8710       1902   1902      1914  HOL  3   FLA  S21W08    SF      ERU       1897
+
+8720       1917   1917      1920  HOL  3   FLA  S21W50    SF      ERU       1900
+
+8730       2017   2021      2026  G15  5   XRA  1-8A      C3.4    1.2E-03   1897
+8730       2019   2022      2027  HOL  3   FLA  S15W20    SF      ERU       1897
+
+8740       2116   2119      2125  G15  5   XRA  1-8A      C1.5    5.9E-04   1897
+8740       2118   2118      2120  HOL  3   FLA  S24W11    SF      ERU       1897
+
+8750       2357   2358      2358  PAL  G   RBR  245       100                   

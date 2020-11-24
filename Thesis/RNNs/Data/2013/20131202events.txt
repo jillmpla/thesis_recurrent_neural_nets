@@ -1,0 +1,22 @@
+:Product: 20131202events.txt
+:Created: 2013 Dec 05 0332 UT
+:Date: 2013 12 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Dec 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1000       0132   0147      0203  G15  5   XRA  1-8A      B9.7    1.6E-03   1913
+
+ 960 +     0657   ////      0658  LEA  C   RSP  036-181   III/1                 
+
+ 970       0952   1020      1034  G15  5   XRA  1-8A      C1.1    2.8E-03   1913
+
+ 980       1209   1212      1216  G15  5   XRA  1-8A      B9.9    2.7E-04   1913
+
+ 990       1434   1444      1509  G15  5   XRA  1-8A      C2.5    4.2E-03   1913

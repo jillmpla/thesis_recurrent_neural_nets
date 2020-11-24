@@ -1,0 +1,66 @@
+:Product: 20131122events.txt
+:Created: 2013 Nov 25 0332 UT
+:Date: 2013 11 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Nov 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9780       0044   0044      0044  PAL  G   RBR  245       130                   
+
+9850       0120   0120      0120  PAL  G   RBR  410       200                   
+
+9860       0121   0121      0121  PAL  G   RBR  245       100                   
+
+9610       0215   ////      0216  LEA  C   RSP  025-084   III/1                 
+
+9620       0550   ////      0550  LEA  C   RSP  036-065   III/1                 
+
+9630       0603   ////      0604  LEA  C   RSP  036-048   III/1                 
+
+9640       0643   ////      0711  LEA  C   RSP  036-061   VI/1                  
+9640       0647   ////      0647  SVI  C   RSP  027-037   III/1                 
+
+9650       0719   ////      0727  SVI  C   RSP  027-039   III/1                 
+
+9660       1107   ////      1113  SVI  C   RSP  074-171   III/2                 
+9660       1109   1109      1109  SVI  G   RBR  410       180                   
+
+9670 +     1228   ////      1228  SAG  C   RSP  095-180   III/1                 
+
+9680       1343   1347      1354  G15  5   XRA  1-8A      C1.2    5.7E-04   1905
+
+9690       1421   1445      1515  G15  5   XRA  1-8A      C3.6    8.4E-03   1905
+9690       1436   ////      1436  SAG  C   RSP  025-047   III/1                 
+
+9700       1617   1622      1628  G15  5   XRA  1-8A      C2.5    1.2E-03   1905
+
+9710       1713   1713      1713  SAG  G   RBR  245       130                   
+
+9720       1715   1717      1718  SAG  G   RBR  245       220                   
+
+9730       1815   1819      1823  G15  5   XRA  1-8A      C2.0    6.8E-04   1905
+
+9750       1916   1923      1932  G15  5   XRA  1-8A      C1.2    1.0E-03   1905
+
+9760       2017   2017      2018  PAL  G   RBR  245       160                   
+
+9770       2025   2025      2025  PAL  G   RBR  410       110                   
+
+9790       2159   2159      2159  PAL  G   RBR  245       140                   
+
+9800       2209   2209      2209  PAL  G   RBR  245       110                   
+
+9740 +     2213   2223      2323  PAL  G   RNS  245       430                   
+
+9810       2215   2215      2215  LEA  G   RBR  245       360                   
+
+9820       2232   2258      2314  LEA  3   FLA  N13W52    SF                1899
+
+9830       2328   2338      2349  LEA  3   FLA  N14W55    SF                1899
+9830 +     2346   2346      2346  PAL  G   RBR  410       100               1899

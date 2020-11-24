@@ -1,0 +1,59 @@
+:Product: 20131219events.txt
+:Created: 2013 Dec 22 0332 UT
+:Date: 2013 12 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Dec 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3870       0409   ////      0409  LEA  C   RSP  025-057   III/1                 
+
+3880       0410   ////      0411  CUL  C   RSP  018-060   III/1                 
+
+3890       0643   0643      0643  LEA  G   RBR  245       150                   
+
+3900 +     0652   ////      0652  SVI  C   RSP  025-074   III/1                 
+
+3910       0709   0721      0733  G15  5   XRA  1-8A      C1.8    2.1E-03   1930
+3910       0717   0719      0728  LEA  3   FLA  S14E32    SF                1930
+
+3940       0817   0828      0849  G15  5   XRA  1-8A      C1.4    2.5E-03   1921
+
+3950       0903   0918      0924  G15  5   XRA  1-8A      C1.8    2.2E-03   1928
+
+3920 +     0925   0936      0949  SVI  3   FLA  S17W10    SF                1928
+
+3960       1014   1026      1031  G15  5   XRA  1-8A      C1.6    1.5E-03   1921
+
+3930 +     1024   ////      1025  LEA  C   RSP  124-180   III/1                 
+
+3970 +     1305   ////      1306  SVI  U   RSP  075-165   III/1                 
+
+3980       1429   1429      1429  SVI  G   RBR  410       120                   
+
+3990       1526   1535      1554  G15  5   XRA  1-8A      C2.2    2.8E-03   1928
+
+4000       1740   ////      1744  SAG  C   RSP  092-180   III/1                 
+
+4010       1908   1912      1915  G15  5   XRA  1-8A      C1.3    3.7E-04   1931
+
+4020 +     1927   1927      1927  SAG  G   RBR  245       110                   
+
+4030       1936   1936      1936  SAG  G   RBR  410       320                   
+
+4040       1939   1942      1945  G15  5   XRA  1-8A      C1.4    3.2E-04   1917
+4040 +     1942   1942      1942  PAL  G   RBR  245       110                   
+
+4050       1955   1955      1955  PAL  G   RBR  245       110                   
+
+4060       2025   2025      2026  PAL  G   RBR  245       170                   
+
+4080       2154   ////      2256  LEA  C   RSP  068-180   CTM/1                 
+4080       2216   ////      2218  LEA  C   RSP  025-107   III/1                 
+
+4070       2306   2319      2326  G15  5   XRA  1-8A      M3.5    2.1E-02   1934

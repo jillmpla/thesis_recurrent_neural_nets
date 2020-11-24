@@ -1,0 +1,55 @@
+:Product: 20131120events.txt
+:Created: 2013 Nov 23 0332 UT
+:Date: 2013 11 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Nov 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9250       0000   ////      0946  LEA  C   RSP  025-143   VI/1                  
+
+9210       0320   0320      0321  LEA  G   RBR  245       240                   
+
+9220       0434   0435      0439  LEA  G   RBR  245       610                   
+
+9230       0524   0536      0611  G15  5   XRA  1-8A      C1.5    3.6E-03   1897
+9230 +     0543   0543      0544  LEA  G   RBR  245       430                   
+9230       0549   ////      0550  LEA  C   RSP  025-138   V/2                   
+9230 +     0608   ////      0757  SVI  C   RSP  076-180   CTM/1                 
+
+9260       0807   0808      0808  SVI  U   RBR  245       130                   
+
+9270       0820   0820      0820  LEA  G   RBR  245       150                   
+
+9280       0919   ////      0932  SVI  C   RSP  027-079   VI/1                  
+
+9240 +     1050   1051      1056  SVI  G   RNS  245       490                   
+
+9290       1123   1129      1138  G15  5   XRA  1-8A      C4.6    2.8E-03   1897
+
+9300       1200   1200      1200  SVI  U   RBR  245       140                   
+
+9310       1210   ////      1211  SVI  C   RSP  027-038   III/1                 
+
+9320 +     1217   1217      1217  SAG  G   RBR  245       120                   
+
+9330       1238   1241      1246  G15  5   XRA  1-8A      C1.6    5.5E-04   1893
+
+9340       1351   1355      1400  G15  5   XRA  1-8A      C1.2    4.8E-04   1893
+
+9350       1510   1511      1514  SVI  U   RBR  245       210                   
+
+9360       1529   ////      1628  SAG  C   RSP  117-180   CTM/1                 
+
+9370       1657   1722      1740  G15  5   XRA  1-8A      C6.4    8.6E-03   1897
+
+9390       1815   1822      1828  G15  5   XRA  1-8A      C2.4    1.7E-03       
+
+9380       2154   2202      2207  G15  5   XRA  1-8A      C1.4    8.0E-04   1893
+
+9400       2236   ////      2341  LEA  C   RSP  029-126   VI/1                  
