@@ -91,11 +91,11 @@ def convert_time_2015(k):
 	return(k)
 
 def getAllData(binary):
-    #input - hmi.sharp_720s from JSOC:::
-    #http://jsoc.stanford.edu/doc/data/hmi/sharp/sharp.htm
-    #-------------------------------------------------------------------------#
-    #---------------------------adjust as needed------------------------------#
-    #-------------------------------------------------------------------------#
+    	#input - hmi.sharp_720s from JSOC:::
+    	#http://jsoc.stanford.edu/doc/data/hmi/sharp/sharp.htm
+    	#-------------------------------------------------------------------------#
+    	#-------------------------------------------------------------------------#
+    	#-------------------------------------------------------------------------#
 	k = get_some_features()
 	
 	k = k[k['NOAA_AR'] != 0]
@@ -109,17 +109,17 @@ def getAllData(binary):
 	print('The time series starts from: ', k['DATE_TIME'].min())
 	print('The time series ends on: ', k['DATE_TIME'].max())
 
-    #label - GOES flare events:::
-    #ftp://ftp.swpc.noaa.gov/pub/warehouse/
-    #-------------------------------------------------------------------------#
-    #-------------add/remove .txt files/days from Data folder-----------------#
-    #-------------------------------------------------------------------------#
-    #time in UTC
-    #Event - arbitrary event number assigned by SWPC
-    #Reg# - SWPC-assigned solar region number
+    	#label - GOES flare events:::
+    	#ftp://ftp.swpc.noaa.gov/pub/warehouse/
+    	#-------------------------------------------------------------------------#
+    	#-------------add/remove .txt files/days from Data folder-----------------#
+    	#-------------------------------------------------------------------------#
+    	#time in UTC
+    	#Event - arbitrary event number assigned by SWPC
+    	#Reg# - SWPC-assigned solar region number
 	
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
-	#If any additional daily report years are added to the Data folder add a new entry here
+	#!!!!!If any additional daily report years are added to the Data folder add a new entry here!!!!!
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	df = pd.DataFrame()
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
@@ -197,7 +197,7 @@ def getAllData(binary):
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
-    #get Peak_Time, Class, and Region_Num from data
+    	#get Peak_Time, Class, and Region_Num from data
 	df = df[~df.Event.str.contains('#')]
 	df = df[df['Type'] == "XRA"]
 	df['Reg#'] = df['Reg#'].fillna(0)
@@ -226,12 +226,12 @@ def getAllData(binary):
 	colTitles = ['Peak_Time', 'Class', 'Region_Num']
 	df = df.reindex(columns=colTitles)
 
-    #Add ~Connector~ GOES XRS Report:::
-    #https://www.ngdc.noaa.gov/stp/space-weather/solar-data/solar-features/solar-flares/x-rays/goes/xrs/
-    #-------------------------------------------------------------------------#
-    #-----------add/remove .txt year(s) from GOES_XRS_Reports folder----------#
-    #-------------------------------------------------------------------------#
-    #time in UTC
+    	#Add ~Connector~ GOES XRS Report:::
+    	#https://www.ngdc.noaa.gov/stp/space-weather/solar-data/solar-features/solar-flares/x-rays/goes/xrs/
+    	#-------------------------------------------------------------------------#
+    	#-----------add/remove .txt year(s) from GOES_XRS_Reports folder----------#
+    	#-------------------------------------------------------------------------#
+    	#time in UTC
 	cwd = os.getcwd() 
 	extraEventsXRS = "\\GOES_XRS_Reports"
 	my_dir = cwd + extraEventsXRS
@@ -248,7 +248,7 @@ def getAllData(binary):
 		frame = pd.read_csv(aFile, engine = 'python', sep='[\s+]{2,}', skip_blank_lines=True, header=None, names= ["Zero","One","Two","Three","Four","Five"],usecols=[0,1,2,3,4,5])
 		dfXRS = dfXRS.append(frame)
 
-    #get Peak_Time and NOAA_AR from data
+    	#get Peak_Time and NOAA_AR from data
 	del dfXRS["Two"]
 	del dfXRS["Three"]
 	del dfXRS["Five"]
@@ -271,58 +271,58 @@ def getAllData(binary):
 	colTitles = ['Peak_Time', 'NOAA_AR']
 	dfXRS = dfXRS.reindex(columns=colTitles)
 
-    #merge df and dfXRS on Peak_Time
+    	#merge df and dfXRS on Peak_Time
 	Labs = df.merge(dfXRS, on='Peak_Time')
 
-    #copy of dataframe Labs
+    	#copy of dataframe Labs
 	Labs1 = Labs
 	Labs1['Class'] = Labs1['Class'].astype('str')
 	Labs1['Date'] = pd.to_datetime(Labs1['Peak_Time']).dt.date
 	del Labs1["Peak_Time"]
 
-    #5 flare classes, A is smallest, X is largest
+    	#5 flare classes, A is smallest, X is largest
 	key = {'A': 5, 'B': 4, 'C': 3, 'M': 2, 'X': 1}
 	Labs1['Class_Val'] = Labs1['Class'].map(key)
 
-    #group by Date, filter by Class_Val min
+    	#group by Date, filter by Class_Val min
 	Labs1 = Labs1.loc[Labs1.groupby('Date')['Class_Val'].idxmin()]
 
-    #add day before dates
+    	#add day before dates
 	Labs1['Date_Day_Before'] = pd.to_datetime(Labs1['Date']).apply(pd.DateOffset(-1))
 
-    #make sure column(s) are converted
+    	#make sure column(s) are converted
 	Labs1.Date = pd.to_datetime(Labs1.Date)
 	Labs1.Date_Day_Before = pd.to_datetime(Labs1.Date_Day_Before)
 
-    #organize columns
+    	#organize columns
 	colTitlesNew = ['Date', 'Date_Day_Before', 'Class_Val', 'Region_Num', 'NOAA_AR']
 	Labs1 = Labs1.reindex(columns=colTitlesNew)
 
-    #remap 5 flare classes, A is smallest, X is largest
+    	#remap 5 flare classes, A is smallest, X is largest
 	key = {5 :'A', 4 :'B', 3 :'C', 2 :'M', 1 :'X'}
 	Labs1['Class_Val'] = Labs1['Class_Val'].map(key)
 
-    #make copy of Labs1
+    	#make copy of Labs1
 	new_labs = Labs1
 
-    #make sure Class_Val are strings
+    	#make sure Class_Val are strings
 	new_labs['Class_Val'] = new_labs['Class_Val'].astype(str)
 
-    #make copy of k to work with
+    	#make copy of k to work with
 	k1 = k
 	k1['Date'] = pd.to_datetime(k['DATE_TIME']).dt.date
 
-    #organize columns, reset index
+    	#organize columns, reset index
 	col_Titles_New = ['DATE_TIME', 'Date', 'HARPNUM', 'NOAA_AR', 'TOTUSJH', 'TOTUSJZ', 'SAVNCPP', 'USFLUX', 'ABSNJZH', 'TOTPOT', 'SIZE_ACR', 'NACR', 'MEANPOT', 'SIZE', 'MEANJZH', 'SHRGT45', 'MEANSHR', 'MEANJZD', 'MEANALP', 'MEANGBT', 'MEANGAM', 'MEANGBZ', 'MEANGBH', 'NPIX']
 	k1 = k1.reindex(columns=col_Titles_New)
 	k1.reset_index(drop=True, inplace=True)
 	
 	new_k_data = k1
 	
-    #drop duplicate rows
+    	#drop duplicate rows
 	new_k_data = new_k_data.drop_duplicates()
 
-    #reset index
+    	#reset index
 	new_k_data.reset_index(drop=True, inplace=True)
 
 	#remove date+AR with < 90 records (75% of 120 [every 12 minutes] max entries per day, per AR) 
@@ -330,11 +330,11 @@ def getAllData(binary):
 	count_Ds = new_k_data.groupby(['Date', 'NOAA_AR']).filter(lambda x : len(x)>89)
 	count_Ds.reset_index(drop=True, inplace=True)
 
-    #-------------------------------------------------------------------------#
-    #input (new_k_data_f) - sharp summary parameters
-    #labels (new_labs) - maximum flare class produced by the AR 
-    #in the next 24 hours after the end time of a sequence
-    #-------------------------------------------------------------------------#
+    	#-------------------------------------------------------------------------#
+    	#input (new_k_data_f) - sharp summary parameters
+    	#labels (new_labs) - maximum flare class produced by the AR 
+    	#in the next 24 hours after the end time of a sequence
+    	#-------------------------------------------------------------------------#
 
 	#get :::90::: random rows per day, per AR
 	np.random.seed(0)
@@ -342,17 +342,18 @@ def getAllData(binary):
 	COLS = ['DATE_TIME', 'HARPNUM', 'TOTUSJH', 'TOTUSJZ', 'SAVNCPP', 'USFLUX', 'ABSNJZH', 'TOTPOT', 'SIZE_ACR', 'NACR', 'MEANPOT', 'SIZE', 'MEANJZH', 'SHRGT45', 'MEANSHR', 'MEANJZD', 'MEANALP', 'MEANGBT', 'MEANGAM', 'MEANGBZ', 'MEANGBH', 'NPIX']
 	new_k_data_f = count_Ds.groupby(['Date', 'NOAA_AR'])[COLS].apply(pd.Series.sample, n=90, replace=False).reset_index()
 
-    #order by DATE_TIME
+    	#order by DATE_TIME
 	new_k_data_f.sort_values('DATE_TIME')
 
-    #delete level_2 column
+    	#delete level_2 column
 	del new_k_data_f["level_2"]
 
 	allData = []
 	allLabels = []
 
 	grouped_data = new_k_data_f.groupby(['Date', 'NOAA_AR'])
-
+	
+	#loop that creates groups of feature data by day, if flare occurrence next day
 	for g in grouped_data.groups:
 		mygroup = grouped_data.get_group(g)
 		mydata = mygroup[['Date', 'NOAA_AR']][:1].to_numpy()
@@ -397,26 +398,26 @@ def getAllData(binary):
 
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
-    #one-hot encoding
-    #6 flare classes: N is no flare, A is smallest, X is largest
-    #key = {'N', 'A', 'B', 'C', 'M', 'X'}
+    	#one-hot encoding----------------------------------------------------------------------------------
+    	#6 flare classes: N is no flare, A is smallest, X is largest
+    	#key = {'N', 'A', 'B', 'C', 'M', 'X'}
 	a_encoder = LabelBinarizer()
 	allLabels_enc = a_encoder.fit_transform(allLabels)
 	#number of flare classes actually found in overall dataset
 	count_of_classes = len(a_encoder.classes_)
 	#test to see flare classes
 	print(np.unique(allLabels, return_counts=True))
-    #check inverse
-    #print(a_encoder.inverse_transform(allLabels_enc))
+    	#check inverse
+    	#print(a_encoder.inverse_transform(allLabels_enc))
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
-    #normalized feature data - :::allData::: [num_sequences, number of timesteps, number of features per timestep]
-    #encoded labels - :::allLabels_enc::: one-hot encoding
+    	#normalized feature data - :::allData::: [num_sequences, number of timesteps, number of features per timestep]
+    	#encoded labels - :::allLabels_enc::: one-hot encoding
 
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
-    #split into train and test - 60% train, 20% validation (of train), 20% test
+    	#split into train and test - 60% train, 20% validation (of train), 20% test------------------------
 	#use specific seed for pseudo-random number generator when spliting data to properly compare machine learning models
 	#get a balanced number of examples for each class label in both train and test with stratify=y
 	X_train, X_test, y_train, y_test = train_test_split(allData, allLabels_enc, test_size = 0.20, random_state=123, stratify=allLabels_enc)
