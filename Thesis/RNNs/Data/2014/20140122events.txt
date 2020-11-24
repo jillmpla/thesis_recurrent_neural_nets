@@ -1,0 +1,30 @@
+:Product: 20140122events.txt
+:Created: 2014 Jan 25 0332 UT
+:Date: 2014 01 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jan 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1350       0001   ////      0001  CUL  C   RSP  018-035   III/1                 
+
+1340       0335   0335      0335  PAL  U   RBR  410       240                   
+
+1360       1012   1016      1024  G15  5   XRA  1-8A      B8.2    4.6E-04   1955
+1360       1013   1015      1021  SVI  3   FLA  S14W10    SF      ERU       1955
+
+1370       1654   ////      1654  SAG  C   RSP  150-180   III/1                 
+
+1410       1739   1743      1746  G15  5   XRA  1-8A      B8.3    3.7E-04   1959
+
+1380       1857   1905      1917  G15  5   XRA  1-8A      C1.3    1.2E-03   1955
+1380       1903   1905      1909  HOL  2   FLA  S15W16    SF      ERU       1955
+
+1390 +     2042   2042      2042  SAG  G   RBR  410       230                   
+1390 +     2042   2042      2043  PAL  G   RBR  245       3100                  
+1390       2043   ////      2044  CUL  C   RSP  020-057   III/1                 

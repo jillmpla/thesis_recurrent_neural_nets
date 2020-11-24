@@ -1,0 +1,27 @@
+:Product: 20140327events.txt
+:Created: 2014 Mar 30 0332 UT
+:Date: 2014 03 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8160       0027   0037      0041  G15  5   XRA  1-8A      C1.3    8.8E-04   2010
+
+8170      B1201  U1202     A1206  SVI  3   FLA  S17W59    SF                2010
+
+8180      B1241  U1242     A1246  SVI  3   FLA  S17W59    SF                2010
+
+8190       1457   1458      1459  SVI  3   FLA  N03E02    SF                2018
+
+8250      A1619   ////     A0522  SVI  3   DSF  N56W05    10                    
+
+8260      A1619   ////     A0522  SVI  3   DSF  S33E31    6                     
+
+8200       2020   2029      2038  G15  5   XRA  1-8A      C4.8    3.2E-03   2010
+8200       2024   2026      2032  HOL  3   FLA  S13W66    SF      ERU       2010

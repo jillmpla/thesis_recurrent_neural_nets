@@ -1,0 +1,47 @@
+:Product: 20140124events.txt
+:Created: 2014 Jan 27 0332 UT
+:Date: 2014 01 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jan 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1620       0147   ////      0214  LEA  2   DSF  S11E54    12                    
+
+1580       0202   ////      0202  LEA  C   RSP  025-083   III/1                 
+
+1640       0233   ////      0240  CUL  C   RSP  018-090   III/1                 
+
+1590       0233   ////      0240  LEA  C   RSP  025-115   III/1                 
+
+1600       0242   0242      0244  PAL  G   RBR  245       160                   
+
+1610       0249   0250      0250  PAL  G   RBR  245       250                   
+
+1630       0433   0442      0455  G15  5   XRA  1-8A      B6.1    6.6E-04   1955
+
+1650       0505   ////      0537  LEA  C   RSP  025-113   VI/1                  
+1650       0516   0519      0522  G15  5   XRA  1-8A      B6.0    1.3E-04   1957
+
+1660       0700   ////      0700  LEA  C   RSP  025-102   III/1                 
+
+1670       0807   ////      0808  LEA  C   RSP  025-180   III/2                 
+
+1690       0958   1037      1041  G15  5   XRA  1-8A      B9.2    1.9E-03       
+
+1680 +     1020   ////      1020  LEA  C   RSP  025-180   III/1                 
+
+1700       1157   ////      1158  SVI  C   RSP  025-133   III/1                 
+
+1710       1343   ////      1345  SVI  C   RSP  025-040   III/1                 
+
+1720       2327   ////      2329  LEA  C   RSP  025-175   III/1                 
+
+1730       2336   2344      2349  G15  5   XRA  1-8A      C1.5    8.8E-04   1960
+
+1740       2350   ////      2350  LEA  C   RSP  025-086   III/1                 

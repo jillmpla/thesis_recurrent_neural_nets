@@ -1,0 +1,71 @@
+:Product: 20140218events.txt
+:Created: 2014 Feb 21 0332 UT
+:Date: 2014 02 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Feb 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9280       0127   0133      0140  G15  5   XRA  1-8A      C4.7    2.5E-03   1976
+9280       0134   0134      0145  LEA  3   FLA  S16W42    SF      ERU       1976
+
+9530       0454   ////      0454  CUL  C   RSP  020-080   III/1                 
+
+9300       0454   ////      0454  LEA  C   RSP  025-132   III/1                 
+
+9310       0518   0522      0524  LEA  3   FLA  S11E71    SF                1982
+
+9540       0552   ////      0555  CUL  C   RSP  018-060   III/1                 
+
+9320 +     0552   ////      0554  LEA  C   RSP  025-095   III/1                 
+
+9360 +     0614   ////      0854  LEA  3   DSF  S31E54    17                    
+
+9330       0619   0623      0627  G15  5   XRA  1-8A      C1.9    6.5E-04   1976
+9330       0620   0621      0626  LEA  3   FLA  S17W44    SF      ERU       1976
+
+9340       0705   0705      0705  LEA  G   RBR  245       170                   
+
+9350       0949   0959      1011  G15  5   XRA  1-8A      C3.3    3.3E-03   1982
+9350       0954   0955      0956  LEA  3   FLA  S14E65    SF      DSD       1982
+
+9370      B1243   1247      1253  SVI  3   FLA  S10E68    SF                1982
+
+9380      B1258  U1259     A1314  SVI  3   FLA  S09E65    SF                1982
+
+9390       1318   1325      1333  G15  5   XRA  1-8A      C1.7    1.3E-03   1982
+9390      B1322  U1324     A1340  SVI  3   FLA  S10E65    SF                1982
+
+9400      B1404   1407      1410  HOL  1   FLA  S11E63    SF                1982
+
+9410       1453   1454      1459  HOL  3   FLA  S11E63    SF      DSD       1982
+
+9430       1544   1545      1548  HOL  3   FLA  S11E63    SF      DSD       1982
+
+9440       1649   1651      1659  HOL  4   FLA  S15W49    SF      DSD       1976
+
+9450       1743   1748      1758  HOL  4   FLA  S11E63    SF      DSD       1982
+
+9460       1804   1806      1810  HOL  4   FLA  S11E63    SF      DSD       1982
+
+9470       1812   1813      1815  HOL  4   FLA  S11E63    SF      DSD       1982
+
+9480       1817   1838      1854  HOL  4   FLA  S11E63    SF      DSD       1982
+
+9490       2010   2010      2010  SAG  G   RBR  245       140                   
+
+9500       2029   2033      2038  G15  5   XRA  1-8A      C1.8    7.3E-04   1982
+9500       2031   2036      2046  HOL  4   FLA  S11E63    SF      DSD       1982
+
+9510       2117   2117      2126  HOL  4   FLA  S11E63    SF      DSD       1982
+
+9520       2239   2240      2254  HOL  3   FLA  S11E63    SF      DSD       1982
+
+9550 +     2304   ////      2305  LEA  C   RSP  025-086   III/1                 
+
+9560 +     2338   ////      2340  CUL  C   RSP  018-057   III/1                 

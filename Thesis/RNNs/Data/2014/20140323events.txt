@@ -1,0 +1,52 @@
+:Product: 20140323events.txt
+:Created: 2014 Mar 26 0332 UT
+:Date: 2014 03 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7610       0120   0126      0132  G15  5   XRA  1-8A      C1.7    9.2E-04   2017
+
+7710       0138   0145      0153  G15  5   XRA  1-8A      C1.4    1.3E-03   2017
+
+7620       0227   0237      0245  G15  5   XRA  1-8A      C3.1    2.5E-03   2014
+7620       0229   0232      0252  LEA  3   FLA  S13E34    SF      DSD       2014
+7620 +     0235   0235      0235  LEA  G   RBR  410       110               2014
+
+7630       0305   0348      0430  G15  5   XRA  1-8A      C5.0    2.0E-02   2014
+7630       0309   0323      0413  LEA  3   FLA  S12E40    SF      ERU       2014
+7630       0324   ////      1001  LEA  C   RSP  025-180   CTM/1             2014
+
+7640       0535   0547      0552  G15  5   XRA  1-8A      C2.6    2.1E-03   2017
+
+7660       0745   ////      1018  SVI  C   RSP  030-167   CTM/1                 
+
+7650 +    B0801  U0904     A0931  SVI  2   FLA  S14W06    2F      ERU       2010
+7650 +     0817   ////      0817  LEA  C   RSP  025-077   III/1             2010
+7650       0840   0905      0920  G14  5   XRA  1-8A      C2.9    8.6E-03   2010
+
+7670       1032   1057      1101  G15  5   XRA  1-8A      C1.5    2.0E-03   2010
+7670       1054   ////      1057  SVI  C   RSP  103-169   III/1                 
+
+7680 +     1113   1119      1127  G15  5   XRA  1-8A      C2.3    1.4E-03   2014
+
+7720       1303   1311      1323  G15  5   XRA  1-8A      C1.1    1.4E-03   2010
+
+7730       1409   1448      1455  G15  5   XRA  1-8A      C1.3    3.2E-03   2017
+
+7740 +     1837   1841      1845  G15  5   XRA  1-8A      C1.3    4.4E-04   2017
+
+7750       2008   2012      2019  G15  5   XRA  1-8A      C1.5    7.3E-04   2010
+
+7760       2235   2239      2245  G15  5   XRA  1-8A      C1.5    6.5E-04   2010
+
+7770 +     2333   0010      0051  G15  5   XRA  1-8A      C4.5    1.3E-02   2014
+7770 +     2334   ////      2346  LEA  C   RSP  025-158   III/1                 
+
+7780       2352   ////      2358  LEA  C   RSP  025-148   III/1                 

@@ -1,0 +1,31 @@
+:Product: 20140408events.txt
+:Created: 2014 Apr 11 0332 UT
+:Date: 2014 04 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Apr 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 870       0228   ////      0405  LEA  C   RSP  104-135   CTM/1                 
+
+ 860       0327   ////      0329  CUL  C   RSP  020-057   III/1                 
+
+ 940       0545   ////      0546  CUL  C   RSP  018-090   III/3                 
+
+ 880 +     0545   ////      0546  LEA  C   RSP  025-180   V/3                   
+
+ 900       1713   1713      1713  SAG  G   RBR  245       200                   
+
+ 910 +     1719   1735      1738  SAG  G   RNS  245       230                   
+
+ 920       1836   1851      1921  G15  5   XRA  1-8A      B9.1    2.1E-03   2026
+
+ 930       2251   ////      2359  LEA  C   RSP  050-180   CTM/2                 
+ 930       2345   2350      2353  G15  5   XRA  1-8A      B9.6    3.0E-04   2031
+
+ 950       2358   0004      0017  G15  5   XRA  1-8A      C1.2    1.2E-03   2031

@@ -1,0 +1,48 @@
+:Product: 20140317events.txt
+:Created: 2014 Mar 20 0332 UT
+:Date: 2014 03 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5730       0008   ////      0013  LEA  C   RSP  032-120   III/1                 
+5730       0010   0010      0010  LEA  G   RBR  410       110                   
+
+5740       0041   0045      0048  G15  5   XRA  1-8A      C2.0    4.9E-04   2002
+
+5750 +     0256   0300      0302  G15  5   XRA  1-8A      C1.0    2.3E-04   2006
+
+5760       0306   0310      0313  G15  5   XRA  1-8A      C1.7    4.4E-04   2002
+5760       0309   0310      0312  LEA  3   FLA  S21W37    SF      DSD       2002
+5760       0309   0309      0309  LEA  G   RBR  610       150               2002
+
+5770 +     0824   0829      0831  G15  5   XRA  1-8A      C1.5    4.2E-04   2006
+
+5780       0844   0847      0850  SVI  3   FLA  S21W40    SF                2002
+
+5790 +     0855   0904      0913  SVI  3   FLA  S22W38    SF      DSD       2002
+5790       0900   0905      0910  G14  5   XRA  1-8A      C1.8    1.3E-03   2002
+
+5830       1024   ////      1209  SVI  3   DSF  S35E55    7                     
+
+5800       1026   1026      1026  SVI  G   RBR  245       190                   
+
+5810       1029   1030      1032  SVI  3   FLA  S21W41    SF                2002
+
+5860       1149   ////      1355  SVI  3   DSF  S31E21    6                     
+
+5820       1204   1211      1215  SVI  3   FLA  S17E66    SF      ERU           
+
+5840       1241   1300      1323  G15  5   XRA  1-8A      C1.2    2.8E-03   2010
+
+5850       1752   1753      1755  HOL  2   FLA  S11W24    SF      ERU       2004
+
+5870       2303   2312      2322  G15  5   XRA  1-8A      C1.8    1.5E-03   2010
+
+5880       2344   ////      2344  LEA  C   RSP  070-115   III/1                 

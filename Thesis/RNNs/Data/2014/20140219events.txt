@@ -1,0 +1,54 @@
+:Product: 20140219events.txt
+:Created: 2014 Feb 22 0332 UT
+:Date: 2014 02 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Feb 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9570       0031   0035      0038  G15  5   XRA  1-8A      C1.2    3.5E-04   1976
+9570       0032   0032      0035  LEA  3   FLA  S13W59    SF      ERU       1976
+9570 +     0032   0032      0032  LEA  G   RBR  245       160               1976
+
+9580       0156   0201      0204  G15  5   XRA  1-8A      C3.0    8.9E-04   1982
+9580       0158   0200      0214  LEA  3   FLA  S12E59    1F      DSD       1982
+
+9590       0239   0244      0254  G15  5   XRA  1-8A      C2.2    1.5E-03   1976
+
+9600 +     0641   ////      0642  SVI  C   RSP  025-134   III/1                 
+
+9610 +     0658   ////      0642  SVI  C   RSP  025-134   III/1             1982
+9610       0720   0726      0734  G15  5   XRA  1-8A      C2.0    1.2E-03   1982
+9610 +     0723   0725      0746  LEA  3   FLA  S12E56    SF                1982
+
+9620 +     0800   ////      0800  SVI  C   RSP  025-081   III/1                 
+
+9630       1011   1025      1031  G15  5   XRA  1-8A      C2.5    2.0E-03       
+
+9680 +    A1034   ////     A2259  LEA  3   DSF  S28W04    26                    
+
+9640 +     1343   ////      1344  SVI  C   RSP  026-180   III/2                 
+
+9650       1346   1346      1346  SAG  G   RBR  245       120                   
+
+9660 +     1349   1349      1349  SAG  G   RNS  245       120                   
+
+9670       1954   ////      1954  SAG  C   RSP  102-172   III/1                 
+
+9690       2132   2132      2132  PAL  G   RBR  245       110                   
+
+9700       2150   ////      2151  CUL  C   RSP  020-057   III/1                 
+
+9710       2220   2224      2228  G15  5   XRA  1-8A      C1.4    4.7E-04   1976
+9710       2228   2228      2228  PAL  G   RBR  245       100                   
+
+9720       2316   ////      2316  CUL  C   RSP  020-057   III/1                 
+
+9730       2316   ////      2316  LEA  C   RSP  025-088   III/1                 
+
+9740       2348   0004      0016  G15  5   XRA  1-8A      C4.6    5.9E-03   1982

@@ -1,0 +1,64 @@
+:Product: 20140224events.txt
+:Created: 2014 Feb 27 0332 UT
+:Date: 2014 02 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Feb 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 450       0247   0247      0247  LEA  G   RBR  245       140                   
+
+ 540       0305   0313      0330  G15  5   XRA  1-8A      C1.5    2.0E-03   1982
+
+ 550       0342   0400      0416  G15  5   XRA  1-8A      C2.4    4.9E-03   1990
+
+ 560       0422   0430      0434  G15  5   XRA  1-8A      C2.3    1.8E-03   1982
+
+ 690       0535   ////      0535  CUL  C   RSP  020-057   III/1                 
+
+ 460       0744   0744      0806  SVI  3   FLA  S11W11    SF      ERU       1982
+
+ 570       1016  U1026      1035  SVI  3   FLA  S12W12    SF      ERU       1982
+
+ 580       1103   1117      1142  G15  5   XRA  1-8A      M1.2    1.9E-02   1990
+ 580      B1122  U1139     A1140  SVI  3   FLA  N00E00    SF                    
+ 580      B1126   ////     B1145  SVI  3   EPL  ////      0.2     B.9A          
+
+ 590       1200   1205      1210  G15  5   XRA  1-8A      M1.3    5.2E-03   1990
+ 590 +     1201   1203      1204  SVI  G   RBR  245       930                   
+ 590 +     1201   ////      1204  SVI  C   RSP  027-180   III/2                 
+ 590 +     1203   1203      1203  SVI  G   RBR  410       180                   
+
+ 610 +     1254   ////      1622  SVI  C   RSP  075-175   IV/1                  
+
+ 600       1312   1312      1312  SVI  G   RBR  245       100                   
+
+ 810      A1406   ////     A0742  SVI  3   DSF  S46E54    10                    
+
+ 620       1436   ////      1436  SVI  C   RSP  027-040   III/1                 
+
+ 630       1444   1449      1457  G15  5   XRA  1-8A      C5.0    3.0E-03   1982
+ 630       1445   1446      1447  SAG  G   RBR  4995      47                1982
+ 630       1446   1446      1447  SAG  G   RBR  8800      50                1982
+ 630       1446   1447      1506  HOL  3   FLA  S11E63    SF      DSD       1982
+ 630 +     1446   1446      1446  SAG  G   RBR  245       950               1982
+ 630       1446   1446      1447  SAG  G   RBR  15400     36                1982
+ 630 +     1446   ////      1448  SAG  C   RSP  025-180   III/2             1982
+ 630       1446   1446      1447  SAG  G   RBR  1415      16                1982
+ 630 +     1446   1447      1447  SAG  G   RBR  410       180               1982
+ 630       1447   1447      1447  SAG  G   RBR  2695      29                1982
+ 630       1452   ////      1455  SVI  C   RSP  049-180   II/2    1158      1982
+ 630 +     1452   1452      1452  SAG  G   RBR  610       170               1982
+
+ 640 +     1500   ////      1501  SAG  C   RSP  074-180   III/2                 
+
+ 650       1900   1900      1901  SAG  G   RBR  245       330                   
+
+ 660 +     1933   1933      1933  SAG  G   RBR  610       130                   
+
+ 670       2131   2137      2145  G15  5   XRA  1-8A      C5.1    2.8E-03   1990

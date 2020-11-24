@@ -1,0 +1,39 @@
+:Product: 20140221events.txt
+:Created: 2014 Feb 24 0332 UT
+:Date: 2014 02 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Feb 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9990       0100   ////      0101  LEA  C   RSP  107-180   III/1                 
+
+  10       0158   ////      0226  LEA  C   RSP  038-180   VI/1                  
+
+  50       0234   ////      0304  LEA  4   DSF  S33E35    7                     
+
+  60       0331   ////      0730  LEA  C   RSP  080-180   CTM/1                 
+
+  20       0341   0341      0341  PAL  G   RBR  245       190                   
+  20       0341   ////      0341  LEA  C   RSP  077-180   III/1                 
+
+  30       0604   0608      0613  G15  5   XRA  1-8A      C1.5    6.0E-04       
+
+  40       0634   0634      0634  LEA  G   RBR  245       120                   
+
+  70       0911   ////      0912  LEA  C   RSP  025-089   III/1                 
+
+  80       0934   0951      0954  LEA  3   FLA  S06E28    SF                1982
+
+  90       1101   1117      1136  G15  5   XRA  1-8A      C1.9    3.3E-03   1976
+
+ 100       1320   1324      1327  G15  5   XRA  1-8A      C1.8    4.9E-04       
+
+ 110 +     1826   1826      1826  SAG  G   RBR  245       100                   
+
+ 120 +     2057   2057      2057  PAL  G   RBR  245       190                   

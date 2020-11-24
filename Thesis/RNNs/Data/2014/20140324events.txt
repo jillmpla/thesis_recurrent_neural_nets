@@ -1,0 +1,37 @@
+:Product: 20140324events.txt
+:Created: 2014 Mar 27 0332 UT
+:Date: 2014 03 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7820       0003   ////      0003  CUL  C   RSP  020-057   III/1                 
+
+7790       0003   ////      0015  LEA  C   RSP  025-153   VI/1                  
+
+7830       0013   ////      0014  CUL  C   RSP  018-057   III/1                 
+
+7800       0231   0231      0231  LEA  G   RBR  245       320                   
+
+7810       0242   0247      0249  G15  5   XRA  1-8A      C3.5    8.1E-04   2015
+
+7840 +    B1133  U1157     A1233  SVI  3   FLA  S14W21    1F      ERU       2010
+
+7850       1135   1224      1300  G15  5   XRA  1-8A      C2.3    9.8E-03   2014
+7850      B1205  U1209     A1233  SVI  3   FLA  S11E19    SF      ERU       2014
+
+7860       1341   1346      1352  G15  5   XRA  1-8A      C2.0    1.0E-03   2014
+7860       1342   1342      1350  HOL  2   FLA  S14E17    SF      ERU       2014
+7860 +     1343   ////      1344  SAG  C   RSP  025-180   V/2               2014
+7860       1344   1344      1344  SVI  G   RBR  410       110               2014
+
+7870      B1355  U1402      1410  SVI  3   FLA  S14W20    SF      ERU       2010
+
+7880       1429   1445      1453  G15  5   XRA  1-8A      C1.9    2.4E-03   2014
+7880       1432   1437      1456  HOL  2   FLA  S14E17    SF      ERU       2014

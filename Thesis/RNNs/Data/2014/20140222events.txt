@@ -1,0 +1,43 @@
+:Product: 20140222events.txt
+:Created: 2014 Feb 25 0332 UT
+:Date: 2014 02 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Feb 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 130       0100   ////      0101  LEA  C   RSP  028-180   III/1                 
+
+ 140       0159   ////      0208  LEA  C   RSP  025-180   III/2                 
+
+ 170       0237   0249      0255  G15  5   XRA  1-8A      C1.8    1.9E-03   1976
+
+ 150       0240   ////      0242  LEA  C   RSP  025-137   III/1                 
+
+ 160       0331   ////      0332  LEA  C   RSP  025-180   III/1                 
+
+ 180       0502   ////      0503  LEA  C   RSP  025-106   III/1                 
+
+ 190       0810   0811      0843  SVI  3   FLA  S06E13    SF      ERU       1982
+ 190 +     0822   ////      0828  LEA  C   RSP  025-115   III/1             1982
+
+ 200 +     0908   ////      0909  LEA  C   RSP  025-180   III/1             1982
+ 200       0910   0918      0932  G15  5   XRA  1-8A      C1.7    1.9E-03   1982
+ 200 +     0911  U0916      0929  SVI  3   FLA  S08E12    SF      ERU       1982
+
+ 230       1057   ////      1058  SVI  C   RSP  025-145   III/2                 
+
+ 240       1153  U1155     A1156  SVI  3   FLA  S00E70    SF                1987
+
+ 250       1245   ////      1246  SVI  C   RSP  027-135   III/1                 
+
+ 260 +     1336   ////      1336  SVI  C   RSP  027-074   III/1                 
+
+ 270      B1420  U1425      1443  SVI  3   FLA  S01E68    SF      ERU       1987
+
+ 280       1507   1550      1613  G15  5   XRA  1-8A      C7.7    1.7E-02       

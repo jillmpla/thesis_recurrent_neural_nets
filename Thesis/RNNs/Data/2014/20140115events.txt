@@ -1,0 +1,24 @@
+:Product: 20140115events.txt
+:Created: 2014 Jan 18 0332 UT
+:Date: 2014 01 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jan 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 490       0205   ////      0228  PAL  C   RSP  025-054   VI/1                  
+
+ 450 +     0702   ////      0703  LEA  C   RSP  025-144   III/1                 
+
+ 460       1403   ////      1534  SVI  C   RSP  074-171   CTM/1                 
+ 460       1420   ////      1555  SAG  C   RSP  025-081   VI/1                  
+ 460 +     1440   ////      1440  SVI  C   RSP  026-082   III/1                 
+
+ 470       1722   ////      1722  SAG  C   RSP  036-104   III/1                 
+
+ 480      B2307   ////     B2356  LEA  3   EPL  ////      0.15                  

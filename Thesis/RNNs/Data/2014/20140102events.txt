@@ -1,0 +1,55 @@
+:Product: 20140102events.txt
+:Created: 2014 Jan 05 0332 UT
+:Date: 2014 01 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jan 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6970       0003   0005      0014  LEA  3   FLA  S12W56    SF                1940
+6970       0011   ////      0012  LEA  C   RSP  025-082   III/1             1940
+
+6990       0224   0233      0256  G15  5   XRA  1-8A      M1.7    2.7E-02   1944
+6990       0224   ////      0244  LEA  C   RSP  077-114   CTM/1             1944
+6990       0227   ////      0227  LEA  C   RSP  025-085   III/1             1944
+6990       0228   0234      0244  LEA  3   FLA  S05E76    SF      ERU       1944
+
+7050 +    A0332   ////     A0619  LEA  3   DSF  S39W24    18                    
+
+7000       0334   ////      0334  CUL  C   RSP  023-045   III/1                 
+
+7010       0425   0429      0432  G15  5   XRA  1-8A      C5.3    1.5E-03   1944
+7010       0427   ////      0427  CUL  C   RSP  020-057   III/1                 
+
+7020       0439   ////      0440  LEA  C   RSP  025-091   III/2                 
+
+7030      B0506   ////     B0733  LEA  3   LPS  ////      0.07              1944
+
+7040       0743   0749      0751  G15  5   XRA  1-8A      C4.9    1.4E-03   1944
+7040       0746   0749      0752  LEA  3   FLA  S05E76    SF      ERU       1944
+
+7070       1105   ////      1106  SVI  C   RSP  027-122   III/2                 
+
+7080       1125   1226      1242  G15  5   XRA  1-8A      C9.5    3.0E-02   1944
+7080       1132   ////      1153  SVI  C   RSP  039-081   VI/1                  
+
+7090       2030   2038      2055  G15  5   XRA  1-8A      C3.4    3.6E-03   1944
+7090       2034   2035      2043  HOL  3   FLA  S03E68    SF                1944
+
+7110       2141   2146      2150  G15  5   XRA  1-8A      C3.1    1.2E-03   1944
+7110       2146   2146      2152  HOL  3   FLA  S05E72    SF      DSD       1944
+
+7120       2208   2217      2231  HOL  3   FLA  S05E72    1N      DSD       1944
+7120       2212   2218      2222  G15  5   XRA  1-8A      M1.2    4.3E-03   1944
+
+7130       2248   2248      2248  LEA  G   RBR  245       300                   
+
+7140       2248   2248      2248  LEA  G   RBR  410       400                   
+
+7150       2337   2343      2351  G15  5   XRA  1-8A      C2.5    1.7E-03   1936
+7150       2341   ////      2341  LEA  C   RSP  025-081   III/1                 

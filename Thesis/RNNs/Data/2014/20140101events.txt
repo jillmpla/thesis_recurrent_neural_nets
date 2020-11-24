@@ -1,0 +1,71 @@
+:Product: 20140101events.txt
+:Created: 2014 Jan 04 0332 UT
+:Date: 2014 01 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jan 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6790       0015   ////      0342  LEA  C   RSP  077-180   CTM/1                 
+
+6750       0027   0044      0144  LEA  3   FLA  S14W35    SF      ERU       1936
+6750       0036   ////      0052  LEA  C   RSP  025-180   VI/1              1936
+
+6780       0122   ////      0138  LEA  3   DSF  S05E07    16                1938
+
+6760       0128   0133      0145  LEA  3   FLA  S14E14    SF      DSF       1938
+6760       0144   ////      0147  LEA  C   RSP  025-180   III/1             1938
+
+6770       0225   ////      0230  LEA  C   RSP  025-180   III/1                 
+6770       0229   0229      0229  LEA  G   RBR  245       100                   
+
+6800       0312   ////      0328  LEA  C   RSP  025-180   VI/1                  
+
+6900       0423   ////      0423  CUL  C   RSP  020-060   III/1                 
+
+6910       0545   ////      0545  CUL  C   RSP  020-050   III/1                 
+
+6920       0612   ////      0614  CUL  C   RSP  027-060   III/1                 
+
+6810       0645   0649      0652  G15  5   XRA  1-8A      C2.1    5.8E-04   1944
+
+6820       0712   ////      0726  LEA  C   RSP  025-180   VI/1              1940
+6820       0721   0726      0729  G15  5   XRA  1-8A      C3.2    1.0E-03   1940
+6820       0722   0724      0737  LEA  3   FLA  S12W47    SF      ERU       1940
+6820 +     0723   0726      0726  LEA  G   RBR  245       120               1940
+6820 +     0724   ////      0727  CUL  C   RSP  018-700   III/2             1940
+6820 +     0724   0725      0727  LEA  G   RBR  410       870               1940
+
+6830       0859   0904      0906  LEA  3   FLA  S15W40    SF                1936
+
+6840 +     0926   ////      0926  SVI  C   RSP  025-076   III/1                 
+
+7060      A1137   ////     A0810  SVI  3   DSF  S35E30    15                    
+
+6850       1540   1548      1609  G15  5   XRA  1-8A      C6.5    9.5E-03   1944
+
+6860       1638   1641      1646  HOL  3   FLA  S14W45    SF                1936
+
+6880       1728   ////      1950  SAG  C   RSP  025-087   VI/1                  
+
+6870       1840   1852      1903  G15  5   XRA  1-8A      M9.9    8.2E-02   1936
+6870       1841   1847      2137  HOL  3   FLA  S14W47    2B      BPT       1936
+
+6930       2141   ////      2142  CUL  C   RSP  018-090   III/3                 
+
+6940       2151   ////      2153  CUL  C   RSP  018-075   III/3                 
+
+6890       2152   2152      2152  PAL  G   RBR  245       120                   
+
+6950       2210   ////      2229  LEA  C   RSP  031-180   VI/1                  
+
+6960 +     2309   2311      2313  LEA  3   FLA  S15W52    SF                1936
+
+6980       2311   2311      2313  HOL  3   FLA  S08E88    SF                1944
+
+7100      A2343   ////     A1430  HOL  3   DSF  S53E45    21                    

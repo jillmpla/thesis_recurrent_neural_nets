@@ -1,0 +1,55 @@
+:Product: 20140311events.txt
+:Created: 2014 Mar 14 0332 UT
+:Date: 2014 03 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4240       0007   0009      0022  LEA  3   FLA  S19E40    SF                2002
+
+4270       0147   0148      0153  LEA  3   FLA  N12W54    SF                1996
+
+4280       0341   0348      0429  LEA  3   FLA  N13W55    1F      DSD       1996
+4280       0344   0350      0356  G15  5   XRA  1-8A      M3.5    1.3E-02   1996
+4280 +     0347   0347      0348  LEA  G   RBR  2695      110               1996
+
+4290 +     0402   ////      0404  LEA  C   RSP  025-110   III/1                 
+
+4300       0602   0605      0608  G15  5   XRA  1-8A      C2.4    5.6E-04   2002
+
+4310       0711   0753      0803  LEA  3   FLA  S18E31    SF      DSD       2002
+
+4320       0908   0912      0925  LEA  3   FLA  S18E31    SF                2002
+
+4440       1007   1017      1021  G15  5   XRA  1-8A      C6.7    5.0E-03       
+
+4330 +     1149   ////      1149  SAG  C   RSP  073-180   III/1                 
+4330       1149   1149      1149  SVI  G   RBR  245       110                   
+
+4340       1158   1207      1214  G15  5   XRA  1-8A      M1.7    1.0E-02   1991
+
+4350       1347   1347      1350  HOL  1   FLA  S18E31    SF                2002
+
+4360       1449   1456      1457  HOL  3   FLA  N17W58    SF                1996
+
+4370       1547   1623      1707  HOL  4   FLA  S18E31    1F      DSD       2002
+4370       1620   1627      1641  G15  5   XRA  1-8A      C9.7    1.0E-02   2002
+
+4380       1750   1751      1800  HOL  4   FLA  N15W61    SF                1996
+
+4390       1816   1822      1835  HOL  3   FLA  N15W61    SF      ERU       1996
+
+4400       1841   1843      1849  HOL  3   FLA  N15W62    SF      ERU       1996
+
+4410       1917   1947      2007  HOL  3   FLA  S19E26    SF      ERU       2002
+
+4430       2140   2156      2212  G15  5   XRA  1-8A      C6.9    1.0E-02   1996
+4430 +     2156   2158      2204  HOL  3   FLA  N17W68    SF      ERU       1996
+
+4460       2352   2357      0003  G15  5   XRA  1-8A      C2.2    1.1E-03   2002

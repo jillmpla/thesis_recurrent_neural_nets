@@ -1,0 +1,82 @@
+:Product: 20140106events.txt
+:Created: 2014 Jan 09 0332 UT
+:Date: 2014 01 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jan 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8400       0000   ////      1054  LEA  C   RSP  025-180   IV/1                  
+
+8390       0000   ////      0837  LEA  C   RSP  025-180   VI/1                  
+
+8260       0003   0018      0038  LEA  3   FLA  S06E27    1F      ERU       1944
+8260       0008   0019      0025  G15  5   XRA  1-8A      C7.1    4.8E-03   1944
+
+8290       0229   0229      0234  LEA  3   FLA  S14W68    SF                1937
+
+8300       0235   0235      0236  LEA  G   RBR  245       140                   
+
+8280 +     0235   0640      0701  COM  G   RNS  245       390                   
+
+8310 +     0248   0248      0248  LEA  G   RBR  245       900                   
+8310 +     0248   0248      0248  LEA  G   RBR  410       710                   
+
+8320       0435   0435      0437  LEA  3   FLA  S13W72    SF                1937
+
+8330       0457   0457      0513  LEA  3   FLA  N09E20    SF                1946
+
+8340      A0556   ////     A0641  LEA  3   EPL  ////      0.17                  
+
+8360       0653   ////      1525  SVI  C   RSP  027-180   IV/2                  
+8360 +     0744   0744      0744  LEA  G   RBR  410       110                   
+8360 +     0745   ////      0808  LEA  C   RSP  025-180   II/2    1383      1937
+8360 +     0747   0747      0747  SVI  G   RBR  245       120               1937
+8360      B0755   ////     B0810  LEA  3   EPL  ////      0.2               1936
+
+8370       0809   0814      0825  LEA  G   RBR  610       230                   
+8370 +     0814   0814      0816  LEA  G   RBR  410       100                   
+
+8380       0830   ////      0832  SVI  C   RSP  025-040   III/1                 
+
+8510       0921   ////      1054  LEA  C   RSP  034-147   VI/1                  
+
+8410       0928   0934      0942  G15  5   XRA  1-8A      C2.6    1.7E-03   1944
+8410 +     0930   ////      0933  SVI  U   RSP  047-175   III/1             1944
+8410      B0933   0933      0944  LEA  2   FLA  S04E13    SF      ERU       1944
+
+8420 +     1015   1016      1016  SVI  G   RBR  8800      120                   
+8420       1015   1016      1016  SVI  G   RBR  15400     76                    
+8420       1015   1016      1016  SVI  G   RBR  4995      94                    
+
+8550      A1020   ////     A2333  LEA  3   DSF  N27E47    11                    
+
+8430       1210   1211      1212  SVI  U   RBR  245       120                   
+
+8360       1225   ////      2113  SAG  C   RSP  076-180   IV/1              1937
+
+8440       1312   1317      1321  SVI  3   FLA  S06E20    SF      ERU       1944
+
+8460       1353   1354      1355  SVI  U   RBR  245       420                   
+
+8470       1414   1414      1414  SVI  U   RBR  245       290                   
+8470 +     1414   ////      1415  SAG  C   RSP  025-180   III/2                 
+8470       1414   1415      1415  SAG  G   RBR  410       110                   
+
+8490 +     1430   1430      1431  SAG  G   RBR  410       130                   
+8490       1431   1432      1432  SAG  G   RBR  610       150                   
+
+8500       1606   1612      1617  G15  5   XRA  1-8A      C2.0    1.0E-03   1944
+8500       1608   1609      1613  HOL  3   FLA  S09E19    SF      DSD       1944
+8500       1609   ////      1617  SAG  C   RSP  025-102   III/2             1944
+
+8530       1658   1658      1658  SAG  G   RBR  245       160                   
+
+8540       2205   ////      2359  LEA  C   RSP  055-180   IV/1                  
+8540       2210   2211      2212  PAL  G   RBR  245       530                   
+8540       2225   ////      2359  LEA  C   RSP  025-180   VI/2                  

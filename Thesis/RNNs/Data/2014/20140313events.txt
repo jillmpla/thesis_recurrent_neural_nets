@@ -1,0 +1,87 @@
+:Product: 20140313events.txt
+:Created: 2014 Mar 16 0332 UT
+:Date: 2014 03 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4900      B0000   ////     B0154  LEA  2   DSF  S18W60    6                     
+4900       0000   ////      0715  LEA  C   RSP  100-180   CTM/1                 
+
+5040      A0003   ////     A1357  HOL  3   DSF  S53E41    18                    
+
+5050      A0003   ////     A1357  HOL  3   DSF  S15W60    6                     
+
+4810       0035   ////      0038  CUL  C   RSP  018-057   III/1                 
+4810       0035   ////      0052  LEA  C   RSP  025-180   VI/2                  
+
+4790       0042   ////      0053  CUL  C   RSP  020-057   III/1                 
+
+4760 +     0053   0054      0054  LEA  G   RBR  245       110                   
+
+4770 +     0057   0057      0059  LEA  G   RBR  245       180                   
+
+4780       0101   0101      0101  PAL  G   RBR  245       100                   
+
+4800       0141   0141      0142  PAL  G   RBR  245       180                   
+
+4820       0300   ////      0301  LEA  C   RSP  025-180   III/1                 
+
+4830       0404   ////      0405  LEA  C   RSP  025-046   III/1                 
+
+4840       0532   0532      0533  LEA  G   RBR  245       140                   
+
+5070       0653   ////      0654  CUL  C   RSP  020-057   III/2                 
+
+4850 +     0653   ////      0654  LEA  C   RSP  025-081   III/1                 
+
+4910       0724   ////      1024  SVI  C   RSP  075-171   CTM/1                 
+
+4860 +     0832   ////      0834  LEA  C   RSP  025-180   III/1                 
+
+4870       0846   0846      0846  SVI  G   RBR  245       100                   
+
+4880       0900   0900      0910  SVI  3   FLA  N04W43    SF                2003
+
+4920 +     0920   0920      0920  LEA  G   RBR  245       260                   
+
+4940 +     0925   0927      0932  LEA  3   FLA  N05W43    SF      ERU       2003
+
+5110      A0945   ////     A2313  LEA  3   DSF  S47E31    16                    
+
+4940       0953   0953      0953  LEA  G   RBR  245       100               2003
+
+4950       1127   1133      1159  SVI  3   FLA  N03W47    SF                2003
+
+4960 +     1212   ////      1213  SAG  C   RSP  101-180   III/1                 
+
+4980 +     1245   ////      1245  SVI  C   RSP  038-152   III/1                 
+
+4990       1310   ////      1310  SAG  C   RSP  025-180   III/2                 
+4990       1310   ////      1310  SVI  C   RSP  025-165   V/2                   
+
+5000       1339   1344      1351  G15  5   XRA  1-8A      C1.7    9.5E-04   2003
+5000       1340   1341      1406  SVI  3   FLA  N04W47    SF      ERU       2003
+
+5010       1409   ////      1409  SVI  C   RSP  025-142   III/1                 
+
+5020       1526   ////      1526  SVI  C   RSP  025-133   III/1                 
+
+5030       1709   1715      1724  G15  5   XRA  1-8A      C1.7    1.2E-03   2003
+5030       1711   ////      1713  SAG  C   RSP  025-180   V/2                   
+
+5060       1903   1919      1930  G15  5   XRA  1-8A      M1.2    1.2E-02   1996
+
+5120       1914   ////      2111  HOL  2   DSF  S22E24    9                     
+
+5080       1942   ////      2129  SAG  C   RSP  025-042   CTM/1                 
+
+5130       2010   ////      2047  HOL  2   DSF  S06W62    5                 2000
+
+5090       2256   ////      2335  LEA  C   RSP  030-056   VI/1                  

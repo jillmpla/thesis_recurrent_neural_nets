@@ -1,0 +1,61 @@
+:Product: 20140322events.txt
+:Created: 2014 Mar 25 0332 UT
+:Date: 2014 03 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7410       0230   ////      0300  LEA  C   RSP  075-180   VI/2                  
+
+7420       0402   ////      0404  LEA  C   RSP  072-180   III/1                 
+
+7430       0533   0533      0533  SVI  G   RBR  245       100                   
+
+7480 +     0600   ////      1133  SVI  C   RSP  040-180   CTM/1                 
+
+7440       0658   0702      0705  G15  5   XRA  1-8A      M1.1    2.2E-03   2011
+7440       0701   0702      0710  LEA  3   FLA  S10W71    1F      DSD       2011
+
+7450 +     0716   0717      0717  LEA  G   RBR  410       360                   
+
+7520       0806   0856      0941  SVI  G   RNS  245       140                   
+
+7490 +    B0844   0907      1027  SVI  3   FLA  N12W48    1F      ERU       2005
+7490       0850   0925      1004  G15  5   XRA  1-8A      C4.8    4.1E-03   2005
+
+7460       0850   0851      0854  SVI  3   FLA  S08W68    SF                2011
+
+7470       0902   0902      0908  SVI  3   FLA  S08W68    SF                2011
+
+7600 +     0926   0928      0937  SVI  3   FLA  N12E69    SF                2017
+
+7500       1025   1025      1026  SVI  G   RBR  245       160                   
+
+7510       1129   1131      1142  SVI  3   FLA  S09W27    SF      ERU       2008
+
+7530       1259   1303      1306  G15  5   XRA  1-8A      C1.4    4.0E-04   2015
+7530       1301   1302      1307  SVI  3   FLA  S14W21    SF                2015
+
+7540       1308   ////      1309  SVI  C   RSP  042-081   III/1                 
+
+7550       1340   1344      1347  SVI  3   FLA  N11E67    SF                2017
+
+7580       1342   1342      1345  SVI  3   FLA  S09W72    SF                2011
+
+7560 +     1424   ////      1424  SVI  C   RSP  103-180   III/2                 
+7560 +     1424   1424      1424  SAG  G   RBR  245       720                   
+7560 +     1424   1424      1424  SAG  G   RBR  410       220                   
+
+7570       1655   1724      1750  G15  5   XRA  1-8A      C1.9    4.2E-03   2008
+
+7590       1938   1948      2002  G15  5   XRA  1-8A      C1.1    1.5E-03   2010
+
+7690       2004   2010      2015  G15  5   XRA  1-8A      C1.3    8.6E-04   2010
+
+7700       2054   2110      2128  G15  5   XRA  1-8A      C1.5    2.6E-03   2014

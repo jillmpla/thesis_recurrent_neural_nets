@@ -1,0 +1,75 @@
+:Product: 20140331events.txt
+:Created: 2014 Apr 03 0332 UT
+:Date: 2014 03 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8960       0031   0032      0034  LEA  3   FLA  S13E81    SF      DSD       2026
+
+8970 +     0106   ////      0106  LEA  C   RSP  025-106   III/1                 
+
+8980       0136   0141      0145  G15  5   XRA  1-8A      C1.9    7.1E-04   2026
+
+9000       0401   0411      0429  G15  5   XRA  1-8A      C3.3    4.1E-03   2014
+9000       0414   0415      0416  LEA  3   FLA  S13W71    SF                2014
+
+9010       0650   0652      0657  SVI  3   FLA  S08E75    SF                2026
+9010       0657   ////      0658  CUL  C   RSP  030-057   III/1             2026
+
+9020       0657   ////      0658  SVI  C   RSP  027-060   III/1                 
+
+9030       0720   0807      0818  G15  5   XRA  1-8A      M1.4    1.9E-02   2014
+
+9060       0736   0746      0755  SVI  3   FLA  S08E75    SF                2026
+
+9030 +     0756   0801      0821  SVI  3   FLA  S15W77    SF      DSD       2014
+9030       0817   ////      0846  SVI  C   RSP  075-137   IV/1              2014
+
+9040 +     0822   ////      0823  LEA  C   RSP  025-152   III/1                 
+
+9050       0823   ////      0912  LEA  C   RSP  025-110   IV/1              2014
+9050       0832   0840      0850  SVI  3   FLA  S15W75    SF                2014
+9050       0841   ////      0841  SVI  C   RSP  030-048   III/1             2014
+
+9060       1126   1127      1129  SVI  3   FLA  S08E74    SF                2026
+
+9070       1217   1217      1222  SVI  3   FLA  S08E73    SF                2026
+9070       1222   ////      1225  SVI  C   RSP  074-144   III/1             2026
+
+9080       1250   1252      1301  SVI  3   FLA  N18E35    SF      ERU       2022
+
+9090       1314   1315      1317  SVI  3   FLA  S08E73    SF                2026
+
+9100 +     1332   1333      1335  HOL  3   FLA  S11E70    SF      DSD       2026
+
+9110       1341   1342      1346  SVI  3   FLA  S13E17    SF      ERU       2021
+
+9120       1405   1415      1421  G15  5   XRA  1-8A      C3.6    2.8E-03   2026
+9120       1414   1416      1419  SVI  3   FLA  S09E72    SF                2026
+
+9130       1425   1431      1435  SVI  3   FLA  S09E72    SF                2026
+
+9140       1501   1502      1504  SVI  3   FLA  S13E17    SF                2021
+
+9150       1510   1511      1548  SVI  3   FLA  S08E71    SF                2026
+
+9160 +     1620   ////      1623  SVI  C   RSP  031-144   III/1                 
+
+9170       1752   1753      1802  HOL  3   FLA  S10E67    SF      ERU       2026
+
+9180       2034   2037      2041  G15  5   XRA  1-8A      C1.2    3.4E-04   2026
+
+9190       2245   2249      2256  G15  5   XRA  1-8A      C1.2    5.9E-04   2017
+
+9200       2308   2311      2313  G15  5   XRA  1-8A      C1.2    2.1E-04   2026
+
+9210       2320   2320      2320  LEA  G   RBR  245       410                   
+
+9220       2324   2324      2324  LEA  G   RBR  245       130                   

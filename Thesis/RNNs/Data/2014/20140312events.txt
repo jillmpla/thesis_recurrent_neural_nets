@@ -1,0 +1,86 @@
+:Product: 20140312events.txt
+:Created: 2014 Mar 15 0332 UT
+:Date: 2014 03 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4470       0026   0026      0031  HOL  3   FLA  N07W26    SF      DSD       2003
+
+4490       0230   0251      0328  G15  5   XRA  1-8A      C1.4    4.3E-03   2002
+
+4480       0231   0232      0234  LEA  3   FLA  S20E25    SF                2002
+
+4490       0244   ////      0244  CUL  C   RSP  020-057   III/1                 
+
+4510       0350   ////      0352  CUL  C   RSP  027-057   III/1                 
+
+4500       0413   0413      0413  LEA  G   RBR  410       340                   
+
+4520 +     0414   ////      0419  LEA  C   RSP  029-091   III/1                 
+
+4530       0419   ////      0458  LEA  C   RSP  083-161   CTM/1                 
+
+4570 +     0613   ////      0845  SVI  C   RSP  075-163   CTM/1                 
+
+4540       0721   0757      0810  G15  5   XRA  1-8A      C7.2    9.9E-03   1996
+4540 +     0754   0800      0809  SVI  3   FLA  N12W69    SF      ERU       1996
+
+4550       0822  U0826      0852  SVI  3   FLA  S19E20    SF      ERU       2002
+
+4580       0852   ////      0852  LEA  U   RSP  036-143   III/1                 
+
+4560       0852   ////      0852  SVI  C   RSP  028-140   III/1                 
+
+4590 +     0912   ////      0914  SVI  C   RSP  025-157   III/2                 
+
+4600       0946   0947      0951  SVI  3   FLA  N12W68    SF                1996
+
+4610       1055   1105      1111  G15  5   XRA  1-8A      M2.5    1.2E-02   1996
+4610       1057   1108      1139  SVI  3   FLA  N13W69    SN      ERU       1996
+
+4620       1125   1125      1127  SVI  3   FLA  S18E19    SF      ERU       2002
+
+4630       1315   1315      1318  SVI  3   FLA  S19E17    SF                2002
+
+4640       1315   1335      1355  SVI  3   FLA  S19W67    SF                1999
+
+4970      B1436   ////     A2130  SOH  4   CME  XUV,EUV,UV052-051/BS933           
+
+4890      A1601   ////     A0608  SVI  3   DSF  S11W48    9                     
+
+4650       1720   1740      1754  G15  5   XRA  1-8A      C5.3    8.4E-03   1996
+4650       1724   1724      1726  HOL  3   FLA  N16W74    SF                1996
+
+4660       1820   ////      1821  SAG  C   RSP  100-180   III/1                 
+
+4670 +     2106   2106      2106  PAL  G   RBR  245       110                   
+
+4680       2139   2139      2139  PAL  G   RBR  245       100                   
+
+4690       2153   ////      2153  SAG  C   RSP  025-079   III/1                 
+
+4720       2154   ////      2154  CUL  C   RSP  020-057   III/2                 
+
+4730       2225   ////      2227  CUL  C   RSP  020-057   III/1                 
+
+4700       2228   2234      2239  G15  5   XRA  1-8A      M9.3    3.1E-02   1996
+4700       2231   2231      2231  PAL  G   RBR  1415      150               1996
+4700       2231   2232      2234  PAL  G   RBR  8800      330               1996
+4700       2232   2232      2234  PAL  G   RBR  15400     360               1996
+4700       2232   2232      2234  PAL  G   RBR  4995      280               1996
+4700       2232   2235      2250  HOL  2   FLA  N15W78    SB      BPT       1996
+4700       2232   2233      2233  PAL  G   RBR  2695      140               1996
+
+4740       2312   ////      2313  CUL  C   RSP  023-057   III/1                 
+
+4750       2320   ////      2359  LEA  C   RSP  100-180   CTM/1                 
+4750       2331   ////      2331  CUL  C   RSP  030-057   III/1                 
+
+4710       2347   2347      2347  LEA  G   RBR  245       160                   

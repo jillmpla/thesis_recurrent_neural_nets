@@ -1,0 +1,59 @@
+:Product: 20140315events.txt
+:Created: 2014 Mar 18 0332 UT
+:Date: 2014 03 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5320       0020   0026      0030  G15  5   XRA  1-8A      C3.1    1.1E-03   2002
+
+5330       0118   ////      0144  LEA  C   RSP  039-180   VI/1                  
+5330       0143   0143      0143  LEA  G   RBR  245       120                   
+
+5340       0231   ////      0323  LEA  C   RSP  104-180   CTM/1             2003
+5340 +     0252   0256      0302  G15  5   XRA  1-8A      C1.5    6.8E-04   2003
+
+5360       0318   0321      0330  G15  5   XRA  1-8A      C1.3    9.7E-04   2003
+
+5350 +     0508   0513      0520  G15  5   XRA  1-8A      C1.3    7.3E-04   2003
+
+5370       0658   0701      0706  LEA  3   FLA  N02W67    SF                2003
+
+5380       0745   ////      0745  LEA  C   RSP  050-180   III/1                 
+
+5390       0930   0940      0955  G15  5   XRA  1-8A      C5.0    1.6E-03   2003
+
+5400       1046   ////      1047  SVI  C   RSP  028-115   III/1                 
+
+5410       1120   ////      1126  SVI  C   RSP  028-112   III/1                 
+
+5420 +     1200   ////      1200  SAG  C   RSP  025-128   III/1                 
+
+5430 +     1248   ////      1519  SAG  C   RSP  025-120   VI/2                  
+
+5440       1431   1437      1444  G15  5   XRA  1-8A      C1.2    7.4E-04   1998
+5440       1432   1433      1441  HOL  2   FLA  S11E71    SF                1998
+
+5450       1448   1448      1451  HOL  3   FLA  N12W69    SF                2006
+
+5460       1606   ////      1607  SAG  C   RSP  025-180   III/2                 
+
+5470       1706   1715      1733  G15  5   XRA  1-8A      C6.1    6.9E-03   2003
+5470       1710   1710      1719  HOL  3   FLA  N05W72    SF      ERU       2003
+5470       1727   ////      1756  SAG  C   RSP  116-180   CTM/1             2003
+
+5480       1737   ////      1737  SAG  C   RSP  025-133   III/1                 
+
+5490       1842   ////      1842  SAG  C   RSP  025-180   III/1                 
+
+5500       1858   1858      1901  HOL  3   FLA  N12W71    SF                2006
+
+5510       2250   ////      2251  LEA  C   RSP  025-180   III/2                 
+
+5520       2318   ////      2319  LEA  C   RSP  029-111   III/1                 

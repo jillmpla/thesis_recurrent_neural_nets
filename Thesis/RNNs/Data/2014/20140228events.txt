@@ -1,0 +1,60 @@
+:Product: 20140228events.txt
+:Created: 2014 Mar 03 0332 UT
+:Date: 2014 02 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Feb 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1550       0044   0048      0050  G15  5   XRA  1-8A      M1.1    1.9E-03   1991
+1550       0047   0048      0056  LEA  3   FLA  S24E53    SN      BPT       1991
+
+1560       0226   0230      0233  G15  5   XRA  1-8A      C2.6    6.6E-04   1982
+
+1570       0357   0402      0404  G15  5   XRA  1-8A      C2.2    5.5E-04   1987
+1570 +     0404   ////      0405  LEA  C   RSP  025-180   III/2                 
+
+1590       0423   0424      0424  LEA  G   RBR  245       200                   
+
+1600       0528   0528      0529  LEA  G   RBR  245       190                   
+
+1610 +     0639   ////      0639  LEA  C   RSP  042-180   III/1                 
+
+1620       0732  U0736      0743  SVI  3   FLA  S22E48    SF                1991
+
+1630       0744   0745      0749  SVI  3   FLA  S11E33    SF      DSD       1990
+
+1640       0753   0756      0757  SVI  3   FLA  N17E40    SF      DSD       1993
+
+1650       0820   0822      0851  SVI  3   FLA  S21E05    SF      ERU       1992
+
+1670       0932   1006      1033  G15  5   XRA  1-8A      C8.1    1.7E-02   1982
+1670      B1008  U1012     A1103  SVI  3   FLA  S12W69    2F      ERU       1982
+
+1680      B1039  U1040     A1050  SVI  3   FLA  N17E38    SF      ERU       1993
+
+1690       1144   ////      1145  SVI  C   RSP  025-133   III/1                 
+
+1700       1240   1312      1338  G15  5   XRA  1-8A      C2.4    7.2E-03   1982
+1700      B1256   1300     A1343  SVI  3   FLA  S12W68    SF      ERU       1982
+1700 +     1320   ////      1324  SAG  C   RSP  025-075   III/1             1982
+
+1710       1708   1712      1715  G15  5   XRA  1-8A      C2.7    6.2E-04   1993
+1710 +     1708   1708      1708  SAG  G   RBR  245       110                   
+1710       1710   ////      1711  SAG  C   RSP  025-180   III/1                 
+
+1720       1822   ////      1824  SAG  C   RSP  025-180   V/2                   
+
+1730       2038   2039      2042  HOL  3   FLA  N16E34    SF      DSD       1993
+
+1740       2112   ////      2113  SAG  C   RSP  025-180   III/1                 
+
+1750       2132   ////      2213  HOL  4   EPL  ////      0.21    B.5A          
+
+1760       2228   2233      2238  G15  5   XRA  1-8A      C2.2    9.8E-04   1993
+1760       2329   2329      2332  HOL  3   FLA  N16E32    SF                1993

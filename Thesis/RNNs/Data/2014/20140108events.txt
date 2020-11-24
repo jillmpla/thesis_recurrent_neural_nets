@@ -1,0 +1,63 @@
+:Product: 20140108events.txt
+:Created: 2014 Jan 11 0332 UT
+:Date: 2014 01 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jan 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9020       0000   ////      1055  LEA  C   RSP  025-180   IV/2                  
+
+8920       0006   0006      0006  LEA  G   RBR  610       100                   
+
+8930       0127   ////      0158  LEA  C   RSP  025-180   VI/1                  
+
+8940       0304   0311      0320  G15  5   XRA  1-8A      C3.1    2.4E-03   1944
+8940       0306   0306      0307  PAL  G   RBR  4995      130               1944
+8940 +     0306   0307      0307  LEA  G   RBR  8800      190               1944
+8940       0307   0307      0337  LEA  3   FLA  S10E01    SF      ERU       1944
+
+8950       0339   0347      0354  G15  5   XRA  1-8A      M3.6    1.7E-02   1947
+8950 +     0345   0345      0345  LEA  G   RBR  410       260               1947
+8950 +     0346   0347      0347  LEA  G   RBR  245       1300              1947
+8950       0346   ////      0353  LEA  C   RSP  025-180   III/2             1947
+8950       0348   ////      0401  LEA  C   RSP  025-180   II/2    697       1947
+8950       0349   0349      0349  PAL  G   RBR  2695      100               1947
+8950 +     0350   0359      0404  LEA  3   FLA  N11W81    SF      DSD       1947
+
+8960       0408   ////      0416  LEA  C   RSP  025-055   III/1                 
+
+8970       0418   0419      0424  LEA  3   FLA  N11W81    SF                1947
+
+8980       0439   ////      0439  LEA  C   RSP  025-083   III/1                 
+
+8990 +     0510   0614      0749  LEA  G   RNS  410       270                   
+
+9000       0518   0519      0521  LEA  3   FLA  N11W81    SF                1947
+
+9060       0625   ////      1527  SVI  C   RSP  025-180   IV/2                  
+
+9010       0727   0734      0742  G15  5   XRA  1-8A      C2.4    1.7E-03   1947
+
+9030       1025   1029      1036  G15  5   XRA  1-8A      C1.9    9.3E-04   1944
+9030       1027  U1027     A1109  SVI  3   FLA  S10W04    SF      ERU       1944
+
+9040       1156   1204      1217  G15  5   XRA  1-8A      C6.1    5.7E-03   1947
+
+9090       1233   ////      2115  SAG  C   RSP  025-180   IV/1                  
+
+9050       1255   1259      1302  G15  5   XRA  1-8A      C2.4    6.3E-04   1944
+9050      B1302  U1302     A1308  SVI  3   FLA  S10W04    SF      ERU       1944
+
+9070       1616   1617      1622  HOL  3   FLA  S06W10    SF      ERU       1944
+
+9080       1648   1654      1704  G15  5   XRA  1-8A      C3.4    2.2E-03   1944
+9080       1651   1653      1705  HOL  3   FLA  S07W11    SN      ERU       1944
+
+9100       2206   ////      2359  LEA  C   RSP  025-180   IV/1                  
+9100 +     2210   2210      2210  LEA  G   RBR  245       230                   

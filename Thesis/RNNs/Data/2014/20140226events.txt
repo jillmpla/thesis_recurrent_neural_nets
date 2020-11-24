@@ -1,0 +1,74 @@
+:Product: 20140226events.txt
+:Created: 2014 Mar 01 0332 UT
+:Date: 2014 02 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Feb 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 910      B0000   ////     B0330  LEA  3   LPS  ////      0.08    B.6A          
+ 910       0000   0003      0004  LEA  3   FLA  S25E83    SF                    
+
+ 930       0052   0053      0056  LEA  3   FLA  S24E80    SF                    
+
+ 940       0110   ////      0110  CUL  C   RSP  020-057   III/1                 
+
+ 950 +     0120   ////      0120  LEA  C   RSP  025-110   III/1                 
+
+ 960       0126   ////      0126  CUL  C   RSP  020-057   III/1                 
+
+ 970       0219   ////      0219  CUL  C   RSP  018-057   III/1                 
+
+ 980       0219   ////      0219  LEA  C   RSP  025-055   III/1                 
+
+ 990       0253   0253      0253  LEA  G   RBR  245       100                   
+
+1000       0339   0339      0348  LEA  3   FLA  S11W38    SF      ERU       1982
+1000       0346   0359      0406  G15  5   XRA  1-8A      C3.0    3.3E-03   1982
+
+1010       0350   0355      0401  LEA  3   FLA  S13W39    SF                1982
+1010 +     0351   ////      0352  CUL  C   RSP  018-090   III/3             1982
+
+1020 +     0448   ////      0449  LEA  C   RSP  025-134   III/2                 
+
+1030       0527   ////      0527  LEA  C   RSP  075-134   III/1                 
+
+1050       1050   1054      1058  G15  5   XRA  1-8A      C1.9    6.4E-04   1984
+
+1060      B1129  U1133     A1136  SVI  3   FLA  S13W43    SF      ERU       1982
+
+1070       1249   1253      1255  G15  5   XRA  1-8A      C1.5    3.5E-04       
+
+1080 +     1343   1343      1343  SVI  G   RBR  245       270                   
+1080       1343   1343      1343  SVI  G   RBR  410       56                    
+1080 +     1343   ////      1343  SVI  C   RSP  058-180   III/2                 
+
+1140       1446   1446      1451  SVI  3   FLA  S13W43    SF      ERU       1982
+
+1090      B1447  U1518     A1538  SVI  3   FLA  N12W10    SF      ERU       1986
+
+1100      B1452  U1501     A1528  SVI  3   FLA  S13W44    1N      ERU       1982
+1100       1452   1501      1510  G15  5   XRA  1-8A      M1.1    7.4E-03   1982
+
+1150      B1459  U1501     A1511  SVI  3   FLA  S21E70    SF                1991
+
+1100 +     1507   ////      1509  SAG  C   RSP  025-095   III/2             1982
+
+1110       1543   ////      1543  SVI  C   RSP  105-146   III/1                 
+
+1120       1625   1626      1631  HOL  3   FLA  S26E72    SF                1991
+
+1130       1637   1638      1641  HOL  3   FLA  S26E72    SF                1991
+
+1170       2037   ////      2037  CUL  C   RSP  020-057   III/1                 
+
+1180       2147   ////      2147  CUL  C   RSP  018-057   III/1                 
+
+1160       2242   2244      2249  HOL  3   FLA  S24E68    SF      DSD       1991
+
+1190 +     2339   2340      2340  PAL  G   RBR  245       820                   
