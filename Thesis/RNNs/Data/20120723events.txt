@@ -1,0 +1,35 @@
+:Product: 20120723events.txt
+:Created: 2012 Jul 26 0332 UT
+:Date: 2012 07 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jul 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2200       0217   ////      0235  LEA  C   RSP  075-180   CTM/1                 
+2200 +     0218   ////      0226  CUL  C   RSP  020-730   III/1                 
+2200       0220   0220      0220  LEA  G   RBR  410       100                   
+2200 +     0225   0225      0225  LEA  G   RBR  245       260                   
+2200       0231   ////      0237  CUL  C   RSP  020-045   II/1                  
+
+2220 +    B0236   ////     A0518  COM  4   CME  XUV,EUV,UV268-267/BS2142      1520
+
+2210 +     1121   1127      1148  G15  5   XRA  1-8A      C2.0    2.7E-03   1527
+2210 +    B1122  U1125     A1130  COM  3   FLA  N27E78    1F                1527
+
+2270       1529   1539      1550  G15  5   XRA  1-8A      B7.3    8.1E-04       
+
+2230       1557   ////      1558  SAG  C   RSP  025-051   III/1                 
+
+2240       1640   1700      1706  G15  5   XRA  1-8A      C1.0    1.3E-03   1530
+
+2250       2215   2225      2236  G15  5   XRA  1-8A      B7.9    8.0E-04       
+
+2260       2242   ////      2243  PAL  C   RSP  025-048   III/1                 
+
+2280       2310   2325      2333  G15  5   XRA  1-8A      C1.4    1.7E-03   1530

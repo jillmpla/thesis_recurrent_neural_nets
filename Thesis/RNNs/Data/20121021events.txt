@@ -1,0 +1,55 @@
+:Product: 20121021events.txt
+:Created: 2012 Oct 24 0332 UT
+:Date: 2012 10 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Oct 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9060       0011   0015      0015  LEA  G   RBR  610       200                   
+9060 +     0013   ////      0013  CUL  C   RSP  018-090   III/1                 
+
+9070       0020   0025      0028  LEA  G   RBR  610       520                   
+
+9230       0211   ////      0212  CUL  C   RSP  020-075   III/1                 
+
+9240       0218   ////      0219  CUL  C   RSP  020-090   III/1                 
+
+9080 +     0254   0308      0316  G15  5   XRA  1-8A      C7.8    6.7E-03   1598
+
+9170       0315   0316      0318  LEA  3   FLA  N03E47    SF                1596
+
+9090       0336   0336      0336  LEA  G   RBR  410       440                   
+
+9100 +     0524   0534      0546  G15  5   XRA  1-8A      C5.6    5.0E-03   1598
+
+9110 +     0636   0636      0636  LEA  G   RBR  610       160                   
+
+9150 +     1045   1108      1348  SVI  G   RNS  245       240                   
+
+9120 +     1106   1109      1118  G15  5   XRA  1-8A      C1.1    5.9E-04   1596
+
+9130 +     1129   ////      1444  SVI  C   RSP  102-180   CTM/1                 
+9130 +     1226   1226      1226  SVI  G   RBR  610       810                   
+
+9140 +     1258   1316      1332  G15  5   XRA  1-8A      C1.8    2.9E-03   1596
+
+9200       1752   1818      1831  G15  5   XRA  1-8A      C1.1    2.3E-03   1598
+
+9160 +     1842   1845      1848  G15  5   XRA  1-8A      C1.2    2.8E-04   1598
+
+9180 +     1946   2003      2020  G15  5   XRA  1-8A      M1.3    1.4E-02   1598
+9180       2006   2008      2012  HOL  3   FLA  S10E76    SF                1598
+
+9250       2050   ////      2050  CUL  C   RSP  020-050   III/1                 
+
+9190       2145   2151      2159  G15  5   XRA  1-8A      C1.1    9.1E-04   1598
+
+9210       2238   2300      2308  G15  5   XRA  1-8A      C1.2    1.8E-03   1598
+
+9220       2339   2348      2353  G15  5   XRA  1-8A      C1.2    9.6E-04   1598

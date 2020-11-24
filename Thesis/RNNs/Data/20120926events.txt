@@ -1,0 +1,16 @@
+:Product: 20120926events.txt
+:Created: 2012 Sep 29 0332 UT
+:Date: 2012 09 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Sep 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5850       1214   1240      1331  G15  5   XRA  1-8A      C1.2    4.2E-03   1582
+
+5860 +     2021   ////      2022  SAG  C   RSP  025-077   III/1                 

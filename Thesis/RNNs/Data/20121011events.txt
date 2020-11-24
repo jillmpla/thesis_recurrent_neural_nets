@@ -1,0 +1,50 @@
+:Product: 20121011events.txt
+:Created: 2012 Oct 14 0332 UT
+:Date: 2012 10 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Oct 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7780 +     0056   ////      0057  CUL  C   RSP  018-180   III/3                 
+
+7800 +     0253   ////      0254  CUL  C   RSP  040-180   III/1                 
+
+7810 +     0423   0428      0431  G15  5   XRA  1-8A      C1.2    3.7E-04   1585
+7810 +     0425   ////      0429  CUL  C   RSP  018-200   III/3             1585
+7810 +     0425   0425      0426  LEA  G   RBR  245       230               1585
+7810       0426   0428      0435  LEA  3   FLA  S17W44    SF      ERU       1585
+
+7820 +     0534   0534      0534  LEA  G   RBR  245       260                   
+
+7830 +     0758   0804      0808  G15  5   XRA  1-8A      C4.6    1.6E-03   1589
+7830 +     0802   0803      0811  LEA  3   FLA  N13E56    SF      ERU       1589
+7830       0802   0802      0802  LEA  G   RBR  8800      110               1589
+7830 +     0804   ////      0806  LEA  C   RSP  025-180   III/2             1589
+7830 +     0806   0806      0806  SVI  U   RBR  245       260               1589
+
+7840       0834   ////      0834  SVI  C   RSP  025-109   III/1                 
+
+7850 +     0920   0924      0930  G15  5   XRA  1-8A      C1.2    5.2E-04       
+
+7860 +     1016   1020      1022  G15  5   XRA  1-8A      C1.3    2.7E-04   1585
+7860       1017   1019      1024  SVI  3   FLA  S19W46    SF                1585
+7860       1017   ////      1020  SVI  C   RSP  025-180   III/2             1585
+
+7870       1041   1049      1054  SVI  3   FLA  N18E59    SF                1589
+
+7880       1102   1102      1115  SVI  3   FLA  N18E57    SF                1589
+
+7890 +     1426   1426      1426  SAG  G   RBR  245       390                   
+7890 +     1426   ////      1427  SAG  C   RSP  025-180   III/2                 
+
+7900 +     1920   ////      1923  SAG  C   RSP  025-078   III/1                 
+
+7910       2143   ////      2143  CUL  C   RSP  027-060   III/1                 
+
+7920 +     2230   2246      2255  G15  5   XRA  1-8A      C2.1    2.2E-03   1589

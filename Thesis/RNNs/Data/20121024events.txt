@@ -1,0 +1,51 @@
+:Product: 20121024events.txt
+:Created: 2012 Oct 27 0332 UT
+:Date: 2012 10 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Oct 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9470 +     0111   0126      0152  G14  5   XRA  1-8A      C2.4    4.5E-03   1593
+
+9480 +     0526   0538      0546  G14  5   XRA  1-8A      C4.2    3.1E-03   1598
+
+9490 +     0705   0710      0715  G14  5   XRA  1-8A      C1.7    6.9E-04   1598
+
+9500       0906   0928      0934  G14  5   XRA  1-8A      C2.9    3.3E-03   1598
+9500      B0912  U0914     A0923  SVI  3   FLA  S11E42    SF                1598
+
+9510      B0926  U0927     A0935  SVI  3   FLA  S11E42    SF                1598
+
+9520      B1051  U1052     A1101  SVI  3   FLA  S12E40    SF                1598
+
+9530      B1103  U1105     A1118  SVI  3   FLA  S12E40    SF                1598
+
+9540      B1235  U1236     A1237  SVI  3   FLA  S07E37    SF                1598
+
+9550       1318   1323      1328  G14  5   XRA  1-8A      C1.3    5.2E-04   1598
+
+9560       1358   1358      1358  SAG  G   RBR  245       110                   
+
+9570       1414   1419      1427  G14  5   XRA  1-8A      C1.4    8.5E-04   1598
+
+9580       1522   1526      1536  G14  5   XRA  1-8A      C1.0    6.7E-04   1598
+
+9590       1827   1832      1841  G14  5   XRA  1-8A      B8.9    5.8E-04       
+
+9600 +     2021   ////      2021  CUL  C   RSP  020-180   III/1                 
+
+9610       2051   2054      2100  G14  5   XRA  1-8A      B7.2    2.8E-04   1598
+
+9620       2122   2124      2125  PAL  G   RBR  410       160                   
+
+9630       2125   2125      2125  PAL  G   RBR  610       110                   
+
+9640       2245   2245      2246  LEA  G   RBR  245       300                   
+9640       2246   ////      2321  PAL  C   RSP  025-180   VI/1                  
+9640       2246   ////      2249  CUL  C   RSP  018-340   III/1                 

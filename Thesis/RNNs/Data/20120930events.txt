@@ -1,0 +1,67 @@
+:Product: 20120930events.txt
+:Created: 2012 Oct 03 0332 UT
+:Date: 2012 09 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Sep 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6270 +     0007   0010      0012  G15  5   XRA  1-8A      C1.0    1.6E-04   1575
+6270       0008   0008      0012  HOL  3   FLA  N09W77    SF      DSD       1575
+
+6280 +     0042   0045      0048  G15  5   XRA  1-8A      C1.0    2.2E-04   1577
+
+6290       0108   0111      0113  G14  5   XRA  1-8A      B8.5    1.4E-04   1583
+6290       0110   0112      0116  LEA  3   FLA  N12W77    SF                1583
+
+6300       0336   0336      0340  LEA  3   FLA  N08W74    SF                1575
+
+6310       0427   0433      0442  G15  5   XRA  1-8A      M1.3    6.9E-03   1583
+
+6320       0545   ////      0546  SVI  C   RSP  027-054   III/1                 
+
+6330 +     0621   ////      0621  LEA  C   RSP  025-180   III/2                 
+
+6340       0634   0645      0710  G15  5   XRA  1-8A      C2.9    5.1E-03   1577
+6340       0634   0637      0710  SVI  3   FLA  N04W62    SF      ERU       1577
+
+6370       0657   0658      0703  SVI  3   FLA  N07W77    SF                1575
+
+6350       0717   ////      0719  SVI  C   RSP  027-079   III/1                 
+
+6360       0751   ////      0751  SVI  C   RSP  027-039   III/1                 
+
+6380       1050   1051      1055  SVI  3   FLA  S20E37    SF                    
+
+6390 +     1229   1233      1236  G15  5   XRA  1-8A      C1.0    2.5E-04   1584
+
+6400      B1328  U1331     A1359  SVI  3   FLA  S23E37    SF                    
+
+6410 +     1421   1426      1433  G15  5   XRA  1-8A      C2.3    1.1E-03   1575
+6410 +     1423   1425      1428  SVI  3   FLA  N08W81    SF      DSD       1575
+
+6420 +     1501   1510      1514  G15  5   XRA  1-8A      C2.5    1.2E-03   1575
+6420 +     1505   1508      1512  HOL  3   FLA  N09W89    SF                1575
+6420       1507   1507      1507  SVI  G   RBR  245       100               1575
+
+6430       1705   1713      1715  HOL  3   FLA  S23E36    SF                1584
+
+6440       1753   1755      1757  HOL  3   FLA  S23E36    SF      ERU       1584
+
+6450 +     2004   2008      2010  G15  5   XRA  1-8A      C2.3    5.1E-04       
+
+6460 +     2057   2101      2104  G15  5   XRA  1-8A      C1.6    4.6E-04       
+
+6470 +     2116   2120      2123  G15  5   XRA  1-8A      C7.1    1.5E-03       
+
+6480 +     2201   2206      2209  G15  5   XRA  1-8A      C2.8    9.2E-04   1575
+
+6490 +     2239   2243      2247  G15  5   XRA  1-8A      C1.9    6.2E-04   1575
+
+6500 +     2317   2339      2344  G15  5   XRA  1-8A      C9.9    5.2E-03   1575
+6500       2337   2338      2342  HOL  3   FLA  N09W89    SF                1575

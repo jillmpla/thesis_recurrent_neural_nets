@@ -1,0 +1,22 @@
+:Product: 20121007events.txt
+:Created: 2012 Oct 10 0332 UT
+:Date: 2012 10 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Oct 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7050 +     0316   0333      0348  G15  5   XRA  1-8A      B4.5    7.2E-04   1585
+
+7060       1220   ////      1221  SVI  C   RSP  025-180   III/1                 
+
+7070       1222   1246      1312  G15  5   XRA  1-8A      B4.9    1.3E-03   1585
+
+7080 +     2021   2046      2114  G15  5   XRA  1-8A      C1.2    2.7E-03       
+7080 +     2023   ////      2029  CUL  C   RSP  018-180   III/3                 
+7080       2027   2027      2027  SAG  G   RBR  245       300                   

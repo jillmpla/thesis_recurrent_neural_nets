@@ -1,0 +1,67 @@
+:Product: 20120803events.txt
+:Created: 2012 Aug 06 0332 UT
+:Date: 2012 08 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Aug 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5110       0000   ////      0610  LEA  C   RSP  048-180   CTM/1                 
+
+5070       0047   ////      0050  LEA  C   RSP  025-100   III/1                 
+
+5080 +     0154   ////      0158  LEA  C   RSP  025-165   III/1                 
+
+5090       0230   ////      0301  LEA  C   RSP  025-180   VI/1                  
+5090       0230   ////      0313  PAL  C   RSP  025-086   III/1                 
+
+5100       0452   0456      0504  G15  5   XRA  1-8A      B8.7    4.9E-04   1538
+5100       0454   0510      0529  SVI  3   FLA  S20E46    SF                1538
+
+5180       0533   0545      0604  SVI  3   FLA  S20E46    SF                1538
+
+5190       0546   0555      0632  SVI  3   FLA  S24E68    SF                    
+
+5120       0551   0600      0608  G15  5   XRA  1-8A      C2.8    2.0E-03   1539
+5120 +     0552   0555      0614  SVI  3   FLA  S22E55    1F                1539
+5120 +     0553   ////      0555  LEA  C   RSP  025-180   III/2             1539
+5120 +     0602   ////      0608  LEA  C   RSP  053-125   II/1    622       1539
+
+5130       0646   ////      0647  SVI  C   RSP  025-045   III/1                 
+
+5140 +     0752   0811      0823  G15  5   XRA  1-8A      C1.4    2.1E-03   1538
+5140 +     0754   0758      0827  SVI  3   FLA  S20E42    SF                1538
+5140 +     0754   ////      0801  SVI  C   RSP  025-161   III/2             1538
+
+5200       1205   1213      1250  SVI  3   FLA  S21W26    SF                1532
+
+5160       1209   1214      1241  SVI  3   FLA  S20W25    SF                1536
+5160       1248   ////      1258  SAG  C   RSP  025-048   VI/1              1536
+
+5210       1330   ////      1406  SVI  C   RSP  025-049   VI/1                  
+
+5220       1422   1422      1425  SVI  3   FLA  S15E70    SF                    
+
+5230       1517   1519      1526  SVI  3   FLA  S25E64    SF                    
+
+5240       1605   1627      1649  G15  5   XRA  1-8A      C1.4    3.1E-03   1540
+5240 +     1619   ////      1619  SVI  C   RSP  025-079   III/1                 
+5240 +     1621   1629      1638  HOL  3   FLA  S27E63    SF      ERU           
+
+5250       1709   ////      1709  SAG  C   RSP  025-063   III/1                 
+
+5260       1823   ////      1823  PAL  C   RSP  025-037   III/1                 
+
+5270 +     1928   ////      1929  PAL  C   RSP  025-087   III/1                 
+
+5280 +     2120   2127      2131  G15  5   XRA  1-8A      C3.0    1.2E-03   1535
+5280       2121   2124      2139  HOL  3   FLA  N18E14    SF      ERU       1535
+
+5290       2131   ////      2131  PAL  C   RSP  025-043   III/1                 
+
+5300       2142   ////      2143  PAL  C   RSP  025-037   III/1                 

@@ -1,0 +1,64 @@
+:Product: 20120920events.txt
+:Created: 2012 Sep 23 0332 UT
+:Date: 2012 09 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Sep 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5230 +     0054   ////      0057  LEA  C   RSP  032-136   III/1                 
+
+5240 +     0118   0125      0131  G15  5   XRA  1-8A      B6.8    4.0E-04       
+
+5530      B0548   ////     A1130  SOH  4   CME  XUV,EUV,UV102-101/BS803           
+
+5250       0602   0603      0609  SVI  3   FLA  S27W58    SF                1574
+
+5260      B0613  U0627     A0627  SVI  3   FLA  S26W58    SF                1574
+
+5380       0636   ////      0638  CUL  C   RSP  020-180   III/1                 
+
+5270 +     0637   ////      0638  LEA  C   RSP  025-180   III/1                 
+
+5390       0647   ////      0647  CUL  C   RSP  020-050   III/1                 
+
+5280       0918   0922      0926  G14  5   XRA  1-8A      B7.7    2.3E-04   1574
+5280       0921   0923      0930  LEA  3   FLA  S23W63    SF      ERU       1574
+
+5290      B0930  U0949     A1022  SVI  3   FLA  S26W58    SF                1574
+
+5300      B1110  U1128     A1141  SVI  3   FLA  S26W59    SF                1574
+5300 +     1127   1139      1152  G15  5   XRA  1-8A      C1.0    1.2E-03   1574
+
+5310       1229   1229      1233  SVI  3   FLA  S25W62    SF                1574
+
+5320       1236   1242      1252  SVI  3   FLA  S26W61    SF                1574
+
+5330       1327  U1411     A1425  SVI  3   FLA  S26W61    SF      DSD       1574
+
+5340       1429   1430      1438  SVI  3   FLA  S26W63    SF                1574
+
+5350       1447   1511      1530  SVI  3   FLA  S26W63    SF                1574
+5350      B1512   ////     A2006  SOH  4   CME  XUV,EUV,UV102-101/BS1439      1574
+
+5360       1538   1545      1555  SVI  3   FLA  S25W63    SF                1574
+
+5460      A1614   ////     A0532  SVI  3   DSF  N12W77    16                    
+
+5370       1807   ////      1820  PAL  U   RSP  025-051   VI/1                  
+5370       1820   ////      1820  SAG  C   RSP  025-067   III/1                 
+
+5400       2057   ////      2057  CUL  C   RSP  040-180   III/1                 
+
+5410       2112   ////      2112  CUL  C   RSP  018-090   III/2                 
+
+5420       2116   ////      2116  CUL  C   RSP  020-070   III/1                 
+
+5430       2211   ////      2212  PAL  C   RSP  025-053   III/1                 
+
+5440       2337   ////      2337  CUL  C   RSP  018-090   III/1                 

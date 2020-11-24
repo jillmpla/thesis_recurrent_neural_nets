@@ -1,0 +1,68 @@
+:Product: 20120915events.txt
+:Created: 2012 Sep 18 0332 UT
+:Date: 2012 09 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Sep 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4380       0007   ////      0054  LEA  C   RSP  025-180   VI/2                  
+
+4430       0012   ////      0020  PAL  C   RSP  025-134   III/1                 
+
+4440       0053   ////      0054  PAL  C   RSP  025-148   III/1                 
+
+4390       0147   ////      0148  LEA  C   RSP  025-071   III/1                 
+
+4400 +     0229   ////      0235  LEA  C   RSP  025-180   III/2                 
+
+4410 +     0504   ////      0528  LEA  C   RSP  025-180   VI/2                  
+
+4450       0558   ////      0610  LEA  C   RSP  025-180   VI/1                  
+
+4460       0925   ////      0925  SVI  U   RSP  025-081   III/1                 
+
+4470 +     1309   ////      1310  SVI  C   RSP  025-117   III/1                 
+
+4480 +     1416   ////      1417  SAG  C   RSP  025-180   III/2                 
+
+4490 +     1431   1435      1437  G15  5   XRA  1-8A      B4.1    8.6E-05       
+
+4500 +     1654   1659      1702  G15  5   XRA  1-8A      B4.8    1.4E-04       
+
+4510       1745   1748      1748  SAG  G   RBR  245       100                   
+
+4520       1826   1826      1826  SAG  G   RBR  245       140                   
+
+4530       1833   ////      1842  PAL  C   RSP  025-086   III/1                 
+4530 +     1833   ////      1929  SAG  C   RSP  025-180   VI/1                  
+4530 +     1836   1841      1844  G15  5   XRA  1-8A      B2.9    9.7E-05       
+
+4540 +     1858   1903      1906  G15  5   XRA  1-8A      B4.2    1.3E-04       
+
+4550       2000   ////      2002  PAL  C   RSP  025-075   III/1                 
+
+4560 +     2007   2011      2014  G15  5   XRA  1-8A      B3.1    8.4E-05       
+
+4570       2052   ////      2052  PAL  C   RSP  025-117   III/1                 
+
+4580 +     2110   ////      2154  SAG  C   RSP  025-180   VI/1                  
+4580       2125   ////      2126  PAL  C   RSP  025-141   III/1                 
+
+4700       2142   2147      2150  G14  5   XRA  1-8A      B8.8    2.4E-04   1573
+4700 +     2142   2147      2150  G15  5   XRA  1-8A      B9.0    2.4E-04   1573
+
+4590 +     2241   2244      2247  G15  5   XRA  1-8A      B2.9    6.1E-05   1573
+
+4600 +     2253   2259      2305  G15  5   XRA  1-8A      B9.6    4.5E-04   1566
+4600       2258   2300      2300  LEA  G   RBR  245       200                   
+4600 +     2259   ////      2311  LEA  C   RSP  038-180   II/1    684           
+
+4610 +     2335   2341      2346  G15  5   XRA  1-8A      B4.2    1.9E-04   1573
+4610       2336   2339      2341  HOL  3   FLA  N19E80    SF                1573
+4610 +     2341   ////      2347  LEA  C   RSP  032-159   III/1                 

@@ -1,0 +1,56 @@
+:Product: 20121008events.txt
+:Created: 2012 Oct 11 0332 UT
+:Date: 2012 10 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Oct 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7090       0123   ////      0123  CUL  C   RSP  020-060   III/1                 
+
+7100 +     0211   ////      0214  CUL  C   RSP  018-060   III/1                 
+
+7110 +     0429   ////      0431  LEA  C   RSP  025-123   III/2                 
+
+7120       0549   ////      0624  SVI  C   RSP  025-079   VI/1                  
+7120       0557   0743      0751  G14  5   XRA  1-8A      B9.5    1.9E-03       
+
+7130 +     0712   ////      0739  LEA  C   RSP  025-103   VI/1                  
+7130       0737   0743      0749  G15  5   XRA  1-8A      B9.9    5.3E-04       
+
+7140 +     0801   0806      0811  G15  5   XRA  1-8A      C1.2    5.0E-04       
+
+7150       0841   0903      0912  G14  5   XRA  1-8A      C2.2    2.9E-03       
+7150 +     0843   ////      0901  LEA  C   RSP  025-100   VI/1                  
+
+7160 +     1105   1117      1123  G15  5   XRA  1-8A      M2.3    1.1E-02       
+
+7170       1316   1317      1321  SVI  3   FLA  S21W08    SF                1585
+
+7180 +     1352   1355      1429  G15  5   XRA  1-8A      C1.0    2.0E-03       
+
+7190 +     1814   1818      1828  G15  5   XRA  1-8A      B8.3    5.6E-04       
+
+7200       1841   1847      1856  G15  5   XRA  1-8A      B8.8    6.4E-04       
+
+7210 +     2042   ////      2049  CUL  C   RSP  100-180   III/1                 
+
+7220       2111   ////      2111  CUL  C   RSP  020-050   III/1                 
+
+7230       2128   ////      2145  PAL  U   RSP  025-180   VI/1                  
+7230       2129   ////      2129  CUL  C   RSP  018-100   III/3                 
+
+7270       2214   2232      2328  LEA  G   RNS  245       110                   
+
+7240 +     2214   ////      2359  LEA  C   RSP  042-180   CTM/1                 
+
+7250 +     2300   2310      2326  G15  5   XRA  1-8A      C2.2    2.6E-03       
+
+7260 +     2328   ////      2328  LEA  C   RSP  025-070   III/1                 
+
+7280 +     2356   0106      0201  G15  5   XRA  1-8A      C2.0    1.3E-02   1589

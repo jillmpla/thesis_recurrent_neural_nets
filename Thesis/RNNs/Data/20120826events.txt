@@ -1,0 +1,44 @@
+:Product: 20120826events.txt
+:Created: 2012 Aug 29 0332 UT
+:Date: 2012 08 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Aug 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9870 +     0100   0106      0110  G15  5   XRA  1-8A      B5.1    2.2E-04   1554
+
+9880       0239   0241      0243  LEA  3   FLA  N07E68    SF                1555
+
+9890 +     0453   ////      0453  LEA  C   RSP  025-048   III/1                 
+
+9900 +     0531   ////      0536  LEA  C   RSP  025-108   III/1                 
+
+9910       0605   ////      0605  SVI  C   RSP  035-080   III/1                 
+
+  50       0605   ////      0610  SVI  C   RSP  025-135   III/1                 
+
+9920 +     0924   ////      0929  LEA  C   RSP  025-180   III/1                 
+
+9930       1013   ////      1014  SVI  C   RSP  025-081   III/1                 
+
+9940 +     1241   ////      1242  SVI  C   RSP  025-033   III/1                 
+
+9950 +     1437   ////      1438  SVI  C   RSP  038-135   III/1                 
+
+9960 +     1512   ////      1512  SVI  C   RSP  027-080   III/1                 
+
+9970 +     1543   1543      1543  SAG  G   RBR  245       230                   
+9970       1543   ////      1543  SAG  C   RSP  124-180   III/1                 
+
+9980       1712   1817      1914  G15  5   XRA  1-8A      C1.0    5.3E-03       
+9980       1739   ////      1746  SAG  C   RSP  025-040   III/1                 
+
+9990 +     1815   ////      1815  PAL  C   RSP  025-040   III/1                 
+
+  10       1940   ////      1940  PAL  C   RSP  025-041   III/1                 

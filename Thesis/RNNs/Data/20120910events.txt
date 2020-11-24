@@ -1,0 +1,53 @@
+:Product: 20120910events.txt
+:Created: 2012 Sep 13 0332 UT
+:Date: 2012 09 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Sep 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2970      A0016   ////     A1605  HOL  3   DSF  S20E58    6                     
+
+2990       0120   ////      0120  CUL  C   RSP  027-180   III/1                 
+
+2860 +     0120   ////      0120  LEA  C   RSP  025-180   III/1                 
+
+2870       0253   0253      0253  LEA  G   RBR  245       200                   
+
+2880       0718   0721      0724  G15  5   XRA  1-8A      B8.7    1.9E-04   1564
+2880       0721   0721      0724  SVI  3   FLA  S18W56    SF      ERU       1564
+
+2890 +     0732   ////      0732  LEA  C   RSP  025-104   III/1                 
+
+3000       0733   ////      0733  CUL  C   RSP  020-080   III/1                 
+
+2900 +     0922   0932      0937  G15  5   XRA  1-8A      C1.9    6.3E-04   1564
+2900       0924   0932      0943  SVI  3   FLA  S19W57    SF                1564
+
+2930       0950   0953      1000  SVI  3   FLA  S19W58    SF                1564
+
+2940 +     1018   1023      1031  G15  5   XRA  1-8A      C1.6    8.4E-04   1567
+2940       1022   1027      1042  SVI  3   FLA  N16E22    SF      DSD       1567
+
+2950 +     1250   1255      1259  G15  5   XRA  1-8A      C3.1    1.1E-03   1564
+2950       1251   1252      1308  SVI  3   FLA  S19W60    SF                1564
+
+2960       1757   ////      1757  SAG  C   RSP  025-034   III/1                 
+
+2980 +     1956   2001      2005  G15  5   XRA  1-8A      B9.3    3.5E-04   1569
+2980 +     1957   ////      2000  PAL  C   RSP  025-180   III/1             1569
+2980       1958   1958      2007  HOL  3   FLA  S14E70    SF      ERU       1569
+
+3010       2102   ////      2102  CUL  C   RSP  020-060   III/1                 
+
+3020 +     2114   2131      2135  G15  5   XRA  1-8A      C2.2    1.7E-03   1564
+3020       2116   2130      2139  HOL  3   FLA  S13W70    SF      DSD       1564
+
+3030       2209   ////      2209  CUL  C   RSP  020-070   III/1                 
+
+3040 +     2342   2356      0008  G15  5   XRA  1-8A      C6.0    6.0E-03   1564

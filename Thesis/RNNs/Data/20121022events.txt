@@ -1,0 +1,41 @@
+:Product: 20121022events.txt
+:Created: 2012 Oct 25 0332 UT
+:Date: 2012 10 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Oct 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9260 +     0021   0026      0036  G15  5   XRA  1-8A      C3.4    2.2E-03   1598
+9260       0023   0023      0023  LEA  G   RBR  8800      120               1598
+
+9270 +     0137   0140      0142  G15  5   XRA  1-8A      C1.6    2.4E-04   1598
+
+9280       0539   0539      0539  SVI  G   RBR  245       150                   
+
+9290       0904   0907      0911  G15  5   XRA  1-8A      B9.4    2.6E-04       
+
+9300 +     1138   1138      1139  SVI  G   RBR  245       180                   
+
+9310 +     1338   ////      1339  SVI  C   RSP  025-081   III/1                 
+
+9320       1412   1414      1427  SVI  3   FLA  N14W12    SF      ERU       1593
+
+9330 +     1552   1603      1610  G15  5   XRA  1-8A      C6.3    4.0E-03   1593
+
+9340       1655   1658      1703  HOL  3   FLA  S08E56    SF      DSD       1598
+
+9350       1725   ////      1725  PAL  C   RSP  025-046   III/1                 
+
+9360 +     1838   1851      1901  G15  5   XRA  1-8A      M5.0    3.7E-02   1598
+9360       1840   1848      1938  HOL  3   FLA  S12E61    1F      ERU       1598
+9360 +     1845   1846      1851  SAG  G   RBR  8800      190               1598
+9360       1845   1846      1856  SAG  G   RBR  15400     370               1598
+9360       1846   1846      1846  SAG  G   RBR  4995      62                1598
+
+9370 +     2235   2239      2244  G15  5   XRA  1-8A      C1.3    4.9E-04   1593

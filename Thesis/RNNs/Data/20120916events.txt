@@ -1,0 +1,47 @@
+:Product: 20120916events.txt
+:Created: 2012 Sep 19 0332 UT
+:Date: 2012 09 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Sep 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4620 +     0001   ////      0002  CUL  C   RSP  020-180   III/1                 
+
+4630       0050   ////      0052  LEA  C   RSP  031-075   III/1                 
+
+4730       0139   ////      0140  CUL  C   RSP  020-060   III/1                 
+
+4640 +     0140   ////      0140  PAL  C   RSP  025-042   III/1                 
+
+4650       0151   0151      0151  LEA  G   RBR  245       140                   
+
+4660       0207   0207      0207  LEA  G   RBR  245       370                   
+
+4740       0257   ////      0257  CUL  C   RSP  023-060   III/1                 
+
+4750       0409   ////      0409  CUL  C   RSP  023-045   III/1                 
+
+4760       0424   ////      0425  CUL  C   RSP  020-060   III/1                 
+
+4670       0441   0442      0445  LEA  3   FLA  N17E78    SF                1573
+
+4680 +     0515   ////      0515  CUL  C   RSP  018-180   III/2                 
+
+4690       0558   ////      0714  SVI  C   RSP  025-180   VI/2                  
+4690 +     0601   ////      0602  CUL  C   RSP  018-200   III/3                 
+
+4710       0858   ////      0940  SVI  C   RSP  025-137   VI/1                  
+
+4720       1020   ////      1021  SVI  C   RSP  025-066   III/1                 
+
+4830       2204   ////      2213  HOL  4   DSF  N23W62    12                    
+
+4770       2309   ////      2309  CUL  C   RSP  018-060   III/1                 
+
+4780       2324   ////      2324  CUL  C   RSP  018-060   III/1                 

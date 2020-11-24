@@ -1,0 +1,63 @@
+:Product: 20120819events.txt
+:Created: 2012 Aug 22 0332 UT
+:Date: 2012 08 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Aug 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9190 +     0038   ////      0058  PAL  C   RSP  025-100   VI/1                  
+
+9200       0127   0131      0135  G15  5   XRA  1-8A      B5.5    1.7E-04       
+
+9210 +     0200   ////      0204  PAL  C   RSP  025-063   III/2                 
+
+9220       0219   0223      0226  G15  5   XRA  1-8A      B6.9    1.7E-04   1548
+9220       0220   0223      0329  LEA  3   FLA  N20E76    SF                1548
+
+9230       0231   0241      0248  G15  5   XRA  1-8A      C1.9    1.3E-03       
+9230 +     0233   ////      0239  LEA  C   RSP  025-180   III/1                 
+
+9240       0301   0305      0308  G15  5   XRA  1-8A      B8.7    2.3E-04       
+9240       0302   ////      0310  LEA  C   RSP  025-180   III/2                 
+
+9250       0309   ////      0310  PAL  C   RSP  025-125   III/1                 
+
+9260       0336   0412      0510  LEA  3   FLA  N20E71    SF      BPT       1548
+9260       0403   0423      0440  G15  5   XRA  1-8A      C2.2    3.3E-03   1548
+9260 +     0410   ////      0443  LEA  C   RSP  025-180   VI/2              1548
+9260       0421   ////      0421  SVI  C   RSP  110-133   III/1             1548
+
+9270 +     0516   0543      0556  LEA  3   FLA  N20E72    SF                1548
+9270       0537   ////      0552  SVI  C   RSP  025-072   VI/1              1548
+9270       0539   0544      0547  G15  5   XRA  1-8A      C2.3    6.1E-04   1548
+
+9280 +     0605   0608      0617  SVI  3   FLA  N22E75    SF                1548
+
+9290       0658   ////      0658  SVI  C   RSP  025-080   III/1                 
+
+9300 +     0704   0711      0715  LEA  3   FLA  N20E69    SF                1548
+9300       0707   0711      0714  G15  5   XRA  1-8A      B4.0    1.1E-04   1548
+
+9310 +     0811   0827      0832  SVI  3   FLA  N23E71    SF                1548
+9310       0823   0828      0832  G15  5   XRA  1-8A      B7.8    3.0E-04   1548
+9310       0823   ////      0826  SVI  C   RSP  025-046   III/2             1548
+
+9320       0914   ////      0915  SVI  C   RSP  025-040   III/1                 
+
+9330       0920   0923      0929  SVI  3   FLA  N23E70    SF                1548
+
+9340       1048   1049      1055  SVI  3   FLA  N21E70    SF                1548
+
+9350       1106   1106      1111  SVI  3   FLA  N24E70    SF                1548
+
+9360       1550   1550      1556  SVI  3   FLA  N22E69    SF                1548
+
+9370       1651   1655      1700  G15  5   XRA  1-8A      B2.7    1.1E-04       
+
+9380 +     2243   2315      2338  G15  5   XRA  1-8A      B8.8    1.9E-03   1543

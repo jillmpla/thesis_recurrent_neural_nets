@@ -1,0 +1,26 @@
+:Product: 20120921events.txt
+:Created: 2012 Sep 24 0332 UT
+:Date: 2012 09 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Sep 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5450       0334   ////      0334  CUL  C   RSP  020-070   III/1                 
+
+5470 +     0837   ////      0837  SVI  C   RSP  026-079   III/2                 
+
+5500       1156   1221      1248  G15  5   XRA  1-8A      B8.7    2.1E-03   1573
+
+5480       1157   1204      1206  SVI  3   FLA  N20E05    SF                1573
+
+5500       1207   1216      1220  SVI  3   FLA  N20E06    SF      ERU       1573
+
+5510 +     1919   ////      1919  SAG  C   RSP  025-069   III/1                 
+
+5520 +     1928   1932      1938  G15  5   XRA  1-8A      B4.8    2.1E-04   1574

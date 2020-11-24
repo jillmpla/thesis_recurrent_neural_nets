@@ -1,0 +1,56 @@
+:Product: 20120919events.txt
+:Created: 2012 Sep 22 0332 UT
+:Date: 2012 09 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Sep 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5030 +     0126   ////      0129  CUL  C   RSP  020-180   III/1                 
+
+5040       0138   0138      0138  LEA  G   RBR  245       240                   
+
+5050       0351   ////      0351  CUL  C   RSP  020-120   III/1                 
+
+5060       0351   ////      0351  LEA  C   RSP  025-115   III/1                 
+
+5070 +     0437   ////      0437  CUL  C   RSP  018-180   III/3                 
+5070       0437   ////      0438  CUL  C   RSP  020-070   V/3                   
+
+5150       0455   ////      0455  CUL  C   RSP  020-070   III/1                 
+
+5160       0500   ////      0500  CUL  C   RSP  020-030   III/1                 
+
+5080 +     0543   0548      0551  G15  5   XRA  1-8A      B5.3    1.7E-04   1575
+5080       0547   0547      0552  SVI  3   FLA  N13E84    SF                1575
+
+5170       0611   ////      0615  CUL  C   RSP  020-040   III/1                 
+
+5180       0707   ////      0708  CUL  C   RSP  020-070   III/1                 
+
+5090       1027   1031      1034  G15  5   XRA  1-8A      B3.9    1.1E-04       
+
+5190      B1148   ////      1554  SOH  3   CME  XUV,EUV,UV089-088/BS542           
+
+5100      B1156  U1158     A1203  SVI  3   FLA  N20E36    SF                1573
+
+5110 +     1504   1512      1521  G15  5   XRA  1-8A      C2.6    1.8E-03   1576
+5110       1512   1513      1520  HOL  3   FLA  S20E69    SF      DSD       1576
+
+5120 +     1627   1631      1636  G15  5   XRA  1-8A      B4.4    1.7E-04       
+
+5130       1637   1642      1652  G15  5   XRA  1-8A      C1.2    8.6E-04   1576
+5130       1638   1638      1645  HOL  3   FLA  S20E67    SF                1576
+
+5140       1831   ////      1831  PAL  C   RSP  025-040   III/1                 
+
+5200       2039   ////      2039  CUL  C   RSP  040-090   III/1                 
+
+5210       2150   ////      2150  CUL  C   RSP  040-080   III/1                 
+
+5220 +     2302   ////      2306  CUL  C   RSP  020-090   III/1                 

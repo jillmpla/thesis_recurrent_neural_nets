@@ -1,0 +1,14 @@
+:Product: 20120824events.txt
+:Created: 2012 Aug 27 0332 UT
+:Date: 2012 08 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Aug 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9780       1824   1824      1835  HOL  3   FLA  N16E17    SF                1554
