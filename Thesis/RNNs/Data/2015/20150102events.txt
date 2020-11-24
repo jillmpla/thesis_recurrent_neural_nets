@@ -1,0 +1,67 @@
+:Product: 20150102events.txt
+:Created: 2015 Jan 05 0357 UT
+:Date: 2015 01 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jan 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3820       0029   ////      0212  LEA  C   RSP  028-085   VI/1                  
+
+3830       0248   ////      0321  LEA  C   RSP  033-045   VI/1                  
+
+3840       0433   0436      0438  G15  5   XRA  1-8A      B7.0    1.0E-04   2253
+3840 +     0433   ////      0959  LEA  C   RSP  081-180   CTM/1                 
+
+3850       0706   ////      0805  SVI  C   RSP  104-180   CTM/1                 
+3850 +     0730   ////      0755  LEA  C   RSP  033-170   VI/1                  
+
+3860 +     0846   0847      0901  SVI  3   FLA  S11W37    SF                    
+3860       0846   ////      0929  SVI  C   RSP  103-180   CTM/1                 
+
+3870 +     0855   ////      0855  SVI  C   RSP  025-041   III/1                 
+
+3880       0856   0856      0903  SVI  3   FLA  S05E34    SF      ERU       2253
+
+3890       0917   0920      0924  SVI  3   FLA  S11W38    SF                    
+
+3900       0950   0953      0955  G15  5   XRA  1-8A      B9.3    1.5E-04   2253
+3900 +     0952   0953      0957  SVI  3   FLA  S05E33    SF                2253
+
+3910       1122   1123      1125  SVI  3   FLA  S06E33    SF                2253
+
+3920       1145   1146      1151  SVI  3   FLA  S06E33    SF                2253
+
+3930       1202   1202      1210  SVI  3   FLA  S05E33    SF                2253
+
+3940       1232   1233      1234  SVI  3   FLA  S05E33    SF                2253
+
+3950       1243   1243      1243  SAG  G   RBR  245       110                   
+
+3960 +     1257   1257      1257  SVI  G   RBR  245       120                   
+
+3970 +     1302   1302      1302  SVI  G   RBR  245       150                   
+
+3990       1405   1408      1411  G15  5   XRA  1-8A      B9.7    2.0E-04   2253
+
+4000       1412   1415      1417  G15  5   XRA  1-8A      C1.0    1.8E-04   2253
+4000       1413   1414      1418  SVI  3   FLA  S04E27    SF                2253
+
+4010       1528   ////      1529  SAG  C   RSP  036-180   III/1                 
+
+4020       1935   1938      1939  G15  5   XRA  1-8A      C1.1    3.0E-04   2248
+
+4030       1947   1948      1949  G15  5   XRA  1-8A      C1.2    2.0E-04   2256
+
+4040       2009   ////      2010  SAG  C   RSP  063-180   III/2                 
+
+4050       2015   ////      2016  SAG  C   RSP  066-180   III/2                 
+
+4070       2201   ////      2359  PAL  C   RSP  108-180   CTM/1                 
+
+4060       2202   ////      2324  LEA  C   RSP  105-180   CTM/1                 

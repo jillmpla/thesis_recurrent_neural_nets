@@ -1,0 +1,55 @@
+:Product: 20150125events.txt
+:Created: 2015 Jan 28 0357 UT
+:Date: 2015 01 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jan 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8360       0155   0201      0206  G15  5   XRA  1-8A      C1.1    5.4E-04       
+
+8370       0226   0229      0232  G15  5   XRA  1-8A      C1.1    2.3E-04       
+
+8380       0349   ////      0350  LEA  C   RSP  029-091   III/1                 
+
+8390       0747   0751      0756  G15  5   XRA  1-8A      C1.0    3.7E-04   2268
+
+8400       0815   0815      0815  LEA  G   RBR  245       200                   
+
+8410 +     0815   ////      0821  LEA  C   RSP  028-180   III/2                 
+
+8420 +     0915   ////      0939  LEA  C   RSP  034-180   VI/1                  
+
+8430       1152   ////      1152  SVI  C   RSP  039-135   III/1                 
+
+8630       1156   1212      1221  G15  5   XRA  1-8A      C1.4    1.6E-03       
+
+8440       1252   ////      1252  SVI  C   RSP  025-036   III/1                 
+
+8450       1404   ////      1406  SVI  C   RSP  102-154   III/2                 
+
+8460 +     1448   ////      1451  SAG  C   RSP  048-180   III/1                 
+
+8470 +     1757   ////      1808  SAG  C   RSP  041-180   VI/2                  
+8470       1811   1818      1821  G15  5   XRA  1-8A      B9.6    3.8E-04   2268
+8470       1812   1813      1813  SAG  G   RBR  610       1300                  
+8470       1813   1813      1813  SAG  G   RBR  245       230                   
+8470       1814   1814      1814  SAG  G   RBR  410       100                   
+
+8480       1906   1906      1906  SAG  G   RBR  245       160                   
+
+8490       1958   1958      1958  SAG  G   RBR  410       140                   
+
+8500       2122   ////      2122  PAL  C   RSP  025-046   III/1                 
+
+8510       2220   ////      2243  LEA  C   RSP  121-180   CTM/1                 
+8510       2226   ////      2256  PAL  C   RSP  025-127   VI/1                  
+
+8520       2247   ////      2256  LEA  C   RSP  029-139   III/1                 
+
+8530       2317   ////      2320  LEA  C   RSP  025-086   III/1                 

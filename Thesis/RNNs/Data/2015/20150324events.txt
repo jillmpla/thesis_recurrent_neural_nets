@@ -1,0 +1,64 @@
+:Product: 20150324events.txt
+:Created: 2015 Mar 27 0357 UT
+:Date: 2015 03 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Mar 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8600 +     0120   ////      0121  CUL  C   RSP  100-260   III/1                 
+
+8610 +     0155   0158      0206  G15  5   XRA  1-8A      B9.4    4.7E-04   2312
+8610       0157   0158      0208  LEA  3   FLA  N08E67    SF      DSD       2312
+
+8620       0214   0215      0218  LEA  3   FLA  N08E67    SF      DSD       2312
+
+8630       0255   ////      0255  CUL  C   RSP  020-150   III/1                 
+
+8640       0255   ////      0255  LEA  C   RSP  075-128   III/1                 
+
+8650       0331   0334      0337  LEA  3   FLA  N08E65    SF                2312
+
+8660       0352   ////      0418  LEA  C   RSP  075-180   VI/1                  
+8660 +     0418   ////      0418  CUL  C   RSP  020-220   III/1                 
+
+8690       0430   0434      0441  LEA  3   FLA  N08E65    SF                2312
+
+8670       0431   0432      0436  LEA  3   FLA  S09E42    SF                2305
+
+8700       0538   ////      0606  LEA  C   RSP  075-087   III/1                 
+
+8680 +     0548   0554      0601  G15  5   XRA  1-8A      C1.5    8.5E-04       
+
+8710       0705   0705      0708  LEA  3   FLA  S25E76    SF                    
+
+8780       0824   ////      1142  SOH  4   CME  ////      252-251 1871          
+
+8720       0913   0913      0925  LEA  3   FLA  S25E74    SF                    
+
+8730 +     1359   ////      1402  SVI  C   RSP  025-180   III/2                 
+
+8740 +     1519   ////      1519  SAG  C   RSP  025-180   III/2                 
+
+8760 +     1613   ////      1653  SAG  C   RSP  025-180   VI/1                  
+8760       1613   ////      1614  SVI  C   RSP  025-180   III/1                 
+
+8750 +     1621   1624      1626  G15  5   XRA  1-8A      C1.0    1.8E-04       
+
+8770       1801   ////      1827  SAG  C   RSP  025-180   VI/1                  
+
+8930       2126   ////      2127  CUL  C   RSP  057-180   III/1                 
+
+8790       2126   ////      2126  PAL  C   RSP  041-180   III/1                 
+
+8940       2200   ////      2200  CUL  C   RSP  057-160   III/1                 
+
+8800       2238   ////      2303  PAL  C   RSP  025-150   VI/2                  
+8800 +     2249   ////      2251  CUL  C   RSP  023-180   III/1                 
+
+8810       2343   2345      2347  HOL  2   FLA  N17E63    SF      DSD       2313

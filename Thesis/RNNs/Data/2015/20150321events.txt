@@ -1,0 +1,29 @@
+:Product: 20150321events.txt
+:Created: 2015 Mar 24 0357 UT
+:Date: 2015 03 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Mar 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8390 +     0000   0004      0007  G15  5   XRA  1-8A      B6.8    1.8E-04       
+8390 +     0000   ////      0002  LEA  C   RSP  075-180   III/1                 
+8390       0000   ////      0001  PAL  G   RBR  245       110                   
+8390       0001   0001      0001  PAL  G   RBR  410       120                   
+
+8400 +     0013   0018      0023  G15  5   XRA  1-8A      C1.4    6.0E-04   2297
+
+8410 +     0213   ////      0213  PAL  C   RSP  029-142   III/1                 
+
+8420       0735   0809      0925  G13  5   XRA  1-8A      C1.7    9.9E-03       
+8420       0746   ////      1018  LEA  C   RSP  075-180   VI/1                  
+8420 +     0748   ////      0749  SVI  C   RSP  048-156   III/1                 
+
+8430 +     1300   ////      1303  SVI  C   RSP  030-171   III/2                 
+
+8440 +     1630   ////      1634  SAG  C   RSP  033-180   III/1                 

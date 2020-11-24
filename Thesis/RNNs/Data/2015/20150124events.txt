@@ -1,0 +1,35 @@
+:Product: 20150124events.txt
+:Created: 2015 Jan 27 0357 UT
+:Date: 2015 01 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jan 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8250       0516   0516      0516  LEA  G   RBR  245       150                   
+
+8260       0707   0711      0715  G15  5   XRA  1-8A      B6.7    2.2E-04   2268
+8260       0710   0711      0717  LEA  3   FLA  S12E60    SF      DSD       2268
+
+8270       0732   0740      0746  G15  5   XRA  1-8A      C2.0    1.1E-03   2268
+8270       0735   0740      0800  LEA  3   FLA  S12E61    1F      DSD       2268
+
+8280       1015   1020      1038  LEA  3   FLA  S12E57    SF      DSD       2268
+8280       1015   1020      1027  G15  5   XRA  1-8A      C1.3    6.1E-04   2268
+
+8290       1155   1200      1203  G15  5   XRA  1-8A      B7.9    2.4E-04   2268
+
+8300       1602   1608      1613  G15  5   XRA  1-8A      B7.4    3.6E-04   2263
+
+8310       1822   1825      1828  G15  5   XRA  1-8A      B7.0    1.5E-04   2267
+
+8320 +     1832   1832      1832  SAG  G   RBR  245       120                   
+
+8340       2041   2046      2052  G15  5   XRA  1-8A      C1.2    5.7E-04       
+
+8350       2220   ////      2244  LEA  C   RSP  129-180   CTM/1                 

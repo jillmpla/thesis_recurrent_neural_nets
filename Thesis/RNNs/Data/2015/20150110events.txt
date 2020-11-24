@@ -1,0 +1,43 @@
+:Product: 20150110events.txt
+:Created: 2015 Jan 13 0357 UT
+:Date: 2015 01 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jan 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5840       0000   ////      0033  LEA  C   RSP  064-147   VI/1                  
+
+5850       0143   0153      0206  G15  5   XRA  1-8A      C2.1    2.4E-03   2257
+5850       0144   0147      0210  LEA  3   FLA  N06W27    SF      DSD       2257
+
+5870       0245   0252      0256  G15  5   XRA  1-8A      C1.2    7.6E-04   2257
+
+5860       0247   0248      0249  LEA  3   FLA  N05W29    SF                2257
+
+5870       0250   0251      0256  LEA  3   FLA  N05W29    SF                2257
+
+5880       0441   0444      0448  LEA  3   FLA  S16E43    SF      DSD       2259
+
+5890       0458   0508      0514  G15  5   XRA  1-8A      C1.1    1.1E-03   2259
+5890       0502   0507      0512  LEA  3   FLA  S16E44    SF      DSD       2259
+
+5900       1023   1024      1028  SVI  3   FLA  S09E49    SF      ERU       2259
+
+5910       1114   1133      1154  G15  5   XRA  1-8A      C3.3    6.0E-03   2257
+5910       1116  U1130     A1216  SVI  3   FLA  N05W33    SF                2257
+
+6040      A1349   ////     A0921  SVI  3   DSF  N11W48    8                 2257
+
+5920 +     1407   ////      1408  SVI  C   RSP  029-152   III/1                 
+
+5930       1646   ////      1647  SAG  C   RSP  033-180   III/1                 
+
+5940       2207   ////      2207  PAL  C   RSP  025-180   III/2                 
+
+5950       2300   2318      2330  G15  5   XRA  1-8A      C1.6    2.5E-03   2253

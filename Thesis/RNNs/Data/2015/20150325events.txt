@@ -1,0 +1,90 @@
+:Product: 20150325events.txt
+:Created: 2015 Mar 28 0357 UT
+:Date: 2015 03 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Mar 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8950       0032   ////      0033  CUL  C   RSP  020-200   III/3                 
+
+8820       0032   0032      0032  PAL  G   RBR  245       110                   
+8820 +     0032   ////      0039  PAL  C   RSP  025-180   III/2                 
+
+8960       0035   ////      0036  CUL  C   RSP  040-180   III/1                 
+
+8970       0039   ////      0041  CUL  C   RSP  040-100   III/1                 
+
+8830 +     0134   0144      0153  G15  5   XRA  1-8A      C2.6    2.0E-03   2305
+8830 +     0138   ////      0333  PAL  C   RSP  025-180   VI/1              2305
+8830       0139   0146      0202  LEA  2   FLA  S08E24    SF                2305
+8830       0148   ////      0150  CUL  C   RSP  020-210   III/1             2305
+
+8840       0202   0210      0217  LEA  2   FLA  S08E24    SF      ERU       2305
+8840       0211   ////      0212  CUL  C   RSP  018-120   III/1             2305
+
+8980       0246   ////      0249  CUL  C   RSP  020-120   III/1                 
+
+8850 +     0254   ////      0255  CUL  C   RSP  018-180   III/1                 
+
+8860 +     0320   0324      0328  G15  5   XRA  1-8A      C1.3    3.9E-04   2305
+
+8870 +     0331   ////      0333  CUL  C   RSP  018-260   III/2                 
+
+8880      B0339   0339      0405  LEA  3   FLA  S10E29    SF      ERU       2305
+
+8990       0421   ////      0423  CUL  C   RSP  023-180   III/1                 
+
+8910       0425   ////      0425  CUL  C   RSP  040-100   III/1                 
+
+8890       0436   0446      0511  G15  5   XRA  1-8A      C8.7    1.2E-02   2305
+8890       0438   0445      0627  LEA  4   FLA  S10E31    1N      ERU       2305
+
+8910 +     0512   ////      0748  SVI  C   RSP  025-172   VI/2                  
+
+8900 +     0534   ////      0536  CUL  C   RSP  018-260   III/2                 
+8900 +     0534   0534      0534  LEA  G   RBR  245       230                   
+
+9160       0608   ////      0609  CUL  C   RSP  020-260   III/2                 
+
+9000       0608   ////      0608  LEA  C   RSP  075-180   III/2                 
+
+8920       0608   0608      0608  LEA  G   RBR  245       130                   
+
+9010       0640   ////      0709  LEA  C   RSP  074-180   VI/1              2310
+9010       0709   0710      0717  LEA  3   FLA  N04E35    SF      BPT       2310
+9010       0709   0709      0709  LEA  G   RBR  245       110               2310
+
+9020 +     0720   0727      0730  G15  5   XRA  1-8A      C1.8    6.8E-04   2305
+9020       0721   0727      0743  LEA  3   FLA  S11E27    SF      BPT       2305
+
+9030       0743   ////      0748  LEA  C   RSP  075-172   III/1                 
+
+9040       0823   0829      0832  G13  5   XRA  1-8A      C3.2    9.1E-04   2305
+9040       0826   ////      0952  SVI  C   RSP  026-172   VI/2                  
+
+9050       0924   ////      0924  LEA  C   RSP  075-174   III/1                 
+
+9060       1049   ////      1049  SVI  C   RSP  103-162   III/1                 
+
+9070 +     1216   ////      1217  SVI  C   RSP  025-079   III/2                 
+
+9080       1247   1247      1247  SAG  G   RBR  410       100                   
+
+9090       1338   1404      1423  G15  5   XRA  1-8A      C1.0    2.9E-03   2305
+
+9130       1350   1350      1358  HOL  2   FLA  S09E24    SF      ERU       2305
+
+9090       1408   ////      1408  SVI  C   RSP  027-079   III/1             2305
+9090       1418   1421      1442  HOL  2   FLA  S09E24    SF      ERU       2305
+
+9110       1450   1453      1458  HOL  2   FLA  N06E33    SF                2310
+
+9120 +     1630   1645      1701  G15  5   XRA  1-8A      C3.3    4.6E-03   2305
+
+9140 +     1813   1818      1820  G15  5   XRA  1-8A      C1.1    3.0E-04   2305

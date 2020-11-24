@@ -1,0 +1,67 @@
+:Product: 20150316events.txt
+:Created: 2015 Mar 19 0357 UT
+:Date: 2015 03 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Mar 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7560       0000  U0047      0116  LEA  3   FLA  S18W31    SF                2297
+7560 +     0013   ////      0038  LEA  C   RSP  083-180   CTM/1             2297
+
+7570       0324   0341      0358  LEA  3   FLA  S17W34    SF      ERU       2297
+
+7580 +     0417   0421      0424  G15  5   XRA  1-8A      B8.0    2.2E-04   2297
+
+7590 +     0721   0725      0731  G15  5   XRA  1-8A      B6.4    2.8E-04   2297
+7590       0723   0723      0738  SVI  3   FLA  S22W37    SF                2297
+
+7600 +     0818   0823      0828  G15  5   XRA  1-8A      B8.7    3.7E-04   2297
+7600       0824   0827      0828  LEA  3   FLA  S17W37    SF      ERU       2297
+
+7610       0833   0952      0959  G15  5   XRA  1-8A      C1.8    8.5E-04   2297
+7610       0909   0909      0912  LEA  3   FLA  S16W37    SF      ERU       2297
+
+7620       0938   0952      0959  G13  5   XRA  1-8A      C1.9    1.6E-03   2297
+7620 +     0941  U0944      1005  SVI  3   FLA  S18W38    SF      ERU       2297
+
+7720 +    A1015   ////     A2335  LEA  3   DSF  S46W38    17                    
+
+7630 +     1016   1020      1024  G15  5   XRA  1-8A      B9.6    3.1E-04   2297
+
+7640 +     1039   1058      1117  G15  5   XRA  1-8A      M1.6    2.5E-02   2297
+7640       1039  U1057     A1151  SVI  3   FLA  S17W39    2N      ERU       2297
+
+7650 +     1255   1259      1301  G15  5   XRA  1-8A      C1.1    2.5E-04   2297
+
+7660 +     1349   1354      1359  G15  5   XRA  1-8A      C2.8    9.7E-04   2297
+7660       1356   1356      1405  HOL  2   FLA  S16W41    SF                2297
+
+7670 +     1443   ////      1443  SVI  C   RSP  025-061   III/1                 
+
+7680 +     1755   1759      1801  G15  5   XRA  1-8A      B8.7    1.5E-04   2297
+
+7690       1842   1845      1847  G15  5   XRA  1-8A      B6.2    1.0E-04   2297
+
+7700       1945   1946      1949  HOL  3   FLA  N11W38    SF      DSD       2297
+
+7730       1948   ////      2032  PAL  C   RSP  025-074   VI/1                  
+
+7770       2000   2015      2033  HOL  3   FLA  S17W44    1N      DSD       2297
+
+7700 +     2012   2015      2020  G15  5   XRA  1-8A      C5.5    1.5E-03   2297
+
+7710 +     2038   2049      2100  G15  5   XRA  1-8A      C8.1    7.1E-03   2297
+7710       2039   2044      2118  HOL  3   FLA  S22W48    1N      PRB       2297
+7710 +     2042   2043      2044  PAL  G   RBR  15400     100               2297
+7710 +     2042   2043      2043  PAL  G   RBR  8800      85                2297
+7710 +     2043   2043      2043  PAL  G   RBR  4995      71                2297
+
+7740       2316   2316      2316  LEA  G   RBR  1415      360               2297
+
+7750       2332   2332      2340  LEA  2   FLA  S15W50    SF                2297

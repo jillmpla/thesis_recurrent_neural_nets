@@ -1,0 +1,35 @@
+:Product: 20150304events.txt
+:Created: 2015 Mar 07 0357 UT
+:Date: 2015 03 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Mar 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4530       0501   0501      0501  LEA  G   RBR  245       120                   
+
+4540       0510   0510      0510  LEA  G   RBR  245       110                   
+
+4550 +     0625   0631      0645  G15  5   XRA  1-8A      C1.0    9.9E-04   2292
+4550       0626   0628      0635  SVI  3   FLA  S11W63    SF      ERU       2292
+
+4560       0911   0912      0920  SVI  3   FLA  N04W32    SF                2293
+
+4570       0952  U1033      1100  SVI  3   FLA  S11W67    1F      ERU       2292
+4570 +     0944   1039      1050  G15  5   XRA  1-8A      C2.8    5.4E-03   2292
+
+4580 +     1335   1342      1349  G15  5   XRA  1-8A      C1.1    7.4E-04   2293
+4580       1335  U1337      1347  SVI  3   FLA  N05W33    SF                2293
+
+4590       1525   1529      1530  HOL  3   FLA  S09W67    SF                2292
+
+4600       1708   1713      1719  G15  5   XRA  1-8A      B9.5    4.4E-04       
+
+4610       2314   ////      2330  LEA  U   RSP  025-075   VI/1                  
+
+4640      A2354   ////     A1403  HOL  3   DSF  S11E27    10                    

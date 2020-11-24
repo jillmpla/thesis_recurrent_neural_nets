@@ -1,0 +1,47 @@
+:Product: 20150408events.txt
+:Created: 2015 Apr 11 0357 UT
+:Date: 2015 04 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Apr 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 950 +     0002   0007      0009  G15  5   XRA  1-8A      C1.0    2.4E-04   2320
+ 950 +     0005   0005      0005  LEA  G   RBR  410       350               2320
+ 950 +     0006   0006      0015  LEA  3   FLA  S14W01    SF      ERU       2320
+
+ 960       0109   ////      0109  CUL  C   RSP  080-180   III/1                 
+
+ 970       0109   ////      0122  LEA  C   RSP  075-172   VI/1                  
+ 970       0122   ////      0122  CUL  C   RSP  030-150   III/1                 
+
+ 980 +     0510   ////      0516  LEA  C   RSP  075-180   III/1                 
+
+ 990       0720   ////      0720  SVI  C   RSP  030-052   III/1                 
+
+1000       0840   ////      0840  SVI  C   RSP  031-059   III/1                 
+
+1020       1311   ////      1311  SVI  U   RSP  031-059   III/1                 
+
+1030 +     1437   1443      1447  G15  5   XRA  1-8A      M1.4    4.0E-03   2320
+1030       1440  U1442     A1523  SVI  3   FLA  S14W04    1B      ERU       2320
+1030 +     1440   1440      1442  SAG  G   RBR  8800      250               2320
+1030 +     1440   1440      1442  SAG  G   RBR  15400     160               2320
+1030       1440   1440      1443  SVI  G   RBR  2695      110               2320
+1030       1440   1440      1440  SAG  G   RBR  610       190               2320
+1030 +     1440   ////      1440  SAG  C   RSP  101-180   III/1             2320
+1030 +     1440   1441      1442  SAG  G   RBR  4995      150               2320
+1030 +     1442   1442      1442  SAG  G   RBR  1415      120               2320
+
+1040       1642   ////      1643  SVI  C   RSP  027-059   III/1                 
+
+1050 +     2034   ////      2218  PAL  C   RSP  025-102   VI/1                  
+
+1060 +     2208   ////      2208  CUL  C   RSP  023-075   III/1                 
+
+1070       2235   2243      2253  HOL  3   FLA  S14W08    SF      ERU       2320

@@ -1,0 +1,45 @@
+:Product: 20150406events.txt
+:Created: 2015 Apr 09 0357 UT
+:Date: 2015 04 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Apr 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 700       0035   0035      0035  LEA  G   RBR  245       130                   
+
+ 710 +     0546   0550      0552  G15  5   XRA  1-8A      C1.2    2.7E-04   2318
+
+ 720       0608   0608      0617  LEA  2   FLA  S13E28    SF                2320
+ 720       0609   ////      0651  LEA  U   RSP  075-114   III/1             2320
+
+ 730       1305   1308      1310  G15  5   XRA  1-8A      B8.0    1.3E-04       
+
+ 740 +     1345   ////      1346  SVI  C   RSP  025-063   III/1                 
+
+ 750 +     1429   ////      1430  SAG  C   RSP  025-082   III/1                 
+
+ 810       1829   ////      1850  HOL  3   DSF  S15E15    9                 2320
+
+ 760 +     1835   1906      1914  G15  5   XRA  1-8A      C3.0    5.1E-03   2320
+ 760       1838   1906      1921  HOL  3   FLA  S14E14    1F      UMB       2320
+ 760 +     1847   1849      1852  SAG  G   RBR  245       430               2320
+ 760 +     1847   1849      1850  SAG  G   RBR  410       400               2320
+ 760       1847   ////      1855  SAG  C   RSP  103-180   CTM/1             2320
+ 760 +     1848   1849      1850  SAG  G   RBR  610       390               2320
+ 760 +     1854   ////      1904  PAL  C   RSP  030-063   II/1    691       2320
+ 760 +     1855   ////      2225  SAG  C   RSP  025-180   IV/1              2320
+
+ 770 +     1914   1914      1914  SAG  G   RBR  410       100                   
+
+ 780 +     1914   1915      1915  SAG  G   RBR  245       110                   
+ 780 +     1915   1915      1915  SAG  G   RBR  610       150                   
+
+ 790 +     1923   1923      1924  SAG  G   RBR  245       140                   
+
+ 800       2009   2010      2019  HOL  3   FLA  S15E23    SF      ERU       2320

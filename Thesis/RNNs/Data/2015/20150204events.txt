@@ -1,0 +1,72 @@
+:Product: 20150204events.txt
+:Created: 2015 Feb 07 0357 UT
+:Date: 2015 02 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Feb 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1170       0012   0015      0036  LEA  3   FLA  N08W09    SF      ERU       2277
+
+1180       0153   ////      0153  CUL  C   RSP  023-040   III/1                 
+
+1190 +     0208   0215      0221  G15  5   XRA  1-8A      M1.2    5.7E-03   2277
+1190       0211   0215      0255  LEA  3   FLA  N10W14    2N      BPT       2277
+1190       0214   ////      0216  CUL  C   RSP  550-830   III/1             2277
+
+1200       0235   0236      0237  LEA  3   FLA  S08E38    SF                2280
+
+1210       0246   0253      0301  LEA  3   FLA  N12E66    SF      DSD       2281
+
+1220       0333   0335      0338  LEA  3   FLA  N08W13    SF      ERU       2277
+
+1230       0347   0348      0351  LEA  3   FLA  N11W08    SF      ERU       2277
+
+1240       0547   ////      0605  LEA  C   RSP  039-134   VI/1                  
+1240       0548   ////      0550  CUL  C   RSP  027-180   III/1                 
+
+1250       0749   0755      0812  LEA  3   FLA  N12E65    SF                2281
+
+1260       0822   0923      0939  LEA  3   FLA  N13E64    SF                2281
+
+1290       0921   0922      0924  LEA  3   FLA  N09W17    SF      DSD       2277
+
+1270       0952   0953      0959  LEA  3   FLA  N12E63    SF                2281
+
+1280 +     1003   1007      1009  G15  5   XRA  1-8A      C2.2    4.5E-04   2277
+1280 +     1004   ////      1006  SVI  C   RSP  103-172   III/2             2277
+1280 +     1004   1005      1006  SVI  G   RBR  410       2600              2277
+1280 +     1005   1006      1014  LEA  3   FLA  N04W24    SF                2277
+
+1510      A1030   ////     A2343  LEA  1   DSF  N30E77    19                    
+
+1300       1204   ////      1206  SVI  C   RSP  028-148   III/1                 
+
+1310       1419   1419      1419  SVI  G   RBR  410       200                   
+
+1320       1458   1502      1516  HOL  2   FLA  N07W16    SF      ERU       2277
+
+1330       1701   ////      1702  SAG  C   RSP  032-180   III/2                 
+
+1340 +     1843   1912      1937  G15  5   XRA  1-8A      C3.0    7.9E-03   2280
+1340       1845   1849      1937  HOL  3   FLA  S09E47    SF      ERU       2280
+1340       1846   1846      1846  SAG  G   RBR  410       100               2280
+1340 +     1849   1849      1850  SAG  G   RBR  610       320               2280
+1340       1936   ////      2035  HOL  3   EPL  ////      0.32    B.6A      2280
+
+1370       2038   ////      2038  CUL  C   RSP  023-060   III/1                 
+
+1380       2042   ////      2044  CUL  C   RSP  018-150   III/3                 
+
+1350 +     2042   ////      2043  PAL  C   RSP  025-180   III/2                 
+
+1390       2146   ////      2146  CUL  C   RSP  023-040   III/1                 
+
+1410 +     2244   ////      2336  HOL  3   DSF  N27E11    10                    
+
+1360 +     2319   2333      2340  LEA  3   FLA  N09W19    SF      ERU       2277

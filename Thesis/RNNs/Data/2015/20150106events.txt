@@ -1,0 +1,68 @@
+:Product: 20150106events.txt
+:Created: 2015 Jan 09 0357 UT
+:Date: 2015 01 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jan 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5000 +     0000   ////      0425  LEA  C   RSP  130-180   CTM/1                 
+5000       0042   ////      0133  LEA  C   RSP  025-161   VI/1                  
+5000       0043   ////      0043  CUL  C   RSP  025-057   III/1                 
+
+5010       0101   ////      0102  CUL  C   RSP  018-100   III/1                 
+5010       0101   ////      0119  PAL  C   RSP  025-040   VI/1                  
+
+5020 +     0403   ////      0405  CUL  C   RSP  018-180   III/1                 
+
+5080       0424   0451      0516  LEA  3   FLA  S08W16    SF      ERU       2253
+
+5030 +     0430   ////      0430  CUL  C   RSP  100-500   III/1             2253
+
+5080 +     0456   ////      0457  CUL  C   RSP  300-500   III/1             2253
+
+5030 +     0456   0456      0456  LEA  G   RBR  410       180               2253
+5030       0516   0531      0558  G15  5   XRA  1-8A      C6.0    1.0E-02   2253
+5030       0518   0542      0632  LEA  3   FLA  S09W16    1F      ERU       2253
+
+5140       0624   ////      0624  CUL  C   RSP  130-360   III/1                 
+
+5150       0707   ////      0707  CUL  C   RSP  020-150   III/1                 
+
+5040 +     0712   ////      0717  CUL  C   RSP  020-210   III/1                 
+
+5050 +     0806   ////      0812  SVI  C   RSP  025-180   III/2                 
+5050       0809   0809      0809  LEA  U   RBR  245       150                   
+
+5060       0934   0943      0951  G15  5   XRA  1-8A      C2.2    1.6E-03   2253
+5060       0936   0941      0958  LEA  3   FLA  S08W17    SF      ERU       2253
+
+5090       1140   1148      1153  G15  5   XRA  1-8A      C9.7    4.2E-03       
+
+5100       1324   ////      1327  SVI  C   RSP  025-180   III/2                 
+5100       1325   1330      1336  G15  5   XRA  1-8A      C1.4    7.1E-04   2257
+5100       1325   1328      1340  SVI  3   FLA  N06E17    SF                    
+
+5110 +     1414   ////      1420  SVI  C   RSP  025-180   III/2                 
+
+5120       1638   ////      1639  SAG  C   RSP  043-180   III/1                 
+
+5130       1710   1714      1718  G15  5   XRA  1-8A      C1.7    5.7E-04   2253
+5130       1712   1713      1721  HOL  3   FLA  S09W21    SF      ERU       2253
+
+5160       2016   ////      2018  CUL  C   RSP  023-130   III/1                 
+
+5170       2025   ////      2025  CUL  C   RSP  020-060   III/1                 
+
+5180       2048   ////      2050  CUL  C   RSP  018-060   III/1                 
+
+5190       2158   2204      2211  G15  5   XRA  1-8A      C1.9    1.1E-03       
+
+5200       2256   2256      2256  PAL  G   RBR  245       100                   
+
+5210       2334   2334      2334  PAL  G   RBR  245       150                   

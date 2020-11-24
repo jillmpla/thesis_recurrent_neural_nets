@@ -1,0 +1,55 @@
+:Product: 20150307events.txt
+:Created: 2015 Mar 10 0357 UT
+:Date: 2015 03 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Mar 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4860      B0242   0247     A0249  LEA  3   FLA  S15E77    SF                2297
+
+4870 +     0358   0402      0406  G15  5   XRA  1-8A      C1.0    3.5E-04   2297
+
+4890       0530   ////      0531  LEA  C   RSP  079-113   III/1                 
+
+4900 +     0632   0636      0640  G15  5   XRA  1-8A      C1.7    5.5E-04   2297
+4900       0634   0635      0641  LEA  3   FLA  S18E80    SF      ERU       2297
+
+4910       0935   0939      0941  G13  5   XRA  1-8A      C1.2    2.7E-04   2297
+
+4920       0959   1030      1114  G15  5   XRA  1-8A      C1.8    7.0E-03   2297
+
+5040      A1020   ////     A2306  LEA  3   DSF  N02E40    7                     
+
+4930       1121   ////      1121  SVI  U   RSP  029-047   III/1                 
+
+4940 +     1342   ////      1351  SAG  C   RSP  025-161   III/1                 
+
+4950 +     1524   ////      1524  SAG  C   RSP  025-132   III/1                 
+
+4960       2035   ////      2037  SAG  C   RSP  025-180   V/2                   
+4960       2035   ////      2038  PAL  C   RSP  025-180   III/2                 
+4960 +     2035   2036      2038  PAL  G   RBR  245       520                   
+
+4970       2153   2154      2155  PAL  G   RBR  4995      120                   
+4970       2153   2155      2155  PAL  G   RBR  2695      120                   
+
+4980 +     2157   ////      2203  PAL  C   RSP  065-180   II/1    704           
+4980 +     2145   2222      2258  G15  5   XRA  1-8A      M9.2    2.3E-01   2297
+4980 +     2204   ////      2351  PAL  C   RSP  025-180   IV/2                  
+4980       2210   2213      2216  PAL  G   RBR  245       200                   
+4980       2236   2239      2249  PAL  G   RBR  15400     160                   
+4980 +     2236   2239      2246  PAL  G   RBR  2695      260                   
+4980 +     2236   2239      2247  PAL  G   RBR  4995      250                   
+4980 +     2236   2239      2247  PAL  G   RBR  8800      170                   
+4980       2238   2238      2239  PAL  G   RBR  1415      100                   
+
+5010 +     2252   ////      2308  PAL  C   RSP  025-180   VI/1              2297
+5010      B2305   ////     B0115  LEA  3   LPS  ////      0.25              2297
+
+5020 +     2353   ////      2353  LEA  C   RSP  082-180   III/1                 

@@ -1,0 +1,45 @@
+:Product: 20150116events.txt
+:Created: 2015 Jan 19 0357 UT
+:Date: 2015 01 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jan 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7460       0005   0005      0013  LEA  3   FLA  N09W74    SF                2260
+
+7450       0016   ////      0034  LEA  C   RSP  030-079   VI/1              2260
+7450       0017   ////      0017  CUL  C   RSP  018-057   III/1             2260
+7450       0025   0040      0101  LEA  3   FLA  N09W74    SF                2260
+
+7510       0035   ////      0035  CUL  C   RSP  018-057   III/1                 
+
+7470       0105   0135      0148  LEA  3   FLA  N09W74    SF                2260
+
+7480       0149   0157      0204  LEA  3   FLA  N09W74    SF                2260
+
+7490       0213   0213      0218  LEA  3   FLA  N08W74    SF                2260
+
+7500       0220   0233      0246  LEA  3   FLA  N08W74    SF                2260
+
+7580       0253   ////      0457  LEA  3   EPL  ////      0.16              2260
+
+7520       0318   0330      0353  G15  5   XRA  1-8A      C1.8    3.2E-03   2260
+7520       0336   ////      0337  CUL  C   RSP  027-140   III/1             2260
+7520       0340   0344      0346  LEA  3   FLA  N08W74    SF                2260
+
+7530       0633   ////      0634  LEA  C   RSP  032-077   III/1                 
+
+7540 +     0711   ////      0719  LEA  C   RSP  026-172   III/2             2261
+7540 +     0717   0720      0724  LEA  3   FLA  S16W07    SF      ERU       2261
+
+7550 +     0824   ////      0853  SVI  C   RSP  025-180   VI/2                  
+
+7560       1352   ////      1354  SVI  C   RSP  025-127   III/1                 
+
+7570       1550   ////      1551  SAG  C   RSP  025-180   III/1                 

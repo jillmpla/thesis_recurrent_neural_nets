@@ -1,0 +1,73 @@
+:Product: 20150202events.txt
+:Created: 2015 Feb 05 0357 UT
+:Date: 2015 02 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Feb 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 630       0128   ////      0322  LEA  C   RSP  030-173   VI/1                  
+
+ 640       0237   ////      0245  PAL  C   RSP  062-180   III/1             2268
+ 640       0240   0240      0256  LEA  3   FLA  S10W55    SF                2268
+
+ 650 +     0247   0247      0247  LEA  G   RBR  245       640                   
+
+ 660       0401   0402      0413  LEA  3   FLA  N08E12    SF                2277
+ 660 +     0407   ////      0408  CUL  C   RSP  018-260   III/2             2277
+
+ 840       0504   ////      0504  CUL  C   RSP  020-160   III/1                 
+
+ 850       0601   ////      0603  CUL  C   RSP  040-180   III/1                 
+
+ 670       0602   ////      0603  LEA  C   RSP  030-180   III/1                 
+
+ 680 +     0621   0624      0627  G15  5   XRA  1-8A      C1.0    2.3E-04   2277
+ 680       0623   0623      0623  LEA  G   RBR  410       110                   
+
+ 690       0630   0630      0630  LEA  G   RBR  245       160                   
+ 690 +     0630   0630      0630  LEA  G   RBR  410       830                   
+
+ 700       0630   ////      0630  SVI  C   RSP  139-180   III/1                 
+
+ 860       0631   ////      0631  CUL  C   RSP  150-600   III/1                 
+
+ 710 +     0758   ////      0759  LEA  C   RSP  028-180   III/1                 
+
+ 720       0854   ////      0938  LEA  C   RSP  033-091   VI/1                  
+
+ 730 +     1046   1046      1046  SVI  G   RBR  245       120                   
+
+ 740      B1323  U1326     A1336  SVI  3   FLA  S15W62    SF                2268
+
+ 750 +     1400   ////      1401  SAG  C   RSP  025-180   III/2                 
+ 750 +     1400   1400      1401  SAG  G   RBR  245       1600                  
+
+ 760 +     1426   1437      1444  G15  5   XRA  1-8A      C1.7    1.5E-03   2280
+
+ 770       1540   1550      1608  HOL  3   FLA  S12W65    SF      DSD       2268
+
+ 820       1601   1608      1612  HOL  3   FLA  S09E61    SF      DSD       2268
+
+ 780       1624   1633      1650  HOL  3   FLA  S09E61    1F      DSD           
+
+ 790       1707   1710      1712  HOL  3   FLA  S09E61    SF      DSD           
+
+ 800       2021   2025      2033  HOL  4   FLA  S19W56    SF      ERU       2279
+
+ 810       2035   2035      2035  SAG  G   RBR  245       100                   
+
+ 870       2248   ////      2248  LEA  C   RSP  033-045   III/1                 
+
+ 830 +     2301   2305      2332  LEA  3   FLA  N10E14    SF      DSD       2277
+ 830 +     2302   2312      2324  G15  5   XRA  1-8A      C2.6    2.8E-03   2277
+
+ 890       2303   2305      2315  LEA  3   FLA  S08E57    SF                2280
+
+ 880       2354   2354      2354  LEA  G   RBR  245       220                   
+ 880       2354   ////      2355  LEA  C   RSP  120-180   III/1                 

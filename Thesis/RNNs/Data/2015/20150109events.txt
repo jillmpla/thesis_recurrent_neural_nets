@@ -1,0 +1,55 @@
+:Product: 20150109events.txt
+:Created: 2015 Jan 12 0357 UT
+:Date: 2015 01 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jan 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5690 +     0000   ////      0406  LEA  C   RSP  066-180   CTM/1                 
+
+5650 +     0002   ////      0006  LEA  C   RSP  025-036   III/2                 
+
+5660       0021   ////      0053  LEA  C   RSP  029-147   VI/1                  
+
+5700       0125   ////      0319  LEA  C   RSP  025-081   VI/1                  
+
+5670       0147   ////      0149  LEA  C   RSP  025-130   V/2                   
+
+5680       0233   ////      0235  LEA  C   RSP  025-088   V/2                   
+5680       0233   ////      0234  PAL  C   RSP  025-123   III/1                 
+
+5710       0356   0357      0357  LEA  G   RBR  245       600                   
+
+5720       0402   ////      0405  LEA  C   RSP  032-080   III/1                 
+
+5730       0423   0428      0430  LEA  3   FLA  N06W18    SF      DSD       2257
+
+5740       0458   ////      0504  LEA  C   RSP  025-099   III/1                 
+
+5750       0546   0554      0559  G15  5   XRA  1-8A      C3.4    1.8E-03   2259
+5750       0549   0549      0604  LEA  3   FLA  S17E64    SF      DSD       2259
+
+5760       0609   0609      0609  LEA  G   RBR  245       130                   
+
+5770 +     0705   ////      0705  LEA  C   RSP  028-098   III/2                 
+
+5780       0804   0817      0834  G15  5   XRA  1-8A      C9.6    1.2E-02   2257
+5780       0806   0810      0902  LEA  3   FLA  N06W18    1N      ERU       2257
+5780 +     0822   ////      0822  LEA  C   RSP  025-058   III/1             2257
+
+5790       1142   ////      1206  SVI  C   RSP  027-077   VI/1                  
+
+5800       1726   1748      1801  G15  5   XRA  1-8A      C1.8    3.1E-03   2257
+
+5810       1842   1853      1900  G15  5   XRA  1-8A      C1.3    1.3E-03   2259
+
+5820       2216   2228      2240  G15  5   XRA  1-8A      C1.9    2.2E-03   2257
+5820       2228   ////      2228  LEA  C   RSP  092-180   III/1                 
+
+5830       2319   ////      2359  LEA  C   RSP  049-178   VI/1                  

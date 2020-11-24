@@ -1,0 +1,49 @@
+:Product: 20150115events.txt
+:Created: 2015 Jan 18 0357 UT
+:Date: 2015 01 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jan 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7240 +     0018   ////      0018  CUL  C   RSP  027-090   III/1                 
+
+7250 +     0058   ////      0058  CUL  C   RSP  018-120   III/1                 
+7250       0058   ////      0122  PAL  C   RSP  025-082   VI/1                  
+
+7260       0221   0225      0231  LEA  3   FLA  S03W72    SF                2262
+7260       0230   0239      0249  G15  5   XRA  1-8A      C2.1    2.2E-03   2262
+
+7290       0306   0334      0412  G15  5   XRA  1-8A      C2.4    8.0E-03   2257
+7290       0314   ////      0404  LEA  C   RSP  027-172   VI/1                  
+
+7430       0453   ////      0453  CUL  C   RSP  027-090   III/1                 
+
+7310       0555   ////      0621  LEA  C   RSP  037-103   VI/1                  
+
+7320 +     0715   ////      0715  LEA  C   RSP  028-084   III/1                 
+
+7330 +     0916   ////      0947  SVI  C   RSP  025-180   VI/2              2259
+7330 +     0934   0936      0945  SVI  3   FLA  S13W20    SF      ERU       2259
+7330 +     0937   0937      0937  LEA  G   RBR  410       280               2259
+
+7350       1304   1304      1311  SVI  3   FLA  N24E56    SF                    
+
+7360       1315   1316      1345  SVI  3   FLA  N24E56    SF                    
+
+7370       1429   1429      1431  SVI  3   FLA  S11W54    SF                    
+
+7380       1449   1459      1509  G15  5   XRA  1-8A      C2.4    2.2E-03   2255
+
+7390       1611   1611      1612  SAG  G   RBR  245       180                   
+
+7400       1638   1639      1649  SAG  G   RBR  245       4200                  
+7400       1639   1649      1705  G15  5   XRA  1-8A      C2.6    3.3E-03   2257
+7400       1651   1652      1705  SAG  G   RNS  245       150                   
+
+7420       2149   2155      2202  G15  5   XRA  1-8A      C1.2    7.2E-04   2262

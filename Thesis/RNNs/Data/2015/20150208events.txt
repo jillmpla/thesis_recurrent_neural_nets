@@ -1,0 +1,82 @@
+:Product: 20150208events.txt
+:Created: 2015 Feb 11 0357 UT
+:Date: 2015 02 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Feb 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2030       0111   0113      0117  LEA  3   FLA  S08W10    SF                2280
+
+2040       0126   0130      0144  LEA  3   FLA  S07W10    SF      DSD       2280
+2040       0134   ////      0134  LEA  C   RSP  029-148   III/1             2280
+
+2050 +     0330   ////      0332  PAL  C   RSP  030-176   III/1                 
+
+2060 +     0507   0518      0523  G15  5   XRA  1-8A      C2.6    1.7E-03   2277
+2060       0509   0512      0532  LEA  3   FLA  N10W56    SF      ERU       2277
+
+2070       0541   0558      0633  G15  5   XRA  1-8A      C2.6    6.8E-03   2277
+
+2230       0548   0553      0612  LEA  3   FLA  S08W15    SF      ERU       2280
+
+2070 +     0551   0559      0600  LEA  3   FLA  N10W56    SF                2277
+
+2080       0613   0615      0617  LEA  3   FLA  S09W12    SF                2280
+
+2090       0623   0625      0628  LEA  3   FLA  N07W67    SF      DSD       2277
+
+2110       0650   ////      0711  LEA  C   RSP  034-062   VI/1                  
+
+2100       0651   ////      0651  SVI  C   RSP  031-041   III/1                 
+
+2120       0721   0722      0724  LEA  3   FLA  N12E81    SF                2282
+
+2130       0809   0812      0813  SVI  3   FLA  S08W16    SF      ERU       2280
+
+2180       0846   0913      0925  G15  5   XRA  1-8A      C1.8    3.5E-03   2282
+2180       0924   0930      0936  LEA  3   FLA  N12E78    1F      ERU       2282
+
+2140       0927   0930      0934  SVI  3   FLA  N15E79    SF                2282
+
+2150 +     0942   0949      1000  SVI  3   FLA  S08W17    SF      ERU       2280
+
+2160 +     1027  U1047     A1136  SVI  3   FLA  S08W17    1F      ERU       2280
+2160       1031   1036      1039  G15  5   XRA  1-8A      C1.7    5.9E-04   2280
+
+2200       1032   1100      1116  G15  5   XRA  1-8A      C2.6    5.5E-03   2280
+
+2170       1142  U1144      1151  SVI  3   FLA  S08W17    SF      ERU       2280
+
+2190       1224  U1226      1230  SVI  3   FLA  N07W65    SF      ERU       2277
+
+2240 +     1336   ////      1338  SAG  C   RSP  025-143   III/1                 
+
+2250       1428   1506      1525  G15  5   XRA  1-8A      C1.7    4.7E-03   2280
+2250       1437   1448      1457  HOL  3   FLA  S07W19    SF      DSD       2280
+
+2260       1725   1727      1728  SAG  G   RBR  410       350                   
+
+2280       2023   2104      2116  G15  5   XRA  1-8A      C3.1    6.9E-03   2277
+2280 +     2050   2051      2055  HOL  3   FLA  N06W70    SF                2277
+
+2290       2101   2104      2114  HOL  3   FLA  S07W24    SF                2280
+
+2300       2214   ////      2217  PAL  C   RSP  091-180   III/1                 
+
+2310 +     2238   ////      2244  LEA  C   RSP  031-041   II/1    626       2282
+2310       2239   ////      2245  PAL  U   RSP  025-044   III/1             2282
+2310       2240   ////      2301  HOL  3   BSL  ////      0.24    B.7A      2282
+
+2320      B2253   ////     B2301  LEA  2   BSL  ////      0.22                  
+
+2330       2303   ////      2304  LEA  C   RSP  029-053   III/1                 
+
+2340       2324   2326      2328  LEA  G   RBR  610       120                   
+
+2350       2336   ////      2337  LEA  C   RSP  028-077   III/1                 

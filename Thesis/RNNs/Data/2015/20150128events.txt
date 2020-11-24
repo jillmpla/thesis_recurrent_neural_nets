@@ -1,0 +1,61 @@
+:Product: 20150128events.txt
+:Created: 2015 Jan 31 0357 UT
+:Date: 2015 01 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jan 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9230 +     0055   0128      0148  G15  5   XRA  1-8A      C4.7    1.2E-02   2268
+9230      B0103   0111      0249  LEA  3   FLA  S11E12    1F      ERU       2268
+
+9240       0250   0255      0303  LEA  3   FLA  S11E12    SF                2268
+
+9250       0342   0342      0343  LEA  3   FLA  S12E13    SF                2268
+
+9260       0356   ////      0423  LEA  C   RSP  073-102   CTM/1             2268
+9260       0417   ////      0417  LEA  C   RSP  029-044   III/1             2268
+9260 +     0421   0441      0455  G15  5   XRA  1-8A      M1.4    2.1E-02   2268
+9260       0423   0428      0609  LEA  3   FLA  S09E09    2N      ERU       2268
+
+9270       0507   ////      0507  LEA  C   RSP  025-125   III/1                 
+
+9280       0520   0530      0538  G15  5   XRA  1-8A      C9.8    9.8E-03   2268
+
+9290       0743   ////      0744  LEA  C   RSP  029-073   III/1                 
+
+9300       0838   0839      0849  LEA  3   FLA  N07E83    SF                2277
+
+9310       0934   0935      0938  LEA  3   FLA  N07E83    SF                2277
+
+9320 +     1038   1043      1046  G15  5   XRA  1-8A      C2.7    8.5E-04   2277
+
+9330 +     1307   1312      1316  G15  5   XRA  1-8A      C2.5    9.9E-04       
+9330       1315   1315      1318  SVI  U   RBR  410       170                   
+
+9340       1324   1324      1324  SAG  G   RBR  410       130                   
+
+9380 +     1356   1401      1415  SAG  G   RNS  410       280                   
+
+9350       1516   1516      1516  SAG  G   RBR  245       140                   
+
+9360 +     1543   1543      1543  SAG  G   RBR  245       240                   
+
+9370       1742   1743      1745  HOL  3   FLA  S09E04    SF                2268
+
+9400 +     1824   1835      1906  G15  5   XRA  1-8A      C2.2    4.7E-03   2268
+9400       1900   1901      1908  HOL  3   FLA  S13E02    SF                2268
+
+9410       2002   2002      2002  SAG  G   RBR  245       100                   
+
+9420 +     2132   2137      2140  G15  5   XRA  1-8A      M1.0    2.4E-03   2277
+9420       2136   2138      2141  HOL  2   FLA  N08E73    SF                2277
+
+9430       2159   ////      2226  HOL  2   BSL  ////      0.21    B.9A          
+
+9440       2332   2336      2340  G13  5   XRA  1-8A      C1.7    5.6E-04   2276

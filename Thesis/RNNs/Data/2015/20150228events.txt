@@ -1,0 +1,44 @@
+:Product: 20150228events.txt
+:Created: 2015 Mar 03 0357 UT
+:Date: 2015 02 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Feb 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4010      A0038   ////     A1404  HOL  3   DSF  N13W09    11                    
+
+3950       0521   0528      0540  G15  5   XRA  1-8A      C2.5    2.0E-03   2294
+3950       0524   0525      0555  LEA  3   FLA  S13W15    SF      ERU       2294
+
+3960 +     0733   0747      0755  G15  5   XRA  1-8A      C1.1    1.3E-03   2294
+3960       0737   0738      0740  LEA  3   FLA  S14W18    SF                2294
+
+3970 +     0804   0808      0811  G15  5   XRA  1-8A      C1.0    3.0E-04   2290
+3970       0805   0807      0812  LEA  2   FLA  N21E73    SF                2290
+
+3980 +     0858   0939      1007  G15  5   XRA  1-8A      C5.6    9.7E-03   2294
+3980 +     0905   0932      1018  LEA  3   FLA  S13W17    SF      ERU       2294
+
+4020       0936   0938      0945  LEA  2   FLA  N19W59    SF                2290
+
+4070      A1018   ////     A2333  LEA  3   DSF  S01W30    11                2292
+
+3990       1245   ////      1247  SAG  C   RSP  027-119   III/1                 
+
+4000 +     1335   1340      1346  G15  5   XRA  1-8A      C2.2    9.6E-04   2290
+
+4040       2112   2142      2201  G15  5   XRA  1-8A      B9.7    2.5E-03   2293
+
+4030       2115   2119      2121  HOL  3   FLA  N19W65    SF      DSD       2290
+
+4040       2139   2142      2148  HOL  2   FLA  N06E16    SF                2293
+
+4050 +     2232   2237      2244  G15  5   XRA  1-8A      C1.4    8.0E-04   2290
+
+4060       2300   2305      2310  G15  5   XRA  1-8A      C1.5    9.2E-04   2290

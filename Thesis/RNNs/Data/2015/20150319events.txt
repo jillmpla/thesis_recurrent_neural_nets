@@ -1,0 +1,39 @@
+:Product: 20150319events.txt
+:Created: 2015 Mar 22 0357 UT
+:Date: 2015 03 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Mar 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8190       0009   0011      0015  LEA  3   FLA  N11W68    SF      DSD       2302
+
+8200       0018   0019      0023  LEA  3   FLA  N11W68    SF      DSD       2302
+
+8230       0044   0130      0148  LEA  3   FLA  N10W63    SF      DSD       2302
+8230 +     0059   0107      0113  G15  5   XRA  1-8A      B9.5    6.2E-04   2302
+
+8240 +     0120   0131      0134  G15  5   XRA  1-8A      C2.2    9.1E-04   2302
+
+8250       0204   0205      0213  LEA  3   FLA  N11W68    SF      DSD       2302
+8250       0204   ////      0204  CUL  C   RSP  027-080   III/1             2302
+
+8260       0238   0240      0247  LEA  3   FLA  S20W72    SF      DSD       2297
+
+8270       0342   0344      0347  LEA  3   FLA  S20W72    SF      DSD       2297
+
+8280       0424   0431      0437  LEA  3   FLA  S18W72    SF      DSD       2297
+
+8300 +     1233   1302      1314  G15  5   XRA  1-8A      C1.2    2.4E-03   2297
+
+8310       1925   ////      1927  PAL  C   RSP  047-180   III/1                 
+
+8320      B2231   2314      2329  LEA  2   FLA  N02W77    SF      DSD           
+8320 +     2316   ////      2318  LEA  C   RSP  075-136   III/1                 
+
+8330 +     2349   2352      2355  G15  5   XRA  1-8A      B5.6    1.2E-04       

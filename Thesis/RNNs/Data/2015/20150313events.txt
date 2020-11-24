@@ -1,0 +1,54 @@
+:Product: 20150313events.txt
+:Created: 2015 Mar 16 0357 UT
+:Date: 2015 03 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Mar 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6910 +     0102   0107      0113  G15  5   XRA  1-8A      C2.0    1.0E-03   2297
+
+6920 +     0347   0401      0416  G15  5   XRA  1-8A      M1.2    1.4E-02   2297
+
+6940 +     0549   0607      0612  G15  5   XRA  1-8A      M1.8    1.3E-02   2297
+
+6930       0552   0556      0558  SVI  G   RBR  245       1000                  
+
+6940 +     0601   ////      0605  SVI  C   RSP  025-180   III/2                 
+6940       0601   0604      0605  SVI  G   RBR  245       280                   
+6940 +     0603   0603      0603  SVI  G   RBR  410       350                   
+
+6950 +     0732   0737      0740  G15  5   XRA  1-8A      C6.9    1.9E-03   2297
+6950       0734   0735      0735  SVI  G   RBR  8800      120               2297
+6950       0735   ////      0735  SVI  C   RSP  025-180   III/2             2297
+6950       0735   0735      0735  SVI  U   RBR  245       570               2297
+6950       0735   0735      0735  SVI  G   RBR  410       100               2297
+6950       0735   0735      0735  SVI  G   RBR  4995      110               2297
+6950      B0738  U0738      0757  SVI  3   FLA  S16W01    SF      ERU       2297
+
+6960       0800  U0803      0820  SVI  3   FLA  S16W01    SF      ERU       2297
+
+6970       0852   0852      0852  SVI  G   RBR  245       100                   
+
+6980 +     1050   1054      1059  G15  5   XRA  1-8A      C1.6    5.8E-04   2297
+6980       1052  U1117      1129  SVI  3   FLA  S15W05    SF      ERU       2297
+
+6990 +     1107   1123      1147  G15  5   XRA  1-8A      C1.9    3.9E-03   2297
+6990       1119   1119      1119  SVI  G   RBR  410       130                   
+
+7000       1543   1549      1621  HOL  3   FLA  S17W04    SF      ERU       2297
+
+7010 +     2036   2046      2055  G15  5   XRA  1-8A      C6.2    4.4E-03   2297
+7010       2040   2042      2042  SAG  G   RBR  610       140                   
+7010       2041   2042      2042  SAG  G   RBR  4995      120                   
+7010       2041   2042      2042  SAG  G   RBR  245       940                   
+7010       2041   2041      2041  SAG  G   RBR  410       110                   
+
+7020       2111   ////      2111  PAL  C   RSP  025-180   III/1                 
+
+7030 +     2207   2219      2231  G15  5   XRA  1-8A      C2.0    2.4E-03   2297

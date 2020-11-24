@@ -1,0 +1,82 @@
+:Product: 20150409events.txt
+:Created: 2015 Apr 12 0357 UT
+:Date: 2015 04 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Apr 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1080 +     0032   0042      0049  LEA  3   FLA  S14W10    SF                2320
+1080       0033   0039      0051  G15  5   XRA  1-8A      B5.7    5.0E-04   2320
+
+1260      A0101   ////     A1353  HOL  3   DSF  S06E21    7                     
+
+1090       0154   ////      0154  CUL  C   RSP  025-057   III/1                 
+
+1100       0451   0454      0456  G15  5   XRA  1-8A      B3.8    6.3E-05   2320
+
+1110       0532   0535      0538  LEA  3   FLA  S14W11    SF      ERU       2320
+
+1120       0539  U0542     A0552  SVI  3   FLA  S15W13    SF      ERU       2320
+
+1130 +     0602   0607      0609  G15  5   XRA  1-8A      B9.0    2.2E-04   2320
+1130       0605   0605      0612  LEA  3   FLA  S15W10    SF      DSD       2320
+
+1140 +     0625   0635      0643  G15  5   XRA  1-8A      C5.4    3.4E-03   2320
+1140       0627   0632      0747  LEA  3   FLA  S14W13    1N      BPT       2320
+
+1150 +     0724   0727      0729  G15  5   XRA  1-8A      C1.6    2.4E-04   2320
+
+1160       0835   0839      0841  G15  5   XRA  1-8A      B4.8    1.1E-04   2320
+1160 +     0836   ////      0837  SVI  C   RSP  025-167   III/1             2320
+1160       0838   0843      0845  LEA  3   FLA  S15W12    SF                2320
+
+1170       0851   0852      0854  LEA  3   FLA  S15W12    SF                2320
+
+1180       0931   0934      0937  G13  5   XRA  1-8A      B4.7    1.1E-04   2320
+1180 +     0934   0935      0940  LEA  3   FLA  S15W12    SF                2320
+
+1190 +     1057   1102      1105  G15  5   XRA  1-8A      B7.1    2.3E-04       
+1190       1100   1100      1106  SVI  3   FLA  S22E02    SF      ERU           
+
+1200       1223   1223      1226  SVI  3   FLA  S15W13    SF      DSD       2320
+
+1210       1226   ////      1226  SVI  C   RSP  027-061   III/1                 
+
+1220 +     1256   1301      1316  G15  5   XRA  1-8A      B5.1    4.5E-04   2320
+1220       1259   1300      1322  SVI  3   FLA  S14W16    SF      ERU       2320
+
+1230       1318   ////      1318  SVI  C   RSP  030-061   III/1                 
+
+1240       1341   ////      1342  SVI  C   RSP  030-076   III/1                 
+
+1250       1413   1414      1417  SVI  3   FLA  S15W13    SF                2320
+
+1270       1425   ////      1426  SVI  C   RSP  029-079   III/1                 
+
+1280 +     1433   1444      1453  G15  5   XRA  1-8A      B6.7    5.9E-04   2320
+1280 +     1434   1442      1516  SVI  3   FLA  S14W17    SF      ERU       2320
+
+1290 +     1713   1729      1738  G15  5   XRA  1-8A      C5.9    6.3E-03   2320
+1290       1717  U1717      1803  HOL  2   FLA  S15W21    1N      ERU       2320
+1290 +     1723   1724      1725  SAG  G   RBR  610       510               2320
+1290 +     1728   1728      1728  SAG  G   RBR  410       100               2320
+1290       1731   ////      1732  SAG  C   RSP  025-059   III/1             2320
+1290       1734   1737      1737  SAG  G   RBR  245       130               2320
+
+1300 +     1851   1901      1905  G15  5   XRA  1-8A      C6.2    3.0E-03   2320
+1300       1854   1901      1940  HOL  2   FLA  S15W21    1F      ERU       2320
+
+1310 +     2015   2019      2022  G15  5   XRA  1-8A      B6.9    1.9E-04   2320
+
+1320       2206   ////      2206  PAL  C   RSP  025-049   III/1                 
+
+1330 +     2336   2345      2351  G15  5   XRA  1-8A      C3.3    1.8E-03   2320
+1330       2338   2345      2358  LEA  3   FLA  S15W21    SF      DSD       2320
+1330 +     2344   ////      2344  PAL  C   RSP  025-050   III/1             2320
+1330       2344   2344      2344  PAL  G   RBR  245       120               2320

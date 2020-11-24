@@ -1,0 +1,44 @@
+:Product: 20150317events.txt
+:Created: 2015 Mar 20 0357 UT
+:Date: 2015 03 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Mar 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7760       0040   0040      0040  PAL  G   RBR  245       220                   
+
+7780 +     0145   0152      0154  G15  5   XRA  1-8A      C1.9    4.6E-04   2297
+7780       0149   0151      0156  LEA  3   FLA  S19W48    SF                2297
+
+7790       0343   0345      0347  LEA  3   FLA  S18W50    SF                2297
+
+7800       0931   0935      0936  LEA  3   FLA  S18W50    SF      DSD       2297
+
+7810 +     1422   ////      1423  SVI  C   RSP  029-147   III/2                 
+
+7820 +     1813   1813      1814  SAG  G   RBR  245       290                   
+
+7830 +     1820   1820      1820  SAG  G   RBR  245       700                   
+
+7840       1835   1835      1836  PAL  G   RBR  245       450                   
+
+7850 +     2114   2119      2125  G15  5   XRA  1-8A      C1.1    5.5E-04       
+
+7860 +     2249   2334      2348  G15  5   XRA  1-8A      M1.0    1.4E-02   2297
+7860       2253   2331      0045  LEA  3   FLA  S21W56    2N      BPT       2297
+
+8290       2256   2308      2348  LEA  3   FLA  N10W54    SF                2302
+
+7860 +     2330   ////      2332  CUL  C   RSP  040-700   III/1             2297
+7860 +     2330   2330      2331  PAL  G   RBR  245       1500              2297
+7860 +     2330   2330      2330  PAL  G   RBR  410       470               2297
+7860       2330   2330      2331  LEA  G   RBR  4995      120               2297
+7860       2330   2330      2330  LEA  G   RBR  8800      100               2297
+7860       2330   2330      2331  LEA  G   RBR  2695      110               2297
+7860 +     2333   ////      2342  CUL  C   RSP  060-260   II/2              2297

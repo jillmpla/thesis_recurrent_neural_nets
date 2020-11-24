@@ -1,0 +1,89 @@
+:Product: 20150126events.txt
+:Created: 2015 Jan 29 0357 UT
+:Date: 2015 01 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jan 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8540 +     0050   0053      0055  G15  5   XRA  1-8A      B7.3    1.2E-04   2268
+8540       0052   0052      0055  LEA  3   FLA  S10E41    SF                2268
+
+8550 +     0113   ////      0113  LEA  C   RSP  025-122   III/1                 
+
+8830       0114   ////      0114  CUL  C   RSP  018-090   III/2                 
+
+8560       0120   0121      0125  LEA  3   FLA  S09E40    SF      DSD       2268
+
+8570       0129   0130      0131  LEA  3   FLA  S09E40    SF                2268
+
+8840       0240   ////      0247  CUL  C   RSP  018-180   III/3                 
+
+8580       0243   ////      0245  PAL  C   RSP  025-180   III/2                 
+
+8850       0323   ////      0327  CUL  C   RSP  018-180   III/3                 
+
+8590 +     0323   ////      0327  LEA  C   RSP  025-180   III/2                 
+
+8860       0351   ////      0353  CUL  C   RSP  020-180   III/1                 
+
+8600       0351   ////      0353  LEA  C   RSP  025-180   III/2                 
+
+8610       0501   0501      0501  LEA  G   RBR  245       330                   
+8610       0501   ////      0502  CUL  C   RSP  018-260   III/3                 
+8610       0501   ////      0502  LEA  C   RSP  025-180   V/2                   
+
+8870       0502   ////      0503  CUL  C   RSP  018-060   V/3                   
+
+8640       0507   0535      0554  G15  5   XRA  1-8A      C1.1    2.5E-03   2271
+
+8620       0537   0547      0549  LEA  3   FLA  S09E39    SF      DSD       2268
+
+8650       0608   0627      0649  G15  5   XRA  1-8A      C1.8    3.3E-03   2271
+
+8660       0720   0743      0756  G15  5   XRA  1-8A      C1.6    2.7E-03   2268
+8660       0741   0742      0743  LEA  3   FLA  S09E38    SF      DSD       2268
+
+8670       0746   0747      0750  LEA  3   FLA  S10E37    SF                2268
+
+8680       0757   0758      0801  LEA  3   FLA  S09E35    SF                2268
+
+8700       0808   0835      0843  G15  5   XRA  1-8A      C1.7    3.0E-03   2268
+
+8690       0818   0819      0821  LEA  3   FLA  S12E34    SF                2268
+
+8700       0832   0839      0842  LEA  3   FLA  S12E32    SF      DSD       2268
+
+8710       0844   0848      0849  LEA  3   FLA  S11E34    SF                2268
+
+8720 +     0851   0903      0911  LEA  3   FLA  S09E36    SF      ERU       2268
+8720       0854   0904      0906  G15  5   XRA  1-8A      C1.7    1.0E-03   2268
+
+8730 +     0911   ////      0911  LEA  C   RSP  038-180   III/1                 
+
+8740       0914   0917      0920  LEA  3   FLA  S03E11    SF                    
+
+8750       0932   0932      0936  LEA  3   FLA  S04E10    SF                    
+
+8770       1021   1023      1028  LEA  3   FLA  S04E10    SF                2273
+
+8780 +     1332   ////      1336  SAG  C   RSP  047-180   III/2                 
+8780 +     1332   1332      1332  SVI  G   RBR  245       120                   
+
+8790       1632   ////      1639  SAG  C   RSP  025-180   III/2                 
+
+8800 +     1646   1653      1658  G15  5   XRA  1-8A      M1.1    4.6E-03   2268
+
+8810 +     1930   ////      2130  PAL  C   RSP  025-180   VI/2                  
+
+8820 +     2125   ////      2126  CUL  C   RSP  018-260   III/2                 
+8820       2125   2125      2125  PAL  G   RBR  245       440                   
+
+8880 +     2231   ////      2232  LEA  C   RSP  110-171   III/1                 
+
+8890 +     2345   2348      2350  G15  5   XRA  1-8A      C1.2    2.0E-04   2268

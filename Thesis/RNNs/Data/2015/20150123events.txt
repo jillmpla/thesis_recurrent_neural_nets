@@ -1,0 +1,41 @@
+:Product: 20150123events.txt
+:Created: 2015 Jan 26 0357 UT
+:Date: 2015 01 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jan 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8200      A0002   ////     A1435  HOL  2   DSF  N25E40    8                     
+
+8120       0220   0224      0228  G15  5   XRA  1-8A      B7.8    2.5E-04   2268
+8120       0223   0224      0226  LEA  3   FLA  S12E76    SF                2268
+
+8130       0248   0253      0301  G15  5   XRA  1-8A      C4.3    2.0E-03   2268
+8130       0251   0252      0259  LEA  3   FLA  S12E76    SF                2268
+
+8230       0301   0307      0322  LEA  3   FLA  S12E76    SF                2268
+
+8140       0325   0326      0328  LEA  3   FLA  S12E75    SF                2268
+
+8160       0843   0846      0849  G15  5   XRA  1-8A      B6.3    1.4E-04       
+
+8170       1233   1237      1240  G15  5   XRA  1-8A      C1.1    2.8E-04   2268
+
+8180       1507   1511      1522  G15  5   XRA  1-8A      C1.0    7.5E-04   2270
+8180       1508   1511      1519  HOL  3   FLA  S21E66    SF      ERU           
+
+8190       1524   1529      1535  G15  5   XRA  1-8A      C1.2    6.1E-04   2270
+
+8210       1553   1600      1609  G15  5   XRA  1-8A      C3.7    2.5E-03   2268
+8210       1556   1559      1625  HOL  3   FLA  S12E69    SF                2268
+
+8220       1743   1746      1748  G15  5   XRA  1-8A      C1.1    1.7E-04   2268
+8220       1745   1746      1749  HOL  3   FLA  S12E69    SF                2268
+
+8240       1930   1938      1950  G15  5   XRA  1-8A      B8.8    8.6E-04   2268

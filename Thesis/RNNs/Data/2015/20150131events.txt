@@ -1,0 +1,60 @@
+:Product: 20150131events.txt
+:Created: 2015 Feb 03 0357 UT
+:Date: 2015 01 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jan 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 140       0000   ////      0006  LEA  C   RSP  075-127   CTM/1                 
+
+ 150       0022   ////      0022  LEA  C   RSP  036-109   III/1                 
+
+ 160       0025   ////      0025  PAL  C   RSP  025-060   III/1                 
+
+ 170 +     0027   0030      0033  G15  5   XRA  1-8A      B9.9    2.2E-04   2271
+
+ 180       0058   0058      0058  PAL  G   RBR  245       110                   
+
+ 190 +     0120   ////      0128  LEA  C   RSP  025-180   III/2                 
+ 190       0123   0124      0124  LEA  G   RBR  245       130                   
+
+ 200       0347   0349      0352  LEA  3   FLA  N08E46    SF      ERU       2277
+
+ 210       0542   0542      0542  LEA  G   RBR  245       250                   
+
+ 220       0615   ////      0615  LEA  C   RSP  031-059   III/1                 
+
+ 230       0746   0801      0827  G15  5   XRA  1-8A      C1.2    2.5E-03   2268
+ 230       0759   0759      0810  LEA  3   FLA  S12W35    SF      DSD       2268
+
+ 240       0818   0818      0818  SVI  G   RBR  245       170                   
+
+ 280       0949   ////      1148  SVI  C   RSP  039-171   CTM/1                 
+
+ 250       0949   ////      1053  LEA  C   RSP  044-143   CTM/1                 
+
+ 260       1114   1114      1114  SVI  G   RBR  245       140                   
+
+ 270 +     1153   1157      1200  G15  5   XRA  1-8A      C1.0    2.8E-04   2277
+
+ 290 +     1635   1641      1650  G15  5   XRA  1-8A      C1.6    1.2E-03   2275
+
+ 310       2003   ////      2359  PAL  C   RSP  100-180   CTM/1                 
+
+ 300       2025   ////      2146  PAL  C   RSP  025-180   VI/1                  
+ 300       2035   2035      2035  PAL  G   RBR  245       140                   
+ 300       2047   2103      2109  G15  5   XRA  1-8A      C1.2    1.3E-03   2277
+
+ 380       2124   2135      2144  G15  5   XRA  1-8A      C1.7    1.7E-03   2268
+
+ 320       2225   ////      2359  LEA  C   RSP  078-180   CTM/1                 
+ 320       2256   ////      2342  LEA  C   RSP  037-180   VI/1                  
+ 320       2308   ////      2308  PAL  C   RSP  100-180   III/1                 
+
+ 330       2341   ////      2342  PAL  C   RSP  073-180   III/1                 

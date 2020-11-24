@@ -1,0 +1,26 @@
+:Product: 20150117events.txt
+:Created: 2015 Jan 20 0357 UT
+:Date: 2015 01 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jan 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7590       0402   0403      0410  LEA  3   FLA  S19W35    SF      DSD       2259
+
+7600       0437   0437      0439  LEA  3   FLA  S17W36    SF                2259
+
+7610       0606   0606      0609  LEA  3   FLA  S17W36    SF                2259
+
+7620       0725   0728      0730  LEA  3   FLA  S19W38    SF                2259
+
+7630       0916   0917      0920  LEA  3   FLA  S18W38    SF                2259
+
+7650      A1019   ////     A2309  LEA  3   DSF  S32E37    6                     
+
+7640 +     1456   ////      1456  SAG  C   RSP  025-152   III/1                 

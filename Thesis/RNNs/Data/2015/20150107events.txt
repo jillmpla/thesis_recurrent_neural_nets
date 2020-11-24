@@ -1,0 +1,50 @@
+:Product: 20150107events.txt
+:Created: 2015 Jan 10 0357 UT
+:Date: 2015 01 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jan 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5220       0306   0312      0330  G15  5   XRA  1-8A      C1.2    1.4E-03   2253
+
+5230       0331   0331      0332  LEA  3   FLA  S08W30    SF      ERU       2253
+
+5240       0342   ////      0342  LEA  C   RSP  056-073   III/1                 
+
+5250       0408   ////      0409  LEA  C   RSP  076-098   III/1                 
+
+5260       0443   ////      0443  LEA  C   RSP  038-050   III/1                 
+
+5270       0509   0509      0509  LEA  G   RBR  245       270                   
+
+5280       0559   0606      0612  G15  5   XRA  1-8A      C1.8    1.0E-03       
+
+5290       0825   ////      0826  SVI  C   RSP  025-079   III/1                 
+
+5300       0958   1006      1016  G15  5   XRA  1-8A      C1.2    1.1E-03       
+
+5310       1030   1036      1040  G15  5   XRA  1-8A      C1.3    5.8E-04       
+
+5320       1104   ////      1105  SVI  C   RSP  038-150   III/1                 
+
+5330       1143   1151      1201  G15  5   XRA  1-8A      C4.3    3.1E-03   2253
+5330       1144   1147      1212  SVI  3   FLA  S09W35    1N      ERU       2253
+
+5340       1232   1233      1236  SVI  3   FLA  S09W36    SF                2253
+
+5350       1455   1500      1507  G15  5   XRA  1-8A      C2.1    1.0E-03       
+5350 +     1459   1459      1502  SVI  3   FLA  S16E78    SF      ERU           
+
+5360       1552   1553      1558  HOL  2   FLA  S08W37    SF      ERU       2253
+
+5370       1719   1719      1726  HOL  2   FLA  N07E03    SF      ERU       2257
+
+5380       2141   2144      2151  HOL  3   FLA  N06W00    SF      ERU       2257
+
+5390 +     2215   ////      2215  LEA  C   RSP  031-087   III/1                 

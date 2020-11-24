@@ -1,0 +1,28 @@
+:Product: 20150211events.txt
+:Created: 2015 Feb 14 0357 UT
+:Date: 2015 02 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Feb 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2800       0137   0206      0220  G15  5   XRA  1-8A      C1.0    2.4E-03   2282
+2800       0148   0207      0219  LEA  3   FLA  N05E42    SF      DSD       2282
+
+2810       0517   0520      0615  LEA  3   FLA  N05E40    SF      ERU       2282
+2810       0517   0521      0532  G15  5   XRA  1-8A      C1.0    8.9E-04   2282
+
+2820 +     0839   ////      0840  SVI  C   RSP  025-169   III/2                 
+
+2830       1131   1136      1143  SVI  3   FLA  N08E36    SF      DSD       2282
+
+2890 +    A1533   ////     A0724  SVI  3   DSF  S34W02    31                    
+
+2850       1810   ////      1810  SAG  C   RSP  025-075   III/1                 
+
+2940      A2234   ////     A1425  HOL  3   DSF  S51E26    25                    

@@ -1,0 +1,39 @@
+:Product: 20150303events.txt
+:Created: 2015 Mar 06 0357 UT
+:Date: 2015 03 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Mar 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4440 +     0017   0027      0034  G15  5   XRA  1-8A      C3.5    2.5E-03   2290
+4440       0020   0022      0031  LEA  3   FLA  N00E00    SF                2290
+
+4450 +     0125   0135      0142  G15  5   XRA  1-8A      M8.2    4.4E-02   2290
+4450 +     0131   0132      0133  LEA  G   RBR  8800      480               2290
+4450 +     0131   0132      0133  LEA  G   RBR  15400     740               2290
+4450 +     0131   0131      0132  LEA  G   RBR  4995      140               2290
+4450       0131   ////      0200  LEA  C   RSP  047-180   IV/1              2290
+4450       0134   ////      0141  CUL  C   RSP  060-180   II/1    750       2290
+4450 +     0135   ////      0141  CUL  C   RSP  040-230   III/1             2290
+4450       0139   0144      0157  LEA  3   FLA  N21W87    SB                2290
+
+4460       0608   0634      0645  G15  5   XRA  1-8A      C1.9    3.3E-03   2292
+4460       0608   0608      0610  LEA  3   FLA  S10W46    SF      DSD       2292
+
+4470 +     0744   0750      0755  G15  5   XRA  1-8A      C1.3    7.0E-04   2292
+
+4480       0849   0855      0907  G13  5   XRA  1-8A      C1.1    1.0E-03   2290
+
+4490       1058   ////      1059  SVI  C   RSP  027-172   III/1                 
+
+4500       1317   ////      1318  SVI  C   RSP  027-080   III/1                 
+
+4510 +     1321   1337      1359  G15  5   XRA  1-8A      C4.0    6.4E-03   2290
+
+4520      B1501  U1501     A1510  SVI  3   FLA  S11W53    SF                2292

@@ -1,0 +1,33 @@
+:Product: 20150219events.txt
+:Created: 2015 Feb 22 0357 UT
+:Date: 2015 02 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Feb 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3400      A0004   ////     A1418  HOL  3   DSF  S27W13    7                     
+
+3320 +     0053   0058      0101  G15  5   XRA  1-8A      C1.2    3.8E-04   2282
+3320       0054   0101      0113  LEA  3   FLA  N09W63    SF      ERU       2282
+
+3330 +     0108   0112      0115  G15  5   XRA  1-8A      B9.5    2.5E-04   2289
+
+3340 +     0431   ////      0432  CUL  C   RSP  030-180   III/1                 
+
+3360       0807   0808      0813  LEA  3   FLA  N21E74    SF                2290
+
+3370       0835   0836      0838  LEA  3   FLA  N21E73    SF                2290
+
+3380 +     0842   0846      0857  SVI  3   FLA  N21E68    SF                2290
+
+3390       0941   0941      0950  SVI  3   FLA  N15E17    SF                2287
+
+3410       1742   1806      1825  G15  5   XRA  1-8A      C1.1    2.2E-03       
+
+3530      A2356   ////     A1428  HOL  3   DSF  S22E10    6                     

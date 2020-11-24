@@ -1,0 +1,79 @@
+:Product: 20150209events.txt
+:Created: 2015 Feb 12 0357 UT
+:Date: 2015 02 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Feb 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2360       0051   ////      0051  CUL  C   RSP  020-057   III/1                 
+
+2370       0126   0148      0202  G15  5   XRA  1-8A      C2.1    3.4E-03   2280
+2370       0137   0152      0158  LEA  3   FLA  S07W26    SF      ERU       2280
+
+2390       0311   0331      0351  G15  5   XRA  1-8A      C1.5    3.3E-03   2280
+
+2380       0318   0319      0322  LEA  3   FLA  N08E75    SF                    
+
+2390       0325   0341      0352  LEA  3   FLA  N08E75    SF                    
+
+2400       0514   0522      0528  LEA  3   FLA  N13E67    SF      DSD       2282
+2400       0521   0528      0532  G15  5   XRA  1-8A      C1.7    1.0E-03   2282
+
+2410 +     0557   0607      0614  G15  5   XRA  1-8A      C3.7    3.1E-03       
+2410       0558   0612      0640  LEA  3   FLA  S13E65    SF      ERU           
+2410 +     0608   ////      0609  CUL  C   RSP  060-180   III/1                 
+
+2580       0631   ////      0632  CUL  C   RSP  018-120   III/1                 
+
+2590       0639   ////      0639  CUL  C   RSP  018-060   III/1                 
+
+2420       0704   0712      0726  LEA  3   FLA  N13E03    SF      ERU       2281
+2420       0704   0713      0716  G15  5   XRA  1-8A      C1.7    1.1E-03   2281
+
+2430 +     0822   0827      0832  G15  5   XRA  1-8A      C1.4    6.2E-04   2282
+2430       0826   0828      0832  LEA  3   FLA  N08E71    SF      ERU           
+
+2440       0902   0905      0908  G15  5   XRA  1-8A      C1.5    3.5E-04   2281
+2440       0903   0903      0907  LEA  3   FLA  N09E73    SF      ERU           
+
+2450       0905   0905      0909  LEA  3   FLA  N11W00    SF      ERU       2281
+
+2460       0908   0910      0915  LEA  3   FLA  N09E73    SF      ERU           
+
+2470       1500   1508      1514  HOL  3   FLA  N08E68    SF      ERU           
+
+2480       1813   1826      1932  HOL  3   FLA  S08W33    SF      ERU       2280
+2480 +     1822   1910      1920  G15  5   XRA  1-8A      C3.1    8.8E-03   2280
+
+2490       2219   2222      2243  HOL  3   FLA  S08W33    SF      ERU       2280
+
+2550 +     2259   2335      0014  G15  5   XRA  1-8A      M2.4    7.6E-02   2282
+
+2490       2236   2240      2245  G13  5   XRA  1-8A      C1.8    7.2E-04   2280
+
+2750       2237   2239      2243  HOL  3   FLA  N08E68    SF      ERU       2282
+
+2500       2251   2251      2259  HOL  3   FLA  S08W33    SF      ERU       2280
+
+2550       2311   ////      2358  LEA  C   RSP  035-180   VI/1              2282
+
+2510 +     2314   ////      2326  CUL  C   RSP  027-095   II/1                  
+2510       2317   2327      2332  LEA  G   RBR  245       480                   
+2510       2318   2318      2320  LEA  G   RBR  410       140                   
+
+2520 +     2323   ////      2329  LEA  C   RSP  033-061   II/1    1190          
+2520      B2324   ////     A0430  SOH  4   CME  XUV,EUV,UV060-059/FS1123      12282
+
+2530       2334   2334      2334  LEA  G   RBR  245       110                   
+
+2570 +     2335   ////      2359  LEA  C   RSP  029-138   IV/1                  
+
+2540       2337   2337      2337  LEA  G   RBR  245       100                   
+
+2560 +     2355   2355      2355  PAL  G   RBR  1415      160                   

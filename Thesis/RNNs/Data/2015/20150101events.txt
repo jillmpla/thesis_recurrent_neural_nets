@@ -1,0 +1,41 @@
+:Product: 20150101events.txt
+:Created: 2015 Jan 04 0357 UT
+:Date: 2015 01 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jan 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3690       0138   0139      0141  LEA  3   FLA  S08E54    SF                2253
+
+3700       0225   0227      0229  LEA  3   FLA  S08E54    SF                2253
+
+3710       0316   0316      0320  LEA  3   FLA  S08E54    SF                2253
+
+3720       0340   0341      0344  LEA  3   FLA  S08E54    SF      DSD       2253
+
+3730       0351   ////      0417  LEA  C   RSP  109-171   CTM/1                 
+
+3740       0430   0430      0433  LEA  3   FLA  S08E53    SF                2253
+
+3750       0457   0507      0517  G15  5   XRA  1-8A      C2.1    1.9E-03   2253
+3750       0500   0505      0519  LEA  3   FLA  S07E50    SF      ERU       2253
+
+3760       0532   ////      0533  LEA  C   RSP  067-146   III/1                 
+
+3770 +     0608   ////      0825  LEA  C   RSP  084-132   CTM/1                 
+
+3780       0722   0730      0738  G15  5   XRA  1-8A      C2.1    1.5E-03   2253
+3780       0730   0732      0737  LEA  3   FLA  S06E49    SF      ERU       2253
+
+3790       0753   ////      0914  LEA  C   RSP  030-045   VI/1                  
+
+3800       0914   0915      0921  LEA  3   FLA  S07E50    SF                2253
+
+3810       1903   1905      1907  G15  5   XRA  1-8A      C1.8    3.9E-04   2253
+3810       1904   1906      1908  HOL  2   FLA  S05E38    SF                2253

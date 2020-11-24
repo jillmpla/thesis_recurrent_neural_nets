@@ -1,0 +1,26 @@
+:Product: 20150213events.txt
+:Created: 2015 Feb 16 0357 UT
+:Date: 2015 02 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Feb 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2970       0152   0152      0152  LEA  G   RBR  245       100                   
+
+2980 +     0220   0228      0251  G15  5   XRA  1-8A      B9.6    1.4E-03   2282
+2980 +     0234   0234      0234  LEA  G   RBR  245       240               2282
+2980      B0244   0245      0257  LEA  1   FLA  N12E17    SF                2282
+
+2990 +     0321   0321      0322  LEA  G   RBR  410       330                   
+
+3000       1336   1338      1344  SVI  3   FLA  N11E09    SF      ERU       2282
+
+3010       1456   1526      1541  SVI  3   FLA  N11E05    SF      ERU       2282
+
+3020       2200   ////      2200  SAG  C   RSP  025-065   III/1                 

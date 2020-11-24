@@ -1,0 +1,80 @@
+:Product: 20150201events.txt
+:Created: 2015 Feb 04 0357 UT
+:Date: 2015 02 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Feb 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 340       0000   ////      0410  PAL  C   RSP  074-154   CTM/1                 
+
+ 350       0151   ////      0151  LEA  C   RSP  030-081   III/1                 
+
+ 360       0316   ////      0325  LEA  C   RSP  029-050   III/1             2268
+ 360       0324   0436      0514  G15  5   XRA  1-8A      C2.8    1.2E-02   2268
+ 360 +     0438   0446      0456  LEA  3   FLA  S13W47    2F                2268
+
+ 400       0551   ////      0552  LEA  C   RSP  025-180   III/2                 
+
+ 490       0635   ////      1226  SVI  C   RSP  076-180   CTM/1                 
+
+ 410 +     0639   0645      0647  G15  5   XRA  1-8A      C2.2    6.3E-04   2277
+ 410       0639   ////      0645  LEA  C   RSP  039-180   III/1             2277
+ 410 +     0640   0646      0653  LEA  3   FLA  N06E20    SF      DSD       2277
+ 410 +     0641   0641      0642  LEA  G   RBR  245       1200              2277
+
+ 430 +     0841   0846      0851  G15  5   XRA  1-8A      C1.8    7.1E-04   2275
+ 430 +     0846   ////      0848  SVI  C   RSP  025-180   III/2                 
+
+ 440       0858   ////      0930  LEA  C   RSP  029-073   VI/1                  
+
+ 450       1108   1108      1108  SVI  G   RBR  245       170                   
+
+ 460 +     1126   1133      1145  G15  5   XRA  1-8A      C3.2    2.7E-03   2268
+
+ 470       1147   ////      1148  SVI  C   RSP  025-038   III/1                 
+
+ 480       1214   1214      1214  SVI  G   RBR  245       110                   
+
+ 500       1554   1554      1554  SAG  G   RBR  610       280                   
+
+ 510       1630   1631      1638  HOL  3   FLA  N06E18    SF                2277
+
+ 520       1647   1647      1647  SAG  G   RBR  410       150                   
+ 520       1647   1647      1647  SAG  G   RBR  245       200                   
+
+ 530       1708   1710      1714  HOL  3   FLA  N06E18    SF      DSD       2277
+
+ 540 +     1742   1742      1742  SAG  G   RBR  610       270                   
+ 540 +     1742   1742      1742  SAG  G   RBR  245       240                   
+
+ 550 +     1746   1748      1748  SAG  G   RBR  245       1300                  
+ 550 +     1746   ////      1748  SAG  C   RSP  025-180   III/2                 
+ 550 +     1747   1747      1748  SAG  G   RBR  410       170                   
+
+ 560       1812   1813      1817  HOL  3   FLA  N06E17    SF      DSD       2277
+
+ 570 +     1924   1925      1925  SAG  G   RBR  245       350               2277
+ 570       1925   1930      1934  HOL  3   FLA  N06E12    SF      DSD       2277
+ 570       1925   1930      1932  G15  5   XRA  1-8A      C1.5    5.1E-04   2277
+ 570 +     1925   ////      1926  PAL  C   RSP  025-180   III/3             2277
+
+ 580       1928   ////      1935  PAL  C   RSP  025-180   III/1                 
+ 580 +     1928   1930      1930  SAG  G   RBR  245       380                   
+ 580 +     1930   1930      1931  SAG  G   RBR  610       350                   
+
+ 590       1950   ////      2054  PAL  C   RSP  099-180   CTM/1                 
+ 590       1953   ////      1953  PAL  C   RSP  074-180   III/1                 
+
+ 600 +     2113   2126      2136  G15  5   XRA  1-8A      C3.0    2.9E-03   2268
+ 600       2115   2123      2139  HOL  3   FLA  S14W54    SF      ERU       2268
+
+ 610       2222   ////      2223  LEA  C   RSP  037-086   III/1                 
+
+ 620 +     2300   ////      2301  LEA  C   RSP  030-180   III/2                 
+ 620 +     2300   2300      2301  PAL  G   RBR  245       120                   

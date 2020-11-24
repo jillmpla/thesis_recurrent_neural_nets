@@ -1,0 +1,22 @@
+:Product: 20150226events.txt
+:Created: 2015 Mar 01 0357 UT
+:Date: 2015 02 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Feb 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3850 +     1545   ////      1546  SVI  C   RSP  027-170   III/1                 
+
+3860       1747   1757      1805  G15  5   XRA  1-8A      B4.1    4.1E-04   2293
+
+3870       2135   ////      2136  PAL  C   RSP  025-059   III/1                 
+
+3880       2208   ////      2217  PAL  C   RSP  025-082   III/1                 
+
+3890       2230   2237      2245  G15  5   XRA  1-8A      B4.2    3.7E-04   2293

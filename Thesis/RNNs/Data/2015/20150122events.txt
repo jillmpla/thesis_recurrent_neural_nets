@@ -1,0 +1,36 @@
+:Product: 20150122events.txt
+:Created: 2015 Jan 25 0357 UT
+:Date: 2015 01 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jan 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8000       0213   0220      0226  G15  5   XRA  1-8A      C1.7    9.4E-04   2268
+
+8010       0247   0252      0259  G15  5   XRA  1-8A      C1.2    6.5E-04   2268
+
+8020       0400   0405      0416  G15  5   XRA  1-8A      C1.1    9.0E-04   2268
+
+8030       0443   0452      0502  G15  5   XRA  1-8A      M1.4    9.6E-03   2268
+
+8040       0750   0753      0756  G15  5   XRA  1-8A      C1.0    2.3E-04       
+
+8050       0842   0848      0901  G15  5   XRA  1-8A      C2.1    1.7E-03       
+
+8060       1616   1620      1624  G15  5   XRA  1-8A      B8.9    2.8E-04       
+
+8070       1716   1723      1731  G15  5   XRA  1-8A      B9.7    6.7E-04       
+
+8080       1733   ////      1734  SAG  C   RSP  116-180   III/1                 
+
+8090       1826   1830      1834  G15  5   XRA  1-8A      C1.3    4.0E-04       
+
+8100 +     2023   ////      2051  PAL  C   RSP  133-180   CTM/1                 
+
+8110 +     2246   ////      2246  CUL  C   RSP  060-160   III/1                 

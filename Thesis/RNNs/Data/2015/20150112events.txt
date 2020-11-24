@@ -1,0 +1,94 @@
+:Product: 20150112events.txt
+:Created: 2015 Jan 15 0357 UT
+:Date: 2015 01 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jan 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6330       0011   ////      0356  LEA  C   RSP  025-180   III/2                 
+
+6290 +     0034   0034      0034  PAL  G   RBR  245       160                   
+
+6340       0128   ////      0357  PAL  C   RSP  025-180   VI/2              2257
+6340 +     0147   0147      0147  PAL  G   RBR  245       230               2257
+6340 +     0202   ////      0202  CUL  C   RSP  018-140   III/3             2257
+
+6430       0207   0209      0211  LEA  3   FLA  N08W19    SF                2260
+
+6340       0218   0225      0232  G15  5   XRA  1-8A      C3.1    2.0E-03   2257
+6340       0219   0221      0235  LEA  3   FLA  N07W57    SF                2257
+
+6350       0310   0310      0311  PAL  G   RBR  245       460                   
+
+6360       0426   0432      0436  G15  5   XRA  1-8A      C6.1    2.3E-03   2260
+6360       0427   ////      0434  LEA  C   RSP  036-104   III/1             2260
+6360       0428   0433      0448  LEA  3   FLA  N07W21    SF                2260
+
+6370       0706   0708      0726  LEA  3   FLA  S18W52    SF      DSD       2255
+
+6380       0730   0731      0736  LEA  3   FLA  S18W52    SF                2255
+
+6390 +     0739   0750      0848  LEA  3   FLA  S18W52    SF      DSD       2255
+6390       0742   0751      0756  G15  5   XRA  1-8A      C3.1    1.8E-03   2255
+6390       0747   ////      0759  LEA  C   RSP  035-119   VI/1              2255
+
+6400       0759   ////      0759  SVI  C   RSP  059-112   III/1                 
+
+6440       0912  U0913     A0921  SVI  3   FLA  S19W52    SF                2255
+
+6450 +     0924   ////      0924  LEA  C   RSP  076-141   III/1                 
+
+6460       0945  U0946     A0952  SVI  3   FLA  S20W52    SF      DSD       2255
+
+6590      A1010   ////     A2233  LEA  3   DSF  S12E44    12                2261
+
+6470       1019   1020      1024  SVI  3   FLA  S20W52    SF                2255
+
+6480 +     1029   ////      1036  SVI  C   RSP  025-180   III/2             2259
+6480       1032   1033      1040  SVI  3   FLA  S10E24    SF                2259
+6480       1035   1035      1035  LEA  U   RBR  245       130               2259
+
+6490       1106   1106      1119  SVI  3   FLA  N07W26    SF                2260
+6490       1106   ////      1106  SVI  C   RSP  039-080   III/1             2260
+
+6500       1140   ////      1202  SVI  C   RSP  025-180   VI/2                  
+
+6510       1233   1243      1253  SVI  3   FLA  S20W53    SF      DSD       2255
+6510       1240   1243      1245  G15  5   XRA  1-8A      C2.0    3.1E-04   2255
+
+6600       1244   1254      1326  SVI  3   FLA  N07W26    SF      ERU       2260
+
+6520       1247   1255      1301  G15  5   XRA  1-8A      C5.6    3.1E-03   2260
+6520       1258   ////      1310  SVI  C   RSP  029-162   VI/1                  
+6520       1258   ////      1258  SAG  C   RSP  025-135   III/2                 
+
+6530       1408   1444      1510  G15  5   XRA  1-8A      C7.1    1.6E-02   2255
+6530      B1429  U1429     A1441  SVI  3   FLA  S19W55    SF      ERU       2255
+
+6740      B1439   ////     B0710  SVI  3   DSF  S12E42    10                2261
+
+6530       1506   ////      1507  SVI  C   RSP  103-115   III/1             2255
+6530       1506   ////      1823  SAG  C   RSP  025-180   VI/1              2255
+
+6610       1518   1521      1524  G15  5   XRA  1-8A      C3.7    1.6E-03   2261
+
+6540      B1522   1526      1541  HOL  2   FLA  S19W56    SF      DSD       2255
+
+6610      B1522   1529      1555  HOL  2   FLA  S12E41    SF      PRB       2261
+
+6620      B1522   1613      1621  HOL  2   FLA  N08W28    SF      DSD       2260
+
+6550       1627   ////      1629  SAG  C   RSP  025-180   III/2                 
+6550       1629   1629      1629  SAG  G   RBR  245       110                   
+
+6560       1633   1648      1700  HOL  3   FLA  N07W28    SF      DSD       2260
+
+6570 +     1849   ////      1850  SAG  C   RSP  025-180   III/2                 
+
+6630       2306   ////      2306  LEA  C   RSP  028-142   III/1                 

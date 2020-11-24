@@ -1,0 +1,65 @@
+:Product: 20150205events.txt
+:Created: 2015 Feb 08 0357 UT
+:Date: 2015 02 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Feb 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1420       0021   ////      0022  CUL  C   RSP  025-120   III/1                 
+
+1400       0021   ////      0021  PAL  C   RSP  052-111   III/1                 
+1400       0021   ////      0040  LEA  C   RSP  029-111   VI/2                  
+
+1430       0041   ////      0041  CUL  C   RSP  023-070   III/1                 
+
+1440       0204   ////      0204  LEA  C   RSP  028-060   III/1                 
+
+1450       0205   ////      0205  CUL  C   RSP  018-070   III/1                 
+
+1460       0247   ////      0247  LEA  U   RSP  031-090   III/1                 
+
+1470       0248   ////      0249  CUL  C   RSP  020-057   III/1                 
+
+1480       0258   0259      0300  LEA  3   FLA  N12W11    SF                2277
+
+1490       0324   ////      0324  CUL  C   RSP  020-057   III/1                 
+
+1500 +     0507   0516      0520  G15  5   XRA  1-8A      C1.1    7.2E-04   2277
+1500       0508   0510      0522  LEA  3   FLA  N13W11    SF                2277
+
+1520 +     0723   0726      0731  G15  5   XRA  1-8A      C1.3    4.2E-04   2277
+
+1530       0735   0735      0739  LEA  3   FLA  N13W12    SF                2277
+
+1540 +     0945   0953      1004  G15  5   XRA  1-8A      C3.3    2.6E-03   2277
+1540       0948   0950      1012  LEA  3   FLA  N12W14    1F      ERU       2277
+
+1550       1000   1001      1007  LEA  3   FLA  S09E25    SF      DSD       2280
+
+1560       1234   ////      1234  SVI  C   RSP  029-080   III/2                 
+
+1570       1925   ////      1925  SAG  C   RSP  025-113   III/1                 
+
+1600       2029   ////      2030  CUL  C   RSP  023-057   III/1                 
+
+1610       2037   ////      2038  CUL  C   RSP  023-057   III/1                 
+
+1620       2110   ////      2110  CUL  C   RSP  020-090   III/1                 
+
+1630       2140   ////      2140  CUL  C   RSP  018-060   III/1                 
+
+1640       2227   ////      2229  CUL  C   RSP  018-150   III/2                 
+
+1580 +     2227   ////      2228  PAL  C   RSP  025-132   III/2                 
+
+1650       2330   ////      2331  CUL  C   RSP  018-180   III/3                 
+
+1590 +     2337   ////      2338  CUL  C   RSP  018-180   III/2                 
+
+1660       2345   ////      2358  PAL  C   RSP  025-115   VI/2                  

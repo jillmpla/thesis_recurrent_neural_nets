@@ -1,0 +1,21 @@
+:Product: 20150331events.txt
+:Created: 2015 Apr 03 0357 UT
+:Date: 2015 03 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Mar 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  90       0022   ////      0024  LEA  U   RSP  126-180   III/1                 
+
+ 100       0431   0558      1029  G13  5   XRA  1-8A      B7.5    1.2E-02       
+ 100 +     0547   ////      0736  LEA  C   RSP  075-170   CTM/1                 
+
+ 110       0830   0956      1220  G15  5   XRA  1-8A      B6.8    5.4E-03       
+
+ 120       2346   ////      2359  LEA  C   RSP  099-180   CTM/1                 

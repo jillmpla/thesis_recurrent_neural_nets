@@ -1,0 +1,29 @@
+:Product: 20150119events.txt
+:Created: 2015 Jan 22 0357 UT
+:Date: 2015 01 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jan 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7720       0902   0906      0912  G15  5   XRA  1-8A      C1.0    4.7E-04   2266
+
+7730       1007   1013      1015  G15  5   XRA  1-8A      C1.3    4.9E-04   2259
+7730 +     1008   1014      1020  SVI  3   FLA  S21W67    SF      DSD       2259
+
+7740       1356   1400      1406  G15  5   XRA  1-8A      B8.6    3.9E-04       
+
+7750       1942   ////      1944  PAL  C   RSP  025-049   III/1                 
+
+7760       2041   2048      2052  G15  5   XRA  1-8A      C3.3    1.2E-03   2266
+7760       2043   2048      2056  HOL  3   FLA  S07E06    SF      DSD       2266
+7760 +     2043   2045      2045  PAL  G   RBR  245       500               2266
+7760 +     2044   ////      2044  CUL  C   RSP  045-180   III/1             2266
+
+7770       2146   ////      2221  PAL  C   RSP  025-108   VI/1                  
+7770       2151   ////      2153  CUL  C   RSP  018-090   III/1                 

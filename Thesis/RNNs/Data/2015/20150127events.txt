@@ -1,0 +1,88 @@
+:Product: 20150127events.txt
+:Created: 2015 Jan 30 0357 UT
+:Date: 2015 01 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jan 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8950       0016   ////      0017  CUL  C   RSP  020-180   III/2                 
+
+8900       0016   ////      0018  PAL  C   RSP  025-180   III/2                 
+
+8910 +     0124   ////      0319  PAL  C   RSP  025-180   VI/1                  
+8910       0145   ////      0145  CUL  C   RSP  120-260   III/1                 
+
+8920       0155   ////      0317  LEA  C   RSP  105-180   CTM/1                 
+8920 +     0233   0233      0234  LEA  G   RBR  245       940                   
+8920 +     0234   ////      0234  CUL  C   RSP  060-300   III/2                 
+
+8960       0318   ////      0319  CUL  C   RSP  120-180   III/1                 
+
+8930       0318   ////      0319  LEA  C   RSP  086-180   III/2                 
+
+8940       0348   0349      0351  LEA  3   FLA  S03E02    SF                2273
+
+8970       0413   ////      0414  LEA  C   RSP  043-173   III/2                 
+
+8980       0442   0444      0446  LEA  3   FLA  S03E02    SF                2273
+8980 +     0445   ////      0446  LEA  C   RSP  070-180   III/2             2273
+
+8990 +     0454   0457      0459  G15  5   XRA  1-8A      C1.6    2.8E-04   2268
+8990       0455   0456      0505  LEA  3   FLA  S10E26    SF      ERU       2268
+
+9000 +     0516   ////      0520  LEA  C   RSP  039-172   III/1                 
+
+9010 +     0543   0547      0549  G15  5   XRA  1-8A      C2.4    4.6E-04   2273
+9010       0546   0547      0551  LEA  3   FLA  S03E01    SF      DSD       2273
+
+9020       0553   0557      0601  LEA  3   FLA  S03E01    SF      DSD       2273
+
+9030       0608   ////      0631  LEA  C   RSP  047-180   VI/1                  
+9030 +     0631   ////      0631  SVI  C   RSP  111-171   III/1                 
+
+9190       0632   ////      0632  CUL  C   RSP  120-180   III/1                 
+
+9040       0642   0652      0700  LEA  3   FLA  S16W15    SF      ERU       2275
+
+9050 +     0707   0707      0707  LEA  G   RBR  245       290                   
+9050 +     0708   ////      0708  CUL  C   RSP  140-210   III/1                 
+
+9110       0713   0733      0827  G15  5   XRA  1-8A      C2.1    8.6E-03       
+
+9060       0726   0726      0730  LEA  3   FLA  S16W16    SF                2275
+
+9070 +     0752   ////      0755  SVI  C   RSP  075-171   III/1                 
+
+9080       0823   0823      0823  LEA  G   RBR  245       110                   
+
+9090       0903   0904      0909  LEA  3   FLA  N12E58    SF                2272
+
+9120       0911   0924      0940  G15  5   XRA  1-8A      C1.9    3.1E-03   2268
+
+9100 +     0938   0938      0942  SVI  3   FLA  S07E23    SF                2268
+
+9130       1618   1619      1620  HOL  3   FLA  S10E18    SF      DSD       2268
+
+9140       1756   1758      1804  HOL  3   FLA  S02W09    SF      ERU       2273
+
+9150       1835   1852      1932  HOL  3   FLA  S10E17    SF                2268
+
+9160       1955   1955      1955  HOL  3   FLA  S18W23    SF                2275
+
+9170       1959   2000      2005  HOL  3   FLA  S18W23    SF                2275
+
+9180       2013   2013      2017  HOL  3   FLA  S03W10    SF      DSD       2273
+
+9200       2225   ////      2226  LEA  U   RSP  157-180   III/1                 
+
+9210       2255   2257      2304  HOL  3   FLA  S08E13    SF      ERU       2268
+
+9390      A2349   ////     A1441  HOL  3   DSF  S16W19    11                    
+
+9220 +     2352   2359      0005  G15  5   XRA  1-8A      C5.7    2.9E-03       

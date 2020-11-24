@@ -1,0 +1,47 @@
+:Product: 20150326events.txt
+:Created: 2015 Mar 29 0357 UT
+:Date: 2015 03 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Mar 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9150 +     0006   0021      0038  G15  5   XRA  1-8A      C2.8    4.2E-03   2305
+9150       0026   ////      0026  PAL  C   RSP  037-075   III/2                 
+
+9170       0437   0445      0456  G15  5   XRA  1-8A      B9.0    8.1E-04   2305
+9170       0438   0440      0511  LEA  3   FLA  S07E21    SF      DSD       2305
+
+9180       0512   0512      0525  LEA  3   FLA  S07E21    SF      DSD       2305
+
+9190       0545   0552      0555  LEA  3   FLA  S08E19    SF      DSD       2305
+
+9200 +     0808   0811      0813  G15  5   XRA  1-8A      B7.0    1.1E-04   2305
+
+9240       0926   0935      0943  G13  5   XRA  1-8A      B7.0    6.7E-04       
+
+9250       1052   1100      1108  G15  5   XRA  1-8A      B6.5    5.6E-04   2312
+
+9260       1130   1138      1146  G15  5   XRA  1-8A      B6.0    5.6E-04   2312
+
+9270       1157   1205      1213  G15  5   XRA  1-8A      B7.7    6.7E-04   2312
+
+9280       1419   1432      1434  G15  5   XRA  1-8A      B8.5    6.2E-04   2305
+
+9210 +     1518   1521      1523  G15  5   XRA  1-8A      C1.1    1.8E-04   2305
+
+9220 +     1605   1613      1622  G15  5   XRA  1-8A      B9.3    7.6E-04   2303
+
+9230 +     1905   1921      1934  G15  5   XRA  1-8A      C1.4    2.0E-03   2305
+9230       1908   1929      1950  HOL  3   FLA  S08E10    SF      ERU       2305
+
+9290       2245   ////      2245  PAL  C   RSP  025-074   III/1                 
+
+9310 +     2337   2351      0004  G15  5   XRA  1-8A      C1.2    1.6E-03   2305
+
+9300       2338   2339      2345  LEA  3   FLA  N17W54    SF      DSD       2303

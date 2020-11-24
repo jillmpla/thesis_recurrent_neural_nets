@@ -1,0 +1,45 @@
+:Product: 20150401events.txt
+:Created: 2015 Apr 04 0357 UT
+:Date: 2015 04 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Apr 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 170       0000   ////      0630  LEA  C   RSP  075-180   CTM/1                 
+
+ 140       0008   ////      0346  PAL  C   RSP  100-180   CTM/1                 
+
+ 130       0026   0026      0026  PAL  G   RBR  245       100                   
+
+ 150       0116   0116      0116  PAL  G   RBR  245       140                   
+
+ 160       0255   ////      0430  LEA  3   LPS  ////      0.08                  
+
+ 180       0525   ////      0735  SVI  3   EPL  ////      0.18    B.9A          
+
+ 280       0710   ////      0710  CUL  C   RSP  070-250   III/1                 
+
+ 190 +     0710   ////      0710  SVI  C   RSP  075-180   III/1                 
+
+ 200 +     0720   ////      0846  SVI  C   RSP  073-180   CTM/1                 
+
+ 210       1438   ////      1439  SVI  C   RSP  122-156   III/1                 
+ 210       1439   ////      1501  SAG  C   RSP  101-180   VI/1                  
+
+ 270       1500   ////      2043  SAG  C   RSP  106-180   CTM/1                 
+
+ 250       1527   ////      1701  SVI  C   RSP  102-180   CTM/1                 
+
+ 220 +     1531   1531      1531  SAG  G   RBR  245       140                   
+
+ 230 +     1552   1552      1552  SAG  G   RBR  245       170                   
+
+ 240       1554   ////      1555  SVI  C   RSP  025-047   III/1                 
+
+ 260 +     1718   1718      1718  SAG  G   RBR  245       170                   
