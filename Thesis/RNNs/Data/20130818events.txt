@@ -1,0 +1,26 @@
+:Product: 20130818events.txt
+:Created: 2013 Aug 21 0332 UT
+:Date: 2013 08 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Aug 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 720       1124   1131      1143  G15  5   XRA  1-8A      C1.6    1.4E-03       
+
+ 740       1318   1321      1323  G15  5   XRA  1-8A      B8.6    1.4E-04       
+
+ 750 +     1509   1515      1543  SVI  3   FLA  S24W68    SF                1817
+
+ 760 +     1603   1609      1627  SVI  3   FLA  S24W68    SF                1817
+
+ 770       1618   1623      1627  HOL  3   FLA  S21W70    SF                1816
+
+ 780       1658   1704      1709  G15  5   XRA  1-8A      B9.5    4.4E-04       
+
+ 790       2235   2237      2241  HOL  3   FLA  N16W11    SF      DSD       1825

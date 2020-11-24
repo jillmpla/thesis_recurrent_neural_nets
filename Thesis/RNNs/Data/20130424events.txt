@@ -1,0 +1,97 @@
+:Product: 20130424events.txt
+:Created: 2013 Apr 27 0332 UT
+:Date: 2013 04 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Apr 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9280      B0000   0010      0016  LEA  3   FLA  N12W46    SF                1726
+
+8960 +     0000   ////      0947  LEA  C   RSP  075-180   IV/1              1726
+
+8970       0017   0021      0023  G15  5   XRA  1-8A      C1.4    3.2E-04   1726
+8970       0018   0018      0018  LEA  G   RBR  245       280               1726
+8970       0019   0019      0026  LEA  3   FLA  N14W46    SF      DSD       1726
+8970       0019   0019      0019  LEA  G   RBR  8800      100               1726
+8970 +     0019   0019      0019  LEA  G   RBR  4995      110               1726
+
+8980       0323   0328      0333  G15  5   XRA  1-8A      C1.4    6.5E-04   1726
+8980       0326   0328      0335  LEA  3   FLA  N13W48    SF                1726
+
+8990       0430   0430      0430  LEA  G   RBR  245       100                   
+
+9010       0500   0501      0509  LEA  3   FLA  N10W54    SF                1726
+
+9020 +     0528   ////      0528  SVI  C   RSP  025-145   III/1                 
+
+9030       0649   0649      0649  LEA  G   RBR  245       120                   
+
+9040       0702   ////      0707  SVI  C   RSP  025-052   III/1                 
+9040       0703   0703      0703  SVI  G   RBR  245       100                   
+
+9000 +     0727   0727      0727  SVI  G   RNS  245       130                   
+
+9050 +     0729   ////      0730  LEA  C   RSP  025-129   III/1                 
+
+9070       0957   1007      1018  G15  5   XRA  1-8A      C1.6    1.7E-03   1726
+9070       1003   1009      1014  SVI  3   FLA  N10W59    SF                1726
+
+9080 +     1054   1054      1054  SVI  G   RBR  245       300                   
+
+9090       1116   1122      1133  G15  5   XRA  1-8A      C1.4    1.1E-03   1726
+9090       1119   1121      1126  SVI  3   FLA  N10W59    SF      ERU       1726
+
+9100       1136   1142      1146  SVI  3   FLA  N09W55    SF      ERU       1726
+
+9110 +     1213   ////      1220  SAG  C   RSP  025-180   III/2                 
+9110 +     1214   1215      1216  SAG  G   RBR  245       170                   
+9110 +     1214   1216      1216  SAG  G   RBR  410       93                    
+9110       1215   1215      1215  SAG  G   RBR  610       57                    
+
+9120       1222   1222      1225  SVI  3   FLA  N09W55    SF                1726
+
+9130 +     1229   ////      1230  SVI  C   RSP  034-043   II/1    788           
+
+9140       1310   1323      1335  G15  5   XRA  1-8A      C1.2    1.5E-03   1726
+9140       1313   1319      1329  HOL  3   FLA  N12W60    SF      ERU       1726
+9140 +     1322   ////      1446  SAG  C   RSP  104-180   CTM/1             1726
+9140 +     1325   ////      1326  SAG  C   RSP  025-051   III/2             1726
+
+9150       1330   1340      1351  HOL  3   FLA  N14W56    SF                1726
+
+9160       1352   ////      1357  SVI  C   RSP  029-079   III/1                 
+
+9170 +     1421   ////      1516  SVI  C   RSP  025-080   VI/1                  
+
+9200       1644   ////      1726  SVI  C   RSP  025-126   VI/1                  
+
+9180       1649   1649      1649  SVI  G   RBR  245       170                   
+
+9190       1650   1658      1712  G15  5   XRA  1-8A      C2.5    2.4E-03   1726
+9190      B1653  U1659     A1713  HOL  1   FLA  N13W63    SF                1726
+9190 +     1655   ////      1726  SVI  C   RSP  103-171   CTM/1             1726
+
+9200       1714   1714      1714  SAG  G   RBR  245       380                   
+
+9210       1726   ////      1820  PAL  C   RSP  025-086   VI/1                  
+9210       1728   ////      2359  PAL  C   RSP  110-180   CTM/1                 
+9210       1803   ////      1804  PAL  C   RSP  025-180   III/1                 
+
+9230       1926   ////      2037  PAL  C   RSP  025-115   VI/1                  
+
+9220       1927   ////      1927  SAG  C   RSP  025-053   III/1                 
+
+9240       2038   ////      2039  PAL  C   RSP  025-180   III/1                 
+
+9250       2106   2106      2106  SAG  G   RBR  245       110                   
+
+9260 +     2137   ////      2139  SAG  C   RSP  025-079   III/1                 
+
+9270       2239   2255      2326  G15  5   XRA  1-8A      C1.6    3.9E-03   1726
+9270       2246   2247      2254  HOL  3   FLA  N13W65    SF      ERU       1726

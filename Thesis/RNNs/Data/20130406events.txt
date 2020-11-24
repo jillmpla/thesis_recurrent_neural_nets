@@ -1,0 +1,70 @@
+:Product: 20130406events.txt
+:Created: 2013 Apr 09 0332 UT
+:Date: 2013 04 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Apr 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4220       0000   ////      0343  PAL  C   RSP  110-180   CTM/1                 
+
+4230 +     0404   ////      0404  LEA  C   RSP  025-100   III/1                 
+
+4240 +     0444   ////      0447  LEA  C   RSP  025-141   III/1                 
+
+4260       0448   ////      0741  SVI  C   RSP  074-180   CTM/1             1718
+4260      B0519   0522      0627  SVI  3   FLA  N23E43    SF                1718
+
+4250       0555   0600      0604  G15  5   XRA  1-8A      C1.2    4.4E-04   1717
+4250 +     0557   0557      0557  LEA  G   RBR  610       320                   
+4250 +     0558   0558      0558  LEA  G   RBR  245       330                   
+4250       0558   ////      0558  SVI  C   RSP  025-180   V/2                   
+4250       0558   ////      0558  LEA  C   RSP  025-180   III/1                 
+
+4340       0608   ////      0829  LEA  3   DSF  S43E23    9                     
+
+4270       0617   ////      0725  SVI  C   RSP  025-136   VI/1                  
+4270       0639   0646      0651  G15  5   XRA  1-8A      C1.0    5.1E-04   1718
+4270 +     0646   ////      0647  SVI  C   RSP  025-180   III/2                 
+4270 +     0646   0646      0647  LEA  G   RBR  245       280                   
+
+4280       0758   0802      0809  G15  5   XRA  1-8A      B9.7    4.9E-04   1718
+4280       0759   0807      0826  SVI  3   FLA  N21E40    SF                1718
+
+4290       0827   ////      0836  SVI  C   RSP  025-126   III/1                 
+
+4300 +     0924   0925      0932  SVI  3   FLA  N09E74    SF                1719
+
+4390       0932   ////      1707  SVI  C   RSP  025-180   CTM/1                 
+
+4350       0937   0944      0948  G15  5   XRA  1-8A      C1.1    7.0E-04   1718
+
+4310       1106   1111      1116  SVI  3   FLA  N22E40    SF                1718
+4310       1115   1142      1154  G15  5   XRA  1-8A      C1.7    3.2E-03   1718
+
+4320 +     1153   1225      1244  SVI  3   FLA  N22E39    SF                1718
+4320 +     1222   1227      1230  G15  5   XRA  1-8A      C1.4    6.2E-04   1718
+
+4330       1253   1306      1316  SVI  3   FLA  N22E38    SF                1718
+
+4360       1318   1320      1322  SVI  3   FLA  N16W35    SF                1715
+
+4380       1321   1330      1348  SVI  3   FLA  N22E38    SF                1718
+
+4370 +     1354   ////      1354  SAG  C   RSP  025-124   III/1                 
+
+4400       1607   1612      1617  SVI  3   FLA  N09E71    SF                1719
+
+4410       1935   1957      2012  G15  5   XRA  1-8A      C1.2    2.0E-03   1715
+4410 +     1952   ////      1952  SAG  C   RSP  025-076   III/1                 
+
+4420 +     2117   2130      2149  G15  5   XRA  1-8A      C1.7    2.8E-03   1719
+
+4430       2250   ////      2359  LEA  C   RSP  084-180   CTM/1             1718
+4430       2331   2336      2347  G15  5   XRA  1-8A      C1.0    7.5E-04   1718
+4430       2337   2337      2346  HOL  3   FLA  N19E34    SF                1718

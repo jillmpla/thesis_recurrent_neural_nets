@@ -1,0 +1,58 @@
+:Product: 20130417events.txt
+:Created: 2013 Apr 20 0332 UT
+:Date: 2013 04 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Apr 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6710 +     0029   ////      0029  CUL  C   RSP  018-090   III/3                 
+
+6720       0257   0301      0311  G15  5   XRA  1-8A      B7.2    4.9E-04       
+
+6730       0438   0443      0449  LEA  3   FLA  N09W14    SF                1719
+6730       0439   0443      0447  G15  5   XRA  1-8A      C1.3    4.6E-04   1719
+
+6810       0532   ////      1417  SVI  C   RSP  025-180   CTM/1                 
+
+6740       0641   0641      0648  SVI  3   FLA  S22W35    SF                1722
+
+6760       0837   0847      0856  G15  5   XRA  1-8A      B7.7    6.6E-04   1719
+
+6770       0922   0922      0922  LEA  G   RBR  245       130                   
+
+6780       0946   0948      0949  SVI  G   RBR  245       160                   
+6780       0947   ////      0951  SVI  C   RSP  025-079   III/1                 
+
+6820       1011   ////      1424  SAG  C   RSP  119-180   CTM/1                 
+
+6790       1116   1120      1135  SVI  3   FLA  S17W46    SF      ERU       1721
+6790 +     1117   ////      1634  SVI  C   RSP  025-081   VI/1              1721
+
+6800       1347   1347      1347  SAG  G   RBR  245       120                   
+
+6830       1511   1511      1511  SAG  G   RBR  245       120                   
+
+6880       1514   ////      2221  SAG  C   RSP  116-180   CTM/1                 
+
+6750 +     1519   1732      1744  SAG  G   RNS  245       590                   
+
+6840 +     1524   ////      1719  SVI  C   RSP  061-180   CTM/1                 
+
+6850       1727   1728      1729  SAG  G   RBR  245       1200                  
+
+6890       1842   ////      2359  PAL  C   RSP  025-076   VI/1                  
+
+6860       1950   2011      2029  G15  5   XRA  1-8A      C1.3    2.5E-03   1719
+
+6870       2049   2052      2057  G15  5   XRA  1-8A      C1.2    3.9E-04   1719
+
+6900       2203   2207      2210  G15  5   XRA  1-8A      B4.8    1.4E-04       
+
+6910       2254   ////      2359  LEA  C   RSP  074-180   CTM/1                 
+6910       2337   2337      2337  LEA  G   RBR  245       150                   

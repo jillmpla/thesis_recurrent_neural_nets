@@ -1,0 +1,32 @@
+:Product: 20130208events.txt
+:Created: 2013 Feb 11 0332 UT
+:Date: 2013 02 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Feb 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6430      A0016   ////     A1410  HOL  2   DSF  N56E13    7                     
+
+6360       0052   0110      0120  G15  5   XRA  1-8A      B4.0    5.4E-04   1667
+6360 +     0052   ////      0125  PAL  C   RSP  025-151   VI/1                  
+
+6370 +     0243   ////      0243  PAL  C   RSP  025-160   III/1                 
+
+6380 +     0706   ////      0732  SVI  C   RSP  027-171   VI/1                  
+
+6390       0841   0850      0922  G15  5   XRA  1-8A      B4.5    9.3E-04   1670
+
+6400 +     1423   ////      1424  SAG  C   RSP  102-166   III/1                 
+
+6410       1503   1508      1515  G15  5   XRA  1-8A      B4.7    2.5E-04   1670
+6410       1506   1508      1510  HOL  3   FLA  N19E18    SF                1670
+
+6420 +     1539   ////      1539  SAG  C   RSP  025-144   III/1                 
+
+6440 +     2337   ////      2337  LEA  C   RSP  086-180   III/1                 

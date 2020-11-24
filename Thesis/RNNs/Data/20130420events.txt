@@ -1,0 +1,84 @@
+:Product: 20130420events.txt
+:Created: 2013 Apr 23 0332 UT
+:Date: 2013 04 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Apr 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7720       0000   ////      0949  LEA  C   RSP  075-180   CTM/1                 
+
+7280      B0002   ////     B0241  LEA  4   DSF  N18E23    6                     
+
+7230 +     0022   0036      0038  G15  5   XRA  1-8A      C1.5    5.5E-04   1726
+
+7260       0025   0025      0027  HOL  3   FLA  N12E02    SF      DSD           
+
+7230 +     0036   0036      0041  LEA  3   FLA  N12E03    SF                1726
+
+7240 +     0051   ////      0119  LEA  C   RSP  025-110   VI/1                  
+7240       0103   0146      0208  G15  5   XRA  1-8A      B8.1    2.5E-03   1723
+7240       0138   ////      0700  LEA  C   RSP  075-180   CTM/1                 
+
+7250       0226   0231      0233  G15  5   XRA  1-8A      C1.4    2.8E-04   1726
+7250       0231   0231      0235  LEA  3   FLA  N12E02    SF      ERU           
+
+7270 +     0327   0348      0402  G15  5   XRA  1-8A      C1.1    1.8E-03   1726
+7270       0344   ////      0431  LEA  C   RSP  025-083   VI/1              1726
+
+7290       0444   ////      0643  SVI  C   RSP  103-180   CTM/1                 
+
+7340      B0512   ////     B0642  SVI  3   DSF  N25E22    6                     
+
+7290       0539   0539      0543  SVI  3   FLA  N12E01    SF                    
+
+7300       0754   0802      0810  G15  5   XRA  1-8A      C1.4    9.3E-04   1726
+7300 +     0757   0800      0829  SVI  3   FLA  N14E02    SF      ERU       1726
+7300 +     0800   ////      0801  LEA  C   RSP  085-114   III/1             1726
+7300       0803   0804      0804  SVI  G   RBR  245       110               1726
+
+7310       0812   0812      0817  SVI  3   FLA  N14W01    SF                    
+
+7320 +     0839   ////      0842  SVI  C   RSP  025-079   III/2                 
+
+7330       0844   0846      0847  SVI  3   FLA  N14W02    SF                    
+
+7470      A0921   ////     A2339  LEA  3   DSF  S20W29    10                1723
+
+7480      A0921   ////     A2339  LEA  3   DSF  S32E63    6                     
+
+7350 +     1234   1237      1240  G15  5   XRA  1-8A      B4.1    9.1E-05   1726
+7350       1236   1237      1253  SVI  3   FLA  N13W03    SF                1726
+
+7360       1329   1329      1331  SVI  3   FLA  N14W04    SF                    
+
+7370 +     1502   ////      1507  SAG  C   RSP  025-180   III/1                 
+
+7380 +     1708   1716      1724  G15  5   XRA  1-8A      C1.0    7.5E-04   1726
+
+7390       1725   1725      1736  HOL  3   FLA  N14W04    SF      ERU           
+
+7400       1803   1803      1803  SAG  G   RBR  245       110                   
+
+7410       2045   2045      2047  HOL  3   FLA  N11W69    SF                1725
+
+7420       2209   2213      2218  G15  5   XRA  1-8A      C1.1    4.4E-04   1726
+7420       2210   2211      2224  HOL  3   FLA  N13W05    SF      ERU       1726
+7420       2213   2213      2213  SAG  G   RBR  245       170               1726
+7420       2213   2213      2213  SAG  G   RBR  410       160               1726
+7420       2213   2213      2213  SAG  G   RBR  610       190               1726
+
+7430       2224   2229      2233  G15  5   XRA  1-8A      C1.1    4.3E-04   1726
+7430       2225   2229      2238  HOL  3   FLA  N12W06    SF      DSD       1726
+
+7440       2246   2252      2259  G15  5   XRA  1-8A      C1.3    7.3E-04   1726
+7440       2251   2253      2255  HOL  3   FLA  N14W04    SF                1726
+
+7460       2304   ////      2359  LEA  C   RSP  075-124   CTM/1                 
+
+7450       2309   2309      2337  HOL  3   FLA  N14W04    SF                1726

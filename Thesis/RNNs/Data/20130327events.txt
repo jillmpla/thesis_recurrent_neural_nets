@@ -1,0 +1,20 @@
+:Product: 20130327events.txt
+:Created: 2013 Mar 30 0332 UT
+:Date: 2013 03 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Mar 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2210       1723   1730      1737  G15  5   XRA  1-8A      B2.0    1.6E-04   1704
+
+2180       1837   1847      1911  G15  5   XRA  1-8A      B2.6    4.4E-04   1708
+
+2190       2016   ////      2018  PAL  C   RSP  025-075   III/1                 
+
+2200       2253   2255      2256  LEA  G   RBR  245       130                   

@@ -1,0 +1,63 @@
+:Product: 20130817events.txt
+:Created: 2013 Aug 20 0332 UT
+:Date: 2013 08 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Aug 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 600 +    B0002   ////     B0059  LEA  3   DSF  N34E90    47                    
+
+ 560      B0054   ////     B0119  LEA  2   EPL  ////      0.15                  
+
+ 570       0146   0146      0146  LEA  G   RBR  245       250                   
+
+ 580       0259   0304      0310  G15  5   XRA  1-8A      B6.7    3.3E-04   1818
+
+ 590       0325   0330      0336  G15  5   XRA  1-8A      C1.3    5.8E-04   1818
+ 590       0328   0329      0334  LEA  3   FLA  S07W20    SF                1818
+
+ 710      A0934   ////     A2324  LEA  3   DSF  N19W09    6                     
+
+ 610       1011   1018      1040  SVI  3   FLA  S08W24    SF      ERU       1818
+ 610       1016   1019      1023  G15  5   XRA  1-8A      B8.9    2.3E-04   1818
+
+ 620       1052   1057      1110  G15  5   XRA  1-8A      B8.7    7.2E-04   1818
+ 620       1055   1056      1108  SVI  3   FLA  S07W25    SF      ERU       1818
+
+ 650 +     1227   1230      1244  G15  5   XRA  1-8A      B6.3    5.4E-04   1817
+
+ 660       1327   1349      1424  G15  5   XRA  1-8A      C1.8    4.9E-03       
+
+ 730      A1657   ////     A0505  SVI  3   DSF  S12E50    9                 1823
+
+ 670       1816   1824      2141  HOL  3   FLA  S07W30    2B      YSR       1818
+ 670       1816   1824      1835  G15  5   XRA  1-8A      M3.3    2.1E-02   1818
+ 670 +     1821   1822      1824  SAG  G   RBR  8800      210               1818
+ 670 +     1821   1822      1823  SAG  G   RBR  15400     150               1818
+ 670 +     1821   1822      1824  SAG  G   RBR  4995      300               1818
+ 670 +     1821   1822      1823  SAG  G   RBR  2695      110               1818
+ 670 +     1823   1823      1823  SAG  G   RBR  1415      120               1818
+
+ 680       1842   1842      1842  PAL  G   RBR  245       120                   
+
+ 700       1849   1933      1954  G15  5   XRA  1-8A      M1.4    4.6E-02   1818
+ 700 +     1850   1914      1932  SAG  G   RBR  245       260                   
+ 700 +     1852   1915      1934  SAG  G   RBR  410       460                   
+ 700 +     1853   1930      1935  SAG  G   RBR  610       230                   
+
+ 690       1855   1855      1855  PAL  G   RBR  245       100                   
+
+ 700       1856   ////      1902  SAG  C   RSP  025-055   II/2    1399          
+ 700       1904   ////      1928  SAG  C   RSP  025-180   VI/2                  
+ 700 +     1908   1915      1933  SAG  G   RBR  2695      150                   
+ 700 +     1908   1911      1932  SAG  G   RBR  4995      120                   
+ 700       1908   1916      1937  SAG  G   RBR  8800      89                    
+ 700       1909   ////      1941  SAG  C   RSP  025-180   IV/1                  
+ 700 +     1909   1930      1936  SAG  G   RBR  1415      320                   
+ 700       1915   1915      1929  SAG  G   RBR  15400     54                    

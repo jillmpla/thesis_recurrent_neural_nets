@@ -1,0 +1,57 @@
+:Product: 20130217events.txt
+:Created: 2013 Feb 20 0332 UT
+:Date: 2013 02 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Feb 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6940       0021   0023      0024  LEA  3   FLA  N13E32    SF                1675
+
+6950       0031   0036      0038  G15  5   XRA  1-8A      C1.0    2.3E-04   1675
+6950       0041   0044      0047  LEA  3   FLA  N13E32    SF                1675
+
+6970 +     0239   ////      0243  LEA  C   RSP  025-098   III/1                 
+
+6980       0420   0431      0445  G15  5   XRA  1-8A      B5.6    6.3E-04   1675
+6980       0431   0433      0438  LEA  3   FLA  N13E30    SF                1675
+
+6990       1034   1038      1046  G15  5   XRA  1-8A      B3.8    2.1E-04   1675
+6990       1035   ////      1036  SVI  C   RSP  025-161   III/1                 
+
+7000       1526   1540      1543  G15  5   XRA  1-8A      C2.5    1.5E-03   1675
+
+7010       1531   1549      1559  HOL  3   FLA  N12E22    SF      YSR       1675
+
+7000       1538   1538      1538  SAG  G   RBR  1415      64                1675
+7000       1538   1538      1538  SAG  G   RBR  2695      51                1675
+7000       1539   1539      1539  SAG  G   RBR  610       300               1675
+
+7010       1545   1550      1552  G15  5   XRA  1-8A      M1.9    2.9E-03   1675
+7010 +     1547   ////      1547  SVI  C   RSP  103-180   III/2             1675
+7010 +     1547   1547      1547  SAG  G   RBR  8800      480               1675
+7010 +     1547   1547      1547  SAG  G   RBR  410       1600              1675
+7010       1547   1547      1551  SAG  G   RBR  610       300               1675
+7010 +     1547   1547      1551  SAG  G   RBR  1415      360               1675
+7010 +     1547   1547      1551  SAG  G   RBR  2695      340               1675
+7010 +     1547   1547      1548  SAG  G   RBR  4995      310               1675
+7010 +     1547   1547      1547  SAG  G   RBR  15400     780               1675
+7010 +     1547   1547      1549  SAG  G   RBR  245       6700              1675
+
+7020       1621   1623      1630  HOL  3   FLA  N12E22    SF      DSD       1675
+
+7030       1759   1810      1815  G15  5   XRA  1-8A      B3.7    2.9E-04       
+
+7040 +     1957   2000      2002  G15  5   XRA  1-8A      C1.0    1.2E-04   1675
+
+7050 +     2017   2020      2023  G15  5   XRA  1-8A      B5.5    1.2E-04   1675
+
+7060       2047   2048      2053  HOL  3   FLA  N12E19    SF      DSD       1675
+
+7070       2112   2125      2132  HOL  3   FLA  N12E19    SF      DSD       1675
+7070       2121   2125      2130  G15  5   XRA  1-8A      B6.3    2.3E-04   1675

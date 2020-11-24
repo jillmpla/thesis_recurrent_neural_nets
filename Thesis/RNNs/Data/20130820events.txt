@@ -1,0 +1,57 @@
+:Product: 20130820events.txt
+:Created: 2013 Aug 23 0332 UT
+:Date: 2013 08 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Aug 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1040 +     0009   ////      0012  LEA  C   RSP  025-180   III/1                 
+
+1060 +     0059   0059      0059  LEA  G   RBR  245       280                   
+1060       0059   ////      0059  LEA  C   RSP  131-180   III/1                 
+
+1070       0115   0115      0115  LEA  G   RBR  245       130                   
+
+1080       0125   0129      0132  G15  5   XRA  1-8A      C1.8    4.5E-04   1818
+1080 +     0127   0128      0128  LEA  G   RBR  610       190                   
+1080       0127   0128      0128  LEA  G   RBR  15400     120                   
+
+1090       0140   ////      0140  LEA  C   RSP  080-180   III/1                 
+
+1100 +     0243   ////      0244  LEA  C   RSP  025-180   III/1                 
+
+1110       0320   ////      0320  CUL  C   RSP  018-057   III/1                 
+
+1180       0400   ////      0829  LEA  3   DSF  S46E21    51                    
+
+1130       0454   0608      0623  G15  5   XRA  1-8A      C1.3    5.5E-03   1817
+
+1120 +     0551   ////      0551  LEA  C   RSP  059-180   III/1                 
+
+1140       0619   ////      1000  LEA  3   LPS  ////      0.1               1817
+
+1190      A0700   ////     A0928  SVI  3   DSF  S32W35    51                    
+
+1150 +     0720   0720      0721  LEA  G   RBR  410       430                   
+1150       0720   0720      0721  LEA  G   RBR  610       300                   
+
+1160       0800   0803      0810  LEA  3   FLA  N15E68    SF                1828
+
+1170       0957   1000      1002  G15  5   XRA  1-8A      C1.6    2.7E-04   1818
+
+1350      A1431   ////     A0554  SVI  3   DSF  S14E27    10                    
+
+1210       2044   2048      2051  G15  5   XRA  1-8A      B9.4    2.5E-04       
+1210 +     2045   ////      2047  SAG  C   RSP  025-180   III/2                 
+
+1220       2143   ////      2145  CUL  C   RSP  023-050   III/1                 
+
+1370 +    A2159   ////     A1336  HOL  3   DSF  S48E31    10                    
+
+1230 +     2334   ////      2335  LEA  C   RSP  025-127   III/1                 

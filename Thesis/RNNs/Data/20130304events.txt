@@ -1,0 +1,38 @@
+:Product: 20130304events.txt
+:Created: 2013 Mar 07 0332 UT
+:Date: 2013 03 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Mar 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8700       0433   ////      0435  CUL  C   RSP  020-060   III/1                 
+
+8680 +    B0619   ////     B0744  SVI  3   DSF  S27W36    14                1680
+
+8670       0657   0701      0705  G15  5   XRA  1-8A      B4.4    1.4E-04   1687
+
+8820 +    A1015   ////     A2320  LEA  3   DSF  S21E25    10                1683
+
+8830      A1015   ////     A2333  LEA  3   DSF  S35E55    8                     
+
+8840      A1552   ////     A0903  SVI  2   DSF  S21E39    10                    
+
+8850      A1552   ////     A0903  SVI  2   DSF  S38E67    14                    
+
+8690 +     1720   ////      1743  SAG  C   RSP  078-180   VI/1                  
+
+8900      A2227   ////     A1411  HOL  3   DSF  S39E58    8                     
+
+8870      A2227   ////     A1411  HOL  3   DSF  S32E49    8                     
+
+8810 +    A2227   ////     A1411  HOL  3   DSF  S33W07    6                     
+
+8880      A2227   ////     A1411  HOL  3   DSF  N15W66    5                     
+
+8710       2339   2339      2339  LEA  G   RBR  245       110                   

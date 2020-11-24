@@ -1,0 +1,47 @@
+:Product: 20130223events.txt
+:Created: 2013 Feb 26 0332 UT
+:Date: 2013 02 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Feb 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7730       0001   ////      0107  PAL  C   RSP  070-101   VI/1                  
+
+7840      B0038   ////     B1402  HOL  3   DSF  S52E51    5                     
+
+7850      A0038   ////     A1402  HOL  3   DSF  S51E37    10                    
+
+7730       0101   0104      0110  G15  5   XRA  1-8A      B6.9    2.6E-04   1678
+
+7740       0125   ////      0125  LEA  C   RSP  025-055   III/1                 
+
+7800       0606   ////      1148  SVI  C   RSP  042-169   CTM/1                 
+
+7750       0717   0721      0723  G15  5   XRA  1-8A      B5.6    1.2E-04   1678
+7750       0721   0721      0725  SVI  3   FLA  N08W83    SF                1678
+
+7780       0749   0804      0812  G15  5   XRA  1-8A      B8.0    8.5E-04   1678
+
+7770 +     0825   0825      0827  SVI  G   RBR  245       140                   
+
+7760 +     0837   0837      0851  SVI  G   RNS  245       110                   
+
+7860       1038   ////      1146  SVI  3   DSF  S43E11    37                    
+
+7870       1241   ////      1555  SAG  C   RSP  121-180   CTM/1                 
+
+7810       1241   ////      1639  SVI  C   RSP  107-171   CTM/1                 
+7810       1324   1324      1327  SVI  G   RBR  245       100                   
+7810 +     1333   ////      1334  SVI  C   RSP  025-068   III/2                 
+
+7820 +     1556   1609      1620  G15  5   XRA  1-8A      C4.7    4.4E-03   1678
+
+7880       1845   1856      1909  G15  5   XRA  1-8A      C2.9    2.9E-03   1678
+
+7890 +     2051   ////      2051  PAL  C   RSP  025-049   III/1                 

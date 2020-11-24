@@ -1,0 +1,41 @@
+:Product: 20130227events.txt
+:Created: 2013 Mar 02 0332 UT
+:Date: 2013 02 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Feb 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8250      B0000   ////     B0525  LEA  3   EPL  ////      0.47    B.8A          
+
+8280      A0013   ////     A1357  HOL  3   DSF  S13W33    11                    
+
+8210       0029   0036      0042  G15  5   XRA  1-8A      B6.4    3.5E-04   1681
+8210 +     0030   ////      0040  LEA  C   RSP  025-180   III/1                 
+
+8220       0157   ////      0157  CUL  C   RSP  020-057   III/1                 
+
+8230       0325   0332      0339  G15  5   XRA  1-8A      B8.3    4.9E-04   1682
+8230       0329   0329      0338  LEA  3   FLA  S19W05    SF      ERU       1682
+
+8310       0456   ////      0456  CUL  C   RSP  020-057   III/1                 
+
+8320       0555   ////      0557  CUL  C   RSP  020-057   III/1                 
+
+8330       0616   ////      0616  CUL  C   RSP  020-057   III/1                 
+
+8340       0718   ////      0718  CUL  C   RSP  020-057   III/1                 
+
+8300       0847   ////      2251  LEA  3   DSF  S15W32    10                    
+
+8260 +     1952   ////      1952  PAL  C   RSP  025-086   III/1                 
+
+8270 +     2050   ////      2051  PAL  C   RSP  025-180   III/1                 
+8270       2050   2050      2051  SAG  G   RBR  245       140                   
+
+8290       2107   ////      2114  PAL  C   RSP  025-127   III/1                 

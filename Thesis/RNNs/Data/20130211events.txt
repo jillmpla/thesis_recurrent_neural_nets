@@ -1,0 +1,21 @@
+:Product: 20130211events.txt
+:Created: 2013 Feb 14 0332 UT
+:Date: 2013 02 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Feb 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6570       0622   0625      0629  G15  5   XRA  1-8A      B5.4    1.3E-04   1670
+6570       0624   0624      0628  LEA  3   FLA  N16W23    SF      ERU       1670
+
+6580       1535   ////      1538  SAG  C   RSP  025-068   III/1                 
+
+6590       1604   1612      1619  G15  5   XRA  1-8A      B5.8    3.6E-04   1670
+
+6600       1855   1905      1915  G15  5   XRA  1-8A      B5.8    5.2E-04   1667

@@ -1,0 +1,28 @@
+:Product: 20130302events.txt
+:Created: 2013 Mar 05 0332 UT
+:Date: 2013 03 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Mar 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8600      A0655   ////     A2304  LEA  3   DSF  S17W23    5                     
+
+8550       1120   ////      1210  SVI  C   RSP  025-171   VI/1                  
+8550       1148   1152      1214  G15  5   XRA  1-8A      B6.0    7.7E-04   1681
+8550       1148   ////      1150  SAG  C   RSP  025-137   III/1                 
+
+8560       1347   1405      1422  G15  5   XRA  1-8A      B8.9    1.6E-03       
+
+8570 +     1459   1511      1526  G15  5   XRA  1-8A      C1.9    2.2E-03   1687
+
+8580       1820   ////      1820  SAG  C   RSP  025-061   III/1                 
+
+8590 +     1836   1847      1901  G15  5   XRA  1-8A      C1.6    1.7E-03   1687
+
+8610       2332   ////      2359  LEA  C   RSP  025-180   VI/2                  

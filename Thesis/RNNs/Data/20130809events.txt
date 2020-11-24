@@ -1,0 +1,23 @@
+:Product: 20130809events.txt
+:Created: 2013 Aug 12 0332 UT
+:Date: 2013 08 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Aug 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9600       0631   0636      0638  SVI  3   FLA  S27W33    SF                1810
+
+9640      A0936   ////     A2329  LEA  3   DSF  N20E51    9                     
+
+9650      A0936   ////     A2326  LEA  4   DSF  S22W41    6                 1810
+
+9620       0940   0944      0954  G15  5   XRA  1-8A      B4.5    2.8E-04   1818
+
+9630       2013   2028      2043  G15  5   XRA  1-8A      C2.0    2.4E-03   1818
+9630       2017   ////      2029  SAG  C   RSP  025-051   VI/1                  

@@ -1,0 +1,33 @@
+:Product: 20130816events.txt
+:Created: 2013 Aug 19 0332 UT
+:Date: 2013 08 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Aug 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 490       0242   ////      0254  LEA  C   RSP  025-116   VI/1                  
+
+ 500       0754   0756      0800  SVI  3   FLA  S07W08    SF                1818
+
+ 510       0808   0811      0814  SVI  3   FLA  S07W09    SF                1818
+
+ 520       0828  U0831      0835  SVI  3   FLA  S19W27    SF                1817
+
+ 530       1229   1246      1257  SVI  3   FLA  S06W13    SF      ERU       1818
+ 530       1239   1247      1250  G15  5   XRA  1-8A      C1.3    5.5E-04   1818
+
+ 540       1311   1318      1322  G15  5   XRA  1-8A      C2.6    9.1E-04   1818
+ 540 +     1314   1317      1332  SVI  3   FLA  S06W12    SF      ERU       1818
+
+ 550       1435   1438      1441  G15  5   XRA  1-8A      B9.0    1.8E-04   1818
+ 550 +     1437   1438      1439  HOL  3   FLA  S07W14    SF      ERU       1818
+
+ 630      A1603   ////     A0520  SVI  2   DSF  S26E50    8                     
+
+ 640      A1603   ////     A0520  SVI  2   DSF  N20E73    19                    

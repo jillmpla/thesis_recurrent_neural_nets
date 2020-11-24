@@ -1,0 +1,30 @@
+:Product: 20130225events.txt
+:Created: 2013 Feb 28 0332 UT
+:Date: 2013 02 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Feb 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7990       0515   1151      1540  G15  5   XRA  1-8A      B8.9    2.4E-02   1678
+
+7980 +     0553   ////      0746  SVI  C   RSP  036-145   CTM/1                 
+
+8030       1006   ////      1422  SVI  3   DSF  S23W34    7                     
+
+8000       1051   1051      1051  SVI  U   RBR  245       220                   
+
+8010 +     1456   ////      1456  SVI  C   RSP  025-047   III/1                 
+
+8020       1534   1534      1534  SVI  U   RBR  245       140                   
+
+8120      A1604   ////     A1037  SVI  2   DSF  S16W12    9                     
+
+8040       2113   ////      2113  PAL  C   RSP  025-049   III/1                 
+
+8050       2214   ////      2214  PAL  C   RSP  025-044   III/1                 

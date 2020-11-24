@@ -1,0 +1,41 @@
+:Product: 20130320events.txt
+:Created: 2013 Mar 23 0332 UT
+:Date: 2013 03 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Mar 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1440       0039   0102      0125  G15  5   XRA  1-8A      C5.5    9.4E-03   1698
+
+1450       0125   ////      0126  LEA  C   RSP  074-180   III/1                 
+1450       0126   0126      0126  LEA  G   RBR  245       190                   
+
+1460       0230   0230      0230  LEA  G   RBR  245       120                   
+
+1470       0500   0500      0500  LEA  G   RBR  245       330                   
+
+1480       0609   0615      0620  G15  5   XRA  1-8A      C1.3    5.9E-04   1692
+1480       0616   ////      0616  LEA  C   RSP  025-080   III/1                 
+1480       0616   ////      0645  SVI  U   RSP  025-141   VI/1                  
+
+1490       0734   0734      0734  LEA  G   RBR  245       110                   
+
+1500       0936   0936      0939  SVI  3   FLA  N08W62    SF                1692
+
+1510       1138   1142      1146  G15  5   XRA  1-8A      B4.5    1.5E-04   1692
+
+1520 +     1345   ////      1507  SVI  C   RSP  025-143   VI/1                  
+
+1530 +     1803   ////      1829  SAG  C   RSP  025-109   VI/2                  
+
+1540       1836   1841      1846  G15  5   XRA  1-8A      B5.0    2.2E-04   1692
+
+1550       1926   1932      1937  G15  5   XRA  1-8A      C1.0    4.4E-04   1692
+
+1560       2214   2222      2232  G15  5   XRA  1-8A      B8.4    7.0E-04   1692

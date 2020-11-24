@@ -1,0 +1,28 @@
+:Product: 20130216events.txt
+:Created: 2013 Feb 19 0332 UT
+:Date: 2013 02 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Feb 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6860 +     0053   ////      0054  LEA  C   RSP  025-106   III/1                 
+
+6870       0431   ////      0703  LEA  C   RSP  025-104   CTM/2                 
+
+6930      B1024   ////     B2248  LEA  3   DSF  N13E03    15                    
+
+6880       1345   1356      1400  G15  5   XRA  1-8A      B3.8    2.7E-04   1670
+
+6890       2142   ////      2143  PAL  C   RSP  025-092   III/1                 
+
+6900       2259   2302      2308  G15  5   XRA  1-8A      B4.7    1.8E-04   1675
+
+6910       2320   ////      2320  LEA  C   RSP  117-180   III/1                 
+
+6920       2337   2341      2348  G15  5   XRA  1-8A      B5.3    2.6E-04   1675

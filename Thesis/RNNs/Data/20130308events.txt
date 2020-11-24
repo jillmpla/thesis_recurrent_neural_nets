@@ -1,0 +1,18 @@
+:Product: 20130308events.txt
+:Created: 2013 Mar 11 0332 UT
+:Date: 2013 03 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Mar 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9080 +     0050   ////      0330  LEA  3   DSF  S02W39    5                     
+
+9090       1122   ////      1207  SAG  C   RSP  025-076   VI/1                  
+
+9100       1636   1657      1707  G15  5   XRA  1-8A      B6.8    9.8E-04   1684

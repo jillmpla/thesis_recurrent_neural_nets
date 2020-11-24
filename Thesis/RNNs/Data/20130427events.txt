@@ -1,0 +1,44 @@
+:Product: 20130427events.txt
+:Created: 2013 Apr 30 0332 UT
+:Date: 2013 04 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Apr 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9840 +     0035   ////      0035  LEA  C   RSP  104-180   III/1                 
+
+9850       0209   0213      0218  G15  5   XRA  1-8A      C2.4    9.3E-04       
+
+9860       0245   0252      0300  G15  5   XRA  1-8A      C5.2    3.2E-03   1726
+9860 +     0248   ////      0248  LEA  C   RSP  025-064   III/1                 
+
+9870       0349   0349      0349  LEA  G   RBR  245       200                   
+
+9880       0352   0357      0401  G15  5   XRA  1-8A      C2.5    9.8E-04       
+
+9890       0617   0622      0626  G15  5   XRA  1-8A      C3.1    1.2E-03   1726
+
+9900       0726   0730      0738  G15  5   XRA  1-8A      C1.3    7.4E-04       
+
+9910       1008   ////      1009  SVI  C   RSP  025-038   III/1                 
+
+9920       1206   1217      1233  G15  5   XRA  1-8A      C3.1    3.9E-03   1726
+
+9950       1324   1327      1337  G15  5   XRA  1-8A      C1.1    9.1E-04   1731
+
+9930 +     1336   ////      1339  SVI  C   RSP  037-180   III/1                 
+
+9940       1508   1513      1537  G15  5   XRA  1-8A      C1.9    2.7E-03   1732
+
+9960       1621   1629      1643  G15  5   XRA  1-8A      C1.5    1.9E-03   1732
+
+9970 +     2130   ////      2130  SAG  C   RSP  025-057   III/1                 
+
+9980       2203   ////      2238  PAL  C   RSP  025-180   VI/1                  
+9980       2224   ////      2225  SAG  C   RSP  025-081   III/1                 

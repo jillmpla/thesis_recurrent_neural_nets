@@ -1,0 +1,45 @@
+:Product: 20130813events.txt
+:Created: 2013 Aug 16 0332 UT
+:Date: 2013 08 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Aug 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  90       0504   0517      0521  G15  5   XRA  1-8A      C1.1    8.4E-04   1809
+
+ 100       0526   0532      0552  SVI  3   FLA  S22E10    SF                1817
+
+ 110       1135   1146      1152  G15  5   XRA  1-8A      C2.8    1.9E-03   1809
+
+ 160 +     1315   ////      1738  SVI  C   RSP  025-081   CTM/1                 
+
+ 120       1326   ////      1327  SVI  C   RSP  025-081   III/2                 
+
+ 130       1336   1337      1337  SAG  G   RBR  610       100                   
+ 130       1337   1337      1338  SAG  G   RBR  1415      61                    
+
+ 140       1347   1347      1347  SAG  U   RBR  410       100                   
+
+ 150       1540   1549      1553  SVI  3   FLA  S05E25    SF      ERU       1818
+ 150       1549   1553      1556  G15  5   XRA  1-8A      C1.5    4.3E-04   1818
+
+ 170       1640   1643      1646  G15  5   XRA  1-8A      B9.6    2.1E-04   1809
+
+ 180       1649   1701      1706  G15  5   XRA  1-8A      C1.8    1.2E-03   1809
+
+ 190       1846   1850      1852  G15  5   XRA  1-8A      C4.6    8.9E-04   1809
+
+ 220       2118   ////      2119  CUL  C   RSP  023-060   III/1                 
+
+ 200       2118   ////      2119  SAG  C   RSP  025-077   III/1                 
+
+ 210       2131   2138      2143  G15  5   XRA  1-8A      C4.4    1.9E-03   1809
+
+ 230       2311   2314      2316  G15  5   XRA  1-8A      C1.0    1.7E-04   1818
+ 230       2314   2314      2318  HOL  3   FLA  S05E20    SF      ERU       1818

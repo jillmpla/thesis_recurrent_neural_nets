@@ -1,0 +1,16 @@
+:Product: 20130210events.txt
+:Created: 2013 Feb 13 0332 UT
+:Date: 2013 02 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Feb 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6540 +     0013   ////      0016  LEA  C   RSP  025-089   III/1                 
+
+6550       0605   0609      0612  G15  5   XRA  1-8A      B2.7    7.6E-05   1667

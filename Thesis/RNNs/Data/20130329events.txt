@@ -1,0 +1,32 @@
+:Product: 20130329events.txt
+:Created: 2013 Apr 01 0332 UT
+:Date: 2013 03 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Mar 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2260       0204   0204      0204  LEA  G   RBR  245       200                   
+
+2280       0254   ////      0400  COM  3   DSF  S19E69    6                     
+
+2290       0419   ////      0758  LEA  C   RSP  071-140   CTM/1                 
+
+2270 +     0428   ////      0435  LEA  C   RSP  025-112   III/1                 
+
+2300       0522   ////      0721  SVI  C   RSP  042-170   CTM/1                 
+
+2310       0705   ////      0705  SVI  C   RSP  033-054   III/1                 
+
+2320 +     1213   ////      1214  SVI  C   RSP  025-146   III/1                 
+
+2330 +     1303   ////      1303  SVI  C   RSP  025-080   III/1                 
+
+2350       1704   ////      1705  SAG  C   RSP  025-039   III/1                 
+
+2360       2253   ////      2253  PAL  C   RSP  025-180   III/1                 

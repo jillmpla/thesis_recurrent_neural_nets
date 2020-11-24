@@ -1,0 +1,22 @@
+:Product: 20130325events.txt
+:Created: 2013 Mar 28 0332 UT
+:Date: 2013 03 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Mar 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2040       0037   0039      0119  LEA  G   RNS  610       350                   
+
+2070       0956   0956      0956  LEA  G   RBR  245       320                   
+
+2080       1304   1308      1313  G15  5   XRA  1-8A      B2.6    9.8E-05   1704
+2080       1308   1308      1310  SVI  3   FLA  N19E55    SF                1704
+
+2090       1743   1748      1754  G15  5   XRA  1-8A      B4.4    2.0E-04   1704
+2090       1747   1748      1752  HOL  3   FLA  N18E52    SF      ERU       1704

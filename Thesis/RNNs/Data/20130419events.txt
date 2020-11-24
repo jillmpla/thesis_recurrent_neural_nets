@@ -1,0 +1,31 @@
+:Product: 20130419events.txt
+:Created: 2013 Apr 22 0332 UT
+:Date: 2013 04 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Apr 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7160       0009   ////      0133  LEA  1   DSF  S22W29    9                     
+
+7190 +    A0111   ////     A1258  COM  3   DSF  S12W33    5                 1726
+
+7140 +     0434   ////      0434  SVI  C   RSP  025-081   III/1                 
+7140 +     0441   ////      0721  SVI  C   RSP  025-180   CTM/1                 
+
+7170       1343   1349      1407  SVI  3   FLA  N14E14    SF      DSD       1726
+
+7180       1410   1412      1419  SVI  3   FLA  N14E14    SF                1726
+7180 +     1414   ////      1415  SAG  C   RSP  025-180   III/1             1726
+
+7200       1437   1444      1453  G15  5   XRA  1-8A      C1.1    8.4E-04       
+
+7210       2215   2221      2226  G15  5   XRA  1-8A      C1.0    4.6E-04       
+
+7220 +     2309   2312      2314  G15  5   XRA  1-8A      B6.3    8.9E-05   1726
+7220       2310   2313      2317  HOL  3   FLA  N12E03    SF      DSD       1726

@@ -1,0 +1,24 @@
+:Product: 20130810events.txt
+:Created: 2013 Aug 13 0332 UT
+:Date: 2013 08 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Aug 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9680      A0014   ////     A1623  HOL  2   DSF  N20E43    5                     
+
+9690      A0014   ////     A1623  HOL  2   DSF  N12E52    6                     
+
+9660       0844   0927      1004  G15  5   XRA  1-8A      B4.3    1.8E-03   1810
+
+9710      A0934   ////     A2327  LEA  4   DSF  N13E38    6                     
+
+9670       1216   1227      1235  G15  5   XRA  1-8A      B4.6    4.4E-04   1817
+
+9700       2345   2352      2357  G15  5   XRA  1-8A      C1.4    6.6E-04   1817

@@ -1,0 +1,44 @@
+:Product: 20130313events.txt
+:Created: 2013 Mar 16 0332 UT
+:Date: 2013 03 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Mar 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9480       0000   0004      0411  PAL  G   RBR  410       170                   
+9480       0000   0004      0333  LEA  G   RNS  410       130                   
+9480 +     0000   ////      0658  LEA  C   RSP  025-180   CTM/2                 
+
+9490 +     0133   0143      0146  LEA  G   RBR  1415      1400                  
+
+9500 +     0234   0234      0235  LEA  G   RBR  1415      150                   
+
+9510       0237   0237      0237  PAL  G   RBR  1415      130                   
+
+9540       0414   0434      0439  G15  5   XRA  1-8A      C1.1    1.4E-03   1689
+
+9560       0653   ////      0938  SVI  C   RSP  103-169   CTM/1                 
+
+9550       0806   ////      0806  SVI  C   RSP  027-079   III/1                 
+
+9570       1003   ////      1003  SVI  C   RSP  027-034   III/1                 
+
+9580 +     1217   ////      1217  SVI  C   RSP  027-153   III/1                 
+
+9590       1615   1620      1625  G15  5   XRA  1-8A      C1.4    5.3E-04   1696
+9590       1619   1620      1624  HOL  3   FLA  N05E12    SF      ERU       1696
+
+9600       1932   1941      1944  G15  5   XRA  1-8A      B6.5    4.1E-04   1689
+9600       1941   1941      1945  HOL  3   FLA  S19W47    SF      ERU       1689
+
+9620       2131   ////      2131  CUL  C   RSP  020-050   III/1                 
+
+9610       2333   2340      2350  G15  5   XRA  1-8A      B6.6    5.5E-04   1691
+9610 +     2334   ////      2335  CUL  C   RSP  020-120   III/1                 
+9610       2334   2334      2334  PAL  U   RBR  245       130                   

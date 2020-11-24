@@ -1,0 +1,66 @@
+:Product: 20130412events.txt
+:Created: 2013 Apr 15 0332 UT
+:Date: 2013 04 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Apr 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5630      A0000   ////     A0151  LEA  3   DSF  N06W46    10                1714
+
+5620       0000   ////      0225  PAL  C   RSP  081-180   CTM/1                 
+5620       0029   ////      0228  LEA  C   RSP  025-087   VI/1                  
+
+5640       0402   0414      0422  G15  5   XRA  1-8A      C2.2    1.8E-03   1718
+
+5700       0445   ////      1237  SVI  C   RSP  087-180   CTM/1                 
+
+5650      B0623  U0632     A0641  SVI  3   FLA  S16E16    SF                1721
+5650       0637   0637      0638  SVI  G   RBR  245       180               1721
+
+5770 +     0642   0825      1313  SVI  G   RNS  245       340                   
+
+5660       0650   0653      0714  SVI  3   FLA  S17E17    SF                1721
+
+5670      B0822  U0826     A0838  SVI  3   FLA  S19E25    SF                1722
+
+5680       0850   ////      0917  SVI  U   RSP  025-045   VI/1                  
+
+5690       1011   1012      1021  SVI  3   FLA  N10W05    SF      ERU       1719
+
+5710       1039   ////      1237  SAG  C   RSP  104-180   CTM/1             1718
+5710       1046   1046      1049  SVI  3   FLA  N19W37    SF                1718
+
+5720       1142   1143      1148  SVI  3   FLA  N19W38    SF                1718
+
+5730       1156   1156      1203  SVI  3   FLA  N19W38    SF                1718
+
+5740      B1224  U1225     A1236  SVI  3   FLA  N19W38    SF                1718
+
+5750      B1246  U1246     A1325  SVI  3   FLA  N19W38    SF                1718
+5750 +     1306   ////      1308  SAG  C   RSP  025-041   III/1             1718
+
+5760       1329   ////      1421  SVI  C   RSP  025-078   VI/1              1719
+5760       1418   1419      1420  SVI  3   FLA  N10W01    SF                1719
+
+5780 +     1535   ////      1713  SAG  C   RSP  104-180   CTM/1                 
+
+5980      A1645   ////     A0557  SVI  3   DSF  S26E29    6                     
+
+5790       1703   1724      1751  G15  5   XRA  1-8A      C1.4    3.6E-03   1718
+
+5800       1800   1815      1824  G15  5   XRA  1-8A      C1.1    1.7E-03   1719
+5800       1808   ////      2017  SAG  C   RSP  161-180   CTM/1                 
+
+6000      A1829   ////     A1324  HOL  3   DSF  S24E27    7                     
+
+5810 +     1840   1848      1901  G15  5   XRA  1-8A      C2.1    2.2E-03   1718
+
+5820 +     1952   2038      2046  G15  5   XRA  1-8A      M3.3    2.4E-02   1718
+
+5830       2303   ////      2359  LEA  C   RSP  075-112   CTM/1                 

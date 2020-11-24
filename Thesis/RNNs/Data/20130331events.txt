@@ -1,0 +1,63 @@
+:Product: 20130331events.txt
+:Created: 2013 Apr 03 0332 UT
+:Date: 2013 03 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Mar 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2770       0000   ////      0920  LEA  C   RSP  080-180   CTM/1                 
+
+2700 +     0053   ////      0056  LEA  C   RSP  038-180   III/1                 
+
+2770 +     0058   0058      0058  LEA  G   RBR  245       100                   
+
+2710 +     0204   ////      0207  LEA  C   RSP  025-180   III/1                 
+
+2760 +     0243   0459      0659  LEA  G   RNS  245       350                   
+
+2720       0247   0251      0253  G15  5   XRA  1-8A      B8.2    1.7E-04   1711
+
+2730 +     0255   ////      0529  LEA  C   RSP  025-180   VI/1                  
+
+2780       0454   ////      0751  SVI  C   RSP  076-180   CTM/1                 
+
+2740       0519   ////      0520  SVI  C   RSP  032-180   III/1                 
+2740       0520   0520      0520  SVI  U   RBR  245       520                   
+
+2750       0559   0559      0559  SVI  G   RBR  245       280                   
+
+2790       0646   ////      0646  LEA  C   RSP  074-160   III/1                 
+
+2800       0917   ////      0917  SVI  U   RSP  025-034   III/1                 
+
+2810       1103   ////      1103  SVI  C   RSP  075-135   III/1                 
+
+2820 +     1149   ////      1149  SAG  C   RSP  025-049   III/1                 
+
+2830 +     1232   ////      1233  SVI  C   RSP  025-180   III/2                 
+
+2840 +     1254   ////      1518  SVI  C   RSP  025-180   VI/2                  
+
+2850 +     1514   ////      1516  SAG  C   RSP  025-180   V/2                   
+
+2900 +     1645   ////      2359  PAL  C   RSP  080-180   CTM/1                 
+
+2860 +     1726   ////      1726  SAG  C   RSP  025-180   III/1                 
+
+2870 +     1803   ////      1804  SAG  C   RSP  025-180   III/2                 
+
+2880 +     1846   ////      1847  SAG  C   RSP  025-136   III/2                 
+
+2890 +     1921   ////      1921  PAL  C   RSP  025-056   III/1                 
+
+2910 +     2051   ////      2157  SAG  C   RSP  025-180   VI/1                  
+
+2920 +     2243   ////      2244  PAL  C   RSP  025-180   III/1                 
+
+2930       2248   ////      2359  LEA  C   RSP  074-180   CTM/1                 

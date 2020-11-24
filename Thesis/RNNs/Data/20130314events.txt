@@ -1,0 +1,54 @@
+:Product: 20130314events.txt
+:Created: 2013 Mar 17 0332 UT
+:Date: 2013 03 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Mar 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9630 +     0018   ////      0018  CUL  C   RSP  018-100   III/1                 
+
+9660       0027   ////      0027  CUL  C   RSP  020-057   III/1                 
+
+9670       0042   ////      0042  CUL  C   RSP  018-260   III/3                 
+
+9640       0042   0042      0042  PAL  U   RBR  245       110                   
+9640       0042   ////      0042  PAL  C   RSP  025-180   III/1                 
+
+9820      A0046   ////     A2116  HOL  3   DSF  S32W07    8                     
+
+9680 +     0058   0058      0058  LEA  G   RBR  245       210                   
+
+9700 +     0058   0106      0215  COM  G   RNS  245       150                   
+
+9690       0109   0109      0109  PAL  U   RBR  245       150                   
+
+9710       0545   0554      0602  G15  5   XRA  1-8A      C2.1    1.3E-03   1691
+9710       0550   0551      0559  LEA  3   FLA  N13W27    SF                1691
+
+9720       1026   1033      1045  G15  5   XRA  1-8A      B6.7    6.0E-04   1691
+
+9770 +     1208   ////      1544  SVI  3   DSF  S30W20    11                    
+
+9730       1419   1419      1419  SVI  U   RBR  245       110                   
+
+9740 +     1424   ////      1424  SAG  C   RSP  025-180   III/1                 
+
+9750       1427   1428      1428  SVI  U   RBR  245       120                   
+
+9760       1517   ////      1555  SVI  C   RSP  102-134   CTM/1                 
+
+9780       1825   1825      1825  PAL  U   RBR  245       2400                  
+
+9790       1929   1944      1952  G15  5   XRA  1-8A      B6.8    8.4E-04   1691
+
+9800       1959   2000      2000  PAL  U   RBR  245       1500                  
+
+9810       2034   2034      2034  PAL  U   RBR  245       220                   
+
+9830       2220   2221      2221  PAL  U   RBR  245       2400                  
