@@ -1,0 +1,87 @@
+:Product: 20151219events.txt
+:Created: 2015 Dec 22 0357 UT
+:Date: 2015 12 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Dec 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6720       0025   ////      0642  LEA  3   DSF  S26E30    16                    
+
+6590       0101   ////      0325  LEA  C   RSP  077-180   CTM/1                 
+
+6560 +     0116   0116      0117  LEA  G   RBR  245       290                   
+
+6570       0139   ////      0139  LEA  C   RSP  025-086   III/1                 
+
+6580 +     0159   0204      0208  G15  5   XRA  1-8A      C3.1    1.1E-03   2468
+6580       0159   ////      0206  LEA  C   RSP  025-180   V/2               2468
+6580       0159   ////      0204  PAL  C   RSP  025-180   III/2             2468
+6580       0200   0201      0202  LEA  G   RBR  245       830               2468
+6580       0201   0204      0211  LEA  3   FLA  S18W39    SF      DSD       2468
+
+6600       0213   ////      0214  LEA  C   RSP  032-134   III/1                 
+
+6610       0255   ////      0259  LEA  C   RSP  025-142   III/2                 
+6610       0256   0256      0256  LEA  G   RBR  1415      160                   
+
+6730       0331   ////      0848  LEA  3   DSF  S35E46    27                    
+
+6620       0344   ////      0344  LEA  C   RSP  028-074   III/1                 
+
+6630       0441   ////      0441  LEA  C   RSP  041-099   III/1                 
+
+6830       0443   0455      0507  G15  5   XRA  1-8A      B8.3    9.9E-04   2468
+
+6640       0521   ////      0523  LEA  C   RSP  025-144   III/1                 
+
+6650 +     0649   ////      0651  LEA  C   RSP  025-180   III/2                 
+
+6710       0707   0725      0725  LEA  G   RNS  245       270                   
+
+6660       0711   0711      0711  SVI  G   RBR  245       120                   
+
+6670       0910   ////      0910  LEA  C   RSP  034-075   III/1                 
+
+6680       1024   1024      1024  LEA  G   RBR  245       110                   
+
+6690       1034   1034      1034  LEA  G   RBR  245       200                   
+
+6700 +     1040   1051      1101  G15  5   XRA  1-8A      C1.6    1.5E-03   2470
+6700       1042   1042      1042  SVI  G   RBR  245       130                   
+
+6750       1238   1326      1357  G15  5   XRA  1-8A      C1.7    5.2E-03       
+6750       1254   ////      1255  SVI  C   RSP  025-180   III/1                 
+6750 +     1257   ////      1303  SAG  C   RSP  048-180   II/2    1098          
+6750 +     1300   1303      1305  SVI  G   RBR  410       360                   
+6750       1305   1305      1305  SVI  G   RBR  245       100                   
+
+6760       1309   1309      1309  SVI  G   RBR  245       100                   
+
+6780 +     1428   1428      1428  SAG  G   RBR  245       130                   
+
+6790       1436   1436      1436  SAG  G   RBR  245       100                   
+
+6800       1447   1447      1447  SVI  G   RBR  245       100                   
+
+6810 +     1449   1449      1450  SAG  G   RBR  245       140                   
+
+6820       1459   1459      1459  SVI  G   RBR  245       140                   
+6820       1459   1459      1459  SAG  G   RNS  245       120                   
+
+6840       1658   1710      1724  G15  5   XRA  1-8A      C1.1    1.5E-03   2470
+
+6850 +     2010   2010      2010  PAL  G   RBR  245       190                   
+
+6860 +     2027   2027      2027  SAG  G   RBR  245       120                   
+
+6870 +     2035   2035      2036  PAL  G   RBR  245       390                   
+
+6880       2043   2043      2043  PAL  G   RBR  245       130                   
+
+6890 +     2149   2228      2308  G15  5   XRA  1-8A      C4.5    1.6E-02   2470

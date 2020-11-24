@@ -1,0 +1,32 @@
+:Product: 20151213events.txt
+:Created: 2015 Dec 16 0357 UT
+:Date: 2015 12 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Dec 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5300       0040   ////      0044  LEA  C   RSP  025-158   III/1                 
+
+5310       0223   ////      0229  LEA  C   RSP  025-171   III/1                 
+
+5320       0423   ////      0426  LEA  C   RSP  025-138   III/1                 
+
+5350       0825   1034      1128  G15  5   XRA  1-8A      C5.3    2.7E-02   2468
+
+5330 +     0837   0838      0840  LEA  3   FLA  S14E36    SF      DSD       2468
+
+5340       0928   ////      0956  LEA  C   RSP  072-116   CTM/1             2468
+
+5350       0940  U1023      1247  SVI  3   FLA  S14E36    1F      ERU       2468
+
+5360       1110   1110      1118  SVI  3   FLA  N21E63    SF      ERU       2469
+
+5370       1849   ////      1853  SAG  C   RSP  025-145   III/1                 
+
+5380 +     2142   2146      2151  G15  5   XRA  1-8A      B7.6    3.0E-04   2463

@@ -1,0 +1,68 @@
+:Product: 20151103events.txt
+:Created: 2015 Nov 06 0357 UT
+:Date: 2015 11 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Nov 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1900       0000   ////      1019  LEA  C   RSP  083-180   CTM/1                 
+
+1890 +     0039   0053      0112  G15  5   XRA  1-8A      C2.3    3.5E-03   2443
+1890       0042   0046      0125  LEA  3   FLA  N06E17    SF      ERU       2443
+
+2100       0144   ////      0144  CUL  C   RSP  020-057   III/1                 
+
+2110       0419   ////      0419  CUL  C   RSP  020-050   III/1                 
+
+1990       0554   ////      1532  SVI  C   RSP  075-170   CTM/1                 
+
+1910       0644   0645      0646  SVI  3   FLA  N07E16    SF                2443
+
+1920      B0701  U0702     A0703  SVI  3   FLA  N07E16    SF                2443
+
+1930      B0959  U0959     A1009  SVI  3   FLA  N16W37    SF                2441
+
+1950       1126  U1131      1137  SVI  3   FLA  N15W59    SF                2445
+
+1960       1157   1206      1209  SVI  3   FLA  N07E15    SF                2443
+
+1970       1214  U1330      1416  SVI  3   FLA  N07E13    SF      ERU       2443
+
+1980 +     1352   1357      1449  HOL  3   FLA  N07E12    SF      DSD       2443
+1980       1355   1400      1404  G15  5   XRA  1-8A      C1.4    7.5E-04   2445
+
+2000       1542   1548      1605  HOL  3   FLA  N17W63    SF      DSD       2445
+2000       1604   ////      1604  SAG  C   RSP  025-082   III/1             2445
+
+2010       1605   1605      1606  SAG  G   RBR  245       230                   
+
+2020       1654   1658      1712  HOL  4   FLA  N17W63    SF      BPT       2445
+2020 +     1654   1700      1705  G15  5   XRA  1-8A      C3.9    1.4E-03   2445
+
+2030       1814   1820      1823  G15  5   XRA  1-8A      B9.4    3.4E-04       
+
+2040 +     1843   1909      1931  G15  5   XRA  1-8A      C5.5    1.2E-02   2443
+2040       1845   1900      1936  HOL  3   FLA  N07E10    SF      ERU       2443
+
+2050       1909   1910      1912  HOL  3   FLA  N17W63    SF      ERU       2445
+
+2060 +     2151   2156      2200  G15  5   XRA  1-8A      B9.8    3.7E-04   2443
+2060       2152   2155      2205  HOL  3   FLA  N07E10    SF                2443
+
+2070 +     2217   2217      2218  LEA  G   RBR  245       160                   
+2070 +     2217   ////      2218  LEA  C   RSP  036-180   III/2                 
+
+2080       2229   ////      2234  LEA  C   RSP  025-180   III/1             2445
+2080       2230   2232      2235  HOL  3   FLA  N17W63    SF      ERU       2445
+
+2120       2305   ////      2345  LEA  C   RSP  025-180   VI/1                  
+
+2090 +     2329   2335      2339  G15  5   XRA  1-8A      C1.7    7.0E-04   2445
+2090 +     2332   2338      2344  HOL  3   FLA  N17W63    SF      ERU       2445
+2090 +     2333   2333      2333  LEA  G   RBR  245       520               2445

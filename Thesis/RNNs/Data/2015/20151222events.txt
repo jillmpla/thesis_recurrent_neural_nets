@@ -1,0 +1,105 @@
+:Product: 20151222events.txt
+:Created: 2015 Dec 25 0357 UT
+:Date: 2015 12 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Dec 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7180 +     0026   ////      0028  CUL  C   RSP  018-350   III/3             2473
+7180       0026   ////      0027  LEA  C   RSP  025-180   V/2               2473
+
+7240 +     0205   ////      0205  CUL  C   RSP  018-090   III/3                 
+
+7550       0224   ////      0225  CUL  C   RSP  020-090   III/1                 
+
+7250       0224   ////      0231  LEA  U   RSP  025-180   V/2                   
+7250       0228   ////      0232  CUL  C   RSP  018-090   III/2                 
+
+7260 +     0315   0334      0348  G15  5   XRA  1-8A      M1.6    2.1E-02   2473
+7260 +     0330   0341      0341  LEA  3   FLA  S23E75    SF      DSD       2473
+7260       0330   ////      0506  LEA  C   RSP  025-180   VI/2              2473
+7260 +     0342   0343      0343  LEA  G   RBR  410       360               2473
+7260 +     0343   0343      0343  LEA  G   RBR  245       120               2473
+
+7270       0401   0401      0401  LEA  U   RBR  245       330                   
+
+7280       0421   0426      0428  LEA  3   FLA  S23E76    SF                2473
+7280       0423   ////      0423  CUL  C   RSP  018-057   III/3             2473
+7280       0423   0423      0423  LEA  G   RBR  245       400               2473
+
+7290       0438   0439      0440  LEA  3   FLA  S23E76    SF      DSD       2473
+
+7300       0501   0505      0508  LEA  3   FLA  S22E75    SF      DSD       2473
+
+7310       0508   0509      0513  LEA  3   FLA  S22E75    SF      DSD       2473
+
+7320       0540   ////      0635  LEA  C   RSP  025-180   VI/1              2473
+7320       0601   0601      0601  LEA  3   FLA  S20E74    SF      DSD       2473
+7320 +     0613   ////      0614  CUL  C   RSP  018-057   III/3             2473
+
+7330      B0736  U0737     A0742  SVI  2   FLA  S20E73    SF                2473
+
+7340       0743   0748      0848  SVI  3   FLA  S20E73    SF      ERU       2473
+7340 +     0818   ////      0824  SVI  C   RSP  025-169   III/2             2473
+
+7350 +     0901   ////      1036  SVI  C   RSP  025-180   VI/2              2473
+7350      B0936  U0939     A1028  SVI  3   FLA  S20E73    SF      ERU       2473
+7350 +     0955   0955      0955  SVI  G   RBR  245       850               2473
+
+7360       1008   ////      1009  SVI  C   RSP  025-180   III/2                 
+7360 +     1008   1008      1008  SVI  G   RBR  245       170                   
+
+7370 +     1011   1012      1015  SVI  3   FLA  N04E73    SF                2472
+7370       1011   ////      1013  SVI  C   RSP  025-180   III/2             2472
+7370 +     1011   1012      1013  SVI  G   RBR  245       1100              2472
+
+7380       1018   1018      1018  LEA  U   RBR  245       140                   
+
+7390      B1032  U1035     A1042  SVI  3   FLA  S20E71    SF      ERU       2473
+
+7400      B1043  U1054     A1113  SVI  3   FLA  S20E71    SF      ERU       2473
+
+7460      B1054  U1054     A1110  SVI  3   FLA  N06W44    SF                2474
+
+7410      B1115  U1230     A1428  SVI  3   FLA  S21E67    SF      ERU       2473
+7410       1136   1138      1139  SVI  G   RBR  245       960               2473
+7410       1136   ////      1139  SVI  C   RSP  025-171   III/1             2473
+
+7420       1225   ////      1234  SVI  C   RSP  025-080   III/1                 
+
+7470       1254   ////      1513  SVI  C   RSP  075-171   CTM/1                 
+
+7430 +     1301   ////      1302  SVI  C   RSP  025-171   III/2                 
+7430 +     1301   1301      1301  SVI  G   RBR  245       260                   
+
+7440       1305   1311      1405  SVI  3   FLA  N07E74    SN      ERU       2472
+7440 +     1306   1338      1353  G15  5   XRA  1-8A      C6.3    1.0E-02   2472
+7440 +     1312   ////      1314  SVI  C   RSP  025-180   III/2             2472
+7440 +     1312   1313      1313  SVI  G   RBR  245       140               2472
+
+7480       1417   1441      1446  G15  5   XRA  1-8A      C4.1    5.2E-03   2473
+
+7450 +     1420   ////      1420  SAG  C   RSP  025-142   III/1                 
+
+7770      A1442   ////     A0809  SVI  3   DSF  N15W49    11                    
+
+7490      B1448   1451      1515  HOL  2   FLA  S22E77    1F                2473
+
+7500       1618   1618      1618  SAG  G   RBR  245       240                   
+7500       1618   ////      1618  SAG  C   RSP  025-180   III/1                 
+
+7510       1642   1643      1643  SAG  G   RBR  245       190                   
+
+7520       1719   1719      1729  HOL  2   FLA  S23E71    SF                2473
+
+7530       1817   1832      1840  G15  5   XRA  1-8A      C1.4    1.5E-03   2473
+
+7540 +     2014  U2014      2014  SAG  G   RBR  245       140                   
+
+7560 +     2331   2331      2331  PAL  G   RBR  245       3100                  

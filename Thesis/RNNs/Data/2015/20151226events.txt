@@ -1,0 +1,58 @@
+:Product: 20151226events.txt
+:Created: 2015 Dec 29 0357 UT
+:Date: 2015 12 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Dec 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8440       0000   ////      0919  LEA  C   RSP  129-180   CTM/1                 
+
+8390 +     0025   ////      0027  LEA  C   RSP  025-135   III/2                 
+
+8400 +     0144   0153      0232  G15  5   XRA  1-8A      C1.6    3.7E-03   2473
+8400       0148   0234      0235  LEA  3   FLA  S20E21    SF                2473
+8400       0222   ////      0429  LEA  C   RSP  025-138   VI/1              2473
+
+8410 +     0501   0510      0523  G15  5   XRA  1-8A      C7.8    5.5E-03   2473
+8410       0506   ////      0509  LEA  C   RSP  025-180   III/2                 
+
+8420       0539   ////      0542  LEA  C   RSP  029-180   III/2             2473
+8420       0540   0543      0546  LEA  3   FLA  S26E23    SF                2473
+
+8450       0640   ////      0844  SVI  C   RSP  103-171   CTM/1                 
+
+8430 +     0704   ////      0706  LEA  C   RSP  027-171   III/2                 
+
+8460       0812   0812      0812  SVI  G   RBR  245       120                   
+
+8470 +    B0839  U0846     A0901  SVI  3   FLA  S19E17    SF                2473
+
+8500      B0926  U1015     A1124  SVI  3   FLA  S20E18    SF      ERU       2473
+
+8490 +     0947   ////      0947  LEA  C   RSP  033-180   III/2                 
+
+8480 +     0948   0953      0959  G15  5   XRA  1-8A      B8.3    3.9E-04   2473
+8480       0950   0953      0954  LEA  3   FLA  S20E18    SF                2473
+
+8510      B1126  U1207     A1318  SVI  2   FLA  S21E18    SF      ERU       2473
+8510       1154   ////      1206  SVI  C   RSP  030-171   VI/1              2473
+8510 +     1155   1203      1216  G15  5   XRA  1-8A      C1.2    1.2E-03   2473
+
+8520       1416   ////      1432  SVI  C   RSP  102-171   CTM/1                 
+
+8530 +     1510   1526      1543  G15  5   XRA  1-8A      C4.1    4.8E-03   2473
+
+8540       1602   ////      1603  SAG  C   RSP  025-180   III/1                 
+
+8550 +     1902   ////      1905  SAG  C   RSP  025-180   III/1                 
+
+8560       2103   2103      2103  PAL  G   RBR  245       150                   
+
+8570       2330   ////      2342  LEA  C   RSP  025-180   VI/1                  
+8570       2338   2338      2338  PAL  U   RBR  245       260                   

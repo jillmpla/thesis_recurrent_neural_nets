@@ -1,0 +1,83 @@
+:Product: 20151223events.txt
+:Created: 2015 Dec 26 0357 UT
+:Date: 2015 12 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Dec 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7570 +     0023   0040      0052  G15  5   XRA  1-8A      M4.7    4.9E-02   2473
+7570       0026   0037      0107  LEA  2   FLA  S22E63    1F                2473
+7570 +     0034   0040      0049  LEA  G   RBR  245       500               2473
+7570 +     0034   0035      0035  LEA  G   RBR  8800      150               2473
+7570 +     0035   0035      0035  LEA  G   RBR  4995      130               2473
+7570 +     0036   ////      0049  PAL  C   RSP  025-180   II/2    1318      2473
+7570       0040   0041      0042  PAL  G   RBR  410       250               2473
+7570 +     0046   ////      0110  PAL  C   RSP  025-081   IV/2              2473
+
+7800       0054   ////      0054  CUL  C   RSP  023-057   III/1                 
+
+7810       0056   ////      0057  CUL  C   RSP  020-00*   III/2                 
+
+7580       0056   0057      0115  PAL  U   RBR  15400     160                   
+7580 +     0056   0057      0058  LEA  G   RBR  245       300                   
+7580       0056   0057      0058  PAL  U   RBR  8800      120                   
+7580 +     0056   0057      0058  LEA  G   RBR  1415      310                   
+7580 +     0056   ////      0057  LEA  C   RSP  025-180   III/2                 
+7580 +     0057   0057      0057  LEA  G   RBR  610       190                   
+7580 +     0057   0057      0058  LEA  G   RBR  2695      140                   
+
+7590       0112   0114      0119  LEA  3   FLA  S22E63    SF                2473
+
+7600 +     0157   0157      0158  LEA  G   RBR  610       110                   
+
+7610 +     0203   0207      0211  LEA  G   RBR  610       130                   
+7610 +     0205   0207      0211  LEA  G   RBR  2695      250                   
+
+7620 +     0214   0217      0218  LEA  G   RBR  610       160                   
+7620       0223   0223      0223  PAL  G   RBR  410       100                   
+
+7820       0244   ////      0245  CUL  C   RSP  018-040   III/1                 
+
+7640 +     0402   0414      0437  G15  5   XRA  1-8A      C7.5    1.2E-02   2472
+7640       0405   0406      0423  LEA  3   FLA  N05E65    SF                2472
+
+7650       0519   ////      0519  LEA  C   RSP  029-055   III/1                 
+
+7660      B0740  U0740     A0750  SVI  2   FLA  N04E59    SF      ERU       2472
+
+7670      B0806  U0816     A0909  SVI  3   FLA  N07E63    SF      ERU       2472
+
+7790      B0901  U0910     A0923  SVI  3   FLA  S20E59    SF      ERU       2473
+
+7680 +     0918   ////      0919  SVI  C   RSP  051-180   III/1                 
+7680 +     0919   0919      0919  SVI  G   RBR  245       140                   
+
+7690      B0926  U0930     A0935  SVI  3   FLA  S20E60    SF      ERU       2473
+
+7700      B0940  U0940     A0945  SVI  3   FLA  S20E60    SF      ERU       2473
+
+7710       0954   1001      1005  SVI  3   FLA  S20E58    SF      ERU       2473
+
+7890       1022   ////      0232  LEA  3   DSF  S09E49    10                    
+
+7720       1036   1036      1042  SVI  3   FLA  S20E57    SF      ERU       2473
+
+7730       1048   1048      1106  SVI  3   FLA  S20E57    SF      ERU       2473
+
+7740       1124   1124      1127  SVI  3   FLA  N05E60    SF      ERU       2472
+
+7750       1255   ////      1255  SVI  C   RSP  025-134   III/1                 
+
+7760       1257  U1308     A1320  SVI  3   FLA  S20E57    SF                2473
+
+7990      A1412   ////     A0713  SVI  3   DSF  S12E57    9                     
+
+7780       1737   1744      1752  G15  5   XRA  1-8A      C1.3    9.5E-04   2473
+
+8070      A2250   ////     A1513  HOL  2   DSF  S10E41    10                    

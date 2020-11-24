@@ -1,0 +1,80 @@
+:Product: 20151215events.txt
+:Created: 2015 Dec 18 0357 UT
+:Date: 2015 12 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Dec 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5670       0011   ////      0150  PAL  C   RSP  025-111   VI/2                  
+5670       0027   ////      0029  CUL  C   RSP  018-280   III/2                 
+
+5660 +     0027   ////      0034  LEA  C   RSP  025-138   III/1                 
+5660       0028   0028      0028  LEA  U   RBR  245       150                   
+
+5860       0204   ////      0210  CUL  C   RSP  018-080   III/1                 
+
+5680       0204   ////      0209  LEA  C   RSP  025-143   III/1                 
+
+5870       0319   ////      0320  CUL  C   RSP  018-057   III/1                 
+
+5880       0413   ////      0418  CUL  C   RSP  018-057   III/1                 
+
+5890       0627   ////      0629  CUL  C   RSP  018-057   III/2                 
+
+5690       0627   ////      0627  LEA  U   RSP  025-059   III/1                 
+
+5830      A1035   ////     A2209  LEA  3   DSF  S48E50    20                    
+
+5840      A1035   ////     A2209  LEA  3   DSF  N37E34    30                    
+
+5700       1136   1136      1136  SVI  G   RBR  245       130                   
+
+5710       1232   ////      1248  SVI  C   RSP  025-180   VI/1                  
+
+5720 +     1347   1347      1347  SAG  G   RBR  245       170                   
+5720 +     1347   ////      1347  SVI  C   RSP  078-180   III/2                 
+
+5730       1414   ////      1414  SVI  C   RSP  025-079   III/1                 
+
+5740 +     1423   1423      1423  SAG  G   RBR  245       100                   
+
+5750       1426   ////      1511  SVI  C   RSP  025-180   VI/1                  
+5750       1431   ////      1432  SAG  C   RSP  025-180   III/1                 
+5750 +     1451   1451      1451  SAG  G   RBR  245       120                   
+
+5760       1622   1622      1622  SAG  G   RBR  245       140                   
+
+5770       1634   1634      1634  SAG  G   RBR  245       100                   
+
+5780       1901   ////      1905  PAL  C   RSP  025-107   III/1                 
+
+5790       2030   2034      2042  G15  5   XRA  1-8A      B5.9    3.2E-04   2468
+5790 +     2036   ////      2045  CUL  C   RSP  018-057   III/2                 
+
+5900       2051   ////      2051  CUL  C   RSP  018-045   III/1                 
+
+5800       2100   2102      2110  HOL  3   FLA  S15E07    SF      ERU       2468
+
+5810       2112   2112      2112  PAL  U   RBR  245       150                   
+
+5910       2120   ////      2120  CUL  C   RSP  018-035   III/1                 
+
+5820       2133   2200      2225  G15  5   XRA  1-8A      C1.2    3.0E-03   2468
+5820 +     2144   2155      2239  HOL  3   FLA  S15E02    SF      ERU       2468
+5820       2216   ////      2220  LEA  C   RSP  104-180   III/1             2468
+
+5850       2242   2242      2243  LEA  U   RBR  245       150                   
+
+5920       2302   ////      2302  CUL  C   RSP  018-040   III/1                 
+
+5930       2333   2333      2333  LEA  U   RBR  245       230                   
+
+5940       2334   2335      2335  PAL  G   RBR  245       200                   
+
+5950       2342   2342      2342  PAL  G   RBR  245       100                   

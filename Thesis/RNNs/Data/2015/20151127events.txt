@@ -1,0 +1,14 @@
+:Product: 20151127events.txt
+:Created: 2015 Nov 30 0357 UT
+:Date: 2015 11 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Nov 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4050       1335   1342      1348  G15  5   XRA  1-8A      B4.2    2.5E-04   2459

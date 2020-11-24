@@ -1,0 +1,31 @@
+:Product: 20151220events.txt
+:Created: 2015 Dec 23 0357 UT
+:Date: 2015 12 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Dec 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6910       0357   0513      0555  G15  5   XRA  1-8A      C3.8    1.6E-02   2472
+
+6900       0620   0620      0621  LEA  G   RBR  245       220                   
+
+6920       0723   0756      0824  G15  5   XRA  1-8A      C1.2    4.2E-03   2470
+
+6930 +     1026   1038      1047  G15  5   XRA  1-8A      C1.2    1.4E-03   2470
+
+6940       1117   1134      1157  G15  5   XRA  1-8A      C1.6    2.9E-03   2472
+
+6950 +     1922   1944      1958  G15  5   XRA  1-8A      C2.4    4.0E-03   2468
+6950       1927   1938      1948  HOL  3   FLA  S13W63    SF                2468
+
+6960 +     2141   2150      2208  G15  5   XRA  1-8A      C2.3    2.8E-03   2472
+
+6970 +     2233   2244      2256  G15  5   XRA  1-8A      C6.0    5.8E-03   2472
+
+6980 +     2348   2358      0005  G15  5   XRA  1-8A      C5.4    4.2E-03   2472

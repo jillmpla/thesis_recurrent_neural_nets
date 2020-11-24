@@ -1,0 +1,18 @@
+:Product: 20151125events.txt
+:Created: 2015 Nov 28 0357 UT
+:Date: 2015 11 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Nov 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4000       0728   0827      0846  G15  5   XRA  1-8A      C1.9    5.8E-03       
+
+4010       1028   1043      1050  G15  5   XRA  1-8A      B7.9    9.5E-04       
+
+4020       2209   2220      2239  G15  5   XRA  1-8A      B5.6    8.6E-04       

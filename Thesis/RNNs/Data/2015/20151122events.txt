@@ -1,0 +1,71 @@
+:Product: 20151122events.txt
+:Created: 2015 Nov 25 0357 UT
+:Date: 2015 11 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Nov 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3620      B0013   0013      0024  LEA  2   FLA  N13E55    SF                2457
+
+3640       0100   0128      0257  LEA  2   FLA  N13E53    SF      DSD       2457
+
+3630 +     0137   0210      0227  G15  5   XRA  1-8A      C5.1    1.1E-02   2454
+3630       0139   0154      0244  LEA  2   FLA  N14W39    SF      ERU       2454
+
+3650 +     0317   0321      0325  G15  5   XRA  1-8A      C1.2    4.3E-04   2454
+
+3660       0412   0413      0417  LEA  3   FLA  N13E52    SF      DSD       2457
+
+3670 +     0531   0538      0541  G15  5   XRA  1-8A      C5.6    1.8E-03   2454
+3670       0533   0538      0558  LEA  3   FLA  N15W40    SF      DSD       2454
+
+3760       0633   ////      0753  LEA  3   DSF  S16E24    27                    
+
+3770      B0638  U0647     A0655  SVI  3   FLA  N13W43    SF                2454
+
+3680      B0639  U0639     A0656  SVI  3   FLA  N15E50    SF                2457
+
+3690       0658   0659      0714  LEA  2   FLA  N13E49    SF                2457
+
+3700       0748   0749      0755  LEA  2   FLA  N13E49    SF                2457
+
+3710       0853   0856      0905  LEA  2   FLA  N13E49    SF                2457
+
+3720       0935   0935      0939  LEA  3   FLA  N13E47    SF                2457
+
+3730 +     0954   ////      0954  SVI  C   RSP  025-180   III/1                 
+
+3740       1005   ////      1005  SVI  U   RSP  031-080   III/1                 
+
+3750 +     1017   1023      1029  G15  5   XRA  1-8A      C2.4    1.0E-03   2457
+
+3780       1240   1245      1249  G15  5   XRA  1-8A      C1.4    5.4E-04   2454
+
+3790       1348   1351      1356  G15  5   XRA  1-8A      B7.3    2.4E-04   2457
+
+3800       1459   1514      1523  HOL  2   FLA  N14E43    SF      ERU       2457
+
+3810       1541   1542      1549  HOL  3   FLA  N13E45    SF      ERU       2457
+
+3820       1631   1657      1715  G15  5   XRA  1-8A      C2.0    4.7E-03   2454
+3820 +     1635   1654      1724  HOL  3   FLA  N11W44    SF      ERU       2454
+
+3880       1639   1641      1642  HOL  2   FLA  N13E44    SF      ERU       2457
+
+3890       1747   1755      1855  HOL  3   FLA  N12E34    SF      ERU       2457
+
+3840 +     1841   1845      1848  G15  5   XRA  1-8A      C1.6    4.4E-04   2454
+3840       1843   1900      1909  HOL  3   FLA  N16W48    SF      ERU       2454
+
+3850 +     1857   1900      1905  G15  5   XRA  1-8A      C1.3    4.2E-04   2454
+
+3870 +     2239   2246      2249  G15  5   XRA  1-8A      C2.6    8.7E-04   2454
+3870 +     2241   2245      2257  HOL  3   FLA  N15W50    SF                2454
+
+3900       2305   ////      2305  CUL  C   RSP  020-057   III/1                 

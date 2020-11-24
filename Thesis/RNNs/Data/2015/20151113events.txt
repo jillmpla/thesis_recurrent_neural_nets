@@ -1,0 +1,22 @@
+:Product: 20151113events.txt
+:Created: 2015 Nov 16 0357 UT
+:Date: 2015 11 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Nov 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3140 +     0120   0128      0136  G15  5   XRA  1-8A      C1.2    8.3E-04   2452
+3140       0123   0124      0133  LEA  3   FLA  S17E48    SF                    
+3140       0123   ////      0128  LEA  C   RSP  028-096   III/1                 
+
+3150       0518   0518      0518  LEA  U   RBR  245       270                   
+
+3160 +     0616   ////      0616  LEA  C   RSP  025-108   III/1                 
+
+3170       1600   1603      1608  HOL  3   FLA  S16E39    SF      ERU           

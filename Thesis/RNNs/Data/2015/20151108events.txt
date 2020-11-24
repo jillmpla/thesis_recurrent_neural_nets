@@ -1,0 +1,16 @@
+:Product: 20151108events.txt
+:Created: 2015 Nov 11 0357 UT
+:Date: 2015 11 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Nov 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2680 +     0232   0235      0238  G15  5   XRA  1-8A      B5.6    1.2E-04   2449
+
+2720      A1449   ////     A0625  SVI  3   DSF  N02E48    9                     

@@ -1,0 +1,38 @@
+:Product: 20151204events.txt
+:Created: 2015 Dec 07 0357 UT
+:Date: 2015 12 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Dec 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4390       0237   0248      0250  G15  5   XRA  1-8A      B5.0    3.6E-04   2458
+
+4400 +     0526   0534      0545  G15  5   XRA  1-8A      C1.0    8.3E-04   2463
+
+4410 +     0715   ////      0715  LEA  C   RSP  060-083   III/1                 
+
+4420       1045   ////      1050  SVI  C   RSP  025-171   III/2                 
+
+4430       1423   1436      1451  G15  5   XRA  1-8A      B5.9    8.8E-04   2463
+4430 +     1433   ////      1434  SVI  C   RSP  025-171   III/1                 
+
+4440       1653   1710      1738  G15  5   XRA  1-8A      C4.0    9.3E-05   2462
+4440       1653   1702      1746  HOL  3   FLA  N09E58    SF      ERU       2462
+
+4450 +     1927   1930      1932  G15  5   XRA  1-8A      B5.6    9.3E-05   2463
+4450       1929   1929      1933  HOL  3   FLA  S10E67    SF                2463
+
+4460       2038   2047      2053  HOL  3   FLA  S10E67    SF                2463
+
+4470       2113   2113      2116  HOL  3   FLA  S10E65    SF                2463
+
+4480 +     2256   2302      2305  G15  5   XRA  1-8A      B7.7    2.5E-04   2463
+4480       2301   2301      2307  HOL  3   FLA  S10E64    SF                2463
+
+4490       2341   2341      2344  LEA  3   FLA  S10E66    SF                2463

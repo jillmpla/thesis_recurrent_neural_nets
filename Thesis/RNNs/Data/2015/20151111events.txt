@@ -1,0 +1,39 @@
+:Product: 20151111events.txt
+:Created: 2015 Nov 14 0357 UT
+:Date: 2015 11 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Nov 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2960       0000   ////      0011  LEA  C   RSP  025-088   VI/1                  
+
+2940       0001   0002      0003  LEA  G   RBR  610       130                   
+
+2960       0011   ////      0011  CUL  C   RSP  018-057   III/1                 
+
+2970       0011   0011      0012  LEA  G   RBR  610       110                   
+
+2980       0017   0017      0018  LEA  G   RBR  610       110                   
+
+3050       0056   ////      0058  CUL  C   RSP  018-440   III/1                 
+
+2990       0057   ////      0058  LEA  C   RSP  027-088   III/1                 
+
+3000 +     0232   ////      0233  CUL  C   RSP  018-090   III/2                 
+
+3010 +     0318   ////      0319  CUL  C   RSP  018-090   III/3                 
+
+3060       0501   ////      0502  CUL  C   RSP  018-057   III/1                 
+
+3020 +     0656   ////      0658  LEA  C   RSP  025-144   III/1                 
+3020       0657   ////      0721  SVI  C   RSP  025-131   VI/1                  
+
+3030       0730   0730      0734  SVI  3   FLA  N07W03    SF                2448
+
+3040 +     1153   1158      1206  G15  5   XRA  1-8A      B6.3    3.8E-04   2443

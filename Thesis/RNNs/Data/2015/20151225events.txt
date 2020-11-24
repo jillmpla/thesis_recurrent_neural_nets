@@ -1,0 +1,51 @@
+:Product: 20151225events.txt
+:Created: 2015 Dec 28 0357 UT
+:Date: 2015 12 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Dec 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8210       0319   0319      0319  PAL  G   RBR  245       110                   
+
+8220       0324   ////      0400  LEA  C   RSP  029-097   VI/1                  
+
+8280       0405   0517      0530  G15  5   XRA  1-8A      C1.5    4.5E-03   2473
+
+8230       0734   ////      0750  SVI  C   RSP  120-180   CTM/1                 
+
+8240       0829   ////      0830  LEA  C   RSP  035-060   III/1                 
+
+8250       0910   0913      0919  SVI  3   FLA  N07E36    SF      ERU       2472
+
+8270       0920   0938      1001  G15  5   XRA  1-8A      C2.0    4.6E-03   2473
+8270       0923  U0955     A1018  SVI  3   FLA  S21E33    SF      ERU       2473
+
+8290       1010   ////      1320  SVI  C   RSP  100-180   CTM/1                 
+
+8300       1233   1245      1304  G15  5   XRA  1-8A      C1.0    1.9E-03   2473
+
+8310       1307   1314      1325  G15  5   XRA  1-8A      C1.1    1.2E-03   2473
+
+8320       1407   ////      1432  SVI  C   RSP  105-180   CTM/1                 
+
+8330 +     1659   1729      1749  G15  5   XRA  1-8A      C6.9    1.2E-02   2472
+8330       1714   ////      1758  SAG  C   RSP  025-180   VI/1                  
+
+8340       1822   1822      1822  SAG  G   RBR  245       100                   
+
+8350 +     1835   1835      1835  SAG  G   RBR  245       140                   
+
+8360 +     1945   ////      1954  PAL  C   RSP  025-075   III/1                 
+
+8370       2241   ////      2359  LEA  C   RSP  101-180   CTM/1             2473
+
+8380       2241   ////      2359  LEA  C   RSP  101-180   CTM/1                 
+
+8370 +     2248   2300      2314  G15  5   XRA  1-8A      C3.0    3.4E-03   2473
+8370       2250   2300      2334  LEA  3   FLA  S21E23    SF      ERU       2473

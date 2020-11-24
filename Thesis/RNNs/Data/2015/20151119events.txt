@@ -1,0 +1,22 @@
+:Product: 20151119events.txt
+:Created: 2015 Nov 22 0357 UT
+:Date: 2015 11 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Nov 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3380       0505   ////      0505  LEA  U   RSP  025-075   III/1                 
+
+3390 +     0744   0748      0753  G15  5   XRA  1-8A      B8.0    3.1E-04   2457
+
+3410       0958   ////      0959  LEA  C   RSP  025-079   III/1                 
+
+3420       1907   1907      1908  PAL  G   RBR  245       570                   
+
+3430 +     1908   ////      1909  PAL  C   RSP  025-058   III/2                 

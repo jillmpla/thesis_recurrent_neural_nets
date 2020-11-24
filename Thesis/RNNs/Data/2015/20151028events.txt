@@ -1,0 +1,88 @@
+:Product: 20151028events.txt
+:Created: 2015 Oct 31 0357 UT
+:Date: 2015 10 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Oct 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9930       0000   ////      0944  LEA  C   RSP  071-161   CTM/1                 
+
+9840       0009   ////      0348  PAL  C   RSP  078-180   CTM/1                 
+9840 +     0050   0050      0050  LEA  U   RBR  245       240                   
+
+9850       0118   0118      0118  LEA  U   RBR  245       120                   
+9850       0118   ////      0119  LEA  C   RSP  028-180   III/1                 
+
+ 120       0119   ////      0120  CUL  C   RSP  018-057   III/1                 
+
+ 130       0204   ////      0205  CUL  C   RSP  020-057   III/1                 
+
+9860       0204   ////      0205  LEA  C   RSP  029-180   III/1                 
+
+9870 +     0329   ////      0330  CUL  C   RSP  018-057   III/2                 
+
+9880       0330   0330      0330  LEA  U   RBR  245       150                   
+
+9940       0336   ////      0941  LEA  C   RSP  027-127   VI/1                  
+9940       0352   ////      0352  CUL  C   RSP  020-057   III/1                 
+
+9890       0400   0400      0400  LEA  U   RBR  245       280                   
+
+ 140       0440   ////      0440  CUL  C   RSP  018-057   III/1                 
+
+9950       0549   ////      0647  SVI  C   RSP  025-180   VI/1                  
+9950 +     0550   ////      0550  CUL  C   RSP  018-057   III/3                 
+
+9920       0553   0606      0623  G15  5   XRA  1-8A      C1.2    1.9E-03   2437
+9920 +     0622   ////      0626  CUL  C   RSP  018-300   III/3                 
+
+9900 +     0622   ////      0625  LEA  C   RSP  025-180   III/2                 
+9900 +     0623   0624      0624  LEA  U   RBR  245       510                   
+
+9910       0628   0628      0628  LEA  U   RBR  245       120                   
+
+  40 +     0652   0710      0801  LEA  G   RNS  245       700                   
+
+9960 +     0705   0708      0711  G15  5   XRA  1-8A      C1.3    2.9E-04       
+
+9970       0716   ////      0752  SVI  C   RSP  103-169   CTM/1             2436
+9970       0752   0754      0801  SVI  3   FLA  N10W60    SF                2436
+
+9980 +     0833   0839      0847  G15  5   XRA  1-8A      C1.6    1.1E-03   2437
+9980       0835   ////      0837  SVI  C   RSP  104-135   III/1             2437
+9980      B0838  U0838     A0904  SVI  3   FLA  S23W52    1F      ERU       2437
+
+  50      B0838  U0838     A0847  SVI  3   FLA  N10W60    SF                2436
+
+9990       0849   0849      0855  LEA  2   FLA  S20W53    SF      ERU       2437
+
+  10       0856   0857      0859  LEA  2   FLA  S22W53    SF                2437
+
+  20       0901   ////      0916  SVI  C   RSP  102-170   VI/1                  
+
+  30 +     0931   0937      0942  G15  5   XRA  1-8A      C1.9    8.6E-04   2436
+  30 +     0932   ////      0936  SVI  C   RSP  025-180   V/2               2436
+  30       0933   0935      0938  LEA  2   FLA  N12W61    SF                2436
+  30 +     0933   0934      0934  SVI  U   RBR  245       130               2436
+
+  70       0950   1023      1055  G15  5   XRA  1-8A      C1.8    6.2E-03   2436
+
+ 160      A0951   ////     A2345  LEA  3   DSF  N38E50    18                    
+
+  60       1057   ////      1059  SVI  C   RSP  075-180   III/1                 
+
+  80       1148   1151      1154  SVI  3   FLA  S20W53    SF                2437
+
+  90 +     1257   1257      1257  SVI  G   RBR  245       230                   
+
+ 390      A1425   ////     A0833  SVI  2   DSF  N42E69    16                    
+
+ 100       1704   1707      1710  G15  5   XRA  1-8A      B7.8    2.9E-04       
+
+ 110       1915   ////      1915  SAG  C   RSP  025-050   III/1                 

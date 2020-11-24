@@ -1,0 +1,25 @@
+:Product: 20151129events.txt
+:Created: 2015 Dec 02 0357 UT
+:Date: 2015 11 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Nov 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4080 +     0604   0610      0617  G15  5   XRA  1-8A      B5.9    3.2E-04   2458
+4080       0608   0609      0613  LEA  3   FLA  N09W09    SF      DSD       2458
+
+4100       0655   0737      0752  G15  5   XRA  1-8A      B6.3    1.6E-03   2459
+4100       0732   0736      0744  LEA  3   FLA  N05E19    SF      DSD       2459
+4100 +     0736   ////      0738  CUL  C   RSP  020-080   III/2             2459
+
+4110       1847   1847      1847  PAL  U   RBR  245       100                   
+
+4120       1935   1935      1935  SAG  G   RBR  410       470                   
+
+4130       2334   ////      2334  CUL  C   RSP  018-040   III/1                 

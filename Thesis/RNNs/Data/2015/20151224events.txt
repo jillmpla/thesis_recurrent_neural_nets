@@ -1,0 +1,95 @@
+:Product: 20151224events.txt
+:Created: 2015 Dec 27 0357 UT
+:Date: 2015 12 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Dec 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7830 +     0041   0046      0050  G15  5   XRA  1-8A      C1.7    6.6E-04   2472
+
+7840 +     0149   0212      0222  G15  5   XRA  1-8A      M1.1    1.3E-02   2473
+
+7850       0358   0403      0405  LEA  3   FLA  S22E49    SF                2473
+7850       0359   ////      0403  LEA  C   RSP  025-180   III/1             2473
+7850       0400   0400      0400  LEA  G   RBR  245       150               2473
+
+7860       0406   0412      0415  LEA  3   FLA  S22E49    SF                2473
+
+7900       0415   0435      0522  LEA  3   FLA  S22E49    SF                2473
+
+7870       0444   ////      0445  LEA  C   RSP  025-133   III/1                 
+
+7900       0502   ////      1049  LEA  C   RSP  034-180   CTM/2             2473
+7900       0508   0616      0649  G15  5   XRA  1-8A      C5.9    3.0E-02   2472
+
+7880       0534   0540      0627  LEA  3   FLA  N05E50    SF                2472
+
+8020       0647   ////      1514  SVI  C   RSP  025-180   CTM/1                 
+
+7910       0750   0751      0818  SVI  3   FLA  S20E46    SF                2473
+
+7920       0907   0916      0925  SVI  3   FLA  S20E46    SF      ERU       2473
+
+7930       0937   0941      0959  SVI  3   FLA  S20E46    SF      ERU       2473
+
+8080       1036  U1123      1140  SVI  3   FLA  S22E47    SF                2473
+
+7940       1046   1107      1116  G15  5   XRA  1-8A      C2.0    3.1E-03   2472
+7940 +     1103  U1104      1119  SVI  3   FLA  N05E48    SF                2472
+
+7950       1158  U1200     A1207  SVI  3   FLA  S22E47    SF                2473
+
+7960      B1224  U1228     A1302  SVI  3   FLA  S23E47    SF                2473
+
+8120 +     1239   1601      1907  SAG  G   RNS  245       1000                  
+
+7960       1302   ////      1308  SAG  C   RSP  025-180   III/1             2473
+
+7970       1302   ////      1308  SVI  C   RSP  025-180   III/1                 
+
+7980       1310   1311      1315  SVI  3   FLA  S20E43    SF                2473
+
+8100       1329   ////      1904  SAG  C   RSP  133-180   CTM/1                 
+
+8000       1342   1343      1403  SVI  3   FLA  S19E41    SF      ERU       2473
+8000       1350   ////      1357  SAG  C   RSP  025-180   III/1             2473
+8000       1357   ////      1409  SVI  C   RSP  025-180   VI/1              2473
+
+8260      A1439   ////     A0714  SVI  3   DSF  N09W29    7                     
+
+8010 +     1441   1441      1441  SAG  G   RBR  245       1300                  
+
+8030       1608   ////      1608  SAG  C   RSP  025-180   III/1                 
+
+8040       1717   ////      1724  SAG  C   RSP  025-180   III/1                 
+
+8050       1728   1728      1731  PAL  G   RBR  245       300                   
+
+8060       1735   1735      1736  PAL  G   RBR  245       180                   
+
+8090 +     1919   ////      1919  PAL  C   RSP  025-075   III/2                 
+
+8110       1945   1947      1947  SAG  G   RBR  245       170                   
+
+8130       2006   ////      2008  PAL  C   RSP  025-180   III/2                 
+8130       2006   2007      2007  SAG  G   RBR  245       240                   
+
+8140       2121   ////      2133  PAL  C   RSP  025-180   VI/2                  
+
+8200       2150   ////      2359  LEA  C   RSP  029-180   CTM/1                 
+
+8150       2155   2155      2155  PAL  G   RBR  245       170                   
+
+8160       2158   2158      2158  PAL  G   RBR  245       130                   
+
+8170       2210   2210      2210  PAL  G   RBR  245       200                   
+
+8190       2213   ////      2335  PAL  C   RSP  025-081   CTM/1                 
+
+8180       2319   2319      2319  PAL  G   RBR  245       110                   

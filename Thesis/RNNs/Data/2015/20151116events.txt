@@ -1,0 +1,18 @@
+:Product: 20151116events.txt
+:Created: 2015 Nov 19 0357 UT
+:Date: 2015 11 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Nov 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3280       0100   ////      0410  LEA  3   DSF  S28W30    19                    
+
+3260       0211   ////      0211  LEA  C   RSP  028-041   III/1                 
+
+3270       0239   ////      0239  LEA  C   RSP  028-088   III/1                 

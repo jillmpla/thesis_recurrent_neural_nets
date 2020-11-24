@@ -1,0 +1,49 @@
+:Product: 20151217events.txt
+:Created: 2015 Dec 20 0357 UT
+:Date: 2015 12 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Dec 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6190       0018   ////      0110  LEA  C   RSP  025-180   VI/2                  
+6190       0031   ////      0032  PAL  C   RSP  028-082   III/2                 
+
+6200       0241   ////      0241  LEA  C   RSP  028-045   III/1                 
+
+6260       0329   0341      0351  G15  5   XRA  1-8A      B7.6    8.2E-04   2470
+
+6210       0408   ////      0515  LEA  C   RSP  105-180   CTM/1                 
+6210       0433   ////      0448  LEA  C   RSP  025-107   VI/1                  
+
+6220 +     0529   0533      0535  G15  5   XRA  1-8A      C1.3    2.2E-04   2470
+6220       0532   0534      0535  LEA  3   FLA  N13E32    SF      DSD       2470
+
+6230 +     0701   ////      0709  LEA  C   RSP  025-180   III/1                 
+
+6240       1022   1022      1022  SVI  G   RBR  245       100                   
+
+6270 +     1222   1235      1249  G15  5   XRA  1-8A      C1.7    2.1E-03   2470
+6270       1223   1231      1334  SVI  3   FLA  N15E28    SF      ERU       2470
+6270       1231   ////      1231  SVI  C   RSP  025-034   III/1             2470
+
+6280       1358   ////      1403  SVI  C   RSP  029-171   III/1                 
+
+6400 +    A1406   ////     A0703  SVI  3   DSF  N18E49    15                    
+
+6290 +     1646   1823      1856  SAG  G   RNS  245       210                   
+
+6310 +     2059   2104      2110  G15  5   XRA  1-8A      B8.2    3.7E-04   2468
+6310       2100   ////      2103  PAL  C   RSP  025-180   V/3               2468
+6310       2101   2103      2121  HOL  3   FLA  S18W22    SF      ERU       2468
+
+6300       2101   2101      2101  PAL  G   RBR  245       150                   
+
+6330       2153   ////      2359  LEA  C   RSP  066-180   CTM/1                 
+
+6320       2248   2248      2248  LEA  G   RBR  245       130                   

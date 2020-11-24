@@ -1,0 +1,16 @@
+:Product: 20151126events.txt
+:Created: 2015 Nov 29 0357 UT
+:Date: 2015 11 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Nov 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4030       1513   1513      1513  SAG  G   RBR  410       200                   
+
+4040 +     2119   2141      2218  G15  5   XRA  1-8A      B9.0    2.7E-03       

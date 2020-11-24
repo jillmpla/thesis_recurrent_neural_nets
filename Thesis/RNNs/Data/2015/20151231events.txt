@@ -1,0 +1,57 @@
+:Product: 20151231events.txt
+:Created: 2016 Jan 03 0357 UT
+:Date: 2015 12 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Dec 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9380       0010   ////      0024  LEA  C   RSP  035-180   VI/1                  
+
+9390       0125   ////      0141  LEA  C   RSP  025-180   VI/1                  
+9390 +     0132   0132      0132  PAL  G   RBR  245       170                   
+
+9400       0214   0218      0222  G15  5   XRA  1-8A      B5.2    1.7E-04   2473
+9400       0218   ////      0219  LEA  C   RSP  025-085   III/1                 
+
+9410 +     0320   0323      0325  G15  5   XRA  1-8A      B4.5    6.5E-05   2473
+
+9420       0423   ////      0428  LEA  C   RSP  030-180   III/1                 
+
+9430       0517   ////      0518  LEA  C   RSP  032-135   III/1                 
+
+9440       0801   ////      0819  SVI  C   RSP  025-171   VI/2                  
+9440 +     0801   ////      0801  LEA  C   RSP  025-175   III/2                 
+9440       0818   0818      0818  SVI  G   RBR  410       100                   
+
+9450 +     0823   0829      0833  G15  5   XRA  1-8A      B5.8    2.4E-04   2473
+
+9460       0919   ////      0920  SVI  C   RSP  030-055   III/1                 
+
+9470 +     1001   ////      1002  SVI  C   RSP  025-121   III/1                 
+
+9480       1028   ////      1028  LEA  C   RSP  033-083   III/1                 
+
+9490       1124   ////      1136  SVI  C   RSP  041-152   VI/2                  
+
+9500       1207   1207      1207  SVI  G   RBR  410       140                   
+
+9510 +     1319   1326      1329  G15  5   XRA  1-8A      B7.4    3.1E-04   2473
+
+9520 +     1341   ////      1341  SVI  C   RSP  025-136   III/1                 
+
+9530       1426   ////      1519  SVI  C   RSP  025-147   VI/2                  
+
+9540 +     1719   1725      1728  G15  5   XRA  1-8A      C1.4    5.0E-04   2473
+
+9550 +     1957   2011      2015  G15  5   XRA  1-8A      C1.6    5.4E-04   2473
+
+9560 +     2300   2305      2311  G15  5   XRA  1-8A      B6.1    3.0E-04   2473
+9560      B2302   2302      2309  LEA  3   FLA  S21W55    SF                2473
+
+9570       2314   2321      2329  G15  5   XRA  1-8A      B6.7    4.8E-04   2473

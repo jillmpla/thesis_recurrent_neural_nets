@@ -1,0 +1,40 @@
+:Product: 20151229events.txt
+:Created: 2015 Dec 31 0357 UT
+:Date: 2015 12 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Dec 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9110       0000   ////      0852  LEA  C   RSP  110-172   CTM/1                 
+
+9100       0053   0106      0126  G15  5   XRA  1-8A      C1.4    2.3E-03   2472
+
+9060       0125   ////      0243  LEA  C   RSP  025-087   VI/1                  
+
+9070       0333   ////      0339  LEA  C   RSP  025-099   III/1                 
+
+9080       0415   ////      0420  LEA  C   RSP  025-180   III/2                 
+
+9120       0652   ////      0921  SVI  C   RSP  100-180   CTM/1                 
+
+9090       0700   ////      0700  LEA  C   RSP  033-096   III/1                 
+
+9130 +    B1008  U1031     A1053  SVI  2   FLA  S20W22    1F                2473
+9130 +     1011   1032      1043  G15  5   XRA  1-8A      C6.8    6.8E-03   2473
+
+9140 +     1531   1536      1544  G15  5   XRA  1-8A      B8.3    4.9E-04   2473
+
+9150 +     1751   1759      1811  G15  5   XRA  1-8A      C1.5    1.4E-03   2473
+
+9160 +     2007   2019      2034  G15  5   XRA  1-8A      C2.5    2.8E-03   2473
+9160       2009   2013      2125  HOL  3   FLA  S19W30    SF      PRB       2473
+
+9170       2115   ////      2116  PAL  C   RSP  025-076   III/2                 
+
+9180       2210   ////      2210  LEA  C   RSP  140-180   III/1                 

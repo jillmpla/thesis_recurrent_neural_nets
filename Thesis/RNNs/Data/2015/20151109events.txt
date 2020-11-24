@@ -1,0 +1,50 @@
+:Product: 20151109events.txt
+:Created: 2015 Nov 12 0357 UT
+:Date: 2015 11 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Nov 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2700       0258   ////      0259  LEA  C   RSP  069-180   III/1                 
+
+2710       0652   0653      0707  SVI  3   FLA  S11E43    SF      ERU       2449
+
+2730 +     1249   1312      1328  G15  5   XRA  1-8A      M3.9    4.7E-02   2449
+2730       1252   1304      1510  SVI  3   FLA  S11E41    2B      ERU       2449
+2730       1259   1307      1323  SAG  G   RBR  610       1300              2449
+2730 +     1259   1303      1315  SVI  G   RBR  4995      680               2449
+2730 +     1259   1308      1328  SAG  G   RBR  410       760               2449
+2730 +     1300   1303      1315  SVI  G   RBR  8800      400               2449
+2730 +     1300   1306      1317  SVI  G   RBR  1415      450               2449
+2730 +     1300   ////      1303  SVI  C   RSP  025-130   III/2             2449
+2730 +     1300   1306      1311  SAG  G   RBR  2695      670               2449
+2730 +     1301   1303      1313  SVI  G   RBR  15400     220               2449
+2730 +     1303   1317      1330  SVI  G   RBR  245       1900              2449
+2730 +     1305   ////      1352  SAG  C   RSP  100-180   IV/1              2449
+2730 +     1305   ////      1319  SAG  C   RSP  025-180   II/2    957       2449
+2730      B1325   ////     A1842  SOH  4   CME  XUV,EUV,UV011-234/FS818       2449
+
+2740 +     1345   1346      1346  SAG  G   RBR  245       140               2449
+2740       1346   1350      1538  HOL  2   FLA  S12E39    1F      ERU       2449
+
+2750 +     1349   1352      1353  SAG  G   RBR  410       270                   
+2750 +     1349   1349      1351  SAG  G   RBR  245       120                   
+
+2760 +     1441   1446      1449  SAG  G   RBR  410       310                   
+2760 +     1442   1448      1450  SAG  G   RBR  245       170                   
+2760       1442   1446      1447  SAG  G   RBR  610       140                   
+
+2770 +     1455   1507      1519  SAG  G   RBR  245       330                   
+2770 +     1455   1512      1516  SAG  G   RBR  410       430                   
+2770 +     1459   ////      1538  SAG  C   RSP  074-180   IV/1                  
+2770       1500   1511      1515  SAG  G   RBR  610       350                   
+
+2780       1630   1633      1635  G15  5   XRA  1-8A      C1.3    2.2E-04   2443
+
+2790       2228   ////      2228  CUL  C   RSP  025-050   III/1                 

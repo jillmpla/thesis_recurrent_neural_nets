@@ -1,0 +1,22 @@
+:Product: 20151210events.txt
+:Created: 2015 Dec 13 0357 UT
+:Date: 2015 12 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Dec 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4910 +     0031   0036      0041  G15  5   XRA  1-8A      B5.4    2.4E-04   2468
+
+4920 +     0719   0725      0732  G15  5   XRA  1-8A      B6.9    3.9E-04   2468
+
+4930 +     0741   0750      0757  G15  5   XRA  1-8A      C3.9    2.4E-03   2468
+4930       0744   0746      0759  LEA  3   FLA  S14E76    SF      DSD       2468
+
+4940       1647   1705      1712  G15  5   XRA  1-8A      B5.7    6.7E-04   2465
+4940      B1707   1714      1720  HOL  3   FLA  S06E30    SF                2465
