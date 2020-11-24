@@ -1,0 +1,108 @@
+:Product: 20140925events.txt
+:Created: 2014 Sep 28 0357 UT
+:Date: 2014 09 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Sep 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7880       0000   ////      0155  LEA  C   RSP  071-180   CTM/1                 
+
+7480       0226   0230      0231  LEA  3   FLA  N16E00    SF                    
+
+7490       0240   0242      0245  LEA  3   FLA  N16E00    SF                    
+
+7500 +     0347   0347      0347  LEA  G   RBR  245       230                   
+
+7510       0358   0358      0402  LEA  3   FLA  N14W00    SF      DSD           
+
+7520       0405   0429      0525  LEA  3   FLA  N14W00    SF                2167
+
+7540       0406   0408      0411  LEA  3   FLA  N11W89    SF                2167
+
+7530       0530   0531      0531  LEA  G   RBR  610       160                   
+
+7550 +     0556   ////      0558  SVI  C   RSP  025-144   III/1                 
+
+7560       0810   0810      0820  LEA  3   FLA  N13W04    SF                    
+
+7570 +     0845   ////      0848  SVI  C   RSP  025-080   III/1                 
+
+7580       0944   0945      0948  LEA  3   FLA  S14E12    SF      ERU       2172
+
+7780      A0953   ////     A2237  LEA  2   DSF  S15E02    14                2171
+
+7590 +     1119   1119      1119  SVI  G   RBR  245       1400                  
+7590 +     1119   ////      1119  SVI  C   RSP  025-180   III/1                 
+
+7600 +     1158   ////      1159  SVI  C   RSP  025-170   III/1                 
+
+7610       1347   1353      1356  G15  5   XRA  1-8A      C2.5    8.7E-04   2175
+
+7620       1457   1502      1515  HOL  3   FLA  N14W04    SF                2175
+
+7630       1528   1528      1533  HOL  3   FLA  N13W06    SF      ERU       2175
+
+7650       1604   ////      1605  SAG  C   RSP  025-180   III/1                 
+
+7640       1609   1611      1615  HOL  3   FLA  N14W04    SF      DSD       2175
+
+7660       1639   1640      1655  HOL  3   FLA  N14W04    SF      ERU       2175
+7660       1639   ////      1640  PAL  C   RSP  025-121   III/2             2175
+7660       1639   ////      1640  SAG  C   RSP  025-180   V/2               2175
+
+7670       1716   1726      1759  HOL  3   FLA  N15W06    SF      ERU       2175
+7670 +     1752   ////      2102  SAG  C   RSP  025-180   VI/2              2175
+
+7680       1842   1844      1847  HOL  3   FLA  N13W08    SF      ERU       2175
+
+7760       1912   2032      2147  G15  5   XRA  1-8A      C3.2    2.1E-02   2171
+
+7690 +     1916   1916      1916  SAG  G   RBR  245       130                   
+
+7700       1936   1938      1941  HOL  3   FLA  S13E17    SF      ERU       2172
+7700       1936   1936      1936  SAG  G   RBR  245       110               2172
+
+7730       1938   1940      1943  HOL  3   FLA  N14W06    SF      DSD       2175
+
+7710       1945   2031      2057  HOL  3   FLA  S15E19    SF      ERU       2172
+
+7740       1946   1953      1959  HOL  3   FLA  N14W06    SF      DSD       2175
+
+7760       2030   ////      2100  HOL  3   DSF  S13W01    10                2171
+
+7710       2030   2030      2030  PAL  G   RBR  245       180               2172
+
+7720       2051   2052      2101  HOL  3   FLA  N14W07    SF      DSD       2175
+7720       2059   2059      2059  PAL  G   RBR  245       180               2175
+
+7750       2102   2105      2108  HOL  3   FLA  S12E15    SF      ERU       2172
+
+7770       2149   2209      2231  G15  5   XRA  1-8A      C5.6    1.1E-02   2175
+7770       2156   2203      2252  HOL  3   FLA  N13W10    SF      ERU       2175
+
+7800       2216   2218      2224  HOL  3   FLA  S09E16    SF      DSD       2172
+
+7810       2226   2227      2229  HOL  3   FLA  S09E16    SF      DSD       2172
+
+7770       2226   2226      2227  PAL  G   RBR  245       160               2175
+7770 +     2226   ////      2359  LEA  C   RSP  036-180   CTM/1             2175
+7770       2226   ////      2358  LEA  C   RSP  028-180   VI/1              2175
+
+7820      B2230   2246      2250  LEA  3   FLA  N15W10    SF                2175
+
+7860       2300   2318      2318  LEA  G   RNS  245       110                   
+
+7790 +     2318   2318      2318  PAL  G   RBR  245       570                   
+7790       2318   ////      2318  LEA  C   RSP  025-180   III/2                 
+
+7830       2319   ////      2319  CUL  C   RSP  018-400   III/2                 
+
+7840       2321   2329      2338  HOL  3   FLA  S09E16    SF      DSD       2172
+
+7870       2325   2326      2332  HOL  3   FLA  N14W08    SF      DSD       2175

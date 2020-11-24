@@ -1,0 +1,33 @@
+:Product: 20141012events.txt
+:Created: 2014 Oct 15 0357 UT
+:Date: 2014 10 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Oct 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1440       0230   0240      0247  G15  5   XRA  1-8A      B6.2    5.7E-04   2187
+
+1500       0358   ////      0359  CUL  C   RSP  020-120   III/1                 
+
+1450 +     0510   0515      0521  G15  5   XRA  1-8A      C2.5    1.0E-03   2187
+1450       0514   0514      0514  LEA  G   RBR  410       120               2187
+
+1460       0538   0538      0538  LEA  G   RBR  245       150                   
+
+1470       0619   0637      0641  G15  5   XRA  1-8A      C1.7    1.1E-03   2187
+
+1480       1000   1013      1019  G15  5   XRA  1-8A      B6.7    5.8E-04   2187
+
+1490 +     1349   ////      1349  SVI  C   RSP  025-055   III/1                 
+
+1510       2140   ////      2140  CUL  C   RSP  040-060   III/1                 
+
+1520       2346   ////      2357  LEA  C   RSP  031-088   II/1    739           
+1520       2348   ////      2353  LEA  3   BSL  ////      0.17                  
+1520       2349   ////      2351  LEA  C   RSP  031-084   III/1                 

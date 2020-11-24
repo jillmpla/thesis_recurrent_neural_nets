@@ -1,0 +1,72 @@
+:Product: 20141025events.txt
+:Created: 2014 Oct 28 0357 UT
+:Date: 2014 10 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Oct 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5430 +     0026   0026      0026  LEA  G   RBR  245       160                   
+
+5440       0237  U0237      0247  LEA  1   FLA  N06E42    SF                2195
+
+5450       0406   0413      0417  G15  5   XRA  1-8A      C4.4    2.0E-03   2192
+5450       0408   0414      0422  LEA  2   FLA  S07W24    SF                2192
+5450       0408   0408      0408  LEA  G   RBR  8800      120               2192
+5450       0408   0408      0408  LEA  G   RBR  15400     100               2192
+5450       0416   ////      0533  LEA  C   RSP  034-083   VI/1              2192
+
+5460       0517   0519      0528  LEA  3   FLA  S11W23    SF                2192
+
+5510       0558   ////      0957  SVI  C   RSP  079-177   CTM/1                 
+
+5480       0626   0749      0935  LEA  3   FLA  S14W23    1F      ERU       2192
+
+5470       0634   0634      0634  SVI  G   RBR  8800      100                   
+
+5480       0734   0734      0734  LEA  G   RBR  245       190               2192
+5480       0736   0808      0835  G15  5   XRA  1-8A      C9.2    2.9E-02   2192
+
+5490       0821   0823      0827  LEA  3   FLA  N08E49    SF                2195
+
+5500       0944   0949      0955  G15  5   XRA  1-8A      C4.6    2.3E-03   2192
+
+5520       1213   1220      1225  G15  5   XRA  1-8A      C3.2    1.7E-03   2192
+
+5530 +     1305   ////      1305  SVI  C   RSP  117-134   III/1                 
+
+5580       1338   1706     A0007  HOL  3   FLA  S16W31    3B      UMB       2192
+
+5540 +     1413   1413      1413  SAG  G   RBR  245       600                   
+5540       1413   1413      1413  SAG  G   RBR  15400     100                   
+
+5550       1500   1504      1508  G15  5   XRA  1-8A      C5.1    1.7E-03   2192
+
+5560       1544   1552      1615  G15  5   XRA  1-8A      C9.7    1.3E-02   2192
+5560       1547   1547      1548  SAG  G   RBR  15400     100                   
+5560 +     1556   1556      1556  SAG  G   RBR  8800      120                   
+
+5580 +    U1648   1717      1852  SAG  G   RBR  8800      800               2192
+5580 +    U1649   1717      1839  SAG  G   RBR  15400     630               2192
+5580       1655   1708      1811  G15  5   XRA  1-8A      X1.0    3.9E-01   2192
+5580 +     1658   1721      1818  SAG  G   RBR  4995      470               2192
+5580 +    U1714   1717      1722  PAL  G   RBR  2695      160               2192
+
+5590       1806   1807      1808  HOL  3   FLA  S03E58    SF      DSD       2196
+
+5600 +     2019   2020      2020  PAL  G   RBR  15400     110                   
+
+5610       2145   2147      2156  HOL  3   FLA  S14E51    SF      DSD       2197
+
+5620       2148   2150      2156  HOL  3   FLA  S11E10    SF      DSD       2194
+
+5630       2303   ////      2304  LEA  C   RSP  030-082   III/1                 
+
+5640       2320   2326      2336  G15  5   XRA  1-8A      C8.4    5.9E-03   2192
+5640 +     2322   2322      2322  PAL  G   RBR  8800      140                   
+5640 +     2322   2322      2322  PAL  G   RBR  15400     250                   

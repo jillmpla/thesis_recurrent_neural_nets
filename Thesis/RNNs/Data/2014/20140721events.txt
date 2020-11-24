@@ -1,0 +1,32 @@
+:Product: 20140721events.txt
+:Created: 2014 Jul 24 0332 UT
+:Date: 2014 07 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jul 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2520       0002   ////      0003  CUL  C   RSP  020-035   III/1                 
+
+2530 +     0103   ////      0105  LEA  C   RSP  025-180   III/2                 
+
+2550 +     0226   ////      0226  CUL  C   RSP  018-060   III/1                 
+
+2560       0426   ////      0426  CUL  C   RSP  020-060   III/1                 
+
+2570       0508   0508      0508  LEA  G   RBR  245       260                   
+
+2580       0540   0540      0540  LEA  G   RBR  245       110                   
+
+2610      A0925   ////     A2334  LEA  3   DSF  N24E27    11                    
+
+2640      A1151   ////     A0655  SVI  3   DSF  S47E47    7                     
+
+2590       1517   1521      1618  G15  5   XRA  1-8A      B3.9    1.2E-03   2121
+
+2600       1841   1848      1851  G15  5   XRA  1-8A      B5.9    2.3E-04   2121

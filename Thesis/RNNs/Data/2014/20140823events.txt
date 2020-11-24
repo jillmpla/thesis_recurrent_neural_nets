@@ -1,0 +1,81 @@
+:Product: 20140823events.txt
+:Created: 2014 Aug 26 0332 UT
+:Date: 2014 08 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Aug 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9980 +     0007   0007      0008  LEA  G   RBR  245       410                   
+9980 +     0007   0007      0008  LEA  G   RBR  410       190                   
+
+  20       0032   0032      0032  PAL  G   RBR  245       110                   
+
+  30       0143   ////      0145  LEA  C   RSP  025-180   III/2                 
+
+  40       0149   0156      0209  G15  5   XRA  1-8A      C3.5    2.8E-03   2149
+  40       0150   0516      0220  LEA  3   FLA  N10E62    1F      ERU       2149
+
+  50 +     0211   0211      0211  LEA  G   RBR  245       300                   
+
+  60 +     0423   ////      0423  LEA  C   RSP  030-094   III/1                 
+
+  80 +     0449   ////      0547  LEA  C   RSP  029-180   VI/1                  
+
+  90       0704   0747      0756  G15  5   XRA  1-8A      C1.4    3.0E-03   2148
+  90 +    B0714  U0716     A0810  SVI  3   FLA  N05E08    SF      ERU       2148
+
+ 290 +     0743   0805      0816  LEA  3   FLA  N10E61    SF      ERU       2149
+
+ 100       0817   ////      0817  LEA  C   RSP  075-134   III/1                 
+
+ 110 +    B0833  U0837     A0841  SVI  3   FLA  S07W56    SF                2143
+ 110 +     0840   ////      1134  SVI  C   RSP  075-180   CTM/1             2143
+
+ 120       0916   0918      0919  LEA  3   FLA  N10E60    SF                2149
+
+ 130       0954   0954      1006  SVI  3   FLA  N08W10    SF      ERU       2146
+ 130       1002   ////      1002  SVI  C   RSP  025-037   III/1             2146
+
+ 160      B1052  U1055     A1117  SVI  3   FLA  N12W12    SF      ERU       2146
+
+ 140      B1101  U1102     A1105  SVI  3   FLA  N13E56    SF                2149
+
+ 150      B1107  U1107      1109  SVI  3   FLA  N14E56    SF                2149
+
+ 170       1119   1127      1138  G15  5   XRA  1-8A      C1.3    1.2E-03   2149
+ 170      B1121  U1127     A1150  SVI  3   FLA  N13E58    SF                2149
+
+ 180      B1151  U1200     A1206  SVI  3   FLA  N13E58    SF                2149
+
+ 190      B1201  U1207     A1243  SVI  3   FLA  N07E09    SF      ERU       2148
+
+ 200 +     1249   1318      1403  SVI  3   FLA  N12E58    SF      DSD       2149
+
+ 210       1404   ////      1406  SVI  C   RSP  025-079   III/1             2149
+ 210       1405   1411      1430  SVI  3   FLA  N12E57    1F                2149
+
+ 220       1407   1413      1422  G15  5   XRA  1-8A      C2.2    1.4E-03   2149
+ 220       1410   1410      1419  HOL  3   FLA  N12E56    SF      ERU       2149
+ 220 +     1412   ////      1510  SVI  C   RSP  075-180   CTM/1             2149
+
+ 230       1557   1558      1619  SVI  3   FLA  N12E57    SF                2149
+
+ 240       1613   1614      1618  SVI  3   FLA  S07W61    SF                2143
+
+ 250       1719   1727      1731  G15  5   XRA  1-8A      C6.0    2.4E-03   2146
+ 250 +     1721   1721      1721  SAG  G   RBR  245       110               2146
+ 250       1721   ////      1724  SAG  C   RSP  025-180   III/1             2146
+ 250       1722   1725      1741  HOL  3   FLA  N13W14    SF      ERU       2146
+
+ 260       1726   1726      1728  HOL  3   FLA  N10E56    SF                2149
+
+ 270       1811   1817      1822  G15  5   XRA  1-8A      C2.9    1.2E-03   2149
+ 270       1814   1816      1822  HOL  3   FLA  N10E54    SF                2149
+
+ 300       2226   2243      2254  G15  5   XRA  1-8A      C1.4    2.0E-03   2149

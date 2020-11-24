@@ -1,0 +1,59 @@
+:Product: 20141003events.txt
+:Created: 2014 Oct 06 0357 UT
+:Date: 2014 10 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Oct 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9660       0005   0008      0012  G15  5   XRA  1-8A      C3.2    9.1E-04   2172
+
+9700       0046   ////      0052  CUL  C   RSP  018-050   III/1                 
+
+9670       0131   ////      0140  LEA  C   RSP  031-119   III/1                 
+
+9710       0147   ////      0457  LEA  3   LPS  ////      0.14              2172
+
+9680       0257   0304      0315  G15  5   XRA  1-8A      C5.7    4.5E-03   2173
+9680 +     0305   ////      0305  CUL  C   RSP  018-300   III/3                 
+
+9690       0338   0338      0338  LEA  G   RBR  245       140                   
+
+9720       0358   0420      0437  G15  5   XRA  1-8A      C5.7    1.1E-02   2172
+
+9730       0636   0648      0714  G15  5   XRA  1-8A      C9.0    1.5E-02   2173
+
+9740       0731   0736      0752  LEA  3   FLA  S03E05    SF                2178
+9740 +     0732   ////      0733  LEA  C   RSP  036-172   III/1             2178
+9740       0742   ////      0758  LEA  3   DSD  ////      2                 2178
+
+9750      B0757  U0800     A0806  SVI  3   FLA  S03E06    SF                2178
+
+9760       0817   0929      1023  G15  5   XRA  1-8A      C1.3    3.6E-03   2172
+
+9770       1015   ////      1016  SVI  C   RSP  025-150   III/1                 
+
+9780       1041   1046      1053  G15  5   XRA  1-8A      C2.2    1.2E-03   2181
+
+9790       1141   1148      1158  G15  5   XRA  1-8A      C2.5    2.0E-03   2172
+
+9800       1253   ////      1254  SVI  C   RSP  074-115   III/1                 
+
+9810       1302   ////      1305  SVI  U   RSP  054-082   III/1                 
+
+9820       1314   ////      1616  SVI  C   RSP  057-147   CTM/1                 
+
+9830       1747   1748      1807  HOL  3   FLA  S12E32    SF      ERU       2182
+9830 +     1748   ////      1806  SAG  C   RSP  025-180   VI/1              2182
+
+9900       2207   2215      2220  G15  5   XRA  1-8A      C1.9    1.3E-03   2172
+
+9850       2219   ////      2359  LEA  C   RSP  103-180   CTM/1                 
+
+9840       2315   ////      2346  LEA  C   RSP  027-150   VI/1                  
+9840       2315   ////      2316  PAL  C   RSP  025-171   III/1                 

@@ -1,0 +1,43 @@
+:Product: 20140917events.txt
+:Created: 2014 Sep 20 0357 UT
+:Date: 2014 09 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Sep 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6400       0054   0056      0057  LEA  3   FLA  S12W37    SF                2164
+
+6410       0105   0110      0114  G15  5   XRA  1-8A      C1.2    4.8E-04   2164
+6410       0109   0109      0118  LEA  3   FLA  S12W37    SF                2164
+
+6420       0132   0142      0150  G15  5   XRA  1-8A      C1.3    1.2E-03   2164
+6420       0135   0137      0153  LEA  3   FLA  S12W38    SF                2164
+
+6430       0329   0334      0344  G15  5   XRA  1-8A      C2.6    1.6E-03   2164
+6430       0330   0332      0342  LEA  3   FLA  S15W40    SF                2164
+
+6440       0547   0547      0547  LEA  G   RBR  245       150                   
+
+6450       0727   0731      0734  G15  5   XRA  1-8A      C1.2    3.3E-04   2164
+
+6460       0806   0812      0819  G15  5   XRA  1-8A      C1.4    7.9E-04   2158
+
+6470       0941  U0944     A0948  SVI  3   FLA  N12W81    SF      ERU       2158
+
+6480       1303   ////      1305  SAG  C   RSP  025-083   V/2                   
+6480       1303   ////      1305  SVI  C   RSP  025-079   III/1                 
+
+6490 +     1446   1446      1446  SAG  G   RBR  245       970                   
+
+6500       1745   ////      1747  SAG  C   RSP  025-039   III/1                 
+
+6510       1923   ////      1928  PAL  C   RSP  025-055   III/1                 
+6510       1926   1948      2013  G15  5   XRA  1-8A      C7.5    1.6E-02   2158
+
+6520       2110   2139      2148  G15  5   XRA  1-8A      C3.5    6.4E-03   2164

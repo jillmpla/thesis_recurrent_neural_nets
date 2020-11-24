@@ -1,0 +1,49 @@
+:Product: 20141001events.txt
+:Created: 2014 Oct 04 0357 UT
+:Date: 2014 10 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Oct 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9310       0045   0046      0049  LEA  3   FLA  S15W56    SF      ERU       2172
+
+9320       0215   0215      0223  LEA  3   FLA  S15W57    SF                2173
+9320       0221   ////      0221  CUL  C   RSP  018-120   III/1             2173
+
+9330       0238   ////      0323  LEA  3   EPL  ////      0.22              2172
+9330       0240   0306      0348  G15  5   XRA  1-8A      C6.7    2.3E-02   2172
+9330       0241   0252      0404  LEA  3   FLA  S12W64    SF      ERU       2172
+
+9340       0510   0540      0627  LEA  3   FLA  S15W71    SF                2173
+
+9350 +     0631   0633      0638  LEA  3   FLA  N20W82    SF                2175
+
+9360 +     0649   0652      0654  LEA  3   FLA  S15W71    SF                2173
+
+9370       0717   0717      0721  LEA  3   FLA  S14W69    SF                2173
+
+9380      B0824  U0824      0830  SVI  3   FLA  S16W66    SF                2173
+
+9390      B0839  U0849      0851  SVI  3   FLA  S16W66    SF                2173
+
+9400       0900   0901      0913  SVI  3   FLA  S00E31    SF                2178
+
+9410       0933   ////      0933  LEA  C   RSP  055-081   III/1                 
+
+9420       0934   ////      0934  SVI  C   RSP  029-074   III/1                 
+
+9430       1026   1026      1029  SVI  3   FLA  S17W67    SF                2173
+
+9440       1247   1247      1251  SVI  3   FLA  S19W70    SF                2173
+
+9450       1256  U1256      1359  SVI  3   FLA  S18W76    SF      ERU       2173
+
+9460       1439   1441      1448  SVI  3   FLA  S20W77    SF                2173
+
+9540      A1555   ////     A0540  SVI  3   DSF  N26W08    8                     

@@ -1,0 +1,54 @@
+:Product: 20141002events.txt
+:Created: 2014 Oct 05 0357 UT
+:Date: 2014 10 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Oct 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9600      A0026   ////     A1325  HOL  3   DSF  N16W06    9                     
+
+9610      A0026   ////     A1325  HOL  3   DSF  N26W12    9                     
+
+9470       0039   ////      0127  LEA  3   LPS  ////      0.07              2172
+
+9480       0129   ////      0129  LEA  C   RSP  025-105   III/1                 
+
+9490       0130   ////      0130  CUL  C   RSP  018-120   III/1                 
+
+9500       0208   ////      0208  LEA  C   RSP  032-089   III/1                 
+
+9510       0209   ////      0209  CUL  C   RSP  020-057   III/1                 
+
+9550 +     0243   ////      0439  LEA  3   DSF  N15W08    7                     
+
+9520       0307   0308      0310  LEA  3   FLA  S14W69    SF                2173
+
+9530       0403   ////      0403  CUL  C   RSP  020-057   III/1                 
+
+9560       1710   1744      1815  G15  5   XRA  1-8A      M1.5    3.8E-02   2172
+9560       1713   1713      1718  HOL  3   FLA  S18W76    SF                2172
+
+9570       1849   1901      1914  G15  5   XRA  1-8A      M7.3    7.4E-02   2173
+9570       1852   1855      1925  HOL  3   FLA  S17W82    1F      LPS       2173
+9570 +     1858   ////      1911  SAG  C   RSP  025-180   II/1    713       2173
+9570       1859   ////      2143  SAG  C   RSP  158-180   IV/1              2173
+9570       1907   ////      1919  HOL  3   LPS  ////      0.06    B.7A      2173
+
+9580       1916   ////      1931  HOL  3   BSL  ////      0.24    B.9A          
+
+9590 +     1931   ////      1938  PAL  C   RSP  027-045   II/1    410           
+
+9620       1954   ////      2020  PAL  C   RSP  025-050   VI/1                  
+
+9630       2251   2254      2256  G15  5   XRA  1-8A      C3.6    5.6E-04   2173
+9630       2253   2253      2255  HOL  3   FLA  N18E89    SF                2173
+
+9640       2317   ////      2342  LEA  C   RSP  031-166   VI/1                  
+
+9650       2343   ////      2343  CUL  C   RSP  018-060   III/1                 

@@ -1,0 +1,84 @@
+:Product: 20140807events.txt
+:Created: 2014 Aug 10 0332 UT
+:Date: 2014 08 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Aug 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5390 +     0029   ////      0031  CUL  C   RSP  018-150   III/2                 
+
+5400       0034   ////      0036  CUL  C   RSP  020-070   III/1                 
+
+5410 +     0107   ////      0107  CUL  C   RSP  030-075   III/1                 
+
+5420       0206   0211      0223  LEA  3   FLA  N12E64    SF                2135
+
+5650       0232   0249      0302  LEA  3   FLA  N12E64    SF                2135
+
+5430       0237   0238      0240  LEA  3   FLA  S20W61    SF                2128
+
+5440       0305   0309      0317  G15  5   XRA  1-8A      B7.7    4.3E-04   2132
+5440       0306   0306      0320  LEA  3   FLA  S18W19    SF                2132
+
+5450       0347   0348      0352  LEA  3   FLA  S12W70    SF                2127
+
+5670       0526   ////      0526  CUL  C   RSP  027-160   III/1                 
+
+5460 +     0526   ////      0526  LEA  C   RSP  064-146   III/1                 
+
+5470       0549   0552      0554  G15  5   XRA  1-8A      C1.1    1.8E-04   2130
+5470       0551   0553      0554  LEA  3   FLA  S09W44    SF                2130
+
+5660       0551   0552      0554  SVI  3   FLA  S12W43    SF                2130
+
+5680       0600   ////      0602  CUL  C   RSP  025-100   III/1                 
+
+5480       0601   ////      0601  SVI  C   RSP  025-056   III/1                 
+
+5690       0613   ////      0613  CUL  C   RSP  023-045   III/1                 
+
+5490       0616   0616      0621  LEA  3   FLA  S21W28    SF                2132
+
+5500       0635   0637      0637  SVI  3   FLA  S24W61    SF                2128
+
+5700       0645   ////      0646  CUL  C   RSP  020-080   III/1                 
+
+5520 +     0650   ////      0651  CUL  C   RSP  023-090   III/1                 
+
+5610       0724   0724      0748  LEA  3   FLA  S20W61    SF                2128
+
+5530       0726   0727      0729  LEA  3   FLA  S13W73    SF                2127
+
+5620       0752   0821      0859  LEA  3   FLA  S20W61    SF                2128
+
+5630       0804   0805      0806  SVI  3   FLA  S24W62    SF                2128
+
+5640       0811   0819      0825  SVI  3   FLA  S24W62    SF                2128
+
+5540       0837   0838      0840  SVI  3   FLA  S24W62    SF                2128
+
+5550       0853   0854      0901  LEA  3   FLA  S12W74    SF                2127
+
+5560       0914   0920      0927  SVI  3   FLA  S10W69    SF      DSD       2127
+
+5570       0942   0943      0945  SVI  3   FLA  S10W69    SF                2127
+
+5580       1134   1135      1142  SVI  3   FLA  N12E12    SF      ERU       2134
+
+5590       1247   1251      1304  SVI  3   FLA  S07W45    SF      ERU       2130
+
+5600       1620   1625      1638  SVI  3   FLA  N14E55    SF      ERU       2135
+
+5730       1657   1728      1749  G15  5   XRA  1-8A      C1.4    3.3E-03       
+
+5740      A1905   ////     A0528  SVI  3   DSF  N20E53    7                     
+
+5710       2116   ////      2119  CUL  C   RSP  020-120   III/1                 
+
+5720       2223   2256      2323  G15  5   XRA  1-8A      C2.2    5.5E-03   2132

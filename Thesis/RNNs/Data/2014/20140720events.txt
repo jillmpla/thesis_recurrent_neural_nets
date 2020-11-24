@@ -1,0 +1,25 @@
+:Product: 20140720events.txt
+:Created: 2014 Jul 23 0332 UT
+:Date: 2014 07 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jul 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2480       0423   ////      0423  CUL  C   RSP  018-180   III/1                 
+
+2460 +     1442   ////      1442  SVI  C   RSP  025-044   III/1                 
+
+2470       1922   ////      1922  SAG  C   RSP  102-180   III/1                 
+2470 +     1922   1922      1923  SAG  G   RBR  245       360                   
+
+2490       2044   ////      2047  SAG  C   RSP  025-180   III/2                 
+
+2500       2149   ////      2150  CUL  C   RSP  030-180   III/1                 
+
+2510       2310   ////      2310  CUL  C   RSP  075-180   III/1                 

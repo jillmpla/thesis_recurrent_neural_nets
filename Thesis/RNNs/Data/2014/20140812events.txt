@@ -1,0 +1,47 @@
+:Product: 20140812events.txt
+:Created: 2014 Aug 15 0332 UT
+:Date: 2014 08 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Aug 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6670 +     0032   ////      0036  CUL  C   RSP  018-180   III/1             2132
+6670       0033   0035      0039  LEA  3   FLA  S22W68    SF                2132
+
+6690       0049   0053      0055  G15  5   XRA  1-8A      B5.3    1.1E-04       
+6690       0050   ////      0053  LEA  C   RSP  025-079   III/1                 
+
+6700       0214   ////      0217  LEA  C   RSP  025-075   III/1                 
+
+6710       0404   0407      0410  G15  5   XRA  1-8A      B5.2    1.1E-04       
+
+6720       0415   0421      0425  G15  5   XRA  1-8A      B7.9    3.2E-04       
+
+6730       0452   0456      0458  G15  5   XRA  1-8A      B4.7    1.1E-04       
+
+6740 +     0615   0618      0631  SVI  3   FLA  N15E69    SF      ERU       2139
+6740       0616   0619      0623  G15  5   XRA  1-8A      B4.7    1.3E-04   2139
+
+6750 +     0638   0641      0647  SVI  3   FLA  N15E69    SF                2139
+6750       0638   0641      0643  G15  5   XRA  1-8A      B4.5    1.5E-04   2139
+
+6760       0653   0657      0709  G15  5   XRA  1-8A      B4.9    4.4E-04   2140
+6760 +     0653   0655      0718  SVI  3   FLA  N11W42    SF      ERU       2140
+
+6780       0955   1016      1030  SVI  3   FLA  N16E69    SF                2139
+
+6790       1317   1328      1346  SVI  3   FLA  N11W46    SF      ERU       2140
+
+6800       1507   1509      1535  SVI  3   FLA  S22W40    SF                2137
+6800       1507   ////      1509  SVI  C   RSP  025-055   III/1             2137
+
+6810       1639   ////      1650  SAG  C   RSP  025-095   VI/1                  
+6810       1639   ////      1640  SVI  C   RSP  032-080   III/1                 
+
+6820 +     2013   2019      2024  G15  5   XRA  1-8A      B6.9    3.4E-04   2140

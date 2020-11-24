@@ -1,0 +1,60 @@
+:Product: 20140906events.txt
+:Created: 2014 Sep 09 0357 UT
+:Date: 2014 09 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Sep 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3810       0000   0003      0006  G15  5   XRA  1-8A      C2.9    6.4E-04   2157
+3810 +     0002   0003      0005  HOL  3   FLA  S16E61    SF      ERU       2157
+3810 +     0003   0003      0003  LEA  G   RBR  1415      380               2157
+
+3820      B0006   0007      0009  LEA  3   FLA  S07W74    SF                2153
+
+3830       0556   0618      0644  G15  5   XRA  1-8A      C2.4    6.0E-03   2157
+
+3840      B0801  U0808     A0905  SVI  3   FLA  S10E54    1N      ERU       2157
+3840       0804   0814      0830  G15  5   XRA  1-8A      C8.0    9.8E-03   2157
+
+3860      B0808  U0816     A0855  SVI  3   FLA  S18E71    SF                2159
+
+3840 +     0822   ////      0822  LEA  C   RSP  045-104   III/1             2157
+
+3860 +     0836   ////      1324  SVI  C   RSP  027-180   CTM/1             2159
+
+3850       0849   0849      0849  LEA  G   RBR  245       130                   
+
+3870      B0912  U0915     A0915  SVI  3   FLA  S10E56    SF      ERU       2157
+
+3880       0924   0924      0924  SVI  G   RBR  245       240                   
+
+3890       0930   ////      1004  SVI  C   RSP  025-081   VI/1                  
+
+3940       1057   ////      1425  SAG  C   RSP  025-180   CTM/1                 
+
+3900       1124   1129      1137  G15  5   XRA  1-8A      C2.5    2.0E-03   2157
+3900 +     1138   1138      1138  SVI  G   RBR  410       130                   
+3900       1138   1138      1139  SAG  G   RBR  610       280                   
+
+3920       1221   1224      1228  SVI  3   FLA  S19W56    SF                2152
+3920       1221   1224      1227  G15  5   XRA  1-8A      C1.7    7.1E-04   2152
+
+4060      A1325   ////     A0721  SVI  3   DSF  N44E06    25                    
+
+3950 +     1650   1709      1722  G15  5   XRA  1-8A      M1.1    1.5E-02   2157
+3950       1654   1704      1727  HOL  3   FLA  S14E53    SF      ERU       2157
+3950 +     1654   1655      1655  SAG  G   RBR  15400     260               2157
+3950 +     1655   1655      1655  SAG  G   RBR  8800      140               2157
+
+3960 +     1744   1748      1753  G15  5   XRA  1-8A      C4.7    1.7E-03   2157
+3960      B1750   1751      1757  HOL  3   FLA  S11E51    SF      ERU       2157
+
+3970       1914   1916      1917  HOL  3   FLA  S15E51    SF      ERU       2157
+
+3980       1958   2000      2003  HOL  3   FLA  S11E42    SF                2157

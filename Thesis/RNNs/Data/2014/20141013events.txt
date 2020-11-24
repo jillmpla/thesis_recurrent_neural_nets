@@ -1,0 +1,40 @@
+:Product: 20141013events.txt
+:Created: 2014 Oct 16 0357 UT
+:Date: 2014 10 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Oct 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1530       0148   ////      0152  LEA  C   RSP  029-077   III/1                 
+
+1540       0407   ////      0421  LEA  3   BSL  ////      0.17                  
+
+1550       0647   ////      0647  SVI  C   RSP  027-036   III/1                 
+
+1560 +     0730   ////      0730  SVI  C   RSP  027-080   III/1                 
+
+1570 +     0827   ////      0931  SVI  C   RSP  027-132   VI/1                  
+
+1580       1103   ////      1104  SVI  C   RSP  025-031   III/1                 
+
+1590 +     1151   1151      1151  SAG  G   RBR  245       120                   
+
+1600 +     1337   ////      1338  SVI  C   RSP  026-080   III/1                 
+
+1610 +     1349   1349      1349  SAG  G   RBR  245       100                   
+
+1620       1555   ////      1556  SAG  C   RSP  025-037   III/1                 
+
+1630       1612   1612      1612  SAG  G   RBR  245       100                   
+
+1640       2242   2245      2249  G15  5   XRA  1-8A      B6.3    1.7E-04       
+
+1730 +     2251   ////      0234  LEA  4   DSF  N03E30    15                    
+
+1650       2316   ////      2317  LEA  C   RSP  029-078   III/1                 

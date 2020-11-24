@@ -1,0 +1,92 @@
+:Product: 20140826events.txt
+:Created: 2014 Aug 29 0357 UT
+:Date: 2014 08 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Aug 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 890       0025   ////      0025  LEA  C   RSP  025-148   III/1                 
+
+ 920       0026   ////      0027  CUL  C   RSP  020-150   III/1                 
+
+ 930       0047   ////      0047  CUL  C   RSP  020-090   III/1                 
+
+ 940       0047   ////      0051  LEA  C   RSP  025-098   III/1                 
+
+ 950       0100   0100      0100  LEA  G   RBR  245       130                   
+
+ 960       0104   0104      0104  PAL  G   RBR  245       140                   
+
+1060       0110   ////      0209  LEA  G   RNS  245       320                   
+
+ 970       0112   0112      0112  PAL  G   RBR  245       100                   
+
+ 980       0117   ////      0117  CUL  C   RSP  018-180   III/1                 
+
+ 990       0117   ////      0117  LEA  C   RSP  025-180   III/2                 
+
+1000       0134   ////      0135  CUL  C   RSP  018-060   III/1                 
+
+1010       0234   0241      0251  G15  5   XRA  1-8A      C4.0    2.6E-03   2146
+1010       0237   0238      0304  LEA  3   FLA  N10W48    SF      ERU       2146
+
+1020       0337   ////      0337  CUL  C   RSP  018-060   III/1                 
+
+1030       0351   ////      0351  CUL  C   RSP  018-200   III/2                 
+
+1040       0441   0441      0441  LEA  G   RBR  245       230                   
+
+1050 +     0525   ////      0529  LEA  C   RSP  025-180   III/2                 
+1050       0525   ////      0625  SVI  C   RSP  025-180   VI/2                  
+1050 +     0529   0529      0529  LEA  G   RBR  245       2000                  
+
+1080       0546   ////      0613  LEA  C   RSP  025-171   VI/2                  
+1080       0547   ////      0547  CUL  C   RSP  020-070   III/1                 
+
+1070       0609   0614      0630  G15  5   XRA  1-8A      C1.0    1.1E-03   2146
+1070       0610   ////      0613  CUL  C   RSP  018-180   III/2             2146
+1070 +     0612   0613      0641  LEA  3   FLA  N09W49    SF      ERU       2146
+
+1090       0713   ////      0732  SVI  C   RSP  025-173   VI/2                  
+1090       0724   ////      0732  LEA  C   RSP  025-133   III/2                 
+
+1100 +     0750   ////      0854  SVI  C   RSP  075-180   CTM/1                 
+1100 +     0816   ////      0926  LEA  C   RSP  025-180   VI/2                  
+
+1110       0923   0928      0933  G15  5   XRA  1-8A      C1.9    7.5E-04   2146
+1110 +     0925   0926      0930  SVI  3   FLA  N07W50    SF                2146
+1110       0925   ////      0926  SVI  C   RSP  025-082   III/1             2146
+
+1120 +     1013   ////      1037  SVI  C   RSP  025-146   VI/1                  
+
+1150 +     1112   ////      1128  SVI  C   RSP  025-180   VI/2                  
+
+1130 +     1133   ////      1135  SVI  C   RSP  025-180   V/2                   
+
+1160 +     1214   ////      1236  SAG  C   RSP  025-167   VI/2                  
+
+1170 +     1244   ////      1246  SVI  C   RSP  025-180   V/2                   
+1170 +     1244   1244      1244  SVI  G   RBR  245       710                   
+
+1180 +     1255   1255      1255  SVI  G   RBR  245       110                   
+
+1190 +     1313   ////      1451  SVI  C   RSP  025-180   VI/1                  
+
+1200 +     1541   ////      1547  SVI  C   RSP  102-180   III/1                 
+
+1210       1630   1631      1638  SVI  3   FLA  N14E19    SF                2149
+1210 +     1632   ////      1633  SVI  C   RSP  025-081   III/1             2149
+
+1220       1705   ////      2025  SAG  C   RSP  025-180   VI/2                  
+
+1240       2236   ////      2241  CUL  C   RSP  018-180   III/1                 
+
+1230       2254   2325      2338  G15  5   XRA  1-8A      C5.6    8.2E-03   2146
+1230       2316   2332      2357  LEA  3   FLA  N09W58    SF      ERU       2146
+1230       2324   ////      2331  CUL  C   RSP  018-180   III/1             2146

@@ -1,0 +1,48 @@
+:Product: 20140731events.txt
+:Created: 2014 Aug 03 0332 UT
+:Date: 2014 07 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jul 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3810       0032   ////      0038  LEA  C   RSP  025-116   III/1                 
+
+3820       0204   0208      0210  G15  5   XRA  1-8A      C1.3    2.7E-04   2127
+3820       0205   ////      0304  LEA  C   RSP  025-180   VI/2                  
+
+3830 +     0410   ////      0718  SVI  C   RSP  025-171   VI/2              2127
+3830       0439  U0440     A0509  SVI  3   FLA  S05E30    SF                2127
+
+3840       0505   0510      0514  G15  5   XRA  1-8A      C1.7    6.3E-04   2130
+3840      B0508  U0510      0522  SVI  3   FLA  S07E54    SN      ERU       2130
+
+3850       0521   ////      0718  LEA  C   RSP  025-161   VI/1                  
+
+3860       0914   0921      0928  G15  5   XRA  1-8A      C1.8    1.1E-03   2130
+3860       0914   0918      0941  SVI  3   FLA  S08E54    SF      ERU       2130
+
+3870       1101   1114      1121  G15  5   XRA  1-8A      M2.5    1.7E-02   2130
+
+3880 +     1310   ////      1430  SVI  C   RSP  025-081   VI/2                  
+
+3890       1510   1517      1527  G15  5   XRA  1-8A      C3.5    2.4E-03   2130
+3890       1519   ////      1527  SVI  C   RSP  025-051   III/1             2130
+3890      B1523  U1523     A1558  SVI  3   FLA  S09E49    SF      ERU       2130
+
+3900      B1614  U1623     A1636  SVI  3   FLA  S16E65    SF      ERU           
+
+3920       1834   1855      1907  G15  5   XRA  1-8A      C1.9    2.9E-03   2130
+
+3910       1914   1914      1914  PAL  G   RBR  245       120                   
+
+3930 +     2110   2117      2127  G15  5   XRA  1-8A      C2.4    1.8E-03   2130
+
+3940       2236   ////      2247  SAG  C   RSP  025-078   III/1                 
+
+3950       2335   ////      2343  LEA  C   RSP  074-136   III/1                 

@@ -1,0 +1,64 @@
+:Product: 20140816events.txt
+:Created: 2014 Aug 19 0332 UT
+:Date: 2014 08 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Aug 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7740       0000   ////      0000  PAL  G   RBR  245       330                   
+
+7750       0130   ////      0131  LEA  C   RSP  075-180   III/1                 
+
+7760       0210   ////      0210  LEA  C   RSP  029-068   III/1                 
+
+7770       0411   ////      0411  LEA  C   RSP  027-037   III/1                 
+
+7780 +     0541   0549      0601  G15  5   XRA  1-8A      C1.0    9.7E-04   2139
+7780 +     0543   0545      0609  LEA  3   FLA  N12E12    SF      ERU       2139
+
+7790 +     0614   ////      0615  SVI  C   RSP  036-171   III/1                 
+
+7800       0631   0635      0638  LEA  3   FLA  S18W37    SF      DSD       2144
+
+7860       0900   0903      0912  SVI  3   FLA  N13E14    SF      ERU       2139
+
+7810 +     0913   0915      0938  SVI  3   FLA  N13E14    SF      ERU       2139
+
+7870 +     0924   0930      0932  SVI  3   FLA  S21W39    SF      ERU       2144
+7870       0925   0929      0932  G15  5   XRA  1-8A      C2.7    6.5E-04   2144
+
+7820       1121   1125      1130  SVI  3   FLA  S20W40    SF      ERU       2144
+
+7840 +     1451   ////      1451  SAG  C   RSP  103-180   III/2                 
+
+7850       1515   1516      1528  SVI  3   FLA  N13E10    SF      ERU       2139
+
+8080      A1643   ////     A0527  SVI  3   DSF  S03E25    8                     
+
+7880       1718   ////      1719  SAG  C   RSP  025-180   III/1                 
+
+7890       1826   1826      1826  SAG  G   RBR  245       100                   
+
+7900       1849   ////      1849  SAG  C   RSP  025-075   III/1                 
+
+7910 +     1918   1918      1918  SAG  G   RBR  245       100                   
+
+7920       1943   1943      1943  PAL  G   RBR  245       100                   
+
+7930       2007   ////      2008  SAG  C   RSP  025-076   III/1                 
+
+7940       2041   ////      2103  SAG  C   RSP  025-142   VI/2                  
+
+8230      A2135   ////     A1300  HOL  3   DSF  N04E24    6                     
+
+7950       2238   2238      2238  PAL  G   RBR  245       110                   
+
+7960       2247   2247      2247  PAL  G   RBR  245       110                   
+
+7970       2304   ////      2359  LEA  C   RSP  086-180   CTM/1                 

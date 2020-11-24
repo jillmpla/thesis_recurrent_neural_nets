@@ -1,0 +1,90 @@
+:Product: 20140830events.txt
+:Created: 2014 Sep 02 0357 UT
+:Date: 2014 08 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Aug 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2120 +     0009   0010      0025  HOL  3   FLA  N07W35    SF      ERU       2149
+
+2130       0242   ////      0242  LEA  C   RSP  025-180   III/2                 
+
+2140       0305   0307      0307  LEA  3   FLA  S16E42    SF                2152
+
+2150       0416   0428      0439  G15  5   XRA  1-8A      C2.0    2.0E-03   2149
+2150       0418   0455      0541  LEA  3   FLA  N08W38    SF      ERU       2149
+
+2170      B0440  U0500      0539  SVI  3   FLA  N06W38    SF      ERU       2149
+
+2190      B0440  U0722      0758  SVI  3   FLA  S13E39    SN      ERU       2152
+
+2170       0449   0456      0508  G15  5   XRA  1-8A      C3.3    2.9E-03   2149
+
+2160       0452   0455      0457  LEA  3   FLA  S16E40    SF                2152
+
+2180       0548   0548      0549  LEA  3   FLA  S16E39    SF                2152
+
+2200       0556   0611      0614  LEA  3   FLA  S16E39    SF                2152
+
+2210       0623   ////      0624  LEA  C   RSP  053-107   III/1                 
+2210       0623   ////      0650  SVI  C   RSP  043-082   VI/1                  
+
+2220       0634   0641      0645  LEA  3   FLA  S16E39    SF                2152
+2220       0635   0638      0641  G15  5   XRA  1-8A      B8.7    1.9E-04   2152
+
+2230       0659   0804     A1003  LEA  3   FLA  S16E36    SF                2152
+
+2300       0711   0712      0729  LEA  3   FLA  N07W38    SF                2149
+
+2230       0718   0722      0726  G15  5   XRA  1-8A      C1.7    5.6E-04   2152
+
+2240       0733   ////      0733  LEA  U   RSP  105-180   III/1                 
+
+2250       0801   0803      0931  SVI  3   FLA  S14E39    SF                2152
+2250       0803   0806      0808  G15  5   XRA  1-8A      C1.0    1.7E-04   2152
+
+2260       0831   0835      0839  G15  5   XRA  1-8A      C1.3    4.2E-04   2149
+2260       0839   0839      0852  LEA  3   FLA  N08W39    SF                2149
+
+2410       0942   0947      0959  SVI  3   FLA  N09W30    SF      ERU       2149
+
+2270       0946   0946      0950  SVI  3   FLA  S14E38    SF                2152
+
+2420       0956   1003      1006  SVI  3   FLA  S15E37    SF                2152
+
+2310       1012   1015      1024  SVI  3   FLA  S15E37    SF                2152
+
+2280       1014   1019      1021  G15  5   XRA  1-8A      C2.0    5.0E-04   2149
+2280       1016   1018      1027  SVI  3   FLA  N05W41    SF      ERU       2149
+
+2290       1025   1026      1031  SVI  3   FLA  S15E37    SF                2152
+
+2320       1149   1153      1155  G15  5   XRA  1-8A      C1.0    2.0E-04   2152
+2320       1153   1153      1157  SVI  3   FLA  S15E37    SF                2152
+
+2370 +     1335   ////      1713  SVI  C   RSP  076-180   CTM/1                 
+
+2330       1359   ////      1400  SVI  C   RSP  025-059   III/1                 
+
+2340 +     1414   1414      1414  SAG  G   RBR  245       560                   
+2340       1414   1414      1414  SAG  G   RBR  410       130                   
+
+2350       1422   1425      1429  G15  5   XRA  1-8A      C2.8    7.4E-04   2152
+2350 +     1424   1425      1438  HOL  3   FLA  S14E35    SF      ERU       2152
+
+2360       1505   1508      1516  SVI  3   FLA  S15E35    SF                2152
+
+2380       1829   1833      1844  G15  5   XRA  1-8A      B9.8    6.7E-04       
+2380       1835   ////      1838  SAG  C   RSP  025-053   III/1                 
+2380       1836   1838      1838  SAG  G   RBR  245       2300                  
+2380       1838   1838      1838  SAG  G   RBR  410       160                   
+
+2390 +     2047   2048      2049  PAL  G   RBR  245       160                   
+
+2400       2336   ////      2359  LEA  C   RSP  103-180   CTM/1                 

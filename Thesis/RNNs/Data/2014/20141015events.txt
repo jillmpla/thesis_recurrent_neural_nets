@@ -1,0 +1,40 @@
+:Product: 20141015events.txt
+:Created: 2014 Oct 18 0357 UT
+:Date: 2014 10 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Oct 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1890 +     0000   ////      0757  LEA  C   RSP  029-180   VI/1                  
+1890 +     0000   ////      0848  LEA  C   RSP  074-180   CTM/1                 
+
+1950       0020   0020      0022  PAL  G   RNS  245       100                   
+
+1900 +     0138   0138      0138  LEA  G   RBR  245       120                   
+
+1910 +     0139   0139      0139  LEA  G   RBR  410       230                   
+
+1920       0240   ////      0241  CUL  C   RSP  020-040   III/2                 
+
+1930 +     0308   0308      0308  LEA  G   RBR  245       110                   
+
+1940       0507   0507      0507  LEA  G   RBR  245       230                   
+
+1960       0602   ////      0700  SVI  C   RSP  025-079   VI/1                  
+
+1970       0935   ////      1035  SVI  C   RSP  025-078   VI/1                  
+
+1990 +     1352   ////      1353  SVI  C   RSP  025-180   III/1                 
+
+2000 +     2231   ////      2355  LEA  C   RSP  099-180   CTM/1                 
+2000       2237   ////      2304  LEA  C   RSP  035-077   VI/1                  
+
+2010       2351   2351      2351  LEA  G   RBR  245       140                   
+
+2020       2352   ////      2353  LEA  C   RSP  104-171   III/1                 

@@ -1,0 +1,93 @@
+:Product: 20141004events.txt
+:Created: 2014 Oct 07 0357 UT
+:Date: 2014 10 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Oct 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9860       0000   ////      0153  LEA  C   RSP  103-180   CTM/1             2178
+9860       0014   ////      0118  LEA  C   RSP  026-134   VI/1              2178
+9860       0052   ////      0055  PAL  C   RSP  025-132   III/1             2178
+9860       0054   0102      0111  G15  5   XRA  1-8A      C1.7    1.3E-03   2178
+9860       0055   0056      0058  LEA  3   FLA  S03W04    SF                2178
+
+9870       0100   0105      0113  LEA  3   FLA  S03W04    SF      DSD       2178
+
+9910       0210   0224      0240  G15  5   XRA  1-8A      C1.4    2.0E-03   2178
+
+9880       0252   ////      0301  LEA  C   RSP  025-084   III/1                 
+
+9890       0448   0448      0448  LEA  G   RBR  245       110                   
+
+  10       0535   0549      0549  SVI  G   RNS  245       120                   
+
+9920 +     0602   ////      0602  LEA  C   RSP  035-115   III/1                 
+
+9930 +     0603   ////      0620  SVI  C   RSP  061-180   CTM/1                 
+
+9940       0623   0623      0623  LEA  G   RBR  245       110                   
+
+9950 +     0635   ////      0916  LEA  C   RSP  027-145   VI/2              2177
+9950       0648   0658      0708  G15  5   XRA  1-8A      C1.0    1.1E-03   2177
+9950       0656   0700      0705  LEA  3   FLA  N11E26    SF      ERU       2177
+9950       0716   0716      0716  SVI  U   RBR  245       160               2177
+
+9960       0742   0742      0742  SVI  G   RBR  245       100                   
+
+9970       0743   0743      0743  LEA  G   RBR  245       100                   
+
+9980       0850   ////      0854  SVI  C   RSP  025-180   V/2                   
+9980       0852   0852      0852  LEA  G   RBR  245       160                   
+
+9990       0939   0939      0939  LEA  G   RBR  245       120                   
+
+ 150       1016   1021      1024  G15  5   XRA  1-8A      C1.4    6.2E-04   2178
+
+  20 +     1111   ////      1446  SAG  C   RSP  102-180   CTM/1                 
+
+  30 +     1255   ////      1255  SAG  C   RSP  025-159   III/1                 
+
+  40 +     1304   1304      1305  SVI  G   RBR  245       180                   
+
+  50 +     1311   1311      1311  SVI  G   RBR  245       110                   
+
+  60 +     1423   1425      1426  SAG  G   RBR  245       240                   
+  60 +     1423   ////      1426  SAG  C   RSP  025-180   III/2                 
+
+  70       1539   1539      1539  SVI  G   RBR  245       100                   
+
+  80       1549   ////      1550  SVI  C   RSP  026-081   III/1                 
+  80       1549   ////      1755  SAG  C   RSP  025-180   VI/2                  
+
+  90       1620   ////      1620  SVI  C   RSP  029-122   III/1                 
+
+ 100       1630   1630      1630  SAG  G   RBR  245       240                   
+
+ 110       1633   1633      1633  SAG  G   RBR  245       310                   
+
+ 160       1656   ////      2212  PAL  C   RSP  025-180   VI/2                  
+
+ 120       1726   1726      1726  PAL  G   RBR  245       120                   
+
+ 130 +     1850   1850      1850  SAG  G   RBR  245       180                   
+
+ 140       1907   ////      1908  SAG  C   RSP  025-127   III/1                 
+
+ 170       2013   ////      2016  SAG  C   RSP  025-161   III/1                 
+
+ 180       2056   ////      2056  SAG  C   RSP  025-180   III/1                 
+
+ 190       2109   2109      2109  PAL  G   RBR  245       150                   
+
+ 200       2156   2157      2157  PAL  G   RBR  245       110                   
+
+ 210       2316   2317      2323  HOL  3   FLA  N01W19    SF      DSD       2178
+ 210       2320   ////      2359  LEA  C   RSP  027-180   VI/2              2178
+
+ 220       2342   ////      2359  PAL  C   RSP  025-180   VI/2                  

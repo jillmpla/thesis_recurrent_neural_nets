@@ -1,0 +1,51 @@
+:Product: 20141005events.txt
+:Created: 2014 Oct 08 0357 UT
+:Date: 2014 10 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Oct 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 240       0000   ////      0255  LEA  C   RSP  029-180   VI/1                  
+
+ 230 +     0143   0143      0143  LEA  G   RBR  245       1600                  
+ 230       0143   ////      0243  PAL  C   RSP  025-180   VI/1                  
+
+ 250       0332   ////      0332  LEA  C   RSP  031-146   III/1                 
+
+ 260 +     0605   ////      0616  LEA  C   RSP  032-146   VI/1                  
+
+ 270 +     0737   ////      0737  LEA  C   RSP  032-123   III/1                 
+
+ 280 +     0849   ////      1007  LEA  C   RSP  104-180   CTM/1                 
+
+ 330       0918   ////      1158  SVI  C   RSP  025-171   VI/1                  
+
+ 290 +     0932   0954      1016  G15  5   XRA  1-8A      C1.0    2.3E-03   2178
+ 290       0939   0943      0946  LEA  3   FLA  S01W23    SF                2178
+
+ 300       0949   ////      0949  LEA  C   RSP  132-180   III/1                 
+ 300       0949   0949      0949  LEA  G   RBR  245       340                   
+
+ 310       0951   0951      0951  LEA  G   RBR  245       200                   
+
+ 400      A0955   ////     A2235  LEA  3   DSF  N65W20    9                     
+
+ 410      A0955   ////     A2235  LEA  3   DSF  N67W39    8                     
+
+ 360       1211   1235      1311  G15  5   XRA  1-8A      C1.0    3.1E-03   2181
+
+ 350       1319   1335      1344  G15  5   XRA  1-8A      C1.2    1.6E-03       
+
+ 370       1633   1656      1705  G15  5   XRA  1-8A      C1.5    2.5E-03   2177
+
+ 380       1816   ////      2144  PAL  C   RSP  025-083   VI/1                  
+
+ 340       1816   ////      1816  SAG  C   RSP  025-061   III/1                 
+
+ 390       2245   ////      2245  LEA  C   RSP  030-083   III/1                 

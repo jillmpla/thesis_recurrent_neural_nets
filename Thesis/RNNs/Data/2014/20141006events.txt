@@ -1,0 +1,57 @@
+:Product: 20141006events.txt
+:Created: 2014 Oct 09 0357 UT
+:Date: 2014 10 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Oct 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 420       0001   0006      0011  G15  5   XRA  1-8A      C1.2    5.7E-04   2181
+ 420       0004   0005      0022  LEA  3   FLA  S11W45    SF                2181
+
+ 430       0103   ////      0146  LEA  C   RSP  029-180   VI/1                  
+ 430 +     0129   ////      0137  CUL  C   RSP  020-260   III/1                 
+ 430       0136   0136      0136  LEA  G   RBR  245       100                   
+
+ 570       0222   ////      0223  CUL  C   RSP  018-140   III/1                 
+
+ 580       0228   ////      0228  CUL  C   RSP  018-180   III/1                 
+
+ 450       0304   ////      0306  CUL  C   RSP  018-260   III/1                 
+ 450       0304   ////      0305  LEA  C   RSP  031-180   III/1                 
+ 450 +     0305   0305      0305  LEA  G   RBR  245       120                   
+
+ 460       0524   ////      0524  CUL  C   RSP  030-180   III/1                 
+ 460       0524   ////      0524  LEA  C   RSP  025-180   III/1                 
+
+ 610       0546   ////      0546  CUL  C   RSP  040-120   III/1                 
+
+ 470 +     1125   ////      1155  SAG  C   RSP  101-180   CTM/1                 
+
+ 490       1544   ////      1644  HOL  3   DSF  S18E62    11                2185
+
+ 480       1544   1549      1554  G15  5   XRA  1-8A      C1.7    6.6E-04   2181
+ 480       1546   1548      1554  HOL  3   FLA  S13W55    SF      ERU       2181
+
+ 490       1635   1707      1734  G15  5   XRA  1-8A      C3.0    7.7E-03   2185
+ 490 +     1640   1640      1640  SAG  G   RBR  245       110               2185
+ 490       1646   1703      1749  HOL  3   FLA  S16E60    SF      ERU       2185
+ 490 +     1652   1652      1652  SAG  G   RBR  410       180               2185
+
+ 510 +     2007   2007      2007  PAL  G   RBR  245       100                   
+
+ 520 +     2010   2010      2010  PAL  G   RBR  245       110                   
+
+ 530 +     2013   2013      2013  PAL  G   RBR  245       110                   
+
+ 540       2039   ////      2112  PAL  C   RSP  025-180   VI/1                  
+ 540       2108   2126      2141  G15  5   XRA  1-8A      C1.5    2.6E-03   2181
+
+ 550       2219   ////      2219  LEA  C   RSP  041-087   III/1                 
+
+ 560       2250   ////      2250  PAL  C   RSP  025-066   III/1                 

@@ -1,0 +1,101 @@
+:Product: 20140815events.txt
+:Created: 2014 Aug 18 0332 UT
+:Date: 2014 08 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Aug 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7320       0001   0004      0004  LEA  3   FLA  N14E63    SF                2141
+
+7370       0030   0045      0114  G15  5   XRA  1-8A      B5.0    1.2E-03   2144
+
+7380       0122   0136      0148  G15  5   XRA  1-8A      B7.1    9.6E-04   2141
+
+7330       0234   0239      0247  G15  5   XRA  1-8A      B6.2    3.5E-04   2139
+7330       0236   0239      0248  LEA  3   FLA  N16E30    SF      ERU       2139
+
+7340       0250   0251      0256  LEA  3   FLA  N15E33    SF                2139
+
+7390       0328   0340      0350  G15  5   XRA  1-8A      B5.4    6.7E-04   2142
+
+7400       0408   0413      0422  LEA  3   FLA  N12E31    SF                2139
+
+7410       0427   0427      0430  LEA  3   FLA  N15E32    SF                2139
+
+7420 +     0441   0443      0455  LEA  3   FLA  N14E32    SF                2139
+
+7650      B0446  U0452      0515  SVI  3   FLA  N19E61    SF                2141
+
+7430       0514   0514      0519  LEA  3   FLA  S20W78    SF                2137
+
+7480       0516   0545      0633  SVI  3   FLA  N19E61    SF                2141
+
+7440 +     0626   0626      0626  LEA  G   RBR  245       110                   
+
+7500      B0655  U0739      0926  SVI  3   FLA  N14E29    SF      ERU       2139
+
+7450      B0658  U0808     A0838  SVI  3   FLA  N19E61    SF                2141
+7450       0721   0737      0747  G15  5   XRA  1-8A      B6.0    8.5E-04   2141
+
+7460       0750   0756      0802  G15  5   XRA  1-8A      B6.5    4.6E-04   2139
+
+7470 +     0827   0837      0848  G15  5   XRA  1-8A      B9.5    9.7E-04   2139
+
+7510      B0832  U0848      0910  SVI  3   FLA  N19E60    SF                2141
+
+7470       0834   0837      0840  LEA  3   FLA  N13E29    SF      ERU       2139
+
+7490       0925   0938      0944  SVI  3   FLA  N19E60    SF                2141
+
+7710      A0940   ////     A2322  LEA  3   DSF  S24W32    6                     
+
+7720      A0940   ////     A2322  LEA  3   DSF  S13W03    23                    
+
+7520       1005   1010      1017  G15  5   XRA  1-8A      B9.0    4.7E-04   2144
+7520      B1015  U1015     A1019  SVI  3   FLA  S20W22    SF                2144
+
+7530       1031   1036      1043  G15  5   XRA  1-8A      B7.2    4.0E-04   2141
+
+7540       1047   1048      1050  SVI  3   FLA  N19E59    SF                2141
+
+7550       1058  U1102     A1137  SVI  3   FLA  S20W23    SF                2144
+
+7560       1144   1157      1159  SVI  3   FLA  S20W23    SF                2144
+
+7580       1154   1200      1208  G15  5   XRA  1-8A      C1.1    7.3E-04   2139
+
+7590       1200   1206      1214  SVI  3   FLA  S20W23    SF                2144
+
+7600       1222   1243      1247  SVI  3   FLA  S20W24    SF                2144
+
+7570       1230   1234      1237  SVI  3   FLA  N14E26    SF      ERU       2139
+
+7660       1241   1241      1244  SVI  3   FLA  N14E26    SF      ERU       2139
+
+7620       1300   1347      1350  G15  5   XRA  1-8A      C1.1    2.6E-03   2144
+
+7610       1300   ////      1300  SAG  C   RSP  036-097   III/1                 
+
+7620       1310   1325      1357  SVI  3   FLA  S19W25    1F                2144
+
+7670       1323   1324      1327  SVI  3   FLA  N14E26    SF                2139
+
+7680       1342   1342      1351  SVI  3   FLA  N14E24    SF                2139
+
+7630       1441   1443      1444  SVI  3   FLA  S19W27    SF                2144
+
+7640 +     1658   ////      1658  SAG  C   RSP  025-063   III/1                 
+
+7830      A1709   ////     A0458  SVI  3   DSF  N26E18    9                     
+
+7690       2146   2154      2206  G15  5   XRA  1-8A      C1.5    1.4E-03   2139
+
+7700       2234   2238      2240  G15  5   XRA  1-8A      C1.4    2.8E-04   2144
+
+7730       2358   2358      2358  PAL  G   RBR  245       130                   

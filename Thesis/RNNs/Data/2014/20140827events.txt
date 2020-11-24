@@ -1,0 +1,96 @@
+:Product: 20140827events.txt
+:Created: 2014 Aug 30 0357 UT
+:Date: 2014 08 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Aug 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1250       0230   0235      0239  G15  5   XRA  1-8A      C1.4    5.1E-04   2151
+1250       0232   0234      0242  LEA  3   FLA  S11E40    SF      DSD       2151
+
+1260 +     0249   ////      0250  CUL  C   RSP  018-070   III/3                 
+
+1270       0304   0307      0311  LEA  3   FLA  N08W62    SF                2146
+
+1280       0312   0320      0324  LEA  3   FLA  N08W62    SF                2146
+
+1330 +     0315   ////      0402  LEA  3   DSF  N13E10    6                 2149
+
+1280       0315   ////      0329  LEA  C   RSP  029-146   CTM/1             2146
+1280       0316   ////      0326  CUL  C   RSP  018-180   III/1             2146
+
+1290       0334   0342      0428  LEA  3   FLA  N12E13    SN      ERU       2149
+1290       0337   0358      0412  G15  5   XRA  1-8A      C4.3    7.5E-03   2149
+1290 +     0404   ////      0407  CUL  C   RSP  018-180   III/1             2149
+1290       0405   0405      0405  LEA  G   RBR  245       180               2149
+
+1300       0429   0436      0442  LEA  3   FLA  N10E06    SF      ERU       2149
+
+1490       0448   ////      0448  CUL  C   RSP  020-090   III/1                 
+
+1310 +     0507   ////      0615  SVI  C   RSP  029-154   VI/1              2146
+1310       0509   0520      0528  G15  5   XRA  1-8A      C1.8    1.8E-03   2146
+1310       0511   0516      0535  LEA  3   FLA  N10W61    SF      ERU       2146
+1310 +     0541   ////      0552  LEA  C   RSP  152-171   CTM/1             2146
+
+1340       0656   ////      0700  SVI  C   RSP  025-115   III/1                 
+
+1320       0656   ////      0700  LEA  C   RSP  037-135   III/1                 
+
+1350       0732   ////      0853  SVI  C   RSP  025-180   VI/1                  
+1350       0746   ////      0751  LEA  C   RSP  027-163   III/1                 
+
+1360       0852   ////      0853  LEA  C   RSP  031-106   III/1                 
+
+1370       0937   ////      0942  SVI  C   RSP  025-180   III/1                 
+
+1390 +     1104   ////      1138  SAG  C   RSP  025-180   VI/2                  
+
+1380       1105   ////      1106  SVI  C   RSP  025-180   V/2                   
+
+1400       1213   ////      1216  SAG  C   RSP  030-049   III/1                 
+
+1410 +     1329   ////      1336  SVI  C   RSP  025-180   V/2                   
+
+1420 +     1417   ////      1527  SVI  C   RSP  025-154   VI/1              2149
+1420      B1508  U1510      1517  SVI  3   FLA  N12E06    SF      ERU       2149
+
+1430       1600   ////      1614  SVI  C   RSP  025-146   VI/1              2149
+1430       1609   1610      1619  SVI  3   FLA  N09W02    SF                2149
+
+1690      A1647   ////     A0500  SVI  3   DSF  S21W50    11                    
+
+1440       1654   ////      1705  SAG  C   RSP  025-180   VI/1                  
+1440       1654   ////      1659  SVI  C   RSP  075-180   III/1                 
+
+1450       1732   ////      1738  SAG  C   RSP  025-043   III/1                 
+
+1460 +     1840   1846      1856  G15  5   XRA  1-8A      B8.1    6.2E-04   2148
+
+1480       1912   ////      1937  SAG  C   RSP  104-180   VI/2                  
+1480       1937   1937      1937  PAL  G   RBR  245       240                   
+
+1470       1937   1937      1937  SAG  G   RBR  245       230                   
+
+1500       2057   ////      2059  CUL  C   RSP  023-180   III/1                 
+
+1510       2206   ////      2210  CUL  C   RSP  027-200   III/1                 
+
+1520       2218   2222      2225  G15  5   XRA  1-8A      B5.1    1.4E-04       
+1520       2219   ////      2223  CUL  C   RSP  020-230   III/1                 
+1520       2220   ////      2248  SAG  C   RSP  025-180   VI/2                  
+
+1530       2245   ////      2249  CUL  C   RSP  023-280   III/3             2151
+1530       2246   2249      2253  G15  5   XRA  1-8A      B6.9    1.9E-04   2151
+1530       2247   2248      2248  PAL  G   RBR  245       300               2151
+1530       2248   2248      2254  HOL  3   FLA  S05E21    SF      DSD       2151
+
+1540       2321   ////      2341  LEA  C   RSP  025-167   VI/1                  
+1540       2328   ////      0030  LEA  2   EPL  ////      0.2                   
+1540 +     2328   ////      2330  CUL  C   RSP  080-180   III/1                 

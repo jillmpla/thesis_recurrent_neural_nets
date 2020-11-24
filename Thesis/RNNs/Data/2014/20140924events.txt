@@ -1,0 +1,64 @@
+:Product: 20140924events.txt
+:Created: 2014 Sep 27 0357 UT
+:Date: 2014 09 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Sep 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7280       0000   ////      0047  LEA  C   RSP  038-135   IV/1                  
+
+7290       0210   0210      0222  LEA  3   FLA  S10E38    SF                2172
+
+7300       0250   ////      0250  LEA  C   RSP  032-062   III/1                 
+
+7310       0450   0450      0450  LEA  G   RBR  245       180                   
+
+7320       0542   0542      0545  SVI  3   FLA  S09E36    SF                2172
+
+7460      A0948   ////     A2316  LEA  3   DSF  N45E18    5                     
+
+7340       1022   1023      1023  SVI  G   RBR  245       140                   
+7340       1022   ////      1026  SVI  C   RSP  025-165   V/2                   
+
+7350       1338   1339      1342  HOL  3   FLA  S10E31    SF                2172
+
+7360 +     1559   1559      1559  SAG  G   RBR  410       130                   
+
+7370       1601   1611      1614  G15  5   XRA  1-8A      C1.8    9.7E-04   2172
+7370 +     1609   1611      1617  HOL  3   FLA  S12E25    SF      DSD       2172
+7370 +     1609   ////      1611  SAG  C   RSP  121-180   III/1             2172
+7370 +     1610   1610      1610  SAG  G   RBR  245       210               2172
+7370 +     1611   1611      1611  SAG  G   RBR  410       340               2172
+
+7380       1655   1655      1655  SAG  G   RBR  410       180                   
+
+7390       1701   1701      1701  PAL  G   RBR  410       100                   
+
+7400       1745   1750      1752  G15  5   XRA  1-8A      C7.0    1.3E-03   2172
+7400 +     1747   1749      1803  HOL  3   FLA  S13E24    1N      BPT       2172
+7400 +     1748   1749      1749  SAG  G   RBR  410       1100              2172
+7400       1748   1749      1750  PAL  G   RBR  1415      670               2172
+7400       1749   1749      1749  PAL  G   RBR  2695      190               2172
+7400       1749   1749      1749  PAL  G   RBR  4995      180               2172
+7400       1749   1749      1749  PAL  G   RBR  8800      270               2172
+7400       1749   1749      1749  PAL  G   RBR  15400     320               2172
+7400 +     1749   ////      1832  SAG  C   RSP  102-180   IV/1              2172
+7400 +     1749   1749      1749  SAG  G   RBR  245       260               2172
+
+7410       1752   1752      1752  PAL  G   RBR  410       110                   
+
+7420       1753   1753      1753  SAG  G   RBR  410       120                   
+
+7430       1917   1921      1929  HOL  3   FLA  N13E05    SF      ERU           
+
+7440 +     2057   ////      2101  CUL  C   RSP  023-070   III/3                 
+
+7470       2307   ////      2327  LEA  C   RSP  032-076   VI/1                  
+
+7450       2336   2342      2354  G15  5   XRA  1-8A      C4.8    3.5E-03   2177

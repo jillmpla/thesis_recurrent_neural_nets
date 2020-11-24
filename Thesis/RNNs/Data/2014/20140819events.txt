@@ -1,0 +1,82 @@
+:Product: 20140819events.txt
+:Created: 2014 Aug 22 0332 UT
+:Date: 2014 08 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Aug 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8640       0021   ////      0021  LEA  C   RSP  025-135   III/1                 
+
+8650       0022   ////      0022  CUL  C   RSP  018-120   III/2                 
+
+8660 +     0027   ////      0028  CUL  C   RSP  018-060   III/2                 
+
+8670       0028   0028      0028  LEA  G   RBR  245       100                   
+
+8680       0041   0041      0041  LEA  G   RBR  245       130                   
+
+8690 +     0150   ////      0150  CUL  C   RSP  018-100   III/2                 
+
+8800       0218   ////      0757  LEA  C   RSP  123-180   CTM/1                 
+
+8700       0235   0235      0235  PAL  G   RBR  245       110                   
+
+8710       0240   0240      0240  PAL  G   RBR  245       110                   
+
+8720       0310   0310      0310  PAL  G   RBR  245       110                   
+
+8730       0314   ////      0314  LEA  C   RSP  025-047   III/1                 
+
+8740       0315   ////      0315  CUL  C   RSP  018-080   III/1                 
+
+8750       0358   0358      0358  PAL  G   RBR  245       100                   
+
+8760       0359   ////      0359  CUL  C   RSP  018-057   III/1                 
+
+8770 +     0411   ////      0412  CUL  C   RSP  018-120   III/2                 
+
+8790 +     0419   0437      0314  LEA  G   RNS  245       140                   
+
+8780       0536   0548      0604  G15  5   XRA  1-8A      B5.6    7.9E-04   2147
+8780 +     0546   0546      0551  LEA  3   FLA  S13E57    SF                2147
+
+8810       0614   0648      0717  G15  5   XRA  1-8A      B8.1    2.6E-03   2147
+8810       0632   0635      0648  LEA  3   FLA  S12E57    SF                2147
+8810 +     0638   ////      0639  CUL  C   RSP  020-090   III/2             2147
+
+8820       0725   ////      0725  SVI  C   RSP  025-049   III/1                 
+
+8830       0847   ////      0909  SVI  C   RSP  025-060   VI/1                  
+
+8940      A0939   ////     A2323  LEA  3   DSF  S20W34    10                    
+
+8840       1013   1020      1030  SVI  3   FLA  N14E47    SF      DSD       2146
+
+8850       1031   1034      1040  SVI  3   FLA  S04W01    SF                2143
+
+8860 +     1109   ////      1112  SAG  C   RSP  025-180   III/1                 
+
+8870 +     1314   ////      1315  SAG  C   RSP  025-075   III/1                 
+
+8880 +     1500   ////      1501  SVI  C   RSP  025-063   III/1                 
+
+9110      A1547   ////     A0527  SVI  3   DSF  N20E70    14                    
+
+8890       1623   ////      1635  SVI  C   RSP  025-079   VI/1                  
+8890       1623   ////      1623  SAG  C   RSP  025-042   III/1                 
+
+8900 +     1709   ////      1716  SAG  C   RSP  025-180   III/2                 
+
+8910       2320   2320      2320  LEA  G   RBR  245       150                   
+8910       2320   ////      2321  LEA  C   RSP  068-180   III/1                 
+
+8920 +     2322   2332      2342  LEA  3   FLA  N06E58    SF      DSD       2148
+8920       2325   2331      2333  G15  5   XRA  1-8A      C1.9    4.9E-04   2148
+
+9140      A2342   ////     A1528  HOL  3   DSF  N07E63    9                     

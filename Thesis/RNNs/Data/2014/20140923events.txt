@@ -1,0 +1,49 @@
+:Product: 20140923events.txt
+:Created: 2014 Sep 26 0357 UT
+:Date: 2014 09 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Sep 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7170 +     0216   ////      0253  PAL  C   RSP  078-180   CTM/1                 
+
+7180 +     0634   ////      0848  LEA  C   RSP  075-180   CTM/1                 
+
+7190       1528   1536      1539  G15  5   XRA  1-8A      C1.1    7.0E-04   2172
+7190       1530   1536      1541  SVI  3   FLA  S12E48    SF                2172
+
+7330      A1559   ////     A0534  SVI  3   DSF  S23W55    9                     
+
+7200       1813   1813      1821  HOL  3   FLA  S09E41    SF      ERU       2172
+
+7210       1841   1844      1852  HOL  3   FLA  S09E41    SF      ERU       2172
+
+7270       2038   ////      2038  CUL  C   RSP  050-450   III/1                 
+
+7220 +     2038   2038      2038  PAL  G   RBR  245       180                   
+7220       2038   2038      2038  PAL  G   RBR  410       200                   
+7220 +     2038   ////      2038  SAG  C   RSP  043-180   III/2                 
+
+7230       2044   2058      2110  G15  5   XRA  1-8A      B9.6    6.9E-04       
+
+7240       2248   2251      2258  LEA  3   FLA  S11E39    SF                2172
+
+7250 +     2301   2309      0010  LEA  3   FLA  S13E33    2B      DSD/BSD   2172
+7250       2303   2316      2328  G15  5   XRA  1-8A      M2.3    2.2E-02   2172
+7250 +     2306   ////      2312  PAL  C   RSP  025-180   III/2             2172
+7250 +     2306   2307      2308  PAL  G   RBR  245       380               2172
+7250 +     2307   2309      2310  PAL  G   RBR  410       260               2172
+7250 +     2307   2308      2310  PAL  G   RBR  1415      390               2172
+7250 +     2307   2309      2312  PAL  G   RBR  2695      250               2172
+7250 +     2307   2309      2313  PAL  G   RBR  4995      590               2172
+7250 +     2308   2309      2310  PAL  G   RBR  610       200               2172
+7250 +     2308   2309      2313  PAL  G   RBR  8800      420               2172
+7250 +     2309   2309      2312  PAL  G   RBR  15400     240               2172
+7250 +     2314   ////      2335  PAL  C   RSP  025-180   II/2    652       2172
+7250 +     2340   ////      2359  PAL  C   RSP  073-115   IV/1              2172

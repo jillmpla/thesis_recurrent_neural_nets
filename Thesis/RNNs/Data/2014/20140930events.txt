@@ -1,0 +1,51 @@
+:Product: 20140930events.txt
+:Created: 2014 Oct 03 0357 UT
+:Date: 2014 09 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Sep 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9130       0237   ////      0237  CUL  C   RSP  020-060   III/1                 
+
+9140       0410   0444      0510  G15  5   XRA  1-8A      C2.6    6.7E-03   2173
+9140       0431   0440      0452  LEA  3   FLA  S15W56    SF                2173
+
+9280       0521   ////      0521  CUL  C   RSP  110-180   III/1                 
+
+9150       0542   0547      0555  LEA  3   FLA  N11E26    SF                2177
+
+9160       0606   0607      0615  LEA  3   FLA  N16W64    SF      DSD       2175
+
+9170       0621   0622      0626  LEA  3   FLA  S16E57    SF                2179
+
+9180 +     0634   0637      0643  LEA  3   FLA  S12W68    SF                2171
+
+9190       0702   0705      0708  LEA  3   FLA  S12W48    SF                2173
+
+9200 +     0748   0805      0808  SVI  3   FLA  S15W45    SF      ERU       2172
+
+9210       0938   ////      0938  SVI  C   RSP  027-081   III/1                 
+
+9220       1106   1116      1122  SVI  3   FLA  S15E55    SF                2179
+
+9230 +     1253   1253      1254  SVI  G   RBR  245       180                   
+9230       1253   ////      1254  SVI  C   RSP  066-180   III/1                 
+
+9240       1254   ////      1254  SAG  C   RSP  061-146   III/1             2179
+9240       1254   1254      1256  SVI  3   FLA  S11E50    SF                2179
+
+9250       1332   1337      1340  SVI  3   FLA  N05W18    SF                2176
+
+9260       1701   1701      1706  HOL  3   FLA  N06W20    SF      ERU       2176
+
+9270 +     1933   ////      2104  PAL  C   RSP  025-137   VI/1                  
+
+9290       2323   ////      2323  CUL  C   RSP  020-150   III/1                 
+
+9300       2339   ////      2339  CUL  C   RSP  020-057   III/1                 

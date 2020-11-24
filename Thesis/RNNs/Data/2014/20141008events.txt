@@ -1,0 +1,51 @@
+:Product: 20141008events.txt
+:Created: 2014 Oct 11 0357 UT
+:Date: 2014 10 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Oct 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 710 +     0044   0044      0044  LEA  G   RBR  245       250                   
+ 710       0044   ////      0045  LEA  C   RSP  068-180   III/1                 
+
+ 730       0045   ////      0045  CUL  C   RSP  100-300   III/1                 
+
+ 720 +     0302   ////      0302  CUL  C   RSP  018-180   III/2                 
+
+ 740 +     0746   ////      0747  SVI  C   RSP  027-080   III/1                 
+
+ 750 +    B0914  U0915     A0938  SVI  3   FLA  S16W31    SF                2182
+
+ 800       0937   0937      0944  SVI  3   FLA  N15E30    SF                    
+
+ 760       1234   ////      1234  SVI  C   RSP  027-081   III/1                 
+
+ 770       1304   1317      1320  G15  5   XRA  1-8A      C1.0    7.2E-04   2182
+ 770       1305   1306      1319  SVI  3   FLA  S16W32    SF      ERU       2182
+
+ 780       1346   1347      1357  SVI  3   FLA  N15E27    SF                    
+
+1000      A1456   ////     A0612  SVI  3   DSF  N13E02    6                     
+
+ 790       1645   1651      1656  G15  5   XRA  1-8A      C2.1    9.0E-04   2182
+ 790      B1648   1649      1654  HOL  3   FLA  S17W38    SF      DSD       2182
+
+ 810       1948   1953      1958  G15  5   XRA  1-8A      C2.0    8.1E-04   2182
+ 810       1952   1953      1956  HOL  3   FLA  S17W41    SF      DSD       2182
+
+ 820       2021   2027      2034  G15  5   XRA  1-8A      C1.8    1.1E-03       
+
+ 830       2102   2102      2102  PAL  G   RBR  610       200                   
+
+ 840       2102   2102      2102  SAG  G   RBR  610       110                   
+
+ 850       2103   2104      2107  HOL  3   FLA  S17W41    SF      DSD       2182
+
+ 860       2225   2254      2303  G15  5   XRA  1-8A      C3.8    5.0E-03   2182
+ 860       2248   2258      2321  LEA  3   FLA  S14W43    SF                2182
