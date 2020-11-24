@@ -1,0 +1,58 @@
+:Product: 20150810events.txt
+:Created: 2015 Aug 13 0357 UT
+:Date: 2015 08 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Aug 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4350 +     0000   ////      0456  PAL  C   RSP  025-114   VI/1                  
+4350 +     0000   ////      0720  LEA  C   RSP  075-180   CTM/1                 
+4350 +     0044   0044      0044  PAL  G   RBR  245       100                   
+
+4390       0225   ////      0949  LEA  C   RSP  025-180   VI/2                  
+
+4360       0300   0300      0301  LEA  U   RBR  245       120                   
+
+4400       0406   ////      1037  SVI  C   RSP  025-170   VI/2                  
+4400       0406   ////      0717  SVI  C   RSP  100-180   CTM/1                 
+
+4370 +     0604   0610      0612  G15  5   XRA  1-8A      B8.2    2.4E-04   2396
+4370       0608   0608      0613  SVI  3   FLA  S21W31    SF      ERU       2396
+
+4410 +     0907   0911      0913  G15  5   XRA  1-8A      B7.6    1.3E-04   2396
+4410       0910   0911      0913  LEA  3   FLA  S18W37    SF      DSD       2396
+
+4430       0924   ////      1010  SVI  C   RSP  117-180   CTM/1                 
+
+4420       0933   ////      0949  LEA  C   RSP  129-169   CTM/1                 
+
+4520       1044   ////      2253  SAG  C   RSP  025-180   VI/2                  
+
+4440       1136   ////      1136  SVI  C   RSP  025-039   III/1                 
+
+4500       1308   ////      1742  SVI  C   RSP  025-172   VI/1                  
+
+4450 +     1353   1353      1353  SAG  G   RBR  245       130                   
+
+4460       1529   1529      1529  SAG  G   RBR  245       120                   
+
+4470 +     1629   1629      1629  SAG  G   RBR  245       110                   
+
+4480 +     1646   1646      1646  SAG  G   RBR  245       130                   
+
+4490       1706   1706      1706  SVI  G   RBR  245       110                   
+
+4530       1753   ////      2359  PAL  C   RSP  025-180   VI/2                  
+4530 +     1826   ////      2057  SAG  C   RSP  104-180   CTM/1                 
+
+4510       2032   2032      2032  PAL  G   RBR  245       110                   
+
+4540       2308   ////      2359  LEA  C   RSP  118-180   CTM/1                 
+4540 +     2315   2315      2315  PAL  G   RBR  245       150                   
+4540       2356   ////      2356  LEA  C   RSP  028-083   III/1                 

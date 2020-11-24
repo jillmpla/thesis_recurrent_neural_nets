@@ -1,0 +1,26 @@
+:Product: 20150830events.txt
+:Created: 2015 Sep 02 0357 UT
+:Date: 2015 08 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Aug 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9700       0000   ////      0000  LEA  C   RSP  025-077   III/1                 
+
+9710 +     0201   0330      0423  G15  5   XRA  1-8A      M1.4    7.1E-02   2403
+
+9720 +     0341   ////      0614  LEA  C   RSP  109-180   CTM/1                 
+
+9740       0643   ////      0644  LEA  C   RSP  032-075   III/1                 
+
+9750 +     0923   0938      1000  G15  5   XRA  1-8A      C1.0    2.0E-03   2403
+9750       0951   ////      0952  LEA  C   RSP  031-073   III/1                 
+
+9760       1329   1351      1354  G15  5   XRA  1-8A      C1.0    9.2E-04   2405
+9760       1334   1347      1355  HOL  3   FLA  S23E16    SF                2405

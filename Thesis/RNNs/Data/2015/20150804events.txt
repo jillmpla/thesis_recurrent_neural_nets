@@ -1,0 +1,26 @@
+:Product: 20150804events.txt
+:Created: 2015 Aug 07 0357 UT
+:Date: 2015 08 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Aug 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2890 +     0646   ////      0646  SVI  C   RSP  032-075   III/1                 
+
+2900 +     0912   0918      0937  LEA  3   FLA  S16E52    SF      DSD       2396
+
+2950 +    A0937   ////     A2327  LEA  2   DSF  N31E03    6                     
+
+2920 +     1549   ////      1601  SAG  C   RSP  025-180   VI/1                  
+
+2930       1635   1635      1638  HOL  4   FLA  N16W14    SF      ERU       2393
+
+3060      A1654   ////     A0533  SVI  3   DSF  N17W31    12                    
+
+2940       1836   1841      1851  G15  5   XRA  1-8A      B4.4    3.1E-04   2396

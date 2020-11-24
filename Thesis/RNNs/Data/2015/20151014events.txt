@@ -1,0 +1,45 @@
+:Product: 20151014events.txt
+:Created: 2015 Oct 17 0357 UT
+:Date: 2015 10 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Oct 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7590 +     0002   ////      0005  PAL  C   RSP  025-180   III/2                 
+
+7600       0014   ////      0025  HOL  2   BSL  ////      0.26                  
+
+7670      A0015   ////     A1336  HOL  3   DSF  S31E09    6                 2432
+
+7710       0244   ////      0244  CUL  C   RSP  018-060   III/2                 
+
+7610 +     0649   ////      0650  CUL  C   RSP  018-075   III/3                 
+
+7720       0652   ////      0652  CUL  C   RSP  023-057   III/1                 
+
+7620 +     0709   0712      0716  G15  5   XRA  1-8A      B4.5    1.2E-04   2434
+
+7630 +     0743   ////      0744  SVI  C   RSP  025-132   III/1                 
+
+7640 +     0748   0753      0757  G15  5   XRA  1-8A      B8.8    3.0E-04   2434
+
+7650 +     1320   1338      1345  G15  5   XRA  1-8A      C1.8    1.9E-03   2434
+7650       1334   1336      1342  HOL  3   FLA  S09E68    SF                2434
+
+7660       1356   ////      1358  SVI  C   RSP  025-145   III/1                 
+
+7680 +     1546   1554      1602  G15  5   XRA  1-8A      B7.6    5.4E-04   2432
+7680       1549   1553      1606  HOL  4   FLA  S22E05    SF      ERU       2432
+
+7690 +     1737   1747      1800  G15  5   XRA  1-8A      C1.5    1.6E-03   2434
+7690       1742   1743      1756  HOL  4   FLA  S10E73    SF      ERU       2434
+
+7700       1743   ////      1928  HOL  3   DSF  S37W39    15                    
+
+7730 +     2333   2339      2344  G15  5   XRA  1-8A      B8.7    3.8E-04   2434

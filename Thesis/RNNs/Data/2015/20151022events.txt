@@ -1,0 +1,26 @@
+:Product: 20151022events.txt
+:Created: 2015 Oct 25 0357 UT
+:Date: 2015 10 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Oct 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9030       0213   0340      0515  G15  5   XRA  1-8A      C4.4    3.6E-02   2434
+9030       0230   0231      0232  PAL  G   RBR  245       290               2434
+9030 +     0230   ////      0240  LEA  C   RSP  025-180   III/1             2434
+9030       0239   0303      0444  LEA  1   FLA  S11W27    SF      UMB       2434
+
+9040       0811   0812      0812  SVI  G   RBR  245       120                   
+
+9050       1258   1258      1258  SVI  G   RBR  410       230                   
+
+9070       1934   ////      1935  PAL  C   RSP  025-047   III/1                 
+
+9080       2240   2242      2248  HOL  3   FLA  S15W79    SF                2431
+9080 +     2241   ////      2244  HOL  2   EPL  ////      0.15              2431

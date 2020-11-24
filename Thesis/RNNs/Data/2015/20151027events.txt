@@ -1,0 +1,76 @@
+:Product: 20151027events.txt
+:Created: 2015 Oct 30 0357 UT
+:Date: 2015 10 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Oct 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9590       0153   ////      0155  LEA  C   RSP  025-180   V/2                   
+9590       0154   0154      0154  PAL  G   RBR  245       470                   
+9590 +     0154   ////      0156  CUL  C   RSP  018-270   III/2                 
+
+9600       0154   0154      0155  LEA  U   RBR  245       1400                  
+
+9610       0255   ////      0255  LEA  C   RSP  031-149   III/1                 
+
+9820       0256   ////      0256  CUL  C   RSP  035-057   III/1                 
+
+9620       0349   ////      0349  LEA  C   RSP  025-180   III/1                 
+
+9830       0350   ////      0352  CUL  C   RSP  020-400   III/1                 
+
+9630       0350   0350      0350  LEA  U   RBR  245       880                   
+
+9640 +     0421   ////      0422  LEA  C   RSP  039-089   III/1                 
+
+9650       0505   0514      0520  G15  5   XRA  1-8A      C1.0    9.2E-04   2436
+
+9660       0743   0743      0743  SVI  G   RBR  245       170                   
+9660       0743   ////      0743  SVI  C   RSP  077-180   III/1                 
+9660       0743   ////      0929  LEA  C   RSP  028-180   VI/1                  
+
+9670       0744   0744      0744  LEA  G   RBR  245       310                   
+
+9680 +     0748   ////      0748  CUL  C   RSP  020-050   III/2                 
+
+9690       0812   0812      0813  SVI  G   RBR  245       220                   
+9690       0812   ////      0815  SVI  C   RSP  057-180   III/1                 
+
+9700       0813   0813      0813  LEA  G   RBR  245       280                   
+
+9710 +     0836   ////      0839  SVI  C   RSP  025-180   III/2                 
+9710 +     0837   0837      0837  SVI  G   RBR  245       4300                  
+
+9720 +     0842   ////      0845  SVI  C   RSP  025-180   III/2                 
+9720 +     0844   0844      0844  SVI  G   RBR  245       180                   
+
+9730       0927   ////      0936  SVI  C   RSP  025-138   III/1                 
+
+9740       1014   ////      1156  SVI  C   RSP  025-180   VI/3                  
+9740       1106   1208      1308  G15  5   XRA  1-8A      C1.5    9.6E-03       
+
+9750       1151   ////      1156  SAG  C   RSP  025-180   V/2                   
+
+9770       1308   1429      1515  G15  5   XRA  1-8A      C3.2    1.8E-02       
+
+9760       1522   ////      1613  SAG  C   RSP  025-180   VI/1              2435
+9760       1539   1550      1602  HOL  3   FLA  S14W69    1F      DSD       2435
+9760       1540   1549      1552  G15  5   XRA  1-8A      C2.3    1.6E-03   2435
+9760 +     1548   ////      1549  SAG  C   RSP  025-180   III/2             2435
+9760 +     1554   1554      1554  SAG  G   RBR  245       870               2435
+
+9780       1832   1854      1903  G15  5   XRA  1-8A      C1.7    2.9E-03       
+
+9790       2010   2019      2028  G15  5   XRA  1-8A      C1.4    1.4E-03       
+
+9810       2050   ////      2250  PAL  U   RSP  058-180   CTM/1                 
+9810       2059   ////      2252  PAL  C   RSP  025-180   VI/1                  
+9810       2139   ////      2140  CUL  C   RSP  018-057   III/3                 
+
+9800       2159   ////      2205  HOL  3   EPL  ////      0.17                  

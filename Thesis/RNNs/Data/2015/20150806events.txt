@@ -1,0 +1,100 @@
+:Product: 20150806events.txt
+:Created: 2015 Aug 09 0357 UT
+:Date: 2015 08 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Aug 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3160       0024   0025      0027  HOL  3   FLA  N15W79    SF                    
+
+3170 +     0116   0124      0125  LEA  3   FLA  N15W75    SF                    
+
+3180       0311   0311      0311  LEA  G   RBR  245       260                   
+
+3480       0400   ////      0400  CUL  C   RSP  020-060   III/1                 
+
+3190       0423   0425      0428  LEA  3   FLA  S18E28    SF                2396
+
+3200 +     0534   0601      0612  SVI  3   FLA  S14E27    SF      DSD       2396
+
+3210       0633   ////      0658  SVI  C   RSP  025-135   VI/1              2396
+3210       0634   0644      0647  SVI  3   FLA  S16E29    SF                2396
+3210 +     0639   ////      0708  LEA  C   RSP  130-180   CTM/1             2396
+
+3220      B0653   0656      0700  SVI  3   FLA  S16E29    SF      DSD       2396
+
+3210 +     0658   ////      0658  CUL  C   RSP  080-180   III/1             2396
+
+3230      B0733  U0733     A0752  SVI  3   FLA  S16E29    SF                2396
+3230       0745   ////      0824  LEA  C   RSP  135-180   CTM/1             2396
+
+3300       0828   0829      0830  G15  5   XRA  1-8A      B5.0    8.9E-05       
+
+3260       0838   0905      0915  G15  5   XRA  1-8A      C1.0    1.7E-03   2396
+
+3240       0844   0844      0844  SVI  G   RBR  410       170                   
+
+3250       0851  U0851      0902  SVI  3   FLA  S14E26    SF                2396
+
+3260       0903  U0905      0912  SVI  3   FLA  S16E28    SF                2396
+
+3250 +     0905   ////      1747  SVI  C   RSP  075-180   CTM/1             2396
+
+3260       0910   0910      0910  LEA  G   RBR  245       150               2396
+
+3460       1037   ////      1953  SAG  C   RSP  108-180   CTM/1                 
+
+3270       1105   ////      1125  SVI  C   RSP  025-035   VI/1                  
+3270       1105   ////      1105  SAG  C   RSP  025-075   III/1                 
+
+3280       1122   1122      1122  SAG  G   RBR  245       120                   
+
+3290       1151   1151      1151  SAG  G   RBR  245       110                   
+
+3310       1325   ////      1326  SAG  C   RSP  025-056   III/1                 
+3310       1325   ////      1353  SVI  C   RSP  025-053   VI/1                  
+
+3320       1328   1328      1328  SAG  G   RBR  245       110                   
+
+3330       1353   ////      1407  SAG  C   RSP  025-085   VI/1                  
+
+3340       1423   1423      1423  SAG  G   RBR  245       120                   
+
+3350       1503   1503      1505  SAG  G   RBR  245       140                   
+
+3450 +     1503   1503      1505  SVI  G   RNS  245       120                   
+
+3360 +     1539   ////      1540  SVI  C   RSP  025-079   III/1                 
+
+3370       1605   1605      1613  SVI  3   FLA  S17E24    SF                2396
+
+3380       1624   1624      1624  SAG  G   RBR  245       100                   
+
+3390       1643   1643      1643  SVI  G   RBR  245       110                   
+
+3400       1730   1730      1730  SAG  G   RBR  245       130                   
+
+3410       1818   1818      1818  SAG  G   RBR  245       100                   
+
+3420       1830   1830      1830  SAG  G   RBR  245       430                   
+
+3430 +     1842   ////      1846  PAL  C   RSP  025-180   III/2                 
+3430       1843   1843      1843  SAG  G   RBR  245       220                   
+
+3440 +     1909   1921      1936  G15  5   XRA  1-8A      C2.1    2.6E-03   2396
+3440       1911   1914      2023  HOL  4   FLA  S17E34    SF      ERU       2396
+
+3490 +     2015   ////      2201  PAL  C   RSP  025-091   VI/1                  
+
+3470       2042   2042      2042  SAG  G   RBR  245       220                   
+
+3500       2126   ////      2127  CUL  C   RSP  020-120   III/1                 
+
+3510       2135   ////      2155  CUL  C   RSP  018-180   III/1                 
+3510 +     2140   2149      2158  G15  5   XRA  1-8A      C1.5    1.3E-03   2396

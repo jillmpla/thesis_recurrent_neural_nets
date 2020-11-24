@@ -1,0 +1,16 @@
+:Product: 20151009events.txt
+:Created: 2015 Oct 12 0357 UT
+:Date: 2015 10 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Oct 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7340      B0825  U0826     A0831  SVI  3   FLA  S19E30    SF                2429
+
+7350       2134   2139      2217  G15  5   XRA  1-8A      B1.8    3.9E-04   2431

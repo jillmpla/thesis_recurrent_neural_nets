@@ -1,0 +1,40 @@
+:Product: 20151004events.txt
+:Created: 2015 Oct 07 0357 UT
+:Date: 2015 10 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Oct 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7050 +     0234   0241      0248  G15  5   XRA  1-8A      M1.0    5.0E-03   2422
+
+7060       1254   ////      1255  SVI  C   RSP  025-080   III/1                 
+
+7070 +     1346   ////      1346  SAG  C   RSP  025-081   III/1                 
+
+7080 +     1427   1428      1428  SAG  G   RBR  245       250                   
+7080 +     1427   1428      1428  SAG  G   RBR  410       230                   
+
+7090 +     1544   1544      1544  SAG  G   RBR  245       930                   
+7090       1544   ////      1549  SVI  C   RSP  102-172   III/1                 
+
+7100 +     1546   1549      1549  SAG  G   RBR  245       420                   
+7100       1547   1547      1547  SVI  U   RBR  410       140                   
+
+7110       1551   1551      1551  SVI  G   RBR  245       150                   
+
+7120 +     1613   1618      1630  G15  5   XRA  1-8A      B7.2    5.8E-04   2427
+
+7130 +     1718   1719      1719  SAG  G   RBR  245       790                   
+7130       1718   1718      1718  SAG  G   RBR  410       160                   
+
+7140 +     1726   1726      1726  SAG  G   RBR  245       470                   
+
+7150 +     2034   2034      2035  SAG  G   RBR  410       310                   
+
+7160 +     2304   2304      2304  LEA  G   RBR  410       150                   

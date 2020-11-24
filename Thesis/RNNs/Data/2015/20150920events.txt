@@ -1,0 +1,63 @@
+:Product: 20150920events.txt
+:Created: 2015 Sep 23 0357 UT
+:Date: 2015 09 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Sep 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2250       0113   ////      0113  LEA  C   RSP  084-180   III/1                 
+
+2260       0332   ////      0332  LEA  C   RSP  086-163   III/1                 
+
+2270       0455   0503      0517  G15  5   XRA  1-8A      M1.5    1.3E-02   2420
+
+2280       0628   ////      0652  LEA  C   RSP  025-180   VI/1                  
+2280       0629   ////      0629  CUL  C   RSP  018-057   III/2                 
+
+2290       0700   0701      0701  LEA  U   RBR  245       2700                  
+
+2300       0743   0743      0744  LEA  G   RBR  245       2700                  
+
+2420       0748   ////      0749  CUL  C   RSP  018-065   III/1                 
+
+2310       0816   0817      0817  LEA  G   RBR  245       11000                 
+
+2330       0932   0934      0936  G15  5   XRA  1-8A      C2.6    3.6E-04   2415
+
+2320       0944   0944      0944  LEA  G   RBR  245       100                   
+
+2340 +     1225   1228      1231  G15  5   XRA  1-8A      B5.7    1.3E-04   2415
+
+2350 +     1349   1354      1358  G15  5   XRA  1-8A      B9.1    3.3E-04   2420
+
+2360 +     1409   1414      1424  G15  5   XRA  1-8A      C1.4    9.3E-04   2415
+
+2380       1518   1622      1642  HOL  3   FLA  S20W24    SF      ERU       2415
+
+2390       1730   1757      1959  HOL  3   FLA  S20W24    2N      PRB       2415
+2390 +     1732   1803      1829  G15  5   XRA  1-8A      M2.1    4.5E-02   2415
+2390 +     1754   1804      1817  SAG  G   RBR  2695      320               2415
+2390 +     1754   1804      1815  SAG  G   RBR  4995      240               2415
+2390 +     1756   1804      1811  SAG  G   RBR  8800      140               2415
+2390 +     1756   ////      1845  PAL  C   RSP  025-180   VI/2              2415
+2390       1758   1759      1800  SAG  G   RBR  245       140               2415
+2390       1800   ////      1809  SAG  C   RSP  025-180   III/1             2415
+2390 +     1801   1804      1813  SAG  G   RBR  1415      200               2415
+2390 +     1807   1808      1813  SAG  G   RBR  410       240               2415
+2390       1807   1808      1808  SAG  G   RBR  610       100               2415
+2390       1816   ////      1822  PAL  U   RSP  025-039   II/1    1304      2415
+
+2400 +     1925   ////      1926  PAL  C   RSP  025-135   III/1                 
+
+2410       2009   2009      2012  HOL  3   FLA  N12W13    SF                2419
+
+2430 +     2244   ////      2316  PAL  C   RSP  025-067   VI/2                  
+2430 +     2251   ////      2251  CUL  C   RSP  018-057   III/2                 
+
+2440       2324   2328      2331  G15  5   XRA  1-8A      B8.2    2.3E-04   2415

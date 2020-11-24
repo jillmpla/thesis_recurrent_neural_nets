@@ -1,0 +1,23 @@
+:Product: 20150904events.txt
+:Created: 2015 Sep 07 0357 UT
+:Date: 2015 09 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Sep 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  70       0119   ////      0120  LEA  C   RSP  029-075   III/1                 
+
+  80       0513   0518      0526  G15  5   XRA  1-8A      B4.4    2.4E-04   2409
+  80       0516   0521      0524  LEA  3   FLA  N06E28    SF      DSD       2409
+
+  90       0922   ////      0923  LEA  C   RSP  032-180   III/1                 
+
+ 110      A0930   ////     A2341  LEA  3   DSF  S24E13    24                    
+
+ 100       1443   1443      1445  SAG  G   RBR  245       270                   

@@ -1,0 +1,19 @@
+:Product: 20150803events.txt
+:Created: 2015 Aug 06 0357 UT
+:Date: 2015 08 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Aug 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2860       0537   0548      0556  G15  5   XRA  1-8A      B5.4    5.8E-04   2391
+2860       0546   0546      0554  LEA  3   FLA  N05W08    SF                2391
+
+2870       0929   ////      0929  LEA  C   RSP  028-075   III/1                 
+
+2880 +     1401   1402      1402  SAG  G   RBR  245       380                   

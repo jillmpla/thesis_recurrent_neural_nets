@@ -1,0 +1,56 @@
+:Product: 20150914events.txt
+:Created: 2015 Sep 17 0357 UT
+:Date: 2015 09 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Sep 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 680       0013   ////      0021  LEA  C   RSP  035-090   III/1                 
+
+ 670 +     0037   0042      0045  G15  5   XRA  1-8A      B5.7    1.8E-04   2415
+ 670 +     0038   ////      0040  LEA  C   RSP  025-180   V/2                   
+ 670 +     0039   ////      0041  CUL  C   RSP  018-130   III/3                 
+
+ 700       0251   0254      0256  G15  5   XRA  1-8A      B3.5    6.1E-05   2415
+
+ 710 +     0519   ////      0623  SVI  C   RSP  025-123   VI/1                  
+
+ 830       0641   ////      0641  CUL  C   RSP  018-070   III/3                 
+
+ 720       0742   0745      0747  G15  5   XRA  1-8A      B2.7    4.2E-05   2415
+
+ 730       0824   ////      0824  SVI  C   RSP  105-180   III/1                 
+
+ 740       1008   1013      1015  SVI  3   FLA  S19E35    SF                2415
+
+ 750       1055   1056      1103  SVI  3   FLA  S19E35    SF                2415
+
+ 760 +     1232   ////      1254  SAG  C   RSP  025-149   VI/1                  
+
+ 790       1425   ////      1631  HOL  4   DSF  N01W03    6                     
+
+ 770 +     1442   ////      1445  SAG  C   RSP  025-180   III/2                 
+
+ 780       1529   ////      1529  SVI  C   RSP  025-125   III/1                 
+
+1030      A1601   ////     A0629  SVI  3   DSF  S23E10    13                    
+
+ 800 +     1736   1743      1748  G15  5   XRA  1-8A      B9.6    4.3E-04   2415
+ 800       1736   1741      1752  HOL  3   FLA  S19E34    SF      ERU       2415
+
+ 810 +     1836   ////      2135  SAG  C   RSP  025-180   VI/2                  
+
+ 820       2123   2123      2123  PAL  G   RBR  245       120                   
+
+ 840 +     2214   2219      2222  G15  5   XRA  1-8A      B5.8    1.9E-04   2415
+ 840       2216   2220      2226  HOL  3   FLA  S20E27    SF      ERU       2415
+
+ 850       2239   ////      2359  PAL  C   RSP  025-180   VI/2              2415
+ 850       2328   2337      2343  HOL  3   FLA  S20E25    SF      ERU       2415
+ 850       2334   2334      2334  PAL  G   RBR  245       100               2415

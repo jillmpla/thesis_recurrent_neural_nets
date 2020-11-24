@@ -1,0 +1,34 @@
+:Product: 20150726events.txt
+:Created: 2015 Jul 29 0357 UT
+:Date: 2015 07 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jul 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2160       0547   ////      0551  SVI  C   RSP  025-074   III/1             2389
+2160       0550   0553      0602  SVI  3   FLA  S09E47    SF                2389
+
+2170       0920   0923      0926  G15  5   XRA  1-8A      B4.0    8.8E-05   2389
+2170 +     0921   0922      0925  SVI  3   FLA  S10E44    SF                2389
+
+2180 +     1020   1024      1026  G15  5   XRA  1-8A      B5.8    1.2E-04   2389
+2180       1022   1022      1026  SVI  3   FLA  S10E44    SF                2389
+
+2190 +     1134   1137      1139  G15  5   XRA  1-8A      B6.1    9.3E-05   2389
+
+2200       1228   1234      1236  G15  5   XRA  1-8A      C1.1    2.4E-04   2389
+2200       1228   ////      1228  SAG  C   RSP  025-051   III/1                 
+
+2210       1459  U1459     A1501  SVI  3   FLA  S10E42    SF                2389
+
+2220      B1526   1531      1532  SVI  3   FLA  S10E42    SF                2389
+
+2230       1615   1615      1618  HOL  3   FLA  S13E40    SF                2389
+
+2270      A1659   ////     A0500  SVI  3   DSF  S32E17    13                    

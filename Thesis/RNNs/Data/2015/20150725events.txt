@@ -1,0 +1,26 @@
+:Product: 20150725events.txt
+:Created: 2015 Jul 28 0357 UT
+:Date: 2015 07 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jul 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2080       0110   0110      0120  HOL  3   FLA  S12E62    SF                2389
+
+2120      A0136   ////     A1254  HOL  3   DSF  N28E31    6                     
+
+2130      A0136   ////     A1254  HOL  3   DSF  S41E41    8                     
+
+2090       0512   0512      0512  LEA  G   RBR  610       100                   
+
+2110 +     1412   ////      1434  HOL  4   EPL  ////      0.31    B.7A          
+
+2140       1805   ////      1814  HOL  4   EPL  ////      0.17    B.9A          
+
+2150 +     2121   ////      2121  SAG  C   RSP  025-051   III/1                 

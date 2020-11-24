@@ -1,0 +1,40 @@
+:Product: 20150813events.txt
+:Created: 2015 Aug 16 0357 UT
+:Date: 2015 08 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Aug 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4970       0026   ////      0148  LEA  3   DSF  N04W34    23                    
+
+4950       0035   ////      0111  HOL  3   DSF  S10W30    8                     
+
+4960 +     0200   0204      0207  G15  5   XRA  1-8A      B3.3    9.2E-05   2396
+
+4980       0834   0838      0851  G15  5   XRA  1-8A      B3.6    2.9E-04       
+
+4990       1030   1045      1100  G15  5   XRA  1-8A      B5.8    9.3E-04   2400
+4990       1034  U1040      1102  SVI  3   FLA  N18E17    SF                2400
+
+5000       1307   ////      1307  SVI  C   RSP  025-152   III/1                 
+
+5010       1339   1353      1357  G15  5   XRA  1-8A      B2.9    3.1E-04   2401
+5010       1345   1354      1404  HOL  2   FLA  S12E58    SF      DSD       2401
+5010       1350   ////      1350  SVI  C   RSP  042-124   III/1             2401
+
+5020       1724   1727      1732  G15  5   XRA  1-8A      B4.1    2.0E-04   2401
+5020       1726   1729      1734  HOL  3   FLA  S11E56    SF                2401
+
+5030       1751   1803      1810  G15  5   XRA  1-8A      B4.3    4.7E-04   2401
+
+5040 +     1801   ////      1910  HOL  4   DSF  N43E29    7                     
+
+5050      B2143   2143      2150  HOL  3   FLA  S12E54    SF                2401
+
+5060       2337   2337      2337  PAL  G   RBR  245       110                   

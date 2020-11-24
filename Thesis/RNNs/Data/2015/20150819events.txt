@@ -1,0 +1,49 @@
+:Product: 20150819events.txt
+:Created: 2015 Aug 22 0357 UT
+:Date: 2015 08 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Aug 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5460       0518   0538      0545  G15  5   XRA  1-8A      B4.8    6.0E-04   2403
+
+5470 +     1048   1053      1055  G15  5   XRA  1-8A      B6.8    1.6E-04   2403
+5470       1051   1052      1101  SVI  3   FLA  S10E58    SF      ERU       2403
+
+5480       1146   1150      1154  G15  5   XRA  1-8A      B3.0    1.5E-04   2403
+5480       1147   1150      1156  SVI  3   FLA  S10E58    SF      ERU       2403
+5480 +     1155   ////      1156  SVI  C   RSP  025-141   III/1             2403
+
+5490       1201   1204      1208  G15  5   XRA  1-8A      B3.6    9.8E-05   2403
+
+5500 +     1213   1217      1219  G15  5   XRA  1-8A      B5.4    1.1E-04   2403
+5500       1214   1222      1234  SVI  3   FLA  S10E58    SF      ERU       2403
+
+5510 +    B1303  U1307      1321  SVI  3   FLA  S11W21    SF                2401
+
+5560       1309   ////      1700  HOL  3   DSF  S25E54    11                    
+
+5510       1310   1327      1332  G15  5   XRA  1-8A      B6.1    6.5E-04   2401
+
+5520       1323  U1325     A1336  SVI  3   FLA  S12E60    SF                2403
+
+5530       1346   ////      1346  SAG  C   RSP  025-040   III/1                 
+
+5580       1354   1421      1443  G15  5   XRA  1-8A      B6.4    1.5E-03   2403
+
+5540       1558   1601      1603  G15  5   XRA  1-8A      B4.5    7.4E-05       
+
+5550 +     1759   1804      1809  G15  5   XRA  1-8A      B6.2    2.7E-04   2403
+5550       1802   1804      1815  HOL  3   FLA  S15E58    SF      DSD       2403
+
+5570       1935   1938      1941  G15  5   XRA  1-8A      B4.6    9.8E-05   2403
+
+5590       2150   2153      2158  G15  5   XRA  1-8A      B4.0    1.3E-04   2403
+
+5600       2227   2247      2303  G15  5   XRA  1-8A      B5.1    9.4E-04   2403

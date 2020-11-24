@@ -1,0 +1,16 @@
+:Product: 20150908events.txt
+:Created: 2015 Sep 11 0357 UT
+:Date: 2015 09 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Sep 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 190 +     0032   ////      0137  LEA  3   DSF  N21E47    8                     
+
+ 200       2125   2128      2128  HOL  3   FLA  N07W31    SF      ERU       2409

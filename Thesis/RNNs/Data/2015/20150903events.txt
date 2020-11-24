@@ -1,0 +1,40 @@
+:Product: 20150903events.txt
+:Created: 2015 Sep 06 0357 UT
+:Date: 2015 09 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Sep 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9950 +     0152   ////      0212  PAL  C   RSP  025-180   VI/1                  
+
+  40       0155   ////      0155  CUL  C   RSP  020-170   III/1                 
+
+9950       0209   0213      0217  G15  5   XRA  1-8A      B2.9    9.7E-05       
+9950       0211   ////      0213  CUL  C   RSP  018-180   III/1                 
+
+9960 +     0302   0308      0312  G15  5   XRA  1-8A      B3.0    1.4E-04       
+9960 +     0303   ////      0306  LEA  C   RSP  029-172   III/1                 
+9960       0310   0310      0310  LEA  G   RBR  245       130                   
+
+  50       0351   ////      0351  CUL  C   RSP  018-120   III/1                 
+
+9970       0356   ////      0356  LEA  C   RSP  042-124   III/1                 
+
+  60       0449   ////      0450  CUL  C   RSP  020-057   III/1                 
+
+9980       0449   ////      0452  LEA  C   RSP  029-090   III/1                 
+
+9990       0700   0703      0708  G15  5   XRA  1-8A      B3.1    1.0E-04   2407
+
+  10       0938   0943      0951  G15  5   XRA  1-8A      B3.0    1.8E-04   2407
+
+  20 +     1128   1137      1148  G15  5   XRA  1-8A      C1.7    1.4E-03   2407
+
+  30       2248   2253      2258  G15  5   XRA  1-8A      B2.8    1.2E-04       
+  30 +     2249   ////      2250  LEA  C   RSP  030-163   III/1                 

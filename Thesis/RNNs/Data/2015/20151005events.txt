@@ -1,0 +1,20 @@
+:Product: 20151005events.txt
+:Created: 2015 Oct 08 0357 UT
+:Date: 2015 10 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Oct 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7190       0140   ////      0140  CUL  C   RSP  027-050   III/1                 
+
+7170       0529   ////      0530  LEA  C   RSP  029-075   III/1                 
+
+7200       0700   ////      0700  CUL  C   RSP  035-050   III/1                 
+
+7180       1139   1139      1139  SAG  G   RBR  245       210                   

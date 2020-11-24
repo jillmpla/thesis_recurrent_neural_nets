@@ -1,0 +1,69 @@
+:Product: 20151019events.txt
+:Created: 2015 Oct 22 0357 UT
+:Date: 2015 10 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Oct 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8360       0003   ////      0023  LEA  3   EPL  ////      0.17                  
+
+8370       0143   0143      0143  PAL  G   RBR  610       140                   
+
+8380 +     0158   0206      0215  G15  5   XRA  1-8A      C1.7    1.3E-03       
+
+8390 +     0432   0440      0446  G15  5   XRA  1-8A      C1.4    9.3E-04   2434
+8390       0433   0437      0452  LEA  3   FLA  S10E06    SF      ERU       2434
+
+8400      B0731  U0745      0818  SVI  3   FLA  N11E58    SF                2436
+
+8410       0855  U0855      0907  SVI  3   FLA  N11E58    SF                2436
+
+8420 +     0933   0937      0944  G15  5   XRA  1-8A      C1.2    5.5E-04   2436
+
+8440       0936   0936      0944  LEA  3   FLA  N09E56    SF      ERU       2436
+
+8420       0939  U0939      1001  SVI  3   FLA  N12E57    SF                2436
+
+8430       0957   ////      1002  SVI  C   RSP  054-170   III/1                 
+
+8450       1207  U1228      1241  SVI  3   FLA  N11E56    SF                2436
+
+8460 +     1336   1343      1359  G15  5   XRA  1-8A      C1.9    1.8E-03   2434
+8460 +     1339  U1341      1424  SVI  3   FLA  S10E05    SF      ERU       2434
+
+8470       1627   1627      1627  SAG  G   RBR  245       300                   
+8470       1627   1627      1627  SAG  G   RBR  410       170                   
+
+8480 +     1639   1642      1644  G15  5   XRA  1-8A      B8.2    1.2E-04       
+8480       1641   1641      1641  SAG  G   RBR  245       170                   
+8480       1641   1641      1641  SAG  G   RBR  410       100                   
+
+8490 +     1723   1727      1729  G15  5   XRA  1-8A      C3.9    5.9E-04   2436
+8490 +     1724   1726      1726  SAG  G   RBR  410       1200              2436
+8490       1725   1726      1730  HOL  3   FLA  N09E56    SF      DSD       2436
+8490 +     1725   1726      1726  SAG  G   RBR  610       490               2436
+8490       1726   1726      1726  SAG  G   RBR  245       100               2436
+
+8500       1739   1750      1801  HOL  3   FLA  N10E51    SF      ERU       2436
+8500 +     1741   1748      1753  G15  5   XRA  1-8A      C1.3    7.0E-04   2436
+
+8510 +     1837   1843      1845  G15  5   XRA  1-8A      C1.8    4.7E-04   2434
+
+8520 +     1837   1837      1837  SAG  G   RBR  610       150                   
+
+8510 +     1841   1842      1842  SAG  G   RBR  245       380               2434
+8510       1842   1843      1847  HOL  3   FLA  S12W04    SF      DSD       2434
+
+8550       2105   ////      2106  CUL  C   RSP  020-040   III/1                 
+
+8560       2114   ////      2114  CUL  C   RSP  018-040   III/1                 
+
+8530 +     2148   2152      2157  G15  5   XRA  1-8A      B9.6    3.6E-04   2436
+
+8540       2307   2307      2307  PAL  G   RBR  245       260                   

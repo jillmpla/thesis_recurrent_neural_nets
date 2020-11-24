@@ -1,0 +1,102 @@
+:Product: 20150915events.txt
+:Created: 2015 Sep 18 0357 UT
+:Date: 2015 09 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Sep 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 870       0000   ////      0315  PAL  C   RSP  025-180   VI/2              2415
+
+ 860       0009   0017      0021  HOL  3   FLA  S20E25    SF      ERU       2415
+ 860 +     0018   0021      0023  G15  5   XRA  1-8A      B8.7    1.3E-04   2415
+ 860       0019   0019      0020  PAL  U   RBR  410       140               2415
+
+ 870       0023   0023      0023  PAL  G   RBR  245       120               2415
+ 870       0024   0026      0042  HOL  3   FLA  S20E25    SF      ERU       2415
+ 870       0025   0025      0025  PAL  U   RBR  410       210               2415
+ 870       0026   ////      0027  CUL  C   RSP  018-100   III/2             2415
+
+1180      A0038   ////     A1319  HOL  3   DSF  S26E16    8                     
+
+ 880 +     0116   0120      0123  G15  5   XRA  1-8A      B5.5    1.4E-04   2415
+
+1190       0123   0127      0129  G15  5   XRA  1-8A      B7.9    1.6E-04       
+
+ 890 +     0155   0159      0203  G15  5   XRA  1-8A      B7.7    2.4E-04   2415
+
+ 900 +     0217   0220      0222  G15  5   XRA  1-8A      C1.0    1.6E-04   2415
+ 900 +     0221   ////      0223  CUL  C   RSP  018-720   III/3                 
+ 900       0221   0221      0222  PAL  U   RBR  610       380                   
+
+ 910       0222   0222      0222  PAL  G   RBR  245       120                   
+
+ 920 +     0246   0258      0300  G15  5   XRA  1-8A      C1.2    5.8E-04   2415
+
+ 930 +     0311   ////      0316  LEA  C   RSP  025-180   III/2                 
+
+ 940       0359   ////      0404  LEA  C   RSP  025-097   III/1                 
+
+ 950       0443   ////      0453  LEA  C   RSP  025-175   III/1                 
+ 950 +     0512   0519      0525  G15  5   XRA  1-8A      C1.3    7.0E-04   2415
+
+ 960 +     0526   ////      0538  SVI  C   RSP  025-180   VI/1                  
+ 960       0530   ////      0530  CUL  C   RSP  020-057   III/2                 
+
+ 970       0556   0600      0603  G15  5   XRA  1-8A      B6.0    1.7E-04   2415
+
+ 980       0605   0605      0605  LEA  U   RBR  610       120                   
+ 980 +     0605   ////      0607  CUL  C   RSP  018-660   III/3                 
+ 980 +     0605   0605      0605  SVI  G   RBR  410       240                   
+
+1000       0606   ////      0630  LEA  C   RSP  025-180   VI/2                  
+
+ 990       0607   0611      0613  G15  5   XRA  1-8A      C1.2    2.5E-04   2415
+ 990       0611   ////      0712  SVI  C   RSP  025-180   VI/2                  
+
+1000 +     0622   ////      0624  CUL  C   RSP  018-220   III/3                 
+
+1200       0659   ////      0700  CUL  C   RSP  018-100   III/3                 
+
+1010       0659   ////      0712  LEA  C   RSP  025-133   VI/2              2415
+1010 +     0707   0711      0715  G15  5   XRA  1-8A      C1.0    3.1E-04   2415
+1010       0710   0711      0719  SVI  3   FLA  S20E22    SF                2415
+
+1040 +     0803   ////      0826  LEA  C   RSP  025-149   VI/2                  
+
+1020 +     0822   0825      0833  SVI  3   FLA  S19E20    SF                2415
+
+1050 +     0835  U0838     A0922  SVI  3   FLA  S19E20    SF      DSD       2415
+1050       0903   ////      0920  LEA  C   RSP  055-127   VI/1              2415
+
+1060       1011   ////      1012  SVI  C   RSP  025-042   III/1                 
+
+1070      B1021   1022      1029  SVI  3   FLA  S19E20    SF                2415
+
+1080      B1042  U1042     A1102  SVI  3   FLA  S19E19    SF                2415
+
+1090       1111   1114      1118  SVI  3   FLA  S19E19    SF                2415
+
+1100       1131   ////      1131  SVI  C   RSP  025-079   III/1                 
+
+1110 +     1203   1206      1209  G15  5   XRA  1-8A      B5.6    1.2E-04       
+
+1120      B1210   1212      1218  SVI  3   FLA  S19E19    SF                2415
+
+1130       1225   1226      1230  SVI  3   FLA  S19E19    SF                2415
+
+1140 +     1232   ////      1712  SAG  C   RSP  025-073   VI/1                  
+1140       1331   ////      1331  SVI  C   RSP  025-049   III/1                 
+
+1150 +     1442   1451      1459  G15  5   XRA  1-8A      C1.0    8.0E-04   2415
+1150      B1452  U1452      1513  HOL  3   FLA  S20E18    SF      ERU       2415
+
+1160      B1838  U1838      1854  HOL  3   FLA  S20E20    SF      DSD       2415
+
+1170       1949   ////      1954  SAG  C   RSP  025-084   III/1                 
+1170       1949   ////      2043  PAL  C   RSP  025-075   VI/1                  

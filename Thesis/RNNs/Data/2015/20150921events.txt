@@ -1,0 +1,60 @@
+:Product: 20150921events.txt
+:Created: 2015 Sep 24 0357 UT
+:Date: 2015 09 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Sep 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2450 +     0010   0021      0029  G15  5   XRA  1-8A      C2.8    2.2E-03   2420
+2450 +     0015   0016      0026  LEA  3   FLA  N09E79    SF      DSD       2420
+
+2460 +     0157   0204      0208  G15  5   XRA  1-8A      C4.2    1.6E-03   2420
+2460 +     0201   0202      0202  LEA  G   RBR  8800      310               2420
+2460 +     0201   0202      0202  LEA  G   RBR  15400     390               2420
+2460 +     0201   ////      0202  LEA  C   RSP  025-171   III/1             2420
+2460       0202   0205      0211  LEA  3   FLA  N08E83    SF      DSD       2420
+
+2580       0214   ////      0214  CUL  C   RSP  023-040   III/1                 
+
+2470 +     0329   0333      0337  G15  5   XRA  1-8A      B6.3    2.0E-04   2420
+2470 +     0331   ////      0333  CUL  C   RSP  018-045   III/1                 
+
+2480 +     0354   0400      0405  G15  5   XRA  1-8A      C1.5    6.4E-04   2420
+2480       0357   ////      0359  CUL  C   RSP  018-720   III/1                 
+2480 +     0358   0358      0359  LEA  G   RBR  610       2900                  
+2480 +     0358   0358      0359  LEA  G   RBR  410       660                   
+
+2490       0511   0518      0522  G15  5   XRA  1-8A      C8.8    2.5E-03   2420
+2490 +     0515   ////      0519  CUL  C   RSP  018-700   III/3             2420
+2490       0516   0519      0522  LEA  3   FLA  N08E79    SN      DSD       2420
+2490       0516   0516      0517  LEA  G   RBR  610       740               2420
+2490 +     0516   0516      0517  LEA  G   RBR  245       1000              2420
+2490 +     0516   0518      0518  LEA  G   RBR  410       260               2420
+2490 +     0516   0517      0517  LEA  G   RBR  4995      150               2420
+2490 +     0516   0517      0517  LEA  G   RBR  8800      140               2420
+2490 +     0516   0517      0517  SVI  G   RBR  2695      140               2420
+2490 +     0517   0517      0517  LEA  G   RBR  1415      100               2420
+
+2500 +     0911   ////      0912  LEA  C   RSP  031-116   III/1                 
+
+2510       1039   ////      1043  SVI  C   RSP  025-080   III/2                 
+
+2520       1245   ////      1245  SVI  C   RSP  103-180   III/1                 
+
+2530       1345   ////      1345  SVI  C   RSP  025-037   III/1                 
+
+2540 +     1438   1438      1439  SAG  G   RBR  245       310                   
+
+2550       1447   1450      1454  G15  5   XRA  1-8A      B5.3    1.4E-04   2415
+
+2570       1852   1853      1854  G15  5   XRA  1-8A      B5.4    8.4E-05   2420
+
+2560 +     1852   1852      1852  SAG  G   RBR  610       310                   
+
+2570 +     1852   ////      1853  PAL  C   RSP  025-144   III/1                 

@@ -1,0 +1,46 @@
+:Product: 20150911events.txt
+:Created: 2015 Sep 14 0357 UT
+:Date: 2015 09 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Sep 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 260 +     0239   0245      0308  G15  5   XRA  1-8A      B4.2    6.1E-04   2415
+
+ 270      B0526  U0544      0558  SVI  3   FLA  S10W08    SF                2414
+
+ 280       0600   0603      0623  SVI  3   FLA  S11W09    SF                2414
+
+ 290      B0634  U0650      0700  SVI  3   FLA  S11W09    SF                2414
+
+ 300 +     0749   0803      0804  LEA  3   FLA  S09W11    SF      ERU       2414
+
+ 310       0831  U0833     A0847  SVI  3   FLA  S10W11    SF                2414
+
+ 320      B0936  U0936     A0942  SVI  3   FLA  S10W12    SF                2414
+
+ 330      B0945  U0954     A1002  SVI  3   FLA  S10W12    SF                2414
+
+ 340      B1026  U1028     A1034  SVI  3   FLA  S10W13    SF                2414
+
+ 380 +    A1144   ////     A1309  SVI  3   DSF  N23W20    12                    
+
+ 350 +     1225   1229      1232  G15  5   XRA  1-8A      B3.6    1.0E-04   2415
+
+ 360 +     1252   1312      1317  G15  5   XRA  1-8A      B6.7    7.1E-04   2415
+
+ 390       1623   1627      1633  G15  5   XRA  1-8A      B3.3    1.5E-04   2415
+
+ 400       1643   1646      1649  G15  5   XRA  1-8A      B4.3    9.2E-05   2414
+ 400       1644   1655      1705  HOL  4   FLA  S09W17    SF      PRB       2414
+
+ 410       2103   2107      2110  G15  5   XRA  1-8A      B3.6    1.0E-04   2415
+
+ 420 +     2130   2137      2143  G15  5   XRA  1-8A      C1.3    6.4E-04   2414
+ 420       2133   2134     A2250  HOL  2   FLA  S08W18    SF      ERU       2414

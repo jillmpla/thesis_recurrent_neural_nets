@@ -1,0 +1,84 @@
+:Product: 20150924events.txt
+:Created: 2015 Sep 27 0357 UT
+:Date: 2015 09 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Sep 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3150       0000   ////      0000  CUL  C   RSP  018-057   III/1                 
+
+2960       0000   ////      0000  LEA  C   RSP  034-088   III/1                 
+
+3160       0056   ////      0056  CUL  C   RSP  027-057   III/1                 
+
+3170       0207   ////      0207  CUL  C   RSP  018-050   III/1                 
+
+3180       0223   ////      0223  CUL  C   RSP  020-040   III/1                 
+
+3190       0234   ////      0235  CUL  C   RSP  020-057   III/1                 
+
+2970       0302   0314      0337  G15  5   XRA  1-8A      B6.4    1.3E-03   2422
+
+2980       0447   0451      0458  G15  5   XRA  1-8A      B6.6    3.3E-04   2421
+2980       0449   0450      0453  LEA  3   FLA  N17E17    SF                2421
+
+2990 +     0758   0801      0808  G15  5   XRA  1-8A      B5.1    2.3E-04   2421
+
+3000       0824   0824      0824  LEA  G   RBR  245       140                   
+
+3010 +     1131   1135      1139  G15  5   XRA  1-8A      B6.1    2.0E-04   2421
+
+3020 +     1329   ////      1330  SVI  C   RSP  025-135   III/1                 
+
+3030       1408   1408      1408  SAG  G   RBR  245       120                   
+
+3040 +     1416   1416      1416  SAG  G   RBR  245       850                   
+3040 +     1416   ////      1416  SAG  C   RSP  103-180   III/1                 
+
+3050       1436   1437      1443  SVI  3   FLA  N20E68    SF                    
+
+3060       1452   1502      1514  SVI  3   FLA  N20E68    SF                    
+
+3070       1659   1713      1718  HOL  3   FLA  N17E11    SF      DSD       2421
+
+3080       1849   1851      1900  HOL  3   FLA  N17E09    SF      DSD       2421
+3080       1849   1854      1857  G15  5   XRA  1-8A      B5.9    1.9E-04   2421
+3080 +     1851   1851      1851  SAG  G   RBR  245       1100              2421
+
+3200       2034   ////      2034  CUL  C   RSP  023-050   III/1                 
+
+3090 +     2119   2119      2119  PAL  G   RBR  245       980                   
+3090 +     2119   ////      2120  PAL  C   RSP  025-180   III/2                 
+3090       2119   2119      2119  PAL  G   RBR  610       100                   
+
+3100 +     2140   2146      2150  G15  5   XRA  1-8A      C1.8    6.7E-04   2422
+3100       2141   2149      2221  HOL  2   FLA  S19E27    SF      ERU       2422
+3100       2148   ////      2153  CUL  C   RSP  020-057   III/1             2422
+
+3110 +     2223   ////      2224  CUL  C   RSP  018-060   III/3                 
+
+3120 +     2238   ////      2238  LEA  C   RSP  033-162   III/1                 
+
+3130       2254   2306      2324  G15  5   XRA  1-8A      B5.4    8.3E-04   2422
+3130       2257   2258      2258  LEA  G   RBR  245       150               2422
+
+3140      A2300   ////     A0943  LEA  2   DSF  N17W06    7                     
+
+3130 +     2304   2319      2340  HOL  3   FLA  S19E27    SF      ERU       2422
+
+3240       2330   ////      2330  CUL  C   RSP  018-057   III/1                 
+
+3250 +     2341   2347      0007  G15  5   XRA  1-8A      C3.3    3.8E-03   2421
+3250 +     2345   2345      2347  LEA  3   FLA  S16W78    SF      DSD       2418
+3250 +     2345   2345      2345  PAL  G   RBR  1415      150               2418
+3250       2345   2346      2346  LEA  G   RBR  610       330               2418
+3250 +     2346   ////      2350  CUL  C   RSP  018-950   III/1             2418
+3250 +     2346   2346      2347  PAL  G   RBR  245       120               2418
+
+3340       2347   2354     A2359  LEA  3   FLA  N15E04    SF      DSD       2421

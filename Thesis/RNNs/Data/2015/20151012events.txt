@@ -1,0 +1,24 @@
+:Product: 20151012events.txt
+:Created: 2015 Oct 15 0357 UT
+:Date: 2015 10 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Oct 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7450       0638   0657      0707  G15  5   XRA  1-8A      B4.8    9.2E-04       
+
+7400       0955   ////      0955  SVI  C   RSP  025-080   III/1                 
+
+7410       1113   1133      1156  G15  5   XRA  1-8A      B5.3    1.2E-03       
+
+7420       1351  U1351     A1409  SVI  3   FLA  S21E34    SF                2432
+
+7430       1414   1414      1414  SAG  G   RBR  410       140                   
+
+7440 +     1740   1748      1756  G15  5   XRA  1-8A      C1.2    7.9E-04       

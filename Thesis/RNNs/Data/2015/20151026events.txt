@@ -1,0 +1,39 @@
+:Product: 20151026events.txt
+:Created: 2015 Oct 29 0357 UT
+:Date: 2015 10 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Oct 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9450 +     0036   ////      0037  LEA  C   RSP  030-144   III/1                 
+
+9460       0100   0112      0120  G15  5   XRA  1-8A      B7.2    7.4E-04   2436
+
+9470 +     1021   1029      1041  G15  5   XRA  1-8A      C2.1    1.8E-03   2437
+9470       1027   ////      1048  SVI  C   RSP  025-180   VI/1              2437
+9470      B1028  U1034     A1038  SVI  2   FLA  S20W23    SF      ERU       2437
+
+9480       1113   1113      1113  SVI  G   RBR  410       620                   
+
+9490       1231   ////      1232  SVI  C   RSP  033-138   III/1                 
+
+9500 +     1304   1308      1315  G15  5   XRA  1-8A      B8.9    4.1E-04       
+
+9520       1430   ////      1431  SAG  C   RSP  025-038   III/1                 
+9520       1431   ////      1456  SVI  C   RSP  025-180   VI/1                  
+
+9530       1456   ////      1456  SAG  C   RSP  071-160   III/1                 
+
+9540       1556   1600      1610  HOL  3   FLA  S13W55    SF      ERU       2435
+
+9550 +     2220   ////      2224  PAL  C   RSP  036-154   III/2                 
+
+9570       2311   ////      2312  LEA  C   RSP  057-180   III/1                 
+
+9560       2311   ////      2311  PAL  C   RSP  074-180   III/1                 

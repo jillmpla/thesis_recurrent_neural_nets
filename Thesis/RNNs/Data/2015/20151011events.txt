@@ -1,0 +1,18 @@
+:Product: 20151011events.txt
+:Created: 2015 Oct 14 0357 UT
+:Date: 2015 10 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Oct 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7380      A0013   ////     A1411  HOL  3   DSF  N16W49    15                    
+
+7370 +     1601   1642      1737  G15  5   XRA  1-8A      B4.3    2.0E-03       
+
+7390 +     2155   2229      2326  G15  5   XRA  1-8A      C3.2    1.3E-02       

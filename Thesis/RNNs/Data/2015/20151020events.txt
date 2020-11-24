@@ -1,0 +1,33 @@
+:Product: 20151020events.txt
+:Created: 2015 Oct 23 0357 UT
+:Date: 2015 10 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Oct 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8570       0049   0049      0049  PAL  G   RBR  245       210                   
+
+8580 +     0356   0404      0416  G15  5   XRA  1-8A      C1.2    1.1E-03   2437
+8580       0402   0409      0411  LEA  2   FLA  S19E46    SF      ERU       2437
+
+8590 +     0458   0501      0503  G15  5   XRA  1-8A      C1.0    1.7E-04   2436
+
+8600 +     0724   0727      0729  G15  5   XRA  1-8A      C1.0    1.8E-04   2436
+
+8660      A0956   ////     A2225  LEA  2   DSF  N15E12    7                     
+
+8610       1226   1229      1231  G13  5   XRA  1-8A      B7.6    1.2E-04   2436
+
+8620 +     1310   ////      1310  SAG  C   RSP  025-110   III/1                 
+
+8630 +     1323   1326      1328  G15  5   XRA  1-8A      B8.5    1.2E-04   2436
+
+8640       1356   1359      1401  G15  5   XRA  1-8A      C1.1    1.7E-04   2437
+
+8650       1901   1905      1909  HOL  3   FLA  N07E30    SF                2436

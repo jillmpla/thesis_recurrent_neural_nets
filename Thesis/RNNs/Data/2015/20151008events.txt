@@ -1,0 +1,20 @@
+:Product: 20151008events.txt
+:Created: 2015 Oct 11 0357 UT
+:Date: 2015 10 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Oct 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7300       0123   0127      0131  G15  5   XRA  1-8A      B1.7    5.9E-05   2427
+
+7310       0607   0614      0620  G15  5   XRA  1-8A      B2.7    1.6E-04   2427
+
+7330      A1412   ////     A0722  SVI  3   DSF  S38E13    14                    
+
+7320       1715   ////      1716  SAG  C   RSP  025-088   III/1                 

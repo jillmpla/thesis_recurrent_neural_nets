@@ -1,0 +1,22 @@
+:Product: 20150730events.txt
+:Created: 2015 Aug 02 0357 UT
+:Date: 2015 07 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jul 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2420       0009   0009      0009  PAL  G   RBR  245       110                   
+
+2440       0518   ////      0518  CUL  C   RSP  020-160   III/1                 
+
+2430       0518   ////      0518  SVI  C   RSP  025-081   III/1                 
+
+2450       2215   2216      2216  SAG  G   RBR  245       170                   
+
+2460       2328   2346      2353  G15  5   XRA  1-8A      B5.7    6.4E-04   2393

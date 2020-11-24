@@ -1,0 +1,31 @@
+:Product: 20150912events.txt
+:Created: 2015 Sep 15 0357 UT
+:Date: 2015 09 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Sep 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 430       0159   ////      0340  LEA  C   RSP  095-180   CTM/1                 
+
+ 440 +     0606   0606      0606  SVI  G   RBR  410       350                   
+ 440 +     0606   ////      0606  LEA  C   RSP  071-163   III/1                 
+
+ 450       0859   0859      0906  SVI  3   FLA  S18E62    SF                2415
+
+ 460       1004   1005      1009  SVI  3   FLA  S18E62    SF                2415
+
+ 470 +     1116   ////      1117  SAG  C   RSP  025-180   III/1                 
+
+ 480 +     1404   1404      1407  SVI  3   FLA  S19E62    SF                2415
+
+ 490 +     1450   ////      1451  SVI  C   RSP  025-057   III/1                 
+
+ 500 +     1732   1733      1734  HOL  3   FLA  S22E59    SF      ERU       2415
+
+ 510       1755   1756      1808  HOL  3   FLA  S22E59    SF      ERU       2415

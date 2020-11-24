@@ -1,0 +1,24 @@
+:Product: 20151018events.txt
+:Created: 2015 Oct 21 0357 UT
+:Date: 2015 10 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Oct 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8300 +     0508   0511      0513  G15  5   XRA  1-8A      C1.5    2.4E-04   2436
+
+8310 +     0724   0730      0750  G15  5   XRA  1-8A      C1.3    1.8E-03   2436
+
+8320      B0849  U0852     A0902  SVI  3   FLA  N12E73    SF      ERU       2436
+
+8330       0853   0854      0856  SVI  3   FLA  S20W21    SF                2431
+
+8340 +     2002   2008      2013  G15  5   XRA  1-8A      C1.4    6.1E-04   2437
+
+8350       2258   ////      2248  LEA  3   EPL  ////      0.18                  

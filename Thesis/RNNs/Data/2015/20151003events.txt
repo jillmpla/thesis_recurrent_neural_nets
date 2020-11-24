@@ -1,0 +1,38 @@
+:Product: 20151003events.txt
+:Created: 2015 Oct 06 0357 UT
+:Date: 2015 10 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Oct 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6910 +     0011   0019      0024  G15  5   XRA  1-8A      C2.5    1.4E-03   2427
+
+6920 +     0314   0321      0327  G15  5   XRA  1-8A      C1.3    8.1E-04   2427
+
+6930 +     0625   0633      0640  G15  5   XRA  1-8A      C3.3    2.1E-03   2422
+
+6950       0815   1033      1042  G15  5   XRA  1-8A      C1.7    3.7E-03   2422
+
+6960 +     0954   ////      0957  SVI  C   RSP  025-135   III/1                 
+
+6970       1027   1032      1040  G13  5   XRA  1-8A      C1.7    1.0E-03       
+
+6980 +     1132   1139      1145  G15  5   XRA  1-8A      C2.7    1.4E-03   2422
+
+6990 +     1302   1308      1314  G15  5   XRA  1-8A      C2.1    9.7E-04   2422
+
+7000 +     1512   1520      1526  G15  5   XRA  1-8A      C1.1    7.6E-04   2422
+
+7010       1623   1644      1652  G15  5   XRA  1-8A      C1.1    1.5E-03   2420
+
+7020 +     1804   1809      1815  G15  5   XRA  1-8A      C2.7    1.2E-03   2420
+
+7030       2026   2032      2101  G15  5   XRA  1-8A      B7.9    1.4E-03   2427
+
+7040 +     2307   2312      2318  G15  5   XRA  1-8A      B8.5    4.1E-04   2427

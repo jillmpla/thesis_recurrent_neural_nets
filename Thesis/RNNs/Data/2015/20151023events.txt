@@ -1,0 +1,43 @@
+:Product: 20151023events.txt
+:Created: 2015 Oct 26 0357 UT
+:Date: 2015 10 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Oct 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9090       0342   ////      0343  LEA  C   RSP  097-180   III/1                 
+
+9100       0436   ////      0438  LEA  C   RSP  030-148   III/1                 
+
+9110 +     0505   ////      0505  LEA  C   RSP  025-131   III/1                 
+
+9120       0531   ////      0536  LEA  C   RSP  025-180   V/1               2435
+9120       0531   ////      0535  SVI  C   RSP  025-180   III/2             2435
+9120       0535   0536      0538  LEA  3   FLA  S15W04    SF      DSD       2435
+
+9130 +     0636   0641      0645  G15  5   XRA  1-8A      B5.9    2.3E-04   2436
+
+9150 +     0737   ////      0739  SVI  C   RSP  025-144   III/2                 
+
+9160       0953   0953      0959  SVI  3   FLA  N10E01    SF      ERU       2436
+
+9170 +     1428   1435      1442  G15  5   XRA  1-8A      B9.0    5.4E-04   2436
+9170 +     1430   1431      1453  HOL  3   FLA  N05W05    SF      ERU       2436
+9170 +     1440   ////      1442  SAG  C   RSP  025-180   III/2             2436
+
+9180       1536   1539      1542  G15  5   XRA  1-8A      B7.1    1.6E-04       
+
+9190 +     1656   1703      1715  G15  5   XRA  1-8A      B9.3    8.4E-04       
+
+9200       1720   1720      1723  HOL  3   FLA  N10W03    SF      ERU       2436
+
+9210 +     1917   1917      1917  SAG  G   RBR  245       230                   
+
+9220 +     1941   ////      1947  PAL  C   RSP  025-180   III/2                 
+9220 +     1944   1944      1944  PAL  G   RBR  245       300                   

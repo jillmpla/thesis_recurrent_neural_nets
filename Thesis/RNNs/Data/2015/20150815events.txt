@@ -1,0 +1,29 @@
+:Product: 20150815events.txt
+:Created: 2015 Aug 18 0357 UT
+:Date: 2015 08 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Aug 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5190 +     0425   0430      0435  G15  5   XRA  1-8A      B5.5    2.3E-04   2401
+5190       0428   0431      0432  LEA  3   FLA  S13E38    SF      DSD       2401
+
+5200 +     0507   0510      0512  G15  5   XRA  1-8A      B4.3    6.9E-05   2401
+5200 +     0509   0509      0515  LEA  3   FLA  S12E36    SF      DSD       2401
+
+5240 +    A0801   ////     A2331  LEA  3   DSF  N62E11    16                    
+
+5250      A0801   ////     A2331  LEA  3   DSF  N41W12    6                     
+
+5220       0846   ////      1523  SVI  3   DSF  N14E69    21                    
+
+5210       1202  U1231     A1259  SVI  3   FLA  S08E33    SF      ERU       2401
+5210       1202   1236      1256  G15  5   XRA  1-8A      C1.6    3.3E-03   2401
+
+5290      A1627   ////     A0637  SVI  2   DSF  N12W43    6                 2398

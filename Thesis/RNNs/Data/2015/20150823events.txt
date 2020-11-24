@@ -1,0 +1,109 @@
+:Product: 20150823events.txt
+:Created: 2015 Aug 26 0357 UT
+:Date: 2015 08 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Aug 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6440      B0000  U0019      0030  LEA  2   FLA  S15E06    SF      DSD       2403
+
+6450       0245   ////      0253  LEA  C   RSP  030-125   III/1                 
+
+6810       0254   ////      0254  CUL  C   RSP  018-180   III/1                 
+
+6820       0333   ////      0335  CUL  C   RSP  018-150   III/1                 
+
+6460 +     0334   ////      0335  LEA  C   RSP  027-125   III/1                 
+
+6470 +     0411   ////      0421  LEA  C   RSP  025-180   III/2                 
+
+6480 +    B0455  U0502      0612  SVI  3   FLA  S15E10    1F                2403
+
+6830       0539   ////      0540  CUL  C   RSP  018-240   III/1                 
+
+6500 +     0539   ////      0539  LEA  C   RSP  025-180   III/1                 
+
+6510 +     0622   ////      0646  LEA  C   RSP  025-180   VI/1                  
+6510       0623   ////      0623  CUL  C   RSP  020-160   III/1                 
+
+6520       0648   0648      0652  SVI  3   FLA  S15E08    SF                2403
+
+6530 +     0700   0714      0723  G15  5   XRA  1-8A      C6.6    5.3E-03   2403
+6530 +     0706   0713      0738  LEA  3   FLA  S15E09    SF      ERU       2403
+
+6540       0738   0738      0738  SVI  G   RBR  245       150                   
+
+6550 +     0752   ////      0753  LEA  C   RSP  025-172   III/2                 
+
+6560 +     0853   0857      0913  SVI  3   FLA  S15E07    SF      ERU       2403
+6560 +     0854   0900      0903  G15  5   XRA  1-8A      C2.4    9.1E-04   2403
+
+6570       0937   0937      0941  SVI  3   FLA  S15E07    SF      ERU       2403
+
+6580 +     0953   0956      0958  G15  5   XRA  1-8A      B9.8    1.7E-04   2403
+6580       0956   0956      0956  SVI  G   RBR  245       3300                  
+6580       0956   ////      0957  SVI  C   RSP  025-180   III/2                 
+
+6590 +     1115   1121      1126  G15  5   XRA  1-8A      C1.7    8.1E-04   2403
+6590       1118   1120      1129  SVI  3   FLA  S16E09    SF      ERU       2403
+
+6600      B1435   1438      1444  HOL  3   FLA  S15E15    SF      ERU       2403
+
+6610       1447   1448      1451  HOL  3   FLA  S15E03    SF      ERU       2403
+
+6620 +     1639   1639      1640  SAG  G   RBR  245       150                   
+6620 +     1640   ////      1640  SVI  C   RSP  041-172   III/1                 
+
+6630 +     1643   1643      1643  SAG  G   RBR  245       110                   
+
+6640       1648   1648      1648  SVI  G   RBR  245       100                   
+
+6650      B1711   1715      1725  HOL  2   FLA  S15E03    SF      ERU       2403
+
+6660       1800   1800      1800  SAG  G   RBR  245       100                   
+
+6670 +     1818   1818      1820  SAG  G   RBR  245       100                   
+
+6680 +     1856   1907      1927  G15  5   XRA  1-8A      C3.9    5.9E-03   2403
+6680 +     1858   1901      1901  SAG  G   RBR  245       240                   
+
+6750 +     1905   1905      1908  SAG  G   RBR  245       300                   
+
+6760 +     1912   1912      1912  SAG  G   RBR  245       120                   
+
+6680 +     1913   ////      2102  SAG  C   RSP  101-180   CTM/1                 
+
+6770 +     1924   1924      1924  SAG  G   RBR  245       110                   
+
+6690       1940   1940      1940  PAL  G   RBR  410       100                   
+
+6700 +     1952   1952      1952  PAL  G   RBR  245       110                   
+
+6710 +     1955   1956      1956  PAL  G   RBR  245       120                   
+
+6720 +     2003   2003      2003  PAL  G   RBR  410       120                   
+
+6730       2006   2006      2006  PAL  G   RBR  410       100                   
+
+6740       2012   2012      2012  SAG  G   RBR  245       100                   
+
+6780       2013   2013      2014  PAL  G   RBR  410       120                   
+
+6790       2032   2032      2032  PAL  G   RBR  410       110                   
+
+6800       2044   2057      2105  G15  5   XRA  1-8A      C2.2    2.5E-03   2403
+
+6840       2207   ////      2207  CUL  C   RSP  020-057   III/1                 
+
+6850       2334   2337      2345  LEA  2   FLA  S15W03    SF                2403
+6850 +     2336   2336      2336  PAL  G   RBR  245       280               2403
+
+6860 +     2345   2347      2349  PAL  G   RBR  245       420                   
+
+6870 +     2349   ////      2350  LEA  C   RSP  025-180   III/1                 

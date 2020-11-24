@@ -1,0 +1,81 @@
+:Product: 20151001events.txt
+:Created: 2015 Oct 04 0357 UT
+:Date: 2015 10 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Oct 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6430       0000   ////      1006  LEA  C   RSP  060-180   CTM/1                 
+
+6350       0000   ////      0410  PAL  C   RSP  079-176   CTM/1                 
+6350 +     0004   ////      1006  LEA  C   RSP  025-180   VI/2                  
+
+6300       0137   0137      0138  PAL  G   RBR  245       280                   
+
+6280       0146   0213      0225  LEA  3   FLA  S20W59    1F      ERU       2422
+6280 +     0204   0215      0221  G15  5   XRA  1-8A      C6.3    3.4E-03   2422
+
+6310       0231   0231      0237  LEA  3   FLA  S20W54    SF      ERU       2422
+
+6320       0240   0241      0242  LEA  3   FLA  S20W54    SF                2422
+6320       0241   0241      0242  LEA  U   RBR  245       270               2422
+
+6330 +     0249   0249      0249  LEA  G   RBR  245       150                   
+
+6340       0254   0254      0254  LEA  G   RBR  245       100                   
+
+6370       0258   0258      0310  LEA  G   RNS  245       110                   
+
+6360       0400   0401      0404  LEA  3   FLA  S19W51    SF      DSD       2422
+
+6390       0508   ////      1620  SVI  C   RSP  075-171   CTM/1                 
+
+6380       0513   ////      0517  SVI  C   RSP  025-147   III/2                 
+
+6390 +     0539   0553      0616  G15  5   XRA  1-8A      C1.6    3.0E-03   2423
+
+6440       0548   ////      0952  SVI  C   RSP  025-079   VI/1                  
+
+6400       0653   0653      0657  SVI  3   FLA  S23W66    SF                2422
+
+6410       0701   0709      0714  SVI  3   FLA  N10W59    SF                2420
+6410       0713   0714      0714  LEA  U   RBR  245       120               2420
+
+6450       0815   0934      0956  G15  5   XRA  1-8A      C7.6    1.0E-02   2422
+
+6420       0832   0835      0838  G13  5   XRA  1-8A      C3.5    7.2E-04   2422
+6420 +     0834   0835      0841  SVI  3   FLA  S23W65    SF      ERU       2422
+
+6460       0919   0934      0952  G13  5   XRA  1-8A      C7.7    1.1E-02   2422
+6460 +     0920   0931      1021  SVI  3   FLA  S24W62    1F      ERU       2422
+
+6530       1052   ////      1739  SAG  C   RSP  101-180   CTM/1                 
+
+6470 +     1303   1310      1314  G15  5   XRA  1-8A      M4.5    1.3E-02   2422
+6470       1306  U1308     A1315  SVI  3   FLA  S23W64    SN      ERU       2422
+
+6480 +     1323   ////      1323  SVI  C   RSP  025-134   III/1                 
+
+6490      B1326   1326      1424  HOL  3   FLA  S18W49    1F      ERU       2422
+
+6500       1427   1430      1517  HOL  3   FLA  S18W49    SF      ERU       2422
+
+6510 +     1520   ////      1520  SAG  C   RSP  108-180   III/1                 
+
+6520       1522   1530      1535  HOL  3   FLA  S19W63    SF      ERU       2422
+
+6540 +     1720   1732      1750  G15  5   XRA  1-8A      C1.6    2.5E-03       
+
+6550 +     2110   2124      2147  G15  5   XRA  1-8A      C3.7    6.9E-03   2422
+6550       2111   2126      2146  HOL  3   FLA  S19W65    SF      DSD       2422
+6550       2139   2139      2139  PAL  G   RBR  245       100               2422
+
+6560       2256   2304      2307  LEA  1   FLA  S19W72    SF                2422
+
+6570       2338   2339      2354  LEA  3   FLA  S17W68    SF      ERU       2422
