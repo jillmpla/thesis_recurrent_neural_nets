@@ -1,0 +1,52 @@
+:Product: 20140308events.txt
+:Created: 2014 Mar 11 0332 UT
+:Date: 2014 03 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3330       0117   ////      0117  LEA  C   RSP  025-180   III/1                 
+3330       0117   0117      0117  LEA  G   RBR  245       130                   
+
+3340       0214   0217      0229  LEA  3   FLA  S19E79    SF      DSD           
+
+3350       0235   0236      0241  LEA  3   FLA  S19E78    SF                    
+
+3360       0257   0302      0327  LEA  3   FLA  S19E78    SF                    
+
+3370       0333   0350      0402  LEA  3   FLA  S19E78    SF      DSD           
+
+3380       0429   0438      0456  LEA  3   FLA  S19E77    SF      DSD       2002
+3380 +     0435   0443      0456  G15  5   XRA  1-8A      C1.0    1.2E-03   2002
+
+3390       0541   0544      0547  G15  5   XRA  1-8A      C1.6    3.3E-04   1991
+3390       0542   0543      0549  LEA  3   FLA  S27W56    1F      DSD       1991
+
+3400       1004   1006      1011  SVI  3   FLA  S16E73    SF                2002
+
+3410       1055   1058      1106  G15  5   XRA  1-8A      C1.0    7.4E-04       
+
+3420       1304   1305      1310  SVI  3   FLA  N17W59    SF                2001
+
+3580      A1556   ////     A0603  SVI  3   DSF  S41W23    9                     
+
+3430       1642   ////      1701  SAG  C   RSP  025-180   VI/2                  
+
+3440       1754   1800      1815  G15  5   XRA  1-8A      C2.0    2.0E-03   2002
+3440 +     1804   1809      1812  HOL  3   FLA  S20E67    SF                2002
+
+3460       1942   ////      1942  SAG  C   RSP  063-141   III/1                 
+
+3470       2012   2012      2012  PAL  G   RBR  245       140                   
+
+3490       2013   ////      2013  SAG  C   RSP  031-147   III/1                 
+
+3480       2015   2015      2015  PAL  G   RBR  245       390                   
+
+3500       2326   2341      2350  G15  5   XRA  1-8A      M1.4    1.1E-02   2002

@@ -1,0 +1,70 @@
+:Product: 20140208events.txt
+:Created: 2014 Feb 11 0332 UT
+:Date: 2014 02 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Feb 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5880 +     0025   0026      0026  LEA  G   RBR  410       600                   
+
+5900       0028   0036      0051  G15  5   XRA  1-8A      C2.5    2.7E-03   1968
+5900       0031   0047      0059  LEA  3   FLA  N10W62    SF                1968
+5900       0042   ////      0053  LEA  C   RSP  025-180   III/1             1968
+
+5910       0212   0215      0218  G15  5   XRA  1-8A      C1.7    3.8E-04   1967
+5910       0214   ////      0233  LEA  C   RSP  025-133   VI/2                  
+
+5920       0343   ////      0343  LEA  C   RSP  025-049   III/1                 
+
+5930       0420   ////      0423  LEA  C   RSP  046-100   III/1                 
+
+5940       0451   ////      0526  LEA  C   RSP  025-172   VI/1                  
+
+5950       0639   0644      0652  G15  5   XRA  1-8A      C1.7    1.1E-03   1967
+5950 +     0650   ////      0651  LEA  C   RSP  025-112   III/1                 
+
+5960 +     1002   ////      1002  LEA  C   RSP  025-144   III/1                 
+
+5970       1153   1153      1153  SVI  G   RBR  410       130                   
+
+5980       1157   ////      1159  SVI  C   RSP  026-152   V/2                   
+
+5990       1225   1230      1233  G15  5   XRA  1-8A      C3.2    9.0E-04   1967
+
+6000 +     1233   1233      1233  SVI  G   RBR  245       140                   
+6000       1233   1233      1233  SAG  G   RBR  410       110                   
+
+6010       1249   1252      1255  G15  5   XRA  1-8A      C1.5    3.2E-04   1967
+
+6020 +     1408   ////      1408  SAG  C   RSP  025-156   III/1                 
+
+6030       1511   ////      1511  SAG  C   RSP  025-049   III/1                 
+
+6040 +     1553   1553      1553  SAG  G   RBR  410       260                   
+
+6050       1752   1756      1802  G15  5   XRA  1-8A      C2.0    8.9E-04   1967
+
+6060       1825   1833      1836  G15  5   XRA  1-8A      C8.6    3.3E-03   1967
+
+6070       1850   ////      1853  SAG  C   RSP  025-180   V/2                   
+6070 +     1851   1852      1852  SAG  G   RBR  245       5600                  
+
+6080       2009   2010      2014  HOL  2   FLA  S14W34    SF      DSD       1975
+
+6100       2022   ////      2031  HOL  2   DSF  N04E22    3                 1973
+
+6090       2023   2023      2032  HOL  2   FLA  N04E27    SF      DSD       1973
+6090       2026   ////      2027  SAG  C   RSP  025-180   III/1             1973
+6090 +     2026   2026      2026  PAL  G   RBR  245       130               1973
+
+6110       2115   2120      2126  HOL  2   FLA  S14W34    SF      ERU       1975
+
+6120       2129   2132      2134  G15  5   XRA  1-8A      C1.9    3.2E-04   1976
+
+6130       2300   ////      2359  LEA  C   RSP  030-087   VI/1                  

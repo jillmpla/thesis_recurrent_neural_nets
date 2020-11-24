@@ -1,0 +1,78 @@
+:Product: 20131229events.txt
+:Created: 2013 Dec 31 0332 UT
+:Date: 2013 12 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Dec 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5730       0009   0017      0021  G15  5   XRA  1-8A      C2.2    1.1E-03   1936
+
+5790       0104   ////      0145  LEA  4   DSF  S26E42    9                     
+
+5800       0150   ////      0225  LEA  4   DSF  S26E43    5                     
+
+5750       0350   0352      0357  LEA  3   FLA  S15E04    SF      ERU       1936
+
+5760       0423   0424      0428  LEA  3   FLA  S16E05    SF      ERU       1936
+
+5770       0509   0512      0516  G15  5   XRA  1-8A      C2.8    7.9E-04   1936
+5770       0511   0512      0519  LEA  3   FLA  S16E04    SF      DSD       1936
+
+5780       0548   0553      0602  LEA  3   FLA  S16W01    SF      ERU       1936
+5780       0548   0552      0555  G15  5   XRA  1-8A      C3.1    8.9E-04   1936
+5780       0550   ////      0551  LEA  C   RSP  051-180   III/1             1936
+
+5810       0749   0756      0800  G15  5   XRA  1-8A      M3.1    1.1E-02   1936
+5810       0750   ////      0756  SVI  C   RSP  025-180   V/2               1936
+5810       0750   ////      0757  LEA  C   RSP  025-180   III/2             1936
+5810 +     0751   0756      0808  LEA  3   FLA  S18E01    1N      ERU       1936
+5810       0752   0753      0753  SVI  G   RBR  4995      180               1936
+5810       0752   0753      0753  SVI  G   RBR  8800      120               1936
+5810       0753   0753      0755  SVI  G   RBR  245       1100              1936
+5810       0753   0753      0753  SVI  G   RBR  2695      110               1936
+
+5820       0818   0818      0827  SVI  3   FLA  S16E01    SF      ERU       1936
+
+5830       0830   0832      0842  SVI  3   FLA  S16E03    SF      ERU       1936
+
+5840       0854   0900      0904  G15  5   XRA  1-8A      C3.8    1.5E-03   1936
+5840 +     0856   0902      0910  SVI  3   FLA  S16E01    SF      ERU       1936
+
+5850       1147   1151      1155  G15  5   XRA  1-8A      C1.8    6.0E-04   1936
+5850       1148   1149      1202  SVI  3   FLA  S17W03    SF      ERU       1936
+
+5860       1257   ////      1258  SVI  C   RSP  103-174   III/3                 
+
+5870       1310   1310      1313  SVI  3   FLA  S17W04    SF                1936
+
+5880       1406   1412      1421  SVI  3   FLA  S17W04    SF      ERU       1936
+5880 +     1407   ////      1409  SAG  C   RSP  025-160   III/1             1936
+
+5890 +     1439   1446      1450  G15  5   XRA  1-8A      C5.1    1.9E-03   1936
+5890 +     1442   ////      1444  SAG  C   RSP  025-180   III/1             1936
+
+5900       1559   1602      1604  G15  5   XRA  1-8A      B9.9    1.5E-04       
+
+5910       1608   1612      1616  G15  5   XRA  1-8A      B9.4    3.1E-04       
+
+5920       1636   1641      1644  G15  5   XRA  1-8A      C1.9    6.2E-04   1936
+5920       1638   1641      1647  HOL  3   FLA  S17W07    SF      ERU       1936
+
+5930       1752   1759      1804  G15  5   XRA  1-8A      C1.1    6.8E-04   1936
+
+5940       1853   1857      1904  G15  5   XRA  1-8A      C1.1    5.6E-04   1936
+
+5950       1924   1930      1934  G15  5   XRA  1-8A      C5.4    1.9E-03   1936
+
+5960       2200   ////      2359  LEA  C   RSP  081-180   CTM/1                 
+5960       2225   2233      2239  G15  5   XRA  1-8A      C4.6    2.4E-03       
+
+5970       2333   2333      2333  LEA  G   RBR  245       230                   
+
+5980       2354   2354      2354  LEA  G   RBR  245       180                   

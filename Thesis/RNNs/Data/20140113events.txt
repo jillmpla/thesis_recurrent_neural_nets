@@ -1,0 +1,79 @@
+:Product: 20140113events.txt
+:Created: 2014 Jan 16 0332 UT
+:Date: 2014 01 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jan 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9930       0034   0034      0034  LEA  G   RBR  410       130                   
+
+9940       0219   ////      0220  CUL  C   RSP  030-075   III/1                 
+
+9950       0305   ////      0305  CUL  C   RSP  025-070   III/1                 
+
+9960       0320   ////      0320  CUL  C   RSP  025-060   III/1                 
+
+9970       0320   ////      0320  LEA  C   RSP  025-050   III/1                 
+
+9980       0411   0412      0412  LEA  G   RBR  245       270                   
+
+9990       0419   0419      0419  LEA  G   RBR  245       140                   
+
+  10       0421   0421      0421  LEA  G   RBR  245       130                   
+
+  20       0424   ////      0432  LEA  C   RSP  025-139   III/1                 
+
+ 180       0440   0510      0530  G15  5   XRA  1-8A      C1.3    3.4E-03       
+
+ 110       0522   ////      0722  LEA  3   DSF  N23E20    18                    
+
+  30       0539   0539      0539  LEA  G   RBR  245       100                   
+
+  40       0617   ////      0623  LEA  C   RSP  025-078   III/1                 
+
+  50       0633   0633      0633  LEA  G   RBR  245       140                   
+
+  60       0639   0639      0639  LEA  G   RBR  245       130                   
+
+  70       0639   0639      0639  SVI  U   RBR  245       120                   
+
+  80       0700   0700      0700  SVI  U   RBR  245       130                   
+
+  90       0707   ////      0707  LEA  C   RSP  033-047   III/1                 
+
+ 100       0711   0713      0713  SVI  U   RBR  245       170                   
+
+ 190       0909   0920      0927  G15  5   XRA  1-8A      C1.1    1.1E-03       
+
+ 340      A1229   ////     A0807  SVI  3   DSF  S33E46    5                     
+
+ 140 +     1241   1241      1241  SVI  G   RBR  245       100                   
+
+ 150 +     1311   1311      1311  SAG  G   RBR  245       100                   
+
+ 160 +     1315   1315      1315  SAG  G   RBR  245       110                   
+
+ 170 +     1329   1329      1329  SAG  G   RBR  245       110                   
+
+ 200       1502   1509      1512  G15  5   XRA  1-8A      C1.1    4.9E-04       
+
+ 210       1603   1633      1651  G15  5   XRA  1-8A      C1.8    3.9E-03   1953
+ 210       1619   1623      1656  HOL  3   FLA  S18W07    SF      ERU       1953
+
+ 220       1629   1631      1632  HOL  3   FLA  S29E51    SF      ERU       1952
+
+ 230       2058   2058      2058  PAL  G   RBR  245       100                   
+
+ 240       2148   2151      2153  G15  5   XRA  1-8A      M1.3    1.8E-03   1944
+ 240       2150   2150      2150  PAL  G   RBR  4995      200               1944
+ 240       2150   2150      2154  HOL  2   FLA  S07W11    SF                1944
+ 240       2150   2150      2150  PAL  G   RBR  8800      140               1944
+ 240       2150   2150      2150  PAL  G   RBR  2695      94                1944
+
+ 250       2212   2215      2221  HOL  3   FLA  S29E48    SF      ERU       1952

@@ -1,0 +1,53 @@
+:Product: 20140304events.txt
+:Created: 2014 Mar 07 0332 UT
+:Date: 2014 03 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2560       0007   0018      0025  G15  5   XRA  1-8A      C4.8    3.2E-03       
+2560 +     0010   ////      0018  LEA  C   RSP  025-180   III/1                 
+
+2570       0057   0101      0109  G15  5   XRA  1-8A      C1.8    9.9E-04       
+
+2580       0449   0455      0459  G15  5   XRA  1-8A      C8.3    3.2E-03   1991
+2580       0451   0453      0507  LEA  3   FLA  S26W01    1F      ERU       1991
+2580       0451   0452      0453  LEA  G   RBR  4995      130               1991
+
+2600       0622   0704      0723  G15  5   XRA  1-8A      C5.6    1.3E-02   1994
+
+2590 +     0657   ////      0657  CUL  C   RSP  027-045   III/2                 
+
+2610       0827   0832      0835  G15  5   XRA  1-8A      C2.7    8.4E-04   1991
+2610       0829   0832      0836  LEA  3   FLA  S26E00    SF      ERU       1991
+
+2620       0957   1002      1010  G15  5   XRA  1-8A      C1.6    9.8E-04       
+
+2630 +     1017   1017      1017  SVI  G   RBR  245       280                   
+
+2640       1019   1025      1029  G15  5   XRA  1-8A      C4.4    1.5E-03   1991
+
+2650       1046   ////      1047  SVI  C   RSP  031-128   III/1                 
+
+2660       1117   1124      1138  G15  5   XRA  1-8A      C7.6    7.9E-03       
+2660       1129   ////      1129  SVI  C   RSP  073-081   III/1                 
+
+2670       1625   ////      1625  SVI  U   RSP  027-035   III/2                 
+
+2680       1804   1835      1913  G15  5   XRA  1-8A      C5.5    1.7E-02       
+2680       1834   ////      1836  SAG  C   RSP  025-055   III/1                 
+
+2690       2146   2151      2154  G15  5   XRA  1-8A      C3.2    9.2E-04   1991
+2690       2152   2152      2152  PAL  G   RBR  410       140                   
+2690 +     2152   2152      2152  PAL  G   RBR  245       890                   
+
+2710       2226   ////      2226  CUL  C   RSP  018-057   III/2                 
+
+2700       2304   ////      2325  LEA  C   RSP  025-180   VI/1                  
+2700       2325   2325      2325  LEA  G   RBR  245       130                   

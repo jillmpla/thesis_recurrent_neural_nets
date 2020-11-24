@@ -1,0 +1,52 @@
+:Product: 20140109events.txt
+:Created: 2014 Jan 12 0332 UT
+:Date: 2014 01 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jan 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9150       0000   ////      1055  LEA  C   RSP  025-180   IV/2                  
+
+9120       0006   ////      0030  LEA  C   RSP  025-180   VI/2                  
+
+9110       0025   0025      0026  LEA  G   RBR  410       850                   
+
+9130       0130   ////      0133  LEA  C   RSP  025-180   III/1                 
+
+9140       0213   0216      0218  G15  5   XRA  1-8A      C1.4    2.4E-04   1946
+9140       0215   0217      0219  LEA  3   FLA  N11W17    SF                1946
+
+9190       0625   ////      1528  SVI  C   RSP  027-180   IV/2                  
+
+9160       0828   ////      0828  LEA  C   RSP  034-092   III/1                 
+
+9170       0903   ////      0919  LEA  C   RSP  034-065   VI/1                  
+
+9180       1224   1224      1231  SVI  G   RNS  410       110                   
+
+9200       1227   ////      1940  SAG  C   RSP  025-180   IV/1                  
+
+9180 +     1235   1550      1821  SAG  G   RNS  245       370                   
+
+9210       1856   1859      1902  G15  5   XRA  1-8A      C1.1    2.5E-04       
+
+9220 +     1907   1907      1907  SAG  G   RBR  245       140                   
+
+9230       2120   2120      2120  PAL  G   RBR  245       120                   
+
+9240       2207   ////      2311  LEA  C   RSP  109-180   CTM/1                 
+9240 +     2217   2217      2217  PAL  G   RBR  245       130                   
+
+9270 +     2237   2237      2237  LEA  G   RBR  245       120                   
+
+9240       2244   ////      2359  LEA  C   RSP  031-143   VI/1                  
+
+9280       2300   2300      2301  PAL  G   RBR  245       330                   
+
+9250       2318   2318      2319  LEA  G   RBR  245       130                   

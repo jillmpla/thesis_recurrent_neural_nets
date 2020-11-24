@@ -1,0 +1,45 @@
+:Product: 20131227events.txt
+:Created: 2013 Dec 30 0332 UT
+:Date: 2013 12 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Dec 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5480       0000   ////      0141  LEA  C   RSP  025-145   VI/1                  
+
+5520       0419   ////      1051  LEA  C   RSP  100-180   CTM/1                 
+
+5490       0515   0516      0516  LEA  G   RBR  410       850                   
+
+5550       0701   ////      1517  SVI  C   RSP  049-180   CTM/1                 
+
+5500       0728   0734      0743  G15  5   XRA  1-8A      C1.1    7.6E-04   1936
+5500 +     0732   0734      0741  LEA  3   FLA  S18E33    SF                1936
+
+5510       0934   0938      0945  G15  5   XRA  1-8A      C1.7    7.7E-04   1934
+5510 +     0936   0938      0947  SVI  3   FLA  S21W16    SF      DSD       1934
+
+5530       1110   1122      1128  G15  5   XRA  1-8A      C2.0    1.4E-03   1934
+
+5540       1208   1213      1217  G15  5   XRA  1-8A      C4.4    1.5E-03   1936
+5540       1210   1211      1211  SVI  G   RBR  410       110                   
+
+5560       1251   ////      1545  SAG  C   RSP  050-180   CTM/1             1934
+5560       1259   ////      1259  SVI  C   RSP  025-039   III/1             1934
+5560      B1326  U1337      1347  SVI  3   FLA  S21W20    SF      ERU       1934
+5560       1330   1340      1348  G15  5   XRA  1-8A      C1.7    1.5E-03   1934
+
+5570       1524   1529      1536  G15  5   XRA  1-8A      B7.8    4.3E-04   1934
+5570       1526   1527      1531  HOL  3   FLA  S19W22    SF      ERU       1934
+
+5580       2153   2208      2232  G15  5   XRA  1-8A      C1.2    2.3E-03   1936
+5580       2218   ////      2235  LEA  C   RSP  025-133   VI/1                  
+
+5590       2320   2336      2356  G15  5   XRA  1-8A      C2.3    3.9E-03   1934
+5590       2323   2329      2346  HOL  3   FLA  S19W26    SF                1934

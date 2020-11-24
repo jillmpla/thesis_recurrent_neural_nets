@@ -1,0 +1,71 @@
+:Product: 20131214events.txt
+:Created: 2013 Dec 17 0332 UT
+:Date: 2013 12 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Dec 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2610       0015   ////      0322  LEA  C   RSP  025-180   VI/2                  
+
+2620       0357   ////      0438  LEA  C   RSP  025-180   VI/1                  
+
+2630       0515   ////      0518  LEA  C   RSP  031-091   III/1                 
+
+2640       0555   ////      0556  LEA  C   RSP  031-115   III/1                 
+
+2650 +     0624   ////      0625  LEA  C   RSP  025-180   V/2                   
+
+2660       0640   ////      0641  LEA  C   RSP  025-180   II/1    500           
+
+2670 +     0706   ////      0708  SVI  C   RSP  027-081   V/1                   
+
+2680       0822   ////      0902  SVI  C   RSP  027-166   VII/1             1917
+2680 +     0822   ////      0902  SVI  C   RSP  027-166   VI/1              1917
+2680       0838   0838      0845  SVI  3   FLA  S14W09    SF                1917
+2680       0858   ////      0905  SVI  3   EPL  ////      0.15    B.9A      1917
+
+2700 +     0926   0940      0943  G15  5   XRA  1-8A      C1.1    8.3E-04   1925
+
+2690       0929   ////      0930  SVI  C   RSP  025-124   V/1                   
+
+2700       0939   0940      0941  LEA  3   FLA  S08E53    SF                1925
+2700 +     0939   0939      0939  SVI  G   RBR  410       170               1925
+
+2720       0948   ////      0954  SVI  U   RSP  027-082   III/1                 
+
+2710       0954   0955      0957  SVI  3   FLA  S14W10    SF                1917
+
+2740       1100   1124      1140  G15  5   XRA  1-8A      C2.3    4.0E-03   1917
+
+2730 +     1109   1118      1120  SVI  3   FLA  S14W14    SF      ERU       1917
+
+2740       1120   1122      1159  SVI  3   FLA  S14W14    SF      ERU       1917
+
+2750 +     1224   ////      1226  SVI  C   RSP  027-082   V/2                   
+
+2760       1257   ////      1258  SVI  U   RSP  027-080   V/1                   
+2760       1257   ////      1402  SAG  C   RSP  048-064   VI/1                  
+
+2770       1317   ////      1343  SVI  C   RSP  030-081   VI/1                  
+
+2790       1514   1537      1556  G15  5   XRA  1-8A      C1.6    3.3E-03   1917
+
+2780       1633   ////      1642  SAG  C   RSP  025-156   III/2                 
+
+2800       1832   ////      1833  SAG  C   RSP  025-082   III/2                 
+
+2810       2152   2159      2209  G15  5   XRA  1-8A      C1.4    1.2E-03   1925
+2810       2154   2159      2204  HOL  2   FLA  S05E40    SF      PRB       1925
+2810       2155   ////      2207  HOL  2   EPL  ////      0.17              1925
+2810       2156   ////      2351  LEA  C   RSP  085-180   CTM/1             1925
+2810       2204   ////      2205  LEA  C   RSP  025-180   III/1             1925
+2810 +     2207   2209      2209  PAL  G   RBR  245       140               1925
+
+2820       2248   ////      2356  LEA  C   RSP  025-180   VI/1                  
+2820       2307   2307      2307  LEA  G   RBR  245       100                   

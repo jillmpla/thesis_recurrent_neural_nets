@@ -1,0 +1,28 @@
+:Product: 20140307events.txt
+:Created: 2014 Mar 10 0332 UT
+:Date: 2014 03 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3280       0638   ////      0843  LEA  3   DSF  N33E15    9                     
+
+3240       1637   ////      1638  SAG  C   RSP  025-180   III/2                 
+
+3290       1814   1857      1917  G15  5   XRA  1-8A      C2.1    5.9E-03   1995
+
+3250 +     1847   ////      1848  SAG  C   RSP  025-148   III/1                 
+
+3450       2031   2036      2039  G15  5   XRA  1-8A      B7.6    3.9E-04       
+
+3300 +     2033   ////      2035  PAL  C   RSP  025-180   V/2                   
+
+3310       2040   ////      2040  PAL  C   RSP  025-080   III/1                 
+
+3320 +     2356   0007      0020  G15  5   XRA  1-8A      C3.4    3.5E-03   2002

@@ -1,0 +1,102 @@
+:Product: 20140217events.txt
+:Created: 2014 Feb 20 0332 UT
+:Date: 2014 02 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Feb 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8930       0002   ////      0030  LEA  C   RSP  027-119   VI/2                  
+8930       0002   ////      0003  CUL  C   RSP  018-057   III/2                 
+
+8940       0117   ////      0118  LEA  C   RSP  028-055   III/1                 
+
+8950 +     0210   ////      0211  CUL  C   RSP  018-090   III/2                 
+
+8960 +     0250   ////      0258  CUL  C   RSP  018-075   III/3             1977
+8960       0250   ////      0313  LEA  C   RSP  025-180   VI/2              1977
+8960       0251   0304      0321  G15  5   XRA  1-8A      C6.6    8.3E-03   1977
+8960       0253   0304      0325  LEA  3   FLA  S14W05    1F      ERU       1977
+8960       0300   ////      1044  LEA  C   RSP  025-180   IV/1              1977
+8960       0300   ////      0302  LEA  U   RSP  091-152   II/1    1000      1977
+8960 +     0305   0308      0317  LEA  G   RBR  610       900               1977
+8960 +     0306   0312      0340  LEA  G   RBR  245       780               1977
+8960 +     0307   0314      0317  LEA  G   RBR  410       390               1977
+8960 +     0307   0311      0312  LEA  G   RBR  1415      230               1977
+
+8970 +     0340   0344      0657  LEA  G   RNS  245       130                   
+
+8980       0453   0453      0454  LEA  G   RBR  245       280                   
+
+8990       0454   ////      0500  LEA  C   RSP  059-180   II/2    776           
+8990       0500   ////      0600  LEA  3   EPL  ////      0.35    B.9A          
+
+9000       0509   ////      0610  LEA  C   RSP  025-180   VI/2                  
+9000       0510   ////      0510  CUL  C   RSP  018-057   III/2                 
+9000       0600   ////      1614  SVI  C   RSP  045-180   IV/1                  
+
+9010       0803   0810      0818  G15  5   XRA  1-8A      C2.0    1.4E-03   1982
+9010       0816   ////      0825  LEA  C   RSP  025-180   III/2                 
+
+9060       0851   0900      0909  G15  5   XRA  1-8A      C1.3    1.4E-03   1982
+
+9020 +     0904   0904      0905  SVI  G   RBR  245       130                   
+
+9030       0919   0919      0921  LEA  G   RBR  245       120                   
+
+9070       0929   0944      0953  G15  5   XRA  1-8A      C1.7    2.1E-03   1982
+
+9040      B0959  U1002     A1011  SVI  3   FLA  S07E74    SF      ERU       1982
+
+9270      A1020   ////     A2335  LEA  3   DSF  S28E46    9                     
+
+9050      B1025  U1025     A1029  SVI  3   FLA  S04E68    SF                1981
+
+9080      B1031  U1037     A1053  SVI  3   FLA  S10E79    SF                1982
+
+9110      B1035  U1059     A1114  SVI  3   FLA  S04E68    SF                1981
+
+9090      B1122  U1125     A1130  SVI  3   FLA  S08E79    SF                1982
+
+9120       1142   ////      1201  SVI  C   RSP  025-166   VI/2                  
+
+9100      B1152  U1153     A1158  SVI  3   FLA  S08E79    SF                1982
+
+9120       1201   ////      1201  SAG  C   RSP  025-180   III/1                 
+
+9230       1202   ////      2206  SAG  C   RSP  025-180   IV/1                  
+
+9130      B1333   1334      1336  SVI  3   FLA  S09E77    SF                1982
+
+9140       1355   1404      1413  SVI  3   FLA  S12W14    SF      ERU       1977
+
+9160       1409   1411      1416  SVI  3   FLA  S04E68    SF                1981
+
+9150       1424   ////      1424  SVI  C   RSP  025-080   III/1                 
+
+9170      B1504  U1504      1507  SVI  3   FLA  S09E76    SF                1982
+
+9180 +     1513   1513      1513  SAG  G   RBR  245       260                   
+
+9290 +    A1517   ////     A0928  SVI  3   DSF  S42E47    45                    
+
+9420      A1517   ////     A0928  SVI  3   DSF  S26E40    36                    
+
+9190 +     1523   1523      1523  SAG  G   RBR  245       200                   
+
+9200       1527   1531      1533  G15  5   XRA  1-8A      C2.4    5.0E-04   1977
+
+9210 +     1544   ////      1545  SVI  C   RSP  025-037   III/1                 
+
+9220       1553   1554      1602  HOL  3   FLA  S12W12    SF                1977
+
+9240       2010   2014      2020  G15  5   XRA  1-8A      C1.6    7.1E-04   1980
+
+9250       2025   ////      2031  SAG  C   RSP  101-180   II/2    241           
+
+9260       2107   2112      2120  G15  5   XRA  1-8A      C1.8    1.1E-03   1977

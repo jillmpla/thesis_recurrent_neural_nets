@@ -1,0 +1,45 @@
+:Product: 20140126events.txt
+:Created: 2014 Jan 29 0332 UT
+:Date: 2014 01 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jan 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1830       0014   ////      0015  LEA  C   RSP  025-083   III/1                 
+
+1840       0107   ////      0121  LEA  C   RSP  025-180   VI/2                  
+
+1850       0438   ////      0438  LEA  C   RSP  025-059   III/1                 
+
+1860       0518   0616      0641  G15  5   XRA  1-8A      C3.2    9.1E-03       
+1860       0524   ////      1054  LEA  C   RSP  025-075   VI/1                  
+
+1870       0629   ////      0640  SVI  C   RSP  075-180   VI/1                  
+
+1880 +     0826   0838      0933  G15  5   XRA  1-8A      C1.5    5.5E-03   1967
+1880 +     0828   ////      0831  LEA  C   RSP  025-180   III/2             1967
+1880 +     0830   0830      0831  LEA  G   RBR  2695      200               1967
+1880 +     0834   ////      0839  LEA  C   RSP  025-180   II/2    839       1967
+1880       0914   ////      0930  SVI  C   RSP  027-175   VI/1              1967
+
+1890 +     1005   1013      1019  G15  5   XRA  1-8A      C6.1    3.1E-03   1960
+1890 +     1007   ////      1009  LEA  C   RSP  025-180   III/2             1960
+1890       1008   1008      1008  LEA  G   RBR  245       170               1960
+1890 +     1013   ////      1054  LEA  C   RSP  025-180   IV/2              1960
+1890 +     1015   1016      1016  LEA  G   RBR  410       120               1960
+
+1900       1216   ////      1216  SVI  C   RSP  027-081   III/1                 
+
+1910 +     1338   ////      1341  SVI  C   RSP  026-080   III/2                 
+
+1920       1506   ////      1506  SAG  C   RSP  025-034   III/1                 
+
+1930 +     1753   1754      1755  SAG  G   RBR  245       180                   
+
+1940       2339   ////      2359  LEA  C   RSP  025-180   VI/1                  

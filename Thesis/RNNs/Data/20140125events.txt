@@ -1,0 +1,28 @@
+:Product: 20140125events.txt
+:Created: 2014 Jan 28 0332 UT
+:Date: 2014 01 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jan 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1750       0000   ////      0046  LEA  C   RSP  025-170   VI/1                  
+
+1760       0225   0232      0239  G15  5   XRA  1-8A      C1.0    6.4E-04       
+
+1770       0245   ////      0350  LEA  C   RSP  025-127   VI/1                  
+
+1780       0722   0722      0722  SVI  G   RBR  245       140                   
+
+1790       0807   ////      0944  SVI  U   RSP  025-080   VI/1                  
+
+1800       1205   ////      1255  SVI  C   RSP  102-172   CTM/1                 
+
+1810       1335   1341      1348  G15  5   XRA  1-8A      B7.0    4.3E-04   1957
+
+1820       2226   ////      2355  LEA  C   RSP  025-180   VI/1                  

@@ -1,0 +1,61 @@
+:Product: 20140302events.txt
+:Created: 2014 Mar 05 0332 UT
+:Date: 2014 03 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1970       0003   0012      0019  G15  5   XRA  1-8A      C8.7    5.3E-03   1982
+1970 +     0016   ////      0017  LEA  C   RSP  025-075   III/1             1982
+1970       0017   0019      0030  LEA  3   FLA  N15E17    SF      ERU       1982
+
+1980       0034   0034      0041  LEA  3   FLA  N16E17    SF                1993
+
+2150       0111   ////      0111  CUL  C   RSP  018-057   III/1                 
+
+1990       0111   ////      0111  LEA  C   RSP  025-089   III/1                 
+
+2000       0156   0159      0203  G15  5   XRA  1-8A      C2.1    5.9E-04   1982
+
+2010       0327   0353      0418  G15  5   XRA  1-8A      C3.7    8.6E-03   1982
+2010 +     0404   ////      0408  CUL  C   RSP  018-057   III/1                 
+
+2160       0523   ////      0524  CUL  C   RSP  030-057   III/1                 
+
+2020       0523   ////      0525  LEA  C   RSP  033-119   III/1                 
+
+2030      B0822  U0824     A0826  SVI  3   FLA  S25E25    SF                1991
+
+2040 +     0910   0911      0914  LEA  3   FLA  S25E21    SF      ERU       1991
+
+2050      B1122  U1123     A1131  SVI  3   FLA  N16E12    SF                1993
+
+2060       1155   1205      1214  G15  5   XRA  1-8A      C2.4    2.5E-03   1991
+2060      B1200  U1201      1215  SVI  3   FLA  S25E23    SF      ERU       1991
+
+2070       1245   1253      1313  G15  5   XRA  1-8A      C2.5    3.6E-03   1990
+2070       1308   1310      1320  SVI  3   FLA  S11E33    SF                1990
+
+2080       1321   1328      1332  SVI  3   FLA  S25E24    SF      ERU       1991
+
+2090       1459   1502      1517  SVI  3   FLA  N06W23    SF                1989
+
+2100       1547   1645      1700  G15  5   XRA  1-8A      C2.5    7.7E-03   1987
+2100       1616   1652      1722  HOL  3   FLA  S02W22    SF                1987
+
+2110       1754   1754      1755  HOL  3   FLA  S23E57    SF                1991
+
+2120       1808   1814      1821  G15  5   XRA  1-8A      C1.7    9.9E-04   1986
+
+2130       2024   2026      2045  HOL  2   FLA  N10W23    SF      ERU       1989
+
+2140       2112   2113      2124  HOL  2   FLA  N07W29    SF      ERU       1989
+
+2170       2311   2319      2326  G15  5   XRA  1-8A      M1.1    5.9E-03   1986
+2170 +     2316   2317      2321  LEA  3   FLA  N15W74    SF      DSD       1986

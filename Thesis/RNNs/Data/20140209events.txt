@@ -1,0 +1,53 @@
+:Product: 20140209events.txt
+:Created: 2014 Feb 12 0332 UT
+:Date: 2014 02 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Feb 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6140       0042   ////      0048  LEA  C   RSP  025-133   III/1                 
+
+6150       0145   ////      0146  LEA  C   RSP  025-113   III/1                 
+
+6160       0220   ////      0220  LEA  C   RSP  025-078   III/1                 
+
+6170       0300   0324      0333  LEA  3   FLA  S10W77    SF                1967
+
+6270       0328   0331      0336  LEA  3   FLA  S15W38    SF                1975
+
+6180       0456   0456      0459  LEA  3   FLA  S15W39    SF                1975
+
+6190       0511   0511      0511  LEA  G   RBR  245       120                   
+
+6200       0512   0517      0522  G15  5   XRA  1-8A      C2.4    1.0E-03   1975
+6200       0514   0521      0524  LEA  3   FLA  S15W38    SF      ERU       1975
+
+6210       0619   0620      0622  LEA  3   FLA  S17W37    SF                1975
+6210       0619   0619      0619  SVI  G   RBR  410       140               1975
+
+6220       1151   1207      1223  G15  5   XRA  1-8A      C2.3    3.9E-03   1974
+
+6230       1235   ////      1236  SVI  C   RSP  025-045   III/1                 
+
+6410      A1255   ////     A0640  SVI  3   DSF  N04E27    5                     
+
+6240       1334   ////      1334  SAG  C   RSP  025-069   III/1                 
+
+6260       1502   ////      1604  SVI  C   RSP  074-171   CTM/1                 
+
+6250 +     1525   ////      1526  SAG  C   RSP  025-043   III/1                 
+
+6260       1540   1617      1652  G15  5   XRA  1-8A      M1.0    3.2E-02       
+
+6280       2007   2028      2041  G15  5   XRA  1-8A      C3.4    5.6E-03   1967
+
+6290 +     2244   ////      2245  LEA  C   RSP  025-114   III/1                 
+
+6300       2314   2331      2345  G15  5   XRA  1-8A      C5.2    6.9E-03   1967
+6300       2317   2317      2319  HOL  2   FLA  S15W17    SF                1967

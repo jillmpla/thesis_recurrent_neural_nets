@@ -1,0 +1,45 @@
+:Product: 20131225events.txt
+:Created: 2013 Dec 28 0332 UT
+:Date: 2013 12 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Dec 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5260       0117   ////      0118  LEA  C   RSP  025-087   III/1                 
+
+5270       0549   0556      0559  G15  5   XRA  1-8A      C1.4    5.5E-04   1928
+
+5280       0634   0639      0643  G15  5   XRA  1-8A      C4.7    1.3E-03   1928
+
+5290       0706   0711      0714  G15  5   XRA  1-8A      C1.0    5.0E-04   1936
+
+5310 +     0718   ////      1203  SVI  C   RSP  102-180   CTM/1                 
+
+5300       0807   0811      0818  G15  5   XRA  1-8A      C1.0    5.2E-04   1928
+
+5320       1041   1045      1047  G15  5   XRA  1-8A      B7.6    1.7E-04   1928
+
+5330       1124   1124      1124  SVI  U   RBR  245       170                   
+
+5340       1131   1136      1142  G15  5   XRA  1-8A      C1.2    5.8E-04   1928
+
+5360       1237   ////      1515  SVI  C   RSP  102-180   CTM/1                 
+
+5350       1358   1403      1413  G15  5   XRA  1-8A      C1.1    7.6E-04   1928
+
+5370       1628   1635      1643  G15  5   XRA  1-8A      C1.7    1.1E-03   1936
+5370       1630   1635      1638  HOL  3   FLA  S17E52    SF      ERU       1936
+5370       1631   1631      1631  SAG  G   RBR  410       150               1936
+
+5380       1729   1734      1736  G15  5   XRA  1-8A      C1.3    4.2E-04   1934
+5380       1734   1736      1738  HOL  3   FLA  S17E01    SF      ERU       1934
+
+5390 +     1854   1910      1918  G15  5   XRA  1-8A      C1.0    1.2E-03       
+
+5400       2158   ////      2359  LEA  C   RSP  083-180   CTM/1                 

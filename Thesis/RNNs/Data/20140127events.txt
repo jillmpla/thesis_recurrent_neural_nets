@@ -1,0 +1,72 @@
+:Product: 20140127events.txt
+:Created: 2014 Jan 30 0332 UT
+:Date: 2014 01 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jan 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1970       0050   ////      0336  LEA  C   RSP  025-135   VI/1                  
+1970       0051   ////      0052  CUL  C   RSP  018-060   III/2                 
+
+1950 +     0105   0122      0139  G15  5   XRA  1-8A      M1.0    1.5E-02   1967
+1950       0134   ////      0134  CUL  C   RSP  018-120   III/2             1967
+
+2170       0155   ////      0206  CUL  C   RSP  018-080   III/2                 
+
+1960 +     0202   0211      0218  G15  5   XRA  1-8A      M1.1    8.0E-03   1967
+
+1980       0251   ////      0317  LEA  C   RSP  055-114   CTM/1                 
+
+2180       0321   ////      0321  CUL  C   RSP  018-075   III/2                 
+
+1990 +     0409   0417      0421  G15  5   XRA  1-8A      C3.3    1.7E-03   1967
+1990       0411   ////      0900  LEA  C   RSP  025-055   VI/1              1967
+
+2000 +     0519   0522      0525  G15  5   XRA  1-8A      C2.3    4.7E-04   1960
+
+2270       0527   0527      0527  LEA  G   RBR  8800      160                   
+2270       0527   0527      0527  LEA  G   RBR  15400     200                   
+2270       0527   0527      0527  LEA  G   RBR  245       410                   
+
+2190       0542   ////      0542  CUL  C   RSP  018-075   III/2                 
+
+2010       0651   0654      0658  G15  5   XRA  1-8A      C2.0    5.4E-04       
+
+2020       0659   ////      0659  SVI  C   RSP  121-164   III/1                 
+
+2070       0702   ////      1548  SVI  C   RSP  103-180   CTM/1                 
+
+2030       0748   ////      0752  SVI  U   RSP  027-148   III/1                 
+
+2040       0807   0823      0840  G15  5   XRA  1-8A      C6.0    7.9E-03   1968
+
+2050       0909   ////      0909  SVI  C   RSP  027-034   III/1                 
+
+2060       1108   1113      1119  G15  5   XRA  1-8A      C2.6    1.3E-03   1968
+
+2080       1219   ////      1220  SVI  C   RSP  027-144   III/1                 
+
+2090       1327   ////      1328  SVI  C   RSP  027-137   III/2                 
+
+2100       1412   ////      1412  SVI  C   RSP  026-180   III/2                 
+
+2110       1906   1927      1936  G15  5   XRA  1-8A      C8.0    9.4E-03   1967
+
+2120       2001   ////      2019  HOL  2   DSF  S22E17    8                     
+
+2130       2015   2055      2106  G15  5   XRA  1-8A      C5.3    1.2E-02   1967
+
+2140       2205   2210      2215  G15  5   XRA  1-8A      M4.9    1.6E-02   1967
+
+2150       2219   ////      2346  LEA  C   RSP  075-180   CTM/1                 
+2150 +     2243   ////      2243  CUL  C   RSP  018-060   III/3                 
+
+2200       2346   ////      2347  CUL  C   RSP  018-040   III/1                 
+
+2160 +     2349   ////      2349  CUL  C   RSP  018-060   III/2                 

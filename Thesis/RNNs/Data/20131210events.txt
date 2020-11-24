@@ -1,0 +1,56 @@
+:Product: 20131210events.txt
+:Created: 2013 Dec 13 0332 UT
+:Date: 2013 12 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Dec 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1970 +     0018   0019      0019  LEA  G   RBR  610       340                   
+
+1980       0032   0032      0032  PAL  U   RBR  410       140                   
+
+2100       0035   ////      0035  CUL  C   RSP  020-060   III/1                 
+
+1990       0035   ////      0128  LEA  C   RSP  025-180   VI/1                  
+1990       0058   0058      0058  PAL  U   RBR  245       410                   
+1990       0104   ////      0105  CUL  C   RSP  020-080   III/1                 
+
+2110       0135   ////      0137  CUL  C   RSP  018-075   III/1                 
+
+2120       0218   ////      0218  CUL  C   RSP  020-050   III/1                 
+
+2000 +     0238   0238      0254  LEA  3   FLA  S15W12    SF      ERU       1916
+
+2010       0447   ////      0447  LEA  C   RSP  123-180   III/1                 
+
+2130       0716   ////      0716  CUL  C   RSP  020-040   III/1                 
+
+2020 +     0722   ////      0722  CUL  C   RSP  023-050   III/1                 
+
+2030 +     0755   ////      0755  LEA  C   RSP  036-091   III/1                 
+
+2140       0756   ////      0756  CUL  C   RSP  030-050   III/1                 
+
+2040 +     0859   ////      0859  SVI  U   RSP  025-079   III/1                 
+
+2050 +     0948   ////      0949  SVI  U   RSP  025-080   III/1                 
+
+2060       1041   1045      1049  G15  5   XRA  1-8A      C1.9    6.4E-04   1920
+
+2070       1923   1930      1939  G15  5   XRA  1-8A      C1.7    1.3E-03       
+
+2080       2002   2007      2012  G15  5   XRA  1-8A      C2.3    9.8E-04   1916
+
+2150       2128   ////      2131  CUL  C   RSP  020-065   III/1                 
+
+2160 +     2237   ////      2301  LEA  C   RSP  046-180   VI/1                  
+
+2090       2243   2249      2301  LEA  3   FLA  S15W12    SF      DSD           
+
+2170       2330   2330      2338  LEA  3   FLA  S15W12    SF                    

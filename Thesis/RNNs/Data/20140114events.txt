@@ -1,0 +1,50 @@
+:Product: 20140114events.txt
+:Created: 2014 Jan 17 0332 UT
+:Date: 2014 01 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jan 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 260       0002   0002      0002  LEA  G   RBR  245       130                   
+
+ 270       0046   0046      0046  LEA  G   RBR  245       100                   
+
+ 280       0323   0327      0329  G15  5   XRA  1-8A      C2.6    5.0E-04   1944
+ 280       0325   0328      0330  LEA  3   FLA  S13W89    SF      DSD       1944
+
+ 290       0454   0454      0454  LEA  G   RBR  245       120                   
+
+ 300       0653   0653      0653  SVI  G   RBR  245       150                   
+
+ 310       0745   0745      0745  LEA  G   RBR  245       250                   
+
+ 320 +     0752   0752      0754  SVI  G   RBR  245       150                   
+
+ 330       0805   0806      0806  SVI  G   RBR  245       150                   
+
+ 360 +     0924   0928      1020  SVI  G   RNS  245       180                   
+
+ 370       0926   ////      1407  SVI  C   RSP  103-171   CTM/2                 
+
+ 350       0940   ////      1055  LEA  C   RSP  100-180   CTM/1                 
+
+ 380       1238   ////      1416  SAG  C   RSP  116-180   CTM/1             1953
+ 380       1240  U1243     A1250  SVI  3   FLA  S18W16    SF      ERU       1953
+
+ 390       1355   1357      1357  SVI  G   RBR  245       100                   
+
+ 400       1405   ////      1407  SAG  C   RSP  025-044   III/1                 
+
+ 410       1557   1604      1606  G15  5   XRA  1-8A      C3.2    9.2E-04   1944
+
+ 420       1820   ////      1823  SAG  C   RSP  025-180   III/1                 
+
+ 430 +     1825   1829      1832  HOL  3   FLA  S18W22    SF                1953
+
+ 440       2354   ////      2356  LEA  C   RSP  025-121   III/1                 

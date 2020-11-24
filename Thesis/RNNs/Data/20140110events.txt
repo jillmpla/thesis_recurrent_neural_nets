@@ -1,0 +1,66 @@
+:Product: 20140110events.txt
+:Created: 2014 Jan 13 0332 UT
+:Date: 2014 01 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jan 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9300       0000   ////      0310  LEA  C   RSP  031-143   VI/1                  
+
+9290       0019   ////      0045  LEA  C   RSP  152-180   CTM/1                 
+
+9310       0313   0315      0319  LEA  3   FLA  N09W36    SF                1946
+
+9320       0435   0435      0435  LEA  G   RBR  610       100                   
+
+9330       0504   0507      0508  LEA  G   RBR  245       170                   
+9330       0507   ////      1055  LEA  C   RSP  086-180   CTM/1                 
+
+9340       0551   ////      0554  LEA  C   RSP  036-060   III/1                 
+
+9380       0623   0633      0643  G15  5   XRA  1-8A      C1.1    1.3E-03   1950
+
+9440       0651   ////      1529  SVI  C   RSP  068-180   CTM/2                 
+
+9350       0706   0727      0826  G15  5   XRA  1-8A      C1.4    6.0E-03   1944
+9350       0723   ////      0731  LEA  C   RSP  036-109   III/1                 
+9350 +     0731   ////      0909  SVI  C   RSP  027-082   VI/1                  
+
+9360       0830   0830      0830  LEA  G   RBR  245       140                   
+
+9390       1003   1003      1003  LEA  G   RBR  245       190                   
+
+9400       1114   1115      1115  SVI  U   RBR  245       160                   
+
+9410       1127   1127      1127  SVI  U   RBR  410       110                   
+
+9420       1133   1133      1133  SVI  U   RBR  245       140                   
+
+9460       1205   1211      1212  SVI  G   RNS  245       200                   
+
+9430 +     1425   1425      1427  SAG  G   RBR  245       160                   
+
+9480 +     1436   1524      2036  SAG  G   RNS  245       720                   
+
+9490       1510   ////      2117  SAG  C   RSP  103-180   CTM/1                 
+
+9370 +     1752   2209      2209  PAL  G   RNS  245       410                   
+
+9450       1846   1849      1851  G15  5   XRA  1-8A      C1.4    2.2E-04   1946
+9450       1848   1849      1852  HOL  3   FLA  N08W42    SF                1946
+
+9520 +     2017   ////      2123  HOL  3   DSF  S41W23    13                    
+
+9500       2139   2139      2139  PAL  G   RBR  245       1400                  
+
+9510       2209   2209      2209  PAL  G   RBR  245       1400                  
+
+9540 +     2218   ////      2259  HOL  3   DSF  N31W06    11                    
+
+9530       2306   ////      2359  LEA  C   RSP  078-180   CTM/1                 

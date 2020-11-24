@@ -1,0 +1,90 @@
+:Product: 20140310events.txt
+:Created: 2014 Mar 13 0332 UT
+:Date: 2014 03 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3870       0019   0026      0033  G15  5   XRA  1-8A      M1.1    5.9E-03   2002
+3870       0022   0029     A0100  HOL  3   FLA  S19E52    SF                2002
+
+4090      A0050   ////     A1340  HOL  2   DSF  S39W42    61                    
+
+3920       0136   ////      0137  LEA  C   RSP  090-180   III/1                 
+
+3930 +     0144   0147      0150  G15  5   XRA  1-8A      C3.7    8.2E-04   2002
+
+3940 +     0402   0408      0413  G15  5   XRA  1-8A      M1.0    3.8E-03   2002
+
+3950       0614   0624      0630  G15  5   XRA  1-8A      C2.2    2.0E-03   1996
+3950       0623  U0625     A0631  LEA  3   FLA  N13W40    SF                1996
+
+3960       0729   0747      0806  G15  5   XRA  1-8A      C3.9    6.4E-03   1996
+3960 +     0733  U0734     A0742  LEA  3   FLA  N16W39    SF                1996
+
+3970       0756   0756      0802  LEA  3   FLA  S18E48    SF                2002
+
+3980 +     0834   ////      0835  LEA  C   RSP  025-180   III/1                 
+3980 +     0835   0835      0835  SVI  G   RBR  245       220                   
+
+3990       0841   0844      0905  LEA  3   FLA  S19E48    SF      ERU       2002
+
+4000       0915   0916     A0925  LEA  3   FLA  S18E49    SF                2002
+
+4250      A0938   ////     A2319  LEA  3   DSF  S27E90    19                    
+
+4010 +     1032   1043      1102  G15  5   XRA  1-8A      C6.1    8.0E-03   2002
+
+4020 +     1129   1142      1149  G15  5   XRA  1-8A      C6.0    5.1E-03   1996
+4020 +    B1139  U1141     A1220  SVI  3   FLA  N12W47    SF      ERU       1996
+
+4030      B1150  U1151      1153  SVI  3   FLA  S06E70    SF                2004
+
+4040      B1228  U1230     A1243  SVI  3   FLA  S18E45    SF      ERU       2002
+
+4050       1252   1254      1258  SVI  3   FLA  N12W49    SF      ERU       1996
+
+4060       1311  U1312     A1327  SVI  3   FLA  S18E47    SF      ERU       2002
+
+4070 +    B1340   1527      1646  HOL  3   FLA  S20E43    2N      DSD       2002
+
+4080       1342  U1350     A1451  SVI  3   FLA  S18E43    SF      ERU       2002
+4080       1343   1350      1356  G15  5   XRA  1-8A      C2.8    1.5E-03   2002
+
+4100       1422   1423      1427  SVI  3   FLA  N07W05    SF                2003
+
+4110 +     1459   1459      1459  SAG  G   RBR  245       100                   
+
+4120      B1505  U1507     A1511  SVI  3   FLA  S17E42    SF      ERU       2002
+
+4130       1521   1528      1532  G15  5   XRA  1-8A      M1.7    6.9E-03   2002
+
+4140       1734   ////      1831  SAG  C   RSP  103-180   CTM/1             1996
+4140       1809   1825      1838  G15  5   XRA  1-8A      C5.6    7.6E-03   1996
+
+4160       1814   1814      1820  HOL  3   FLA  N14W49    SF      DSD       1996
+
+4140       1821   1824      1833  HOL  3   FLA  N14W48    SF      ERU       1996
+
+4180       1830   1832      1837  HOL  3   FLA  S20E41    SF      DSD       2002
+
+4220       1854   ////      2009  HOL  3   DSF  S20E57    25                    
+
+4200       2022   2114      2119  G15  5   XRA  1-8A      C3.5    8.8E-03   1996
+
+4150       2042   2044      2046  HOL  3   FLA  N13W50    SF      ERU       1996
+
+4190       2048   2049      2053  HOL  3   FLA  N13W50    SF                1996
+
+4200       2109   2109      2121  HOL  3   FLA  N13W50    SF                1996
+
+4210       2245   2300      2312  G15  5   XRA  1-8A      M1.4    1.6E-02   1996
+4210       2246   2259      2333  HOL  3   FLA  N14W51    SF      ERU       1996
+
+4230       2327   2341      2350  LEA  3   FLA  N13W49    SF                1996

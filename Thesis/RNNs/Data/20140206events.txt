@@ -1,0 +1,77 @@
+:Product: 20140206events.txt
+:Created: 2014 Feb 09 0332 UT
+:Date: 2014 02 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Feb 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5300       0001   0001      0008  LEA  3   FLA  N10W33    SF      ERU       1968
+
+5320       0016   0038      0046  G15  5   XRA  1-8A      C5.4    7.7E-03   1968
+5320       0017   0045      0131  LEA  3   FLA  N10W33    SF      ERU       1968
+
+5370       0019   0020      0038  LEA  3   FLA  S10W40    SF                1967
+
+5320       0036   ////      0036  LEA  C   RSP  025-096   III/1             1968
+
+5330       0106   ////      0106  LEA  C   RSP  025-074   III/1                 
+
+5340       0200   ////      0203  LEA  C   RSP  025-116   III/1                 
+
+5350       0231   0251      0300  G15  5   XRA  1-8A      C3.4    4.4E-03   1967
+
+5430       0247   ////      0857  LEA  3   DSF  N04E48    8                     
+
+5350 +     0248   0248      0248  LEA  G   RBR  245       4300                  
+5350       0248   ////      0250  LEA  C   RSP  025-180   III/1                 
+5350       0248   ////      0810  LEA  C   RSP  073-180   CTM/1                 
+
+5360       0402   0436      0501  LEA  3   FLA  N10W35    1F      ERU       1968
+5360       0408   0431      0446  G15  5   XRA  1-8A      C7.0    1.2E-02   1968
+
+5380       0430   0431      0439  LEA  3   FLA  S13W19    SF      ERU       1972
+
+5390       0530   ////      0530  LEA  C   RSP  029-090   III/1                 
+
+5570       0531   ////      0531  CUL  C   RSP  018-057   III/1                 
+
+5400       0550   0551      0551  LEA  G   RBR  245       170                   
+
+5440       0606   ////      1049  SVI  C   RSP  063-180   CTM/1                 
+
+5410 +     0724   0724      0724  LEA  G   RBR  245       130                   
+
+5420       0757   0801      0803  G15  5   XRA  1-8A      C1.9    4.2E-04   1968
+
+5450       1032   1037      1052  SVI  3   FLA  N08W41    SF      ERU       1968
+
+5460       1145   1156      1159  G15  5   XRA  1-8A      C3.0    1.7E-03   1967
+5460      B1154  U1154     A1208  SVI  3   FLA  S16W40    SF      ERU       1967
+5460       1154   1154      1155  SVI  G   RBR  15400     150               1967
+
+5470       1208   ////      1208  SVI  C   RSP  030-135   III/1                 
+
+5490      B1227  U1349     A1407  SVI  3   FLA  N07W43    SF      ERU       1968
+5490       1258   ////      1258  SVI  C   RSP  025-082   III/1             1968
+
+5500 +     1351   ////      1351  SAG  C   RSP  025-039   III/1                 
+
+5510       1440   1444      1452  G15  5   XRA  1-8A      C4.0    2.1E-03   1972
+5510      B1442  U1443     A1459  SVI  3   FLA  S13W24    SF                1972
+
+5520       1617   1620      1623  G15  5   XRA  1-8A      C2.2    4.8E-04   1967
+
+5530       1944   ////      1945  SAG  C   RSP  025-037   III/1                 
+
+5540       2209   2215      2224  G15  5   XRA  1-8A      C2.1    1.6E-03       
+
+5550       2256   2305      2310  G15  5   XRA  1-8A      M1.5    7.7E-03   1967
+5550 +     2258   2258      2258  PAL  G   RBR  2695      180                   
+
+5560 +     2350   ////      2351  LEA  C   RSP  033-098   III/1                 

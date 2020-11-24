@@ -1,0 +1,42 @@
+:Product: 20131221events.txt
+:Created: 2013 Dec 24 0332 UT
+:Date: 2013 12 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Dec 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4350       0006   0013      0018  G15  5   XRA  1-8A      C3.0    1.5E-03   1928
+
+4360       0256   0303      0308  G15  5   XRA  1-8A      C3.5    1.7E-03   1928
+
+4370 +     0345   ////      0431  LEA  3   EPL  ////      0.2                   
+
+4400 +     1011   1032      1115  SVI  3   FLA  S18W37    1F      ERU       1928
+4400       1027   1036      1044  G15  5   XRA  1-8A      C9.2    6.2E-03   1928
+
+4410       1118   1121      1134  SVI  3   FLA  S18W38    SF      ERU       1928
+
+4610      A1355   ////     A0757  SVI  3   DSF  S31W25    6                     
+
+4420       1447   1452      1457  G15  5   XRA  1-8A      C1.7    7.3E-04   1928
+
+4430       1701   1706      1713  G15  5   XRA  1-8A      C2.8    1.5E-03       
+
+4440       1833   1841      1852  G15  5   XRA  1-8A      C2.0    1.8E-03       
+
+4450       1903   ////      1903  SAG  C   RSP  103-127   III/1                 
+
+4460       1922   1929      1933  G15  5   XRA  1-8A      C7.5    3.1E-03   1928
+
+4470       2001   2006      2009  G15  5   XRA  1-8A      C2.1    6.7E-04       
+
+4480       2143   2222      2233  G15  5   XRA  1-8A      C3.2    7.2E-03       
+
+4490       2316   2320      2331  G15  5   XRA  1-8A      C2.3    1.4E-03   1928
+4490       2318   2319      2325  LEA  3   FLA  S16W47    SF                1928

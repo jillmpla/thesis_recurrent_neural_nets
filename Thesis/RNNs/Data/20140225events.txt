@@ -1,0 +1,72 @@
+:Product: 20140225events.txt
+:Created: 2014 Feb 28 0332 UT
+:Date: 2014 02 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Feb 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 700       0039   0049      0103  G15  5   XRA  1-8A      X4.9    4.3E-01   1990
+ 700 +     0041   0049      0114  LEA  G   RBR  8800      9700    CastelliU 1990
+ 700 +     0041   0049      0118  LEA  G   RBR  15400     21000   CastelliU 1990
+ 700 +     0042   0052      0110  LEA  G   RBR  4995      5300    CastelliU 1990
+ 700 +     0042   0045      0107  LEA  G   RBR  2695      3700    CastelliU 1990
+ 700       0043   0047      0210  LEA  3   FLA  S12E82    2B      ERU       1990
+ 700 +     0043   0045      0103  LEA  G   RBR  1415      3700    CastelliU 1990
+ 700 +     0044   0047      0053  LEA  G   RBR  610       3400    CastelliU 1990
+ 700 +     0045   ////      0050  CUL  C   RSP  018-480   III/1             1990
+ 700 +     0045   0046      0054  LEA  G   RBR  245       100000  CastelliU 1990
+ 700 +     0045   0046      0053  LEA  G   RBR  410       30000   CastelliU 1990
+ 700       0045   ////      0134  LEA  C   RSP  025-180   IV/2              1990
+ 700 +     0056   ////      0102  CUL  C   RSP  018-057   II/3              1990
+
+ 760       0125   ////      0125  CUL  C   RSP  018-040   III/1                 
+
+ 710       0127   0128      0130  LEA  3   FLA  S09W28    SF      ERU       1982
+ 710       0129   ////      0131  CUL  C   RSP  020-060   III/1             1982
+
+ 720       0131   0131      0131  PAL  G   RBR  245       190                   
+
+ 780       0231   ////      0621  LEA  3   LPS  ////      0.03              1990
+
+ 730       0232   0234      0236  LEA  3   FLA  S13E82    SF      ERU       1990
+
+ 740       0316   0316      0316  PAL  G   RBR  245       190                   
+
+ 750       0324   0324      0324  PAL  G   RBR  245       130                   
+
+ 770       0427   0432      0436  G15  5   XRA  1-8A      C5.0    1.9E-03   1989
+ 770       0429   0431      0445  LEA  3   FLA  N08E51    SF      DSD       1989
+
+ 790       0616   0620      0628  G15  5   XRA  1-8A      C4.5    2.2E-03   1986
+ 790       0618   0620      0632  LEA  3   FLA  N12E08    SF      DSD       1986
+
+ 920      A1015   ////     A2255  LEA  2   DSF  S35W12    5                     
+
+ 820       1204   1204      1210  SVI  3   FLA  S08W38    SF                1981
+
+ 830       1252   1253      1254  SVI  3   FLA  S23E88    SF                    
+
+ 840       1357  U1404      1413  SVI  3   FLA  S24E81    SF                    
+
+ 850       1417  U1420      1423  SVI  3   FLA  N13E04    SF                1986
+
+ 860       1431  U1433      1442  SVI  3   FLA  N08E44    SF                1989
+
+ 870       1504   1510      1518  G15  5   XRA  1-8A      C5.7    3.0E-03   1986
+
+ 880 +     1505   1505      1509  COM  3   FLA  S23E85    SF                1990
+
+ 870       1506   1509      1540  SVI  3   FLA  N13E03    1N      ERU       1986
+
+1040      A1539   ////     A0636  SVI  3   DSF  S48E38    6                     
+
+ 890       1716   ////      1716  SAG  C   RSP  025-180   III/1                 
+
+ 900       2331   2334      2337  G15  5   XRA  1-8A      C2.2    5.0E-04   1984
+ 900       2333   2333      2337  LEA  3   FLA  S19W50    SF                1984

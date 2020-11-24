@@ -1,0 +1,63 @@
+:Product: 20140306events.txt
+:Created: 2014 Mar 09 0332 UT
+:Date: 2014 03 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3020       0006   ////      0006  LEA  C   RSP  025-180   III/1                 
+
+3090       0007   ////      0007  CUL  C   RSP  018-057   III/1                 
+
+3220      A0013   ////     A1442  HOL  3   DSF  S31E57    26                    
+
+3100       0036   ////      0040  CUL  C   RSP  018-057   III/1                 
+
+3030 +     0038   0038      0038  LEA  G   RBR  245       370                   
+3030       0038   ////      0040  LEA  C   RSP  025-180   III/2                 
+
+3040       0129   0129      0129  PAL  G   RBR  8800      110                   
+
+3110       0210   ////      0210  CUL  C   RSP  040-057   III/1                 
+
+3050       0214   ////      0214  LEA  C   RSP  025-180   III/1                 
+3050       0214   0214      0214  LEA  G   RBR  245       130                   
+
+3120       0215   ////      0215  CUL  C   RSP  020-057   III/1                 
+
+3130       0227   ////      0227  CUL  C   RSP  020-057   III/1                 
+
+3060       0227   ////      0227  LEA  C   RSP  025-180   III/1                 
+
+3140       0305   ////      0306  CUL  C   RSP  027-057   III/1                 
+
+3070       0338   0341      0341  PAL  G   RBR  245       250                   
+
+3150       0352   ////      0352  LEA  C   RSP  025-180   III/1                 
+
+3160       0353   0357      0402  G15  5   XRA  1-8A      C1.5    5.6E-04   1993
+3160       0353   ////      0353  CUL  C   RSP  027-057   III/1             1993
+3160       0355   0356      0405  LEA  3   FLA  N15W36    SF      ERU       1993
+
+3230       0541   ////      0544  CUL  C   RSP  018-057   III/1                 
+
+3170 +     0541   ////      0551  LEA  C   RSP  025-180   III/2                 
+3170 +     0541   0543      0543  LEA  G   RBR  245       140                   
+
+3180 +     0551   ////      0551  CUL  C   RSP  020-057   III/1                 
+
+3190 +    B0923  U0925      0930  SVI  3   FLA  S07E64    SF      ERU       1998
+3190 +     0923   0923      0923  SVI  G   RBR  245       2300              1998
+3190       0923   ////      0923  SVI  C   RSP  057-171   III/1             1998
+3190 +     0923   0923      0923  SVI  G   RBR  410       100               1998
+3190 +     0929   ////      0929  LEA  C   RSP  025-180   II/1    359       1998
+
+3200       0939   ////      0939  LEA  C   RSP  025-180   II/1    402           
+
+3270      A1614   ////     A0953  SVI  3   DSF  S35W14    21                    

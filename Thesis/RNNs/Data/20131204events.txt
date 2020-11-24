@@ -1,0 +1,68 @@
+:Product: 20131204events.txt
+:Created: 2013 Dec 07 0332 UT
+:Date: 2013 12 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Dec 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1100       0020   0056      0110  G15  5   XRA  1-8A      C6.8    1.1E-02       
+
+1120       0245   0245      0245  LEA  G   RBR  245       140                   
+
+1130       0258   0258      0258  LEA  G   RBR  245       130                   
+
+1140       0433   ////      0433  LEA  C   RSP  098-173   III/1                 
+
+1150       0438   0458      0522  G15  5   XRA  1-8A      C4.7    9.5E-03   1913
+1150       0443   ////      0502  LEA  3   EPL  ////      0.19              1907
+1150       0449   0453      0500  LEA  3   FLA  S12W74    SF      DSD       1913
+1150       0511   ////      0520  LEA  C   RSP  025-180   III/2             1907
+
+1160       0532   0534      0536  LEA  G   RBR  610       140                   
+
+1170       0653   ////      0658  LEA  C   RSP  034-093   III/1                 
+
+1180       0725   ////      0725  SVI  C   RSP  125-164   III/1                 
+
+1190 +     0842   ////      0902  LEA  C   RSP  033-180   VI/1                  
+
+1200 +     1004   ////      1004  LEA  C   RSP  035-087   III/1                 
+
+1400      A1026   ////     A2359  LEA  3   DSF  N29W21    48                    
+
+1210       1107   ////      1145  SVI  U   RSP  025-180   VI/1                  
+
+1220 +     1259   ////      1301  SVI  C   RSP  025-180   III/1                 
+
+1300 +    A1426   ////     A0712  SVI  3   DSF  N27E04    28                    
+
+1440       1449   ////      1449  SVI  C   RSP  030-148   III/2                 
+
+1230       1449   ////      1449  SAG  C   RSP  025-180   III/2                 
+
+1240       1638   ////      1639  SAG  C   RSP  025-180   III/1                 
+
+1250       1826   ////      1827  SAG  C   RSP  025-180   III/1                 
+
+1260       2014   2037      2052  G15  5   XRA  1-8A      C6.2    9.0E-03       
+
+1280       2212   2212      2212  PAL  G   RBR  245       100                   
+1280       2212   ////      2212  LEA  C   RSP  025-180   III/2                 
+
+1290       2218   2222      2232  G15  5   XRA  1-8A      C1.1    7.5E-04       
+
+1530      A2253   ////     A1819  HOL  2   DSF  N46E01    13                    
+
+1540      A2253   ////     A1819  HOL  2   DSF  N31W42    19                    
+
+1550      A2253   ////     A1819  HOL  2   DSF  S20E32    13                1912
+
+1560      A2253   ////     A1819  HOL  2   DSF  S13W54    9                 1914
+
+1310       2357   ////      2358  LEA  C   RSP  103-180   III/1                 

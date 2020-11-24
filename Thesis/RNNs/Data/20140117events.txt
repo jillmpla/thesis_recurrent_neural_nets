@@ -1,0 +1,44 @@
+:Product: 20140117events.txt
+:Created: 2014 Jan 20 0332 UT
+:Date: 2014 01 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jan 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 620       0010   ////      0010  CUL  C   RSP  020-057   III/1                 
+
+ 600       0208   0231      0259  G15  5   XRA  1-8A      C3.1    7.5E-03   1953
+ 600       0218   ////      0228  LEA  C   RSP  025-180   VI/1                  
+ 600 +     0218   ////      0220  PAL  C   RSP  025-141   III/1                 
+ 600 +     0228   ////      0234  LEA  C   RSP  034-077   II/1    461           
+
+ 630 +     0350   0416      0511  G15  5   XRA  1-8A      C3.2    1.2E-02   1959
+
+ 640 +     0800   0803      0806  G15  5   XRA  1-8A      C1.0    2.4E-04   1959
+
+ 650 +     0824   0832      0839  G15  5   XRA  1-8A      C2.2    1.5E-03   1959
+ 650 +     0837   ////      0841  SVI  C   RSP  025-078   III/1             1959
+
+ 660 +     0915   0923      0944  G15  5   XRA  1-8A      C6.0    7.5E-03   1959
+ 660       0935   ////      0935  LEA  C   RSP  032-051   III/1             1959
+
+ 670       1059   ////      1059  SVI  C   RSP  028-141   III/1                 
+
+ 680 +     1248   1252      1256  G15  5   XRA  1-8A      C1.4    4.7E-04   1959
+
+ 690 +     1355   1403      1410  G15  5   XRA  1-8A      C7.2    3.9E-03   1959
+
+ 700 +     1520   1525      1531  G15  5   XRA  1-8A      C1.8    9.0E-04   1959
+ 700       1530   ////      1621  HOL  3   BSL  ////      0.19              1959
+
+ 710 +     1603   1608      1611  G15  5   XRA  1-8A      C8.9    2.2E-03   1959
+
+ 720 +     1917   2007      2031  G15  5   XRA  1-8A      C7.1    2.1E-02   1959
+
+ 730 +     2352   2357      0001  G15  5   XRA  1-8A      C1.3    5.1E-04   1959

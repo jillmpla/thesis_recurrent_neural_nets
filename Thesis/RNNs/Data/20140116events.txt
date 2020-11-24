@@ -1,0 +1,33 @@
+:Product: 20140116events.txt
+:Created: 2014 Jan 19 0332 UT
+:Date: 2014 01 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jan 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 500       0201   ////      0229  LEA  C   RSP  025-096   VI/1                  
+
+ 510       0436   0436      0436  LEA  G   RBR  245       140                   
+
+ 520 +     0545   0553      0622  G15  5   XRA  1-8A      C1.1    2.1E-03   1959
+
+ 530       0707   ////      0707  LEA  C   RSP  116-180   III/1                 
+
+ 570      A1020   ////     A2241  LEA  3   DSF  S08W36    11                    
+
+ 540 +     1413   ////      1415  SAG  C   RSP  025-044   III/2                 
+ 540       1414   1415      1416  G15  5   XRA  1-8A      C1.0    1.8E-04   1953
+
+ 550 +     1514   1541      1614  G15  5   XRA  1-8A      C2.8    8.2E-03   1959
+
+ 560 +     2121   2139      2153  G15  5   XRA  1-8A      C6.2    8.3E-03   1959
+
+ 580       2201   ////      2204  CUL  C   RSP  018-060   III/1                 
+
+ 590       2344   ////      2347  CUL  C   RSP  027-057   III/1                 

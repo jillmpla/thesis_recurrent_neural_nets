@@ -1,0 +1,55 @@
+:Product: 20140301events.txt
+:Created: 2014 Mar 04 0332 UT
+:Date: 2014 03 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1780       0055   0059      0102  G15  5   XRA  1-8A      C4.3    9.2E-04   1993
+1780       0057   0101      0104  LEA  3   FLA  N16E34    SF      DSD       1993
+
+1790       0103   ////      0103  LEA  C   RSP  031-083   III/1                 
+
+1800       0216   ////      0224  LEA  C   RSP  032-055   III/1                 
+
+1810       0226   0232      0233  LEA  3   FLA  S22W06    SF      ERU       1992
+
+1820       0339   0340      0343  LEA  3   FLA  N16E28    SF                1993
+
+1830       0433   0436      0438  G15  5   XRA  1-8A      C1.9    3.1E-04   1991
+
+1840 +     1010   ////      1010  SVI  C   RSP  051-156   III/1                 
+
+1850       1101   ////      1101  SVI  C   RSP  074-123   III/1                 
+
+1860       1254   ////      1254  SVI  C   RSP  034-114   III/1                 
+
+1870       1318   1333      1340  G15  5   XRA  1-8A      M1.1    1.1E-02   1982
+
+1880       1540   1600      1609  G15  5   XRA  1-8A      C3.1    4.0E-03   1987
+1880 +     1541   ////      1542  SVI  C   RSP  032-134   III/1             1987
+
+1890       1549   1550      1553  HOL  3   FLA  S06W23    SF                1994
+
+1880       1557   1602      1609  HOL  3   FLA  S02W22    SF                1987
+
+1920       1558   1600      1608  HOL  3   FLA  S11E17    SF                1990
+
+1900 +     1602   ////      1603  SAG  C   RSP  025-180   III/2             1987
+
+1910 +     1614   ////      1614  SAG  C   RSP  120-180   III/1                 
+1910 +     1614   1614      1614  SAG  G   RBR  245       200                   
+
+1930       1816   ////      1816  SAG  C   RSP  025-114   III/2                 
+
+1940       2005   ////      2006  SAG  C   RSP  025-083   III/2                 
+
+1950       2151   ////      2152  SAG  C   RSP  025-076   III/1                 
+
+1960       2347   ////      2359  LEA  C   RSP  025-090   VI/1                  

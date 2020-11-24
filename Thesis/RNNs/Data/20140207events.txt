@@ -1,0 +1,86 @@
+:Product: 20140207events.txt
+:Created: 2014 Feb 10 0332 UT
+:Date: 2014 02 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Feb 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5580       0013   0019      0027  G15  5   XRA  1-8A      C4.3    2.7E-03   1967
+5580       0020  U0022     A0056  LEA  2   FLA  S15W49    SF                1967
+
+5590       0127   ////      0151  LEA  C   RSP  027-090   VI/1                  
+5590       0151   ////      0151  CUL  C   RSP  018-057   III/1                 
+
+5600       0304   0304      0306  LEA  3   FLA  S15W50    SF                1967
+
+5630       0330   0455      0549  LEA  3   FLA  S15W50    2N      ERU       1967
+
+5610       0339   0339      0339  LEA  G   RBR  245       140                   
+
+5620       0347   0348      0401  LEA  3   FLA  N11W48    SF                1968
+
+5630       0447   0456      0504  G15  5   XRA  1-8A      M2.0    1.4E-02   1967
+
+5640       0533   ////      0533  LEA  C   RSP  025-099   III/1                 
+
+5650       0611   ////      0611  LEA  C   RSP  025-060   III/1                 
+
+5660       0614   0622      0629  LEA  3   FLA  S15W52    SF                1967
+
+5670 +     0644   0644      0644  LEA  G   RBR  245       110                   
+
+5680      B0645  U0651      0656  SVI  3   FLA  S11W56    SF                1967
+
+5690       0711   0715      0737  SVI  3   FLA  S18W53    SF      ERU       1967
+
+5700       0813   ////      0818  SVI  C   RSP  025-046   III/1                 
+
+5710       0834   0838      0842  G15  5   XRA  1-8A      C2.7    8.6E-04   1968
+5710       0838   0838      0843  SVI  3   FLA  N09W52    SF      ERU       1968
+
+5720       0855   0900      0906  G15  5   XRA  1-8A      C2.5    1.2E-03   1968
+5720       0859   0902      0904  SVI  3   FLA  N09W53    SF      ERU       1968
+
+5730       0912   ////      0912  SVI  C   RSP  025-039   III/1                 
+
+5890      A1000   ////     A2302  LEA  3   DSF  S16E05    10                1970
+
+5740       1002   1006      1009  G15  5   XRA  1-8A      C3.1    7.9E-04   1967
+5740       1004  U1004     A1013  SVI  3   FLA  S18W54    SF      ERU       1967
+
+5750       1015   ////      1017  SVI  C   RSP  025-062   V/1                   
+
+5760       1025   1029      1031  G15  5   XRA  1-8A      M1.9    2.8E-03   1968
+5760       1027  U1033     A1045  SVI  3   FLA  N09W53    1N      ERU       1968
+5760 +     1027   1028      1029  SVI  G   RBR  4995      300               1968
+5760 +     1027   1028      1029  SVI  G   RBR  8800      1000              1968
+5760 +     1027   1028      1029  SVI  G   RBR  15400     1000              1968
+
+5770       1042  U1042     A1052  SVI  3   FLA  S20W57    SF                1967
+
+5780      B1053  U1053     A1100  SVI  3   FLA  N05E45    SF                1973
+
+5790       1148   ////      1154  SVI  C   RSP  025-169   III/1                 
+
+5800 +     1401   ////      1403  SAG  C   RSP  025-180   III/1                 
+
+5810       1441   1452      1456  G15  5   XRA  1-8A      C3.0    1.7E-03   1967
+5810       1451   1453      1459  SVI  3   FLA  S13W63    SF      ERU       1967
+
+5820       1736   1737      1743  HOL  3   FLA  N02E41    SF      ERU       1973
+
+5830       1812   ////      1812  SAG  C   RSP  025-096   V/2                   
+
+5840       2009   ////      2010  SAG  C   RSP  025-107   III/2                 
+
+5850       2051   ////      2051  SAG  C   RSP  025-128   III/1                 
+
+5860       2132   2139      2144  HOL  2   FLA  S15W17    SF      ERU       1967
+
+5870       2306   ////      2313  LEA  C   RSP  041-133   III/1                 

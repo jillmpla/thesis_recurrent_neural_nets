@@ -1,0 +1,63 @@
+:Product: 20131216events.txt
+:Created: 2013 Dec 19 0332 UT
+:Date: 2013 12 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Dec 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3100       0000   ////      0801  LEA  C   RSP  075-180   CTM/1                 
+3100       0003   ////      0727  LEA  C   RSP  025-130   VI/1                  
+
+3060       0105   0110      0114  G15  5   XRA  1-8A      C1.5    5.9E-04       
+
+3070       0254   0254      0254  LEA  G   RBR  410       120                   
+
+3080       0321   0330      0344  G15  5   XRA  1-8A      C3.6    3.8E-03   1917
+3080       0323   0326      0347  LEA  3   FLA  S13W40    SF      ERU       1917
+
+3230       0619   0620      0622  G15  5   XRA  1-8A      C1.3    2.6E-04       
+
+3110       0641   ////      0801  SVI  C   RSP  103-171   CTM/1                 
+
+3090       0656   ////      0656  SVI  C   RSP  029-136   III/1                 
+
+3110 +     0657   ////      0657  CUL  C   RSP  018-060   III/2                 
+3110       0726   ////      0829  SVI  C   RSP  027-172   VI/1                  
+
+3120       0837   0842      0845  G15  5   XRA  1-8A      C1.9    5.8E-04   1917
+3120       0839   0842      0846  LEA  3   FLA  S14W40    SF                1917
+
+3130 +     1307   ////      1445  SAG  C   RSP  029-072   VI/1                  
+
+3140       1409   ////      1511  SVI  C   RSP  104-171   CTM/1                 
+3140 +     1502   1502      1502  SAG  G   RBR  245       100                   
+
+3150       1721   ////      1911  SAG  C   RSP  041-180   CTM/1                 
+3150 +     1728   1728      1729  SAG  G   RBR  245       120                   
+
+3160 +     1827   1827      1827  SAG  G   RBR  245       100                   
+
+3170 +     1854   1855      1855  SAG  G   RBR  245       130                   
+
+3180 +     1859   1859      1859  SAG  G   RBR  245       140                   
+
+3190 +     1902   1902      1902  SAG  G   RBR  245       250                   
+
+3200       1945   1945      1945  PAL  G   RBR  245       100                   
+
+3220       2053   2133      2209  G15  5   XRA  1-8A      C3.1    1.2E-02       
+3220       2140   ////      2350  HOL  3   EPL  ////      0.19    B.5A          
+
+3210       2147   2147      2148  PAL  G   RBR  245       120                   
+
+3240      B2231   ////     B2355  LEA  3   EPL  ////      0.16    B.5A          
+
+3250       2352   2352      2352  LEA  G   RBR  245       190                   
+
+3260       2357   2357      2357  PAL  G   RBR  245       100                   
