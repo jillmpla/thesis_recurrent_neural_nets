@@ -12,6 +12,8 @@ import pandas as pd
 from pathlib import Path
 from astropy.time import Time
 from matplotlib import pyplot as plt
+from sklearn.metrics import confusion_matrix
+from sklearn.metrics import plot_confusion_matrix
 from sklearn.preprocessing import LabelBinarizer
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
@@ -350,6 +352,7 @@ def getAllData(binary):
 
 	allData = []
 	allLabels = []
+	a_control = 0
 
 	grouped_data = new_k_data_f.groupby(['Date', 'NOAA_AR'])
 	
@@ -368,9 +371,13 @@ def getAllData(binary):
 			else:
 				allLabels.append(fla_class_1)
 		if mylabel_1.empty:
-			#could put an if else here even/odd num, skip/delete mygroup
-			no_fla = 'N' #N for no flare occurred
-			allLabels.append(no_fla)
+			if a_control%7 == 0: #reduces number of no flares (use every 7th no flare sequence)
+				no_fla = 'N' #N for no flare occurred
+				allLabels.append(no_fla)
+				a_control += 1
+			else:
+				a_control += 1
+				continue
         #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		del mygroup['Date']
 		del mygroup['NOAA_AR']
@@ -399,8 +406,8 @@ def getAllData(binary):
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#one-hot encoding----------------------------------------------------------------------------------
-	#6 flare classes: N is no flare, A is smallest, X is largest
-	#key = {'N', 'A', 'B', 'C', 'M', 'X'}
+	#6 flare classes: N is no flare, A is smallest, X is largest, N is no flare
+	#key = {'A', 'B', 'C', 'M', 'N', 'X'}
 	a_encoder = LabelBinarizer()
 	allLabels_enc = a_encoder.fit_transform(allLabels)
 	#number of flare classes actually found in overall dataset
@@ -426,4 +433,4 @@ def getAllData(binary):
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
-	return(X_train, X_val, X_test, y_train, y_val, y_test, tim_steps, n_feats, count_of_classes)
+	return(X_train, X_val, X_test, y_train, y_val, y_test, tim_steps, n_feats, count_of_classes, a_encoder)
