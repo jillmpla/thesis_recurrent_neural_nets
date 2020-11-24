@@ -1,0 +1,54 @@
+:Product: 20130729events.txt
+:Created: 2013 Aug 01 0332 UT
+:Date: 2013 07 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jul 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8470       0026   ////      0026  CUL  C   RSP  020-057   III/1                 
+
+8480       0212   0213      0214  LEA  3   FLA  S09W71    SF      ERU       1800
+
+8490       0404   0406      0409  LEA  4   FLA  S08W74    SF      DSD       1800
+
+8500       0501   0502      0507  SVI  3   FLA  S12W74    SF      ERU       1800
+8500       0503   ////      0503  CUL  C   RSP  018-057   III/1             1800
+
+8510 +     0735   ////      0735  LEA  C   RSP  029-034   III/1                 
+
+8520       0740   0744      0749  SVI  3   FLA  S09W48    SF                1805
+
+8530       0803   0805      0807  SVI  3   FLA  S09W77    SF                1800
+
+8680      A0927   ////     A2339  LEA  2   DSF  N18E82    14                1808
+
+8540 +     1010   ////      1010  SVI  C   RSP  025-180   III/2                 
+
+8550       1055   1055      1108  SVI  3   FLA  N17E64    SF                    
+
+8570       1116   1117      1133  SVI  3   FLA  N17E63    SF      ERU           
+
+8580       1321   1325      1331  G15  5   XRA  1-8A      B7.4    3.3E-04   1800
+
+8590 +     1349   ////      1349  SVI  C   RSP  025-082   III/1                 
+
+8600 +     1419   ////      1731  SAG  C   RSP  025-180   VI/2                  
+
+8610 +     1524   1526      1534  SVI  3   FLA  N16E61    SF      DSD       1808
+
+8620       1553   ////      1554  SVI  C   RSP  025-081   III/1                 
+
+8630       1611   1651      1706  G15  5   XRA  1-8A      C2.9    6.3E-03   1800
+8630       1638   ////      1639  SVI  C   RSP  025-078   III/1                 
+
+8640       1841   ////      1844  SAG  C   RSP  082-180   III/1                 
+
+8650       1942   ////      1942  SAG  C   RSP  025-180   V/2                   
+
+8660       2307   2318      2329  G15  5   XRA  1-8A      C6.3    5.2E-03   1800

@@ -1,0 +1,31 @@
+:Product: 20130720events.txt
+:Created: 2013 Jul 23 0332 UT
+:Date: 2013 07 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jul 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7310       0334   0338      0344  G15  5   XRA  1-8A      C2.1    7.9E-04   1793
+7310       0336   0339      0349  LEA  3   FLA  N24E09    SF      DSD       1793
+
+7320 +     0414   ////      0415  LEA  C   RSP  025-180   III/1                 
+
+7330       0643   0643      0646  SVI  3   FLA  N19E02    SF                1793
+
+7340       0930   ////      0930  SVI  C   RSP  107-153   III/1                 
+
+7350       1209   ////      1352  SVI  3   EPL  ////      0.16    B.9A          
+
+7360 +     1634   ////      1634  SAG  C   RSP  025-180   III/1                 
+
+7370       1935   1935      1939  HOL  3   FLA  N22E01    SF      ERU       1793
+
+7380       2129   ////      2129  SAG  C   RSP  025-094   III/2                 
+
+7390       2333   2338      2342  G15  5   XRA  1-8A      C1.0    3.7E-04   1800

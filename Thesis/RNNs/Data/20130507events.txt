@@ -1,0 +1,66 @@
+:Product: 20130507events.txt
+:Created: 2013 May 10 0332 UT
+:Date: 2013 05 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 May 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2980       0000   ////      0938  LEA  C   RSP  071-180   CTM/2                 
+
+2940       0151   ////      0219  LEA  C   RSP  025-180   VI/2                  
+
+2950       0311   0314      0317  G15  5   XRA  1-8A      B8.0    1.8E-04       
+
+3020       0405   ////      1739  SVI  C   RSP  025-180   CTM/1                 
+
+2960       0515   ////      0515  SVI  C   RSP  025-080   III/1                 
+
+2970       0535   0539      0543  G15  5   XRA  1-8A      C1.2    4.1E-04   1736
+2970       0540   ////      0607  SVI  C   RSP  025-079   VI/1                  
+
+2990 +     0725   ////      0920  LEA  C   RSP  025-180   VI/2                  
+
+3000       0816   0823      0833  G15  5   XRA  1-8A      C1.6    1.3E-03   1734
+3000       0818   0825      0843  SVI  3   FLA  S18W28    SF                1734
+3000       0818   ////      0819  SVI  C   RSP  025-180   III/2             1734
+3000       0818   0819      0819  SVI  G   RBR  2695      81                1734
+3000 +     0818   0819      0819  LEA  G   RBR  245       740               1734
+3000       0818   0819      0819  LEA  G   RBR  610       130               1734
+3000 +     0818   0819      0819  SVI  G   RBR  1415      190               1734
+
+3110       0944   ////      2134  SAG  C   RSP  102-180   CTM/1                 
+
+3100 +     1029   1409      1534  SAG  G   RNS  245       250                   
+
+3010       1116   1122      1135  G15  5   XRA  1-8A      B9.0    8.2E-04   1734
+3010       1118  U1118      1138  SVI  3   FLA  S18W30    SF      ERU       1734
+3010       1118   1118      1118  SVI  U   RBR  410       150               1734
+3010 +     1118   1118      1119  SAG  G   RBR  245       1300              1734
+3010 +     1118   ////      1122  SVI  C   RSP  025-180   III/2             1734
+
+3030 +     1222   ////      1234  SAG  C   RSP  025-081   VI/2                  
+
+3040 +     1421   ////      2158  SAG  C   RSP  025-180   VI/2                  
+3040 +     1422   1422      1422  SAG  G   RBR  245       1500                  
+3040       1422   1422      1423  SAG  G   RBR  410       140                   
+
+3050       1544   1552      1601  G15  5   XRA  1-8A      C1.4    1.2E-03   1731
+
+3060       1607   ////      1607  SVI  C   RSP  025-080   III/1                 
+
+3070       1656   ////      1700  SVI  C   RSP  025-144   III/1                 
+
+3200      A1657   ////     A0448  SVI  3   DSF  S33E11    12                    
+
+3080       1726   1726      1727  SVI  U   RBR  245       120                   
+
+3090       1912   1916      1919  G15  5   XRA  1-8A      B7.8    2.2E-04   1732
+3090       1914   1914      1920  HOL  3   FLA  S13W59    SF      DSD       1732
+
+3120       2211   2218      2232  G15  5   XRA  1-8A      C1.3    1.3E-03   1739

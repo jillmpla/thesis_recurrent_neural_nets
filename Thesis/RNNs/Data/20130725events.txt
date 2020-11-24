@@ -1,0 +1,48 @@
+:Product: 20130725events.txt
+:Created: 2013 Jul 28 0332 UT
+:Date: 2013 07 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jul 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7920       0128   0132      0136  G15  5   XRA  1-8A      B5.0    1.6E-04   1793
+
+7930       0306   ////      0307  LEA  C   RSP  075-102   III/1                 
+
+7960 +     0505   ////      0621  SVI  C   RSP  025-180   VI/2                  
+
+7940       0515   0519      0521  G15  5   XRA  1-8A      B4.4    9.9E-05       
+
+7950       0602   0608      0613  G15  5   XRA  1-8A      C1.6    6.4E-04   1800
+7950 +     0605   0607      0636  SVI  3   FLA  S08W22    SF      ERU       1800
+7950       0610   ////      0610  CUL  C   RSP  018-070   III/3             1800
+
+8050       0618   ////      0621  CUL  C   RSP  020-070   III/2                 
+
+7970 +     0708   ////      0725  SVI  C   RSP  025-170   VI/2                  
+
+7980 +     0846   ////      0855  SVI  C   RSP  025-180   III/2                 
+7980 +     0850   0851      0851  SVI  G   RBR  245       530                   
+
+7990 +     1031   ////      1200  SVI  C   RSP  025-180   VI/2                  
+
+8000       1259   ////      1259  SVI  C   RSP  025-061   III/1                 
+
+8010 +     1357   ////      1435  SAG  C   RSP  025-180   VI/2                  
+
+8020       1636   1636      1642  SVI  3   FLA  S08W26    SF                1800
+
+8030       1657   1659      1710  SVI  3   FLA  S08W26    SF                1800
+
+8060       2145   ////      2147  CUL  C   RSP  030-057   III/1                 
+
+8040       2237   2244      2256  G15  5   XRA  1-8A      C2.1    1.7E-03   1800
+8040       2240  U2247      2300  HOL  2   FLA  S08W30    SF      ERU       1800
+
+8070       2311   ////      2312  CUL  C   RSP  027-057   III/1                 

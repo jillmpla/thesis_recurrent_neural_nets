@@ -1,0 +1,51 @@
+:Product: 20130624events.txt
+:Created: 2013 Jun 27 0332 UT
+:Date: 2013 06 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jun 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1680 +     0253   ////      0259  LEA  C   RSP  025-096   III/1                 
+
+1690       0300   ////      0300  CUL  C   RSP  020-057   III/1                 
+
+1700       0339   ////      0340  LEA  C   RSP  048-180   III/1                 
+
+1710       0441   0442      0447  SVI  3   FLA  S13E61    SF      ERU       1778
+
+1830       0550   ////      0554  CUL  C   RSP  023-120   III/1                 
+
+1720 +     0550   ////      0554  SVI  C   RSP  025-180   III/2                 
+
+1730       0818   0824      0827  G15  5   XRA  1-8A      C3.5    1.0E-03   1778
+1730 +     0820   0820      0820  SVI  G   RBR  245       270               1778
+1730       0821   0823      0832  SVI  3   FLA  S16E56    SF                1778
+1730       0821   0821      0821  SVI  U   RBR  410       170               1778
+
+1750 +     0854   0854      0854  SVI  G   RBR  245       160                   
+
+1770       1104   ////      1204  SVI  3   DSF  S14W26    15                    
+
+1760       1127   1132      1136  G15  5   XRA  1-8A      C9.9    2.8E-03   1778
+1760       1130   1133      1145  SVI  3   FLA  S17E54    1N                1778
+1760 +     1130   1130      1131  SVI  G   RBR  245       670               1778
+1760 +     1130   ////      1131  SVI  C   RSP  025-180   III/2             1778
+
+1780       1505   1505      1508  SVI  3   FLA  S16E53    SF      ERU       1778
+
+1790 +     1552   ////      1552  SVI  C   RSP  025-078   III/1                 
+
+1800       1610   1617      1623  G15  5   XRA  1-8A      B9.1    5.6E-04   1778
+1800 +    B1611  U1617     A1628  SVI  3   FLA  S15E57    SF      ERU       1778
+
+1810       1636   1641      1644  G15  5   XRA  1-8A      C2.0    5.9E-04   1775
+1810      B1642  U1645      1651  SVI  3   FLA  S29W43    SF                1775
+
+1820       2035   2050      2054  G15  5   XRA  1-8A      C3.0    2.0E-03   1775
+1820       2038   2049      2106  HOL  3   FLA  S27W45    SF                1775

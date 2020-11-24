@@ -1,0 +1,66 @@
+:Product: 20130519events.txt
+:Created: 2013 May 22 0332 UT
+:Date: 2013 05 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 May 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5870       0000   ////      0430  LEA  C   RSP  075-180   CTM/1                 
+
+5860       0017   0017      0017  PAL  G   RBR  245       100                   
+
+5890       0833   0833      0837  SVI  3   FLA  S11W59    SF                1750
+
+5880       0835   0838      0840  G15  5   XRA  1-8A      C1.2    3.1E-04   1752
+5880 +     0837   0837      0838  SVI  G   RBR  245       720               1752
+5880       0837   0838      0840  SVI  3   FLA  N19W69    SF                1752
+5880 +     0837   ////      0839  LEA  C   RSP  098-180   III/1             1752
+
+5900 +     0908   0915      0924  G15  5   XRA  1-8A      C3.4    2.1E-03   1750
+5900       0911   0914      0928  SVI  3   FLA  S11W58    1F      ERU       1750
+
+5910       1011   ////      1012  SVI  C   RSP  025-050   III/1                 
+
+5920 +     1142   1150      1157  G15  5   XRA  1-8A      C1.1    1.0E-03   1750
+
+5930 +     1222   1225      1229  G15  5   XRA  1-8A      C1.4    3.7E-04   1750
+5930      B1228   1238      1410  HOL  3   FLA  S09W63    SF      DSD       1750
+
+5940       1411   1416      1434  HOL  3   FLA  S09W63    SF                1750
+5940       1413   1420      1427  G15  5   XRA  1-8A      C1.1    7.8E-04   1750
+
+5950       1507   1515      1524  G15  5   XRA  1-8A      C6.3    3.3E-03   1750
+5950       1510   1514      1534  HOL  3   FLA  S09W63    SN      DSD       1750
+
+5960 +     1630   1630      1630  SAG  G   RBR  245       200                   
+
+6000       1706   1724      1735  G15  5   XRA  1-8A      C4.2    5.3E-03       
+
+5970       1707   1750      1818  G15  5   XRA  1-8A      C9.9    2.3E-02       
+
+6010       1725   1727      1731  HOL  3   FLA  S09W65    SF                1750
+
+6020       1738   1739      1742  HOL  3   FLA  S09W65    SF                1750
+
+5990       1903   1903      1905  HOL  3   FLA  S09W65    SF                1750
+
+6030       1950   1954      1956  HOL  3   FLA  S09W66    SF      ERU       1750
+
+6040       2111   2121      2126  G15  5   XRA  1-8A      C4.7    2.9E-03   1750
+6040       2112   2113      2124  HOL  3   FLA  S08W65    SF      ERU       1750
+
+6090       2129   ////      2157  CUL  C   RSP  025-100   III/1                 
+
+6050       2129   ////      2152  SAG  C   RSP  025-081   VI/2                  
+
+6060       2157   2159      2208  HOL  3   FLA  N13E02    SF      ERU       1748
+
+6070 +     2239   ////      2240  SAG  C   RSP  025-082   III/1                 
+
+6080       2255   2259      2306  HOL  3   FLA  S09W68    SF      ERU       1750

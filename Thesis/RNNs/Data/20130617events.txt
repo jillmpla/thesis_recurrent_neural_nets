@@ -1,0 +1,40 @@
+:Product: 20130617events.txt
+:Created: 2013 Jun 20 0332 UT
+:Date: 2013 06 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jun 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 270       0253   0347      0410  G15  5   XRA  1-8A      C1.2    4.4E-03   1775
+
+ 370      B0406   ////     B1609  SVI  3   EPL  ////      0.21    B.6A          
+
+ 290      B0428   ////     B0835  SVI  3   EPL  ////      0.22    B.9A          
+
+ 280       0429   0452      0459  G15  5   XRA  1-8A      C1.0    1.7E-03   1775
+ 280       0436   0436      0509  SVI  2   FLA  S25E58    SF                1775
+
+ 300       0719   0812      0901  G15  5   XRA  1-8A      C1.7    7.0E-03   1772
+ 300       0740   0812      0856  SVI  3   FLA  S20E23    SF      ERU       1772
+ 300 +     0810   ////      0810  SVI  C   RSP  049-083   III/1             1772
+
+ 310 +     0846   ////      0847  SVI  C   RSP  071-180   III/1                 
+
+ 320       0849   0857      0903  SVI  3   FLA  S24E20    SF                1769
+
+ 330 +     0925   ////      0925  SVI  C   RSP  077-180   III/1                 
+
+ 340       1306   1306      1311  SVI  3   FLA  N04E46    SF                1773
+
+ 350 +     1337   1337      1349  HOL  3   FLA  N04E48    SF      ERU       1773
+ 350      B1340   ////     B1609  HOL  3   EPL  ////      0.2               1773
+
+ 360 +     1501   1504      1507  SVI  3   FLA  N04E45    SF                1773
+
+ 380       2233   2238      2250  G15  5   XRA  1-8A      C1.2    1.0E-03   1772

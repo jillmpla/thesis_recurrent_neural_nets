@@ -1,0 +1,26 @@
+:Product: 20130608events.txt
+:Created: 2013 Jun 11 0332 UT
+:Date: 2013 06 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jun 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9230      B0000   ////     B0409  LEA  3   LPS  ////      0.04              1762
+
+9240       0103   0103      0103  LEA  G   RBR  410       120                   
+
+9250       0514   0518      0522  G15  5   XRA  1-8A      B7.2    2.2E-04   1762
+
+9260       0656   0656      0656  LEA  G   RBR  245       170                   
+
+9270       0739   0743      0751  G15  5   XRA  1-8A      B4.4    2.4E-04   1765
+
+9280 +     1902   1912      1927  G15  5   XRA  1-8A      C1.7    2.1E-03   1762
+
+9290 +     2251   2301      2311  G15  5   XRA  1-8A      C2.3    1.8E-03   1762

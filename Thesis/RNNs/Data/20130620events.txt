@@ -1,0 +1,62 @@
+:Product: 20130620events.txt
+:Created: 2013 Jun 23 0332 UT
+:Date: 2013 06 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jun 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 970       0000   ////      0043  LEA  C   RSP  103-180   VI/1                  
+
+ 980       0703   0703      0714  SVI  3   FLA  N10W13    SF                1776
+ 980 +     0703   ////      0704  LEA  C   RSP  075-180   III/1             1776
+ 980 +     0703   0703      0703  LEA  G   RBR  245       170               1776
+
+ 990       0726   0730      0739  SVI  3   FLA  N10W13    SF                1776
+
+1000       0913   0920      0925  G15  5   XRA  1-8A      C1.9    9.0E-04   1777
+
+1010       0928   0933      0933  SVI  3   FLA  N10W14    SF                1776
+
+1020       0938   0938      0949  SVI  3   FLA  N10W14    SF                1776
+
+1030       1007   1014      1023  SVI  3   FLA  N10W14    SF      ERU       1776
+
+1050 +     1039   ////      1039  SVI  C   RSP  027-140   III/2                 
+
+1060       1044   1047      1052  G15  5   XRA  1-8A      B7.9    2.6E-04   1776
+1060       1048   1049      1109  SVI  3   FLA  N10W15    SF      ERU       1776
+
+1070       1118   1119      1125  SVI  3   FLA  S26E20    SF                1775
+
+1080       1134   1137      1140  G15  5   XRA  1-8A      B7.8    1.7E-04   1776
+1080       1136   1136      1139  SVI  3   FLA  N10W15    SF                1776
+
+1090 +     1153   1153      1153  SVI  G   RBR  245       110                   
+1090 +     1153   ////      1154  SAG  C   RSP  064-180   III/2                 
+
+1110 +     1350   1354      1440  HOL  3   FLA  N11W17    SF      DSD       1776
+
+1100       1400   1405      1409  G15  5   XRA  1-8A      C1.3    5.2E-04   1775
+1100 +     1402   1403      1418  HOL  3   FLA  S27E13    SF      ERU       1775
+
+1120 +     1443   ////      1445  SAG  C   RSP  025-136   III/2                 
+
+1130       1554   1556      1621  SVI  3   FLA  S27E12    SF      ERU       1775
+1130       1555   1602      1606  G15  5   XRA  1-8A      C1.3    6.7E-04   1775
+
+1140 +     1655   ////      1655  SVI  C   RSP  102-180   III/1                 
+
+1150       1710   1712      1715  SVI  3   FLA  N10W18    SF                1776
+
+1160       1743   1750      1753  HOL  3   FLA  N12W18    SF      DSD       1776
+
+1170       1949   1959      2010  HOL  3   FLA  N11W19    SF      ERU       1776
+1170       1954   1957      1959  G15  5   XRA  1-8A      B9.2    1.5E-04   1776
+
+1180       2014   2027      2036  G15  5   XRA  1-8A      C1.3    1.4E-03   1775

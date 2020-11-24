@@ -1,0 +1,32 @@
+:Product: 20130808events.txt
+:Created: 2013 Aug 11 0332 UT
+:Date: 2013 08 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Aug 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9540       0013   ////      0211  LEA  3   DSF  N37E10    7                     
+
+9510      A0019   ////     A0120  LEA  3   DSF  S33W31    8                     
+
+9520       0539   0543      0549  SVI  3   FLA  S14W08    SF                1813
+
+9550       0805   ////      0805  SVI  C   RSP  026-037   III/1                 
+
+9560 +     1125   ////      1126  SAG  C   RSP  025-052   III/1                 
+
+9570       1614   1617      1619  G15  5   XRA  1-8A      B5.5    7.9E-05   1813
+
+9610      A1702   ////     A0543  SVI  3   DSF  N27W45    8                     
+
+9580       1756   1924      1932  G15  5   XRA  1-8A      B4.1    2.3E-03   1810
+
+9590       1907   1910      1911  SAG  G   RBR  410       58                    
+9590       1908   1908      1910  SAG  G   RBR  245       38                    
+9590 +     1909   1910      1912  SAG  G   RBR  610       180                   

@@ -1,0 +1,47 @@
+:Product: 20130529events.txt
+:Created: 2013 Jun 01 0332 UT
+:Date: 2013 05 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 May 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8050       0033   0037      0040  G15  5   XRA  1-8A      B8.3    2.1E-04       
+
+8090 +    A0051   ////     A1236  HOL  3   DSF  N11W16    12                1755
+
+8160       0052   0055      0056  G15  5   XRA  1-8A      B4.2    1.2E-04   1760
+
+8060       0212   0218      0222  G15  5   XRA  1-8A      C1.5    5.3E-04       
+
+8170       0247   0249      0251  G15  5   XRA  1-8A      B4.5    1.3E-04   1760
+
+8180       0312   0325      0336  G15  5   XRA  1-8A      B5.4    6.7E-04   1757
+
+8070       0441   0444      0446  G15  5   XRA  1-8A      B4.5    7.4E-05   1754
+
+8080       0648   0736      0758  G15  5   XRA  1-8A      C1.2    3.3E-03   1755
+
+8190       0856   0901      0909  G15  5   XRA  1-8A      B8.6    6.5E-04   1755
+
+8110       1527   1529      1531  G15  5   XRA  1-8A      B3.8    1.1E-04   1760
+8110      B1527  U1529     A1539  SVI  3   FLA  N17E80    SF                    
+
+8120       1619   1622      1625  G15  5   XRA  1-8A      B4.8    9.8E-05   1760
+
+8130       1658   1701      1704  G15  5   XRA  1-8A      B5.6    1.2E-04   1754
+
+8140       1731   1735      1737  G15  5   XRA  1-8A      B7.4    1.6E-04   1760
+
+8150       2051   2102      2110  G15  5   XRA  1-8A      B4.7    4.7E-04   1760
+8150       2058   2100      2103  HOL  3   FLA  N12E69    SF      DSD       1760
+
+8200       2230   2236      2240  G15  5   XRA  1-8A      C2.9    1.0E-03   1760
+8200       2232   2233      2244  HOL  3   FLA  N12E68    SF      DSD       1760
+8200 +     2232   2234      2234  PAL  G   RBR  245       2000              1760
+8200 +     2233   ////      2233  CUL  C   RSP  020-300   III/3             1760

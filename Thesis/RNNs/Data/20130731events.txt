@@ -1,0 +1,18 @@
+:Product: 20130731events.txt
+:Created: 2013 Aug 03 0332 UT
+:Date: 2013 07 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jul 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8760       0212   0212      0212  LEA  G   RBR  245       100                   
+
+8770       0426   0518      0544  G15  5   XRA  1-8A      C1.5    4.7E-03   1809
+
+8780       1015   1016      1019  SVI  3   FLA  S10W76    SF                1803

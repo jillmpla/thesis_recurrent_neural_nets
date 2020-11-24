@@ -1,0 +1,35 @@
+:Product: 20130607events.txt
+:Created: 2013 Jun 10 0332 UT
+:Date: 2013 06 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jun 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9120       0102   0108      0113  G15  5   XRA  1-8A      C1.0    4.2E-04   1762
+9120 +     0105   0106      0106  LEA  G   RBR  8800      220                   
+9120 +     0105   0106      0106  LEA  G   RBR  15400     160                   
+
+9130 +     0824   0827      0833  LEA  3   FLA  N09E01    SF      ERU       1765
+
+9140       0927   0942      0954  G15  5   XRA  1-8A      C1.1    1.4E-03   1762
+
+9150       1142   1151      1200  G15  5   XRA  1-8A      C3.0    1.9E-03   1762
+
+9190       1918   1923      1927  G15  5   XRA  1-8A      B6.6    2.4E-04   1762
+
+9200       2107   2111      2117  G15  5   XRA  1-8A      B4.2    1.9E-04       
+
+9210       2211   2249      2304  G15  5   XRA  1-8A      M5.9    6.8E-02   1762
+9210       2226   ////      2249  SAG  C   RSP  025-074   VI/1                  
+9210       2238   2243      2247  PAL  G   RBR  8800      1000                  
+9210       2238   2243      2247  PAL  G   RBR  4995      580                   
+9210       2240   2243      2246  PAL  G   RBR  15400     910                   
+9210       2240   2242      2242  PAL  G   RBR  610       99                    
+9210       2242   2243      2246  PAL  U   RBR  2695      160                   
+9210       2243   2244      2244  PAL  G   RBR  1415      61                    

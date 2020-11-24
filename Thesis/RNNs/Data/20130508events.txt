@@ -1,0 +1,46 @@
+:Product: 20130508events.txt
+:Created: 2013 May 11 0332 UT
+:Date: 2013 05 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 May 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3130       0015   0022      0030  G15  5   XRA  1-8A      C2.9    1.8E-03   1738
+3130       0017   0017     A0102  HOL  1   FLA  N15E05    SF                1738
+
+3230      A0021   ////     A1607  HOL  3   DSF  S30W11    19                    
+
+3170       0130   ////      0937  LEA  C   RSP  075-180   CTM/1                 
+
+3210       0401   ////      1740  SVI  C   RSP  025-180   CTM/2                 
+3210       0413   ////      0414  LEA  C   RSP  025-060   III/2                 
+
+3140       0413   ////      0414  LEA  C   RSP  025-060   III/1                 
+
+3220       0504   ////      1740  SVI  C   RSP  025-080   VI/2                  
+
+3150       0504   ////      0545  LEA  C   RSP  025-045   VI/1                  
+
+3180       0617   ////      0639  LEA  C   RSP  025-040   VI/1                  
+3180       0628   0639      0656  G15  5   XRA  1-8A      C1.1    1.6E-03       
+
+3310      A0808   ////     A2359  LEA  3   DSF  S28W09    15                    
+
+3260       0941   ////      2028  SAG  C   RSP  046-180   CTM/1                 
+3260       1036   ////      2028  SAG  C   RSP  025-080   VI/1                  
+
+3160 +     1056   1710      1747  SAG  G   RNS  245       180                   
+
+3190       1101   1106      1107  SVI  3   FLA  N32E71    SF                    
+
+3240       1641   1719      1752  G15  5   XRA  1-8A      C1.0    3.7E-03   1731
+
+3250       1857   1905      1911  G15  5   XRA  1-8A      C1.1    9.5E-04   1736
+
+3270       2303   ////      2359  LEA  C   RSP  075-180   CTM/1                 

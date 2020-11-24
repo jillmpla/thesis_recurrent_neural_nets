@@ -1,0 +1,28 @@
+:Product: 20130804events.txt
+:Created: 2013 Aug 07 0332 UT
+:Date: 2013 08 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Aug 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9140       0325   0325      0325  LEA  G   RBR  245       140                   
+
+9170 +     0615   ////      0710  SVI  3   DSF  N30E54    7                     
+
+9160 +     1115   ////      1116  SAG  C   RSP  025-113   III/1                 
+
+9180 +     1403   ////      1404  SAG  C   RSP  025-080   III/1                 
+
+9190 +     1445   ////      1457  SVI  C   RSP  025-161   VI/1                  
+
+9200       1900   ////      1902  SAG  C   RSP  025-180   III/2                 
+
+9210       2207   ////      2208  CUL  C   RSP  020-060   III/1                 
+
+9220       2338   ////      2338  CUL  C   RSP  018-060   III/1                 

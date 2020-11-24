@@ -1,0 +1,67 @@
+:Product: 20130524events.txt
+:Created: 2013 May 27 0332 UT
+:Date: 2013 05 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 May 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7220 +     0119   0124      0132  G15  5   XRA  1-8A      C2.5    1.4E-03   1757
+
+7230       0144   ////      0149  LEA  3   EPL  ////      0.15    B.9A          
+
+7250 +     0204   ////      0338  LEA  3   DSF  S34E28    5                     
+
+7240       0231   0232      0235  LEA  3   FLA  N11W54    SF      ERU       1748
+
+7260       0646   0647      0651  SVI  3   FLA  S18E23    SF      ERU       1756
+
+7270       0655   0658      0704  SVI  3   FLA  S18E23    SF      ERU       1756
+
+7280       0718   0718      0723  SVI  3   FLA  N07W58    SF                1748
+
+7290      B1005  U1006     A1015  SVI  3   FLA  S17E26    SF                1756
+
+7300      B1150  U1154      1201  SVI  3   FLA  S17E25    SF      ERU       1756
+
+7320 +     1250   ////      1330  SAG  C   RSP  025-180   VI/1                  
+
+7310       1326   1327      1332  SVI  3   FLA  N11E36    SF                1755
+
+7330 +     1405   ////      1405  SAG  C   RSP  025-180   V/2                   
+
+7340 +     1423   ////      1424  SVI  U   RSP  025-051   III/1                 
+
+7350      B1459  U1459     A1509  SVI  3   FLA  S18E19    SF      ERU       1756
+
+7370 +     1511   ////      1519  SAG  C   RSP  025-180   III/2                 
+
+7360 +     1513   1513      1513  SAG  G   RBR  245       760                   
+
+7380 +     1528   1529      1531  HOL  3   FLA  N09E36    SF      ERU       1755
+
+7390      B1545  U1549     A1554  SVI  3   FLA  S18E19    SF                1756
+
+7400       1631   1635      1641  G15  5   XRA  1-8A      C2.1    8.5E-04   1756
+7400 +     1634   1635      1645  HOL  3   FLA  S18E22    SN      ERU       1756
+
+7410 +     1655   ////      1750  SAG  C   RSP  025-180   VI/1                  
+
+7420       1840   ////      1908  SAG  C   RSP  025-060   VI/1                  
+
+7430 +     2035   2039      2041  G15  5   XRA  1-8A      C1.0    2.0E-04   1757
+
+7440       2054   2059      2102  G15  5   XRA  1-8A      B9.0    3.0E-04   1753
+7440       2057   2058      2112  HOL  3   FLA  N05E17    SF      ERU       1753
+
+7450 +     2244   2248      2254  G15  5   XRA  1-8A      B9.8    4.4E-04   1757
+
+7460       2311   ////      2313  LEA  C   RSP  052-180   III/1                 
+7460 +     2312   2312      2312  PAL  G   RBR  245       130                   
+
+7470       2332   2332      2332  PAL  G   RBR  245       230                   

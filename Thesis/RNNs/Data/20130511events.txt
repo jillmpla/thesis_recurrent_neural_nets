@@ -1,0 +1,66 @@
+:Product: 20130511events.txt
+:Created: 2013 May 14 0332 UT
+:Date: 2013 05 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 May 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3820      B0126   ////     B0545  LEA  2   EPL  ////      0.19    B.9A          
+
+3800       0252   0256      0301  G15  5   XRA  1-8A      C1.3    4.7E-04   1744
+3800       0256   0256      0258  LEA  2   FLA  N03E56    SF      ERU       1744
+
+3830       0805   0805      0805  LEA  G   RBR  245       130                   
+3830 +     0805   ////      0805  LEA  C   RSP  070-070   III/2                 
+
+3840       0830   ////      0908  SVI  C   RSP  025-045   VI/1                  
+
+3850       0924   ////      0924  SVI  C   RSP  025-154   III/1                 
+
+4050      A0943   ////     A2251  LEA  3   DSF  N34W36    11                    
+
+4060      A0943   ////     A2251  LEA  3   DSF  N14W12    7                     
+
+3980       1014   ////      1956  SAG  C   RSP  025-180   VI/1                  
+
+3860       1014   ////      1014  SVI  C   RSP  025-180   III/2                 
+
+3870       1029   1032      1035  SVI  3   FLA  S25E75    SF                1746
+
+3880       1121   ////      1121  SVI  C   RSP  025-081   III/1                 
+
+3890       1155   ////      1156  SVI  C   RSP  025-136   III/2                 
+
+4000       1236   1247      1306  G15  5   XRA  1-8A      C1.4    2.3E-03   1746
+4000       1301   1302      1305  SVI  3   FLA  S26E74    SF                1746
+
+4190      A1315   ////     A0545  SVI  3   DSF  N31W38    18                    
+
+3910       1331   1359      1409  G15  5   XRA  1-8A      C2.2    4.1E-03   1745
+3910       1349   1350      1355  HOL  3   FLA  N11E74    SF      ERU       1745
+3910       1350   1350      1350  SAG  G   RBR  245       3400              1745
+3910       1350   1350      1350  SAG  G   RBR  410       530               1745
+3910       1350   1350      1350  SAG  G   RBR  610       330               1745
+
+3940       1413   1414      1417  HOL  3   FLA  N13E75    SF                1745
+
+3950       1519   ////      1519  SVI  C   RSP  025-163   III/2                 
+
+4020       1622   1644      1650  G15  5   XRA  1-8A      C1.5    2.2E-03   1734
+
+3960       1803   1805      1809  G15  5   XRA  1-8A      C1.0    4.2E-04   1746
+3960       1805   1807      1809  HOL  3   FLA  S27E71    SF                1746
+
+4030       1848   1916      1923  G15  5   XRA  1-8A      C2.8    3.8E-03   1739
+
+3970       1935   1948      2003  G15  5   XRA  1-8A      C8.0    9.9E-03   1746
+
+3990       2226   ////      2249  HOL  3   DSF  N48W35    16      B.6A          
+
+4040       2313   ////      2313  LEA  C   RSP  027-049   III/1                 

@@ -1,0 +1,50 @@
+:Product: 20130616events.txt
+:Created: 2013 Jun 19 0332 UT
+:Date: 2013 06 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jun 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  80       0021   ////      0130  LEA  3   EPL  ////      0.15    B.9A          
+
+ 200       0025   ////      0936  LEA  3   EPL  ////      0.16    B.7A          
+
+  90       0209   0213      0217  G15  5   XRA  1-8A      B7.0    2.2E-04   1772
+
+ 100       0230   0237      0246  G15  5   XRA  1-8A      B6.9    5.3E-04   1768
+
+ 110       0311   0314      0316  G15  5   XRA  1-8A      B6.1    9.5E-05       
+
+ 230      B0422   ////     B1816  SVI  3   EPL  ////      0.19    B.9A          
+
+ 120       0532   0535      0537  G15  5   XRA  1-8A      B7.0    1.1E-04       
+
+ 130       0546   0552      0555  G15  5   XRA  1-8A      B6.9    2.7E-04   1775
+
+ 140      B0635   ////     B0646  LEA  2   EPL  ////      0.18    B.4A          
+
+ 150       1013   1020      1026  G15  5   XRA  1-8A      C1.0    5.9E-04   1769
+ 150       1015   1022      1032  SVI  3   FLA  S22E34    SF                1769
+ 150 +     1025   ////      1025  SVI  C   RSP  025-060   III/1             1769
+
+ 160 +     1121   ////      1123  SVI  C   RSP  025-148   III/1                 
+
+ 180 +     1307   ////      1307  SAG  C   RSP  025-131   III/2                 
+
+ 190       1413   1418      1423  HOL  3   FLA  S21E64    SF                1775
+
+ 210       1700   1713      1723  SVI  3   FLA  S25E66    SF                1775
+
+ 220 +     1749   1752      1800  G15  5   XRA  1-8A      B6.2    3.1E-04   1775
+
+ 240       2039   ////      2039  SAG  C   RSP  041-180   III/1                 
+
+ 250 +     2058   2125      2133  G15  5   XRA  1-8A      B7.6    1.4E-03   1769
+
+ 260       2338   ////      2344  LEA  C   RSP  063-180   III/1                 

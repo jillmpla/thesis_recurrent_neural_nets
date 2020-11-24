@@ -1,0 +1,49 @@
+:Product: 20130515events.txt
+:Created: 2013 May 18 0332 UT
+:Date: 2013 05 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 May 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5160       0124   0140      0230  LEA  3   FLA  N12E64    2N      ERU       1748
+5160       0125   0148      0158  G15  5   XRA  1-8A      X1.2    1.2E-01   1748
+5160 +     0127   ////      0148  CUL  C   RSP  400-00*   IV/2              1748
+5160 +     0127   0130      0142  LEA  G   RBR  410       240               1748
+5160 +     0129   0134      0146  LEA  G   RBR  1415      300               1748
+5160 +     0130   0136      0142  LEA  G   RBR  610       250               1748
+5160 +     0133   0133      0146  LEA  G   RBR  245       430               1748
+5160 +     0133   0142      0150  LEA  G   RBR  2695      440               1748
+5160 +     0135   0141      0153  LEA  G   RBR  8800      1400              1748
+5160 +     0136   0141      0154  LEA  G   RBR  15400     920               1748
+5160 +     0136   0143      0151  LEA  G   RBR  4995      1000              1748
+5160 +     0137   ////      0145  LEA  C   RSP  073-180   II/1    501       1748
+
+5180 +     0328   ////      0440  LEA  3   DSF  S21E33    5                     
+
+5170       0907   0908      0910  LEA  3   FLA  N14E57    SF                1748
+
+5190       1003   ////      1003  SVI  C   RSP  027-057   III/1                 
+
+5200       1030   1031      1037  SVI  3   FLA  N16E24    SF                1745
+
+5210       1208   1237      1308  G15  5   XRA  1-8A      C1.6    4.7E-03   1748
+5210      B1227  U1243     A1245  SVI  2   FLA  N12E57    SF                1748
+
+5220       1327   1330      1333  G15  5   XRA  1-8A      C1.4    3.2E-04   1745
+
+5250       1420   ////      1614  SAG  C   RSP  025-040   VI/1                  
+
+5230       1429   ////      1438  SVI  U   RSP  025-045   III/1                 
+
+5260       1521   ////      1614  SVI  C   RSP  027-054   VI/1                  
+5260       1609   1613      1618  G15  5   XRA  1-8A      C1.1    4.4E-04   1738
+
+5270       2051   ////      2141  SAG  C   RSP  025-074   VI/1                  
+
+5290       2226   2231      2241  G15  5   XRA  1-8A      C1.1    9.9E-04   1748

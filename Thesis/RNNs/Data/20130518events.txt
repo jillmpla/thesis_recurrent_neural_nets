@@ -1,0 +1,63 @@
+:Product: 20130518events.txt
+:Created: 2013 May 21 0332 UT
+:Date: 2013 05 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 May 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5640       0003   0010      0011  HOL  3   FLA  S10W41    SF      DSD       1750
+
+5650       0012   0013      0016  HOL  3   FLA  S18W15    SF                1747
+
+5660       0036   0042      0106  HOL  3   FLA  N11E24    SF      ERU       1748
+
+5740       0203   ////      0933  LEA  C   RSP  074-180   CTM/2                 
+
+5670       0248   ////      0248  LEA  C   RSP  025-139   III/1                 
+
+5680       0329   ////      0341  LEA  C   RSP  025-148   VI/1              1748
+5680       0330   0345      0356  G15  5   XRA  1-8A      C6.0    6.1E-03   1748
+5680       0333   0343      0428  LEA  3   FLA  N11E23    SF                1748
+5680       0346   ////      1750  SVI  C   RSP  034-180   CTM/2             1748
+
+5690       0428   ////      0801  LEA  C   RSP  025-094   VI/1              1748
+5690 +     0429   0429      0443  SVI  3   FLA  N12E22    SF                1748
+
+5750       0447   ////      0953  SVI  C   RSP  025-116   VI/1                  
+
+5700       0505   0518      0531  G15  5   XRA  1-8A      C1.2    1.7E-03   1743
+5700       0514   0518      0529  SVI  3   FLA  N18W57    SF                    
+
+5720       0632   0656      0709  G15  5   XRA  1-8A      C1.3    2.4E-03   1752
+5720       0657   0659      0702  SVI  3   FLA  N17W42    SF                1752
+
+5730       0827   0835      0841  G15  5   XRA  1-8A      B9.7    7.3E-04       
+
+5780       0942   ////      1509  SAG  C   RSP  102-180   CTM/1                 
+5780       1038   ////      2217  SAG  C   RSP  025-150   VI/2                  
+
+5820       1108   ////      1750  SVI  C   RSP  025-110   VI/2                  
+
+5760       1213   ////      1400  SVI  3   BSL  ////      0.18    B.9A          
+
+5770       1437   1437      1440  SVI  3   FLA  S17E88    SF                    
+
+5790       1509   1513      1519  SVI  3   FLA  N12E20    SF                1748
+
+5800 +     1615   ////      1615  SAG  C   RSP  025-180   III/2                 
+5800 +     1615   1615      1615  SAG  G   RBR  245       220                   
+
+5810 +     1620   ////      1620  SAG  C   RSP  025-180   III/2                 
+
+5830       1812   1822      1825  G15  5   XRA  1-8A      C1.1    6.1E-04   1748
+5830       1814   1821      1826  HOL  3   FLA  N11E19    SF      ERU       1748
+
+5840       2016   2118      2155  G15  5   XRA  1-8A      C2.9    9.1E-03       
+
+5850       2308   ////      2359  LEA  C   RSP  075-180   CTM/1                 

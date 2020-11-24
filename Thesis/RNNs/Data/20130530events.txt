@@ -1,0 +1,40 @@
+:Product: 20130530events.txt
+:Created: 2013 Jun 02 0332 UT
+:Date: 2013 05 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 May 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8280       0222   0233      0240  G15  5   XRA  1-8A      B5.7    5.4E-04   1760
+
+8290       0424   0431      0435  G15  5   XRA  1-8A      B5.3    3.3E-04       
+
+8300       0504   0512      0518  G15  5   XRA  1-8A      B4.4    3.6E-04   1760
+
+8210       0726   ////      0726  SVI  C   RSP  025-045   III/1                 
+
+8220       1053   1056      1059  G15  5   XRA  1-8A      B4.4    1.0E-04   1760
+
+8230       1258   1303      1308  G15  5   XRA  1-8A      B9.4    3.8E-04   1757
+8230 +     1259   ////      1301  SAG  C   RSP  025-180   III/2             1757
+8230       1300   1301      1314  HOL  3   FLA  S10E07    SF      ERU       1757
+
+8240 +     1317   ////      1319  SVI  C   RSP  030-079   III/1                 
+
+8250       1422   1432      1438  G15  5   XRA  1-8A      B8.7    6.1E-04   1760
+8250       1423   ////      1426  SVI  C   RSP  025-075   III/1                 
+8250       1425   1430      1443  SVI  3   FLA  N17E61    SF                    
+
+8260       1527   1532      1535  G15  5   XRA  1-8A      B7.3    2.3E-04       
+
+8310       1725   1734      1742  G15  5   XRA  1-8A      B5.0    4.9E-04   1760
+
+8270       1833   1837      1842  G15  5   XRA  1-8A      B6.7    2.6E-04   1756
+
+8320       2055   ////      2055  SAG  C   RSP  025-082   III/1                 

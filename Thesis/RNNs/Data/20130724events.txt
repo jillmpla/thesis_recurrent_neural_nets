@@ -1,0 +1,57 @@
+:Product: 20130724events.txt
+:Created: 2013 Jul 27 0332 UT
+:Date: 2013 07 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jul 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7730       0007   ////      0007  CUL  C   RSP  020-060   III/1                 
+
+7680       0007   ////      0007  LEA  C   RSP  025-086   III/1                 
+
+7710       0115   0124      0142  G15  5   XRA  1-8A      B4.9    7.3E-04   1793
+
+7720       0301   0306      0314  G15  5   XRA  1-8A      B4.3    3.3E-04   1803
+
+7870       0458   ////      0458  CUL  C   RSP  020-057   III/1                 
+
+7740       0525   0529      0532  SVI  3   FLA  S21W59    SF                1804
+
+7750 +     0548   ////      0549  SVI  C   RSP  044-114   III/1                 
+
+7880       0552   ////      0552  CUL  C   RSP  020-050   III/1                 
+
+7890       0639   ////      0639  CUL  C   RSP  027-050   III/1                 
+
+7900       0653   ////      0653  CUL  C   RSP  027-057   III/1                 
+
+7760 +     0653   ////      0653  SVI  C   RSP  025-042   III/1                 
+
+7770 +     0753   ////      0754  LEA  C   RSP  083-122   III/1                 
+
+7780 +     1123   ////      1123  SAG  C   RSP  104-180   III/1                 
+
+7790 +     1218   ////      1218  SAG  C   RSP  025-076   III/1                 
+
+7820       1351   1352      1359  SVI  3   FLA  S23W68    SF                1804
+
+7800       1440   1452      1453  HOL  3   FLA  S17W67    SF                1797
+
+7810 +     1523   1523      1531  SVI  3   FLA  S23W68    SF                1804
+
+7830       1738   1752      1758  HOL  3   FLA  S21W69    SF      ERU       1797
+
+7840       1813   1819      1823  G15  5   XRA  1-8A      C1.0    3.8E-04   1800
+7840       1817   1819      1825  HOL  3   FLA  S06W13    SF      ERU       1800
+
+7850       2043   2054      2104  G15  5   XRA  1-8A      B5.8    5.6E-04   1800
+
+7860       2134   2143      2156  G15  5   XRA  1-8A      C1.8    1.5E-03   1800
+
+7910       2306   ////      2309  CUL  C   RSP  018-057   III/1                 

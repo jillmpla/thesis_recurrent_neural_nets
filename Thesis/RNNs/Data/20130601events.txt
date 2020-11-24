@@ -1,0 +1,42 @@
+:Product: 20130601events.txt
+:Created: 2013 Jun 04 0332 UT
+:Date: 2013 06 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jun 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8380 +     0709   ////      0714  SVI  U   RSP  025-180   III/1             1760
+8380 +     0712   0717      0721  G15  5   XRA  1-8A      B5.1    1.9E-04   1760
+
+8390 +     1021   ////      1021  SAG  C   RSP  049-146   III/1                 
+
+8400 +     1242   ////      1245  SVI  C   RSP  025-180   V/2                   
+
+8410 +     1338   1346      1354  G15  5   XRA  1-8A      B6.6    4.9E-04   1762
+8410 +     1341   ////      1342  SVI  C   RSP  025-180   V/2               1762
+8410 +     1341   1341      1341  SVI  G   RBR  245       3800              1762
+8410 +     1344   1347      1354  HOL  3   FLA  S30W01    SF      ERU       1762
+
+8420 +     1451   ////      1452  SVI  C   RSP  025-073   III/1                 
+
+8430 +     1610   ////      1613  SAG  C   RSP  113-180   III/1                 
+
+8440 +     1631   1651      1653  SAG  G   RNS  245       170                   
+
+8450 +     1652   ////      1802  SVI  C   RSP  102-180   CTM/1                 
+
+8460 +     1655   ////      1751  HOL  3   DSF  S28W20    7                     
+
+8450       1751   1751      1752  PAL  G   RBR  245       1400                  
+
+8470 +     2024   2024      2024  PAL  G   RBR  245       110                   
+
+8480 +     2253   2253      2253  PAL  G   RBR  245       140                   
+
+8490       2322   2322      2322  PAL  G   RBR  245       130                   

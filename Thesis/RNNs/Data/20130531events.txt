@@ -1,0 +1,27 @@
+:Product: 20130531events.txt
+:Created: 2013 Jun 03 0332 UT
+:Date: 2013 05 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 May 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8330       0025   ////      0025  LEA  C   RSP  065-180   III/1                 
+
+8340       0531   0536      0543  G15  5   XRA  1-8A      B4.6    2.5E-04   1757
+
+8360 +     0701   0807      0845  G15  5   XRA  1-8A      C1.2    5.9E-03       
+
+8350       1111   1124      1144  G15  5   XRA  1-8A      C1.1    1.7E-03   1761
+8350       1114  U1119      1149  SVI  3   FLA  S18E32    SF      ERU       1761
+8350 +     1123   ////      1139  SAG  C   RSP  025-059   II/2    1173      1761
+
+8370       1952   2000      2006  G15  5   XRA  1-8A      M1.0    5.0E-03   1760
+8370       1954   1958      2021  HOL  3   FLA  N13E43    SB      BPT       1760
+8370       1957   ////      2010  SAG  C   RSP  034-146   II/2    1393      1760
+8370       1957   ////      2014  SAG  C   RSP  102-180   IV/1              1760
