@@ -1,0 +1,51 @@
+:Product: 20120319events.txt
+:Created: 2012 Mar 22 0332 UT
+:Date: 2012 03 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Mar 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3560       0005   0008      0010  G15  5   XRA  1-8A      B3.5    5.4E-05       
+
+3570       0024   0029      0031  G15  5   XRA  1-8A      B5.7    1.4E-04   1434
+
+3580       0213   0219      0223  G15  5   XRA  1-8A      B7.1    2.7E-04   1434
+3580       0219   0220      0226  LEA  3   FLA  S21W43    SF                1434
+
+3590       0228   0231      0235  G15  5   XRA  1-8A      B5.9    1.6E-04   1434
+3590       0230   0230      0233  LEA  3   FLA  S23W43    SF                1434
+
+3600       0341   0344      0350  LEA  3   FLA  S22W43    SF                1434
+3600       0341   0345      0348  G15  5   XRA  1-8A      B7.0    1.9E-04   1434
+
+3610       0437   0441      0444  G15  5   XRA  1-8A      B9.8    2.4E-04   1434
+3610       0439   0442      0448  LEA  3   FLA  S22W44    SF      ERU       1434
+
+3620       0832   1102      1107  G15  5   XRA  1-8A      B3.9    1.1E-03       
+
+3630       1020   ////      1020  SVI  C   RSP  027-046   III/1                 
+
+3640       1101   1102      1106  SVI  3   FLA  N13W62    SF                1432
+
+3650       1248   1307      1315  G15  5   XRA  1-8A      B5.5    6.7E-04       
+
+3660       1341   1351      1413  G15  5   XRA  1-8A      C1.2    1.7E-03   1432
+3660       1349   1352      1357  SVI  3   FLA  N16W61    SF      ERU       1432
+
+3670       1700   ////      1701  SAG  C   RSP  025-057   III/1                 
+3670       1700   ////      1701  SAG  C   RSP  025-057   VI/1                  
+
+3680       1706   1709      1711  G15  5   XRA  1-8A      B4.0    6.6E-05       
+
+3690 +     2114   ////      2115  SAG  C   RSP  025-086   III/1                 
+
+3700       2131   ////      2216  PAL  C   RSP  025-180   VI/2                  
+3700       2155   2204      2216  G15  5   XRA  1-8A      C3.5    3.0E-03   1434
+3700       2159   ////      2200  SAG  C   RSP  025-180   III/1                 
+3700 +     2159   2159      2200  PAL  G   RBR  1415      130               1434

@@ -1,0 +1,16 @@
+:Product: 20120204events.txt
+:Created: 2012 Feb 07 0332 UT
+:Date: 2012 02 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Feb 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8760       0214   ////      0215  LEA  C   RSP  025-077   III/1                 
+
+8770       0226   0226      0226  LEA  G   RBR  245       100                   

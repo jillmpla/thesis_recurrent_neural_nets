@@ -1,0 +1,75 @@
+:Product: 20120307events.txt
+:Created: 2012 Mar 10 0332 UT
+:Date: 2012 03 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Mar 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1920 +    B0000   0017      0349  LEA  3   FLA  N17E27    3B      PRB       1429
+1920       0002   0024      0040  G15  5   XRA  1-8A      X5.4    6.7E-01   1429
+1920       0006   0021      0222  PAL  G   RBR  8800      20000             1429
+1920 +     0006   0114      0227  LEA  G   RBR  4995      13000             1429
+1920 +     0007   0117      0210  LEA  G   RBR  2695      7200              1429
+1920       0012   0129      0209  PAL  G   RBR  1415      5300              1429
+1920 +     0014   0112      0207  LEA  G   RBR  610       430000            1429
+1920 +     0015   0126      0203  LEA  G   RBR  245       320000            1429
+1920 +     0015   0113      0204  LEA  G   RBR  410       940000            1429
+1920 +     0017   ////      0031  LEA  U   RSP  025-180   II/2    2273      1429
+1920 +     0017   ////      1030  LEA  C   RSP  025-075   IV/2              1429
+1920       0017   ////      0019  PAL  C   RSP  025-180   V/2               1429
+1920      B0024   ////     A0318  SOH  3   CME  XUV,EUV,UV052-051/FS2405      1429
+
+1930       0105   0114      0123  G15  5   XRA  1-8A      X1.3    1.5E-01   1430
+1930 +     0109   ////      0129  LEA  C   RSP  025-180   II/2    1329      1430
+1930       0120   0121      0130  LEA  3   FLA  N22E12    SF                1430
+
+1940       0156   0203      0219  LEA  3   FLA  N19E13    SF                1430
+
+1950 +     0330   0335      0338  LEA  G   RBR  610       330                   
+
+1960       0402   ////      0402  LEA  C   RSP  025-079   III/2                 
+
+1970       0436   0439      0506  LEA  3   FLA  N22E10    SN      ERU       1430
+1970       0503   ////      0503  LEA  C   RSP  025-075   III/1             1430
+
+1980       0527   0527      0527  SVI  G   RBR  245       240                   
+1980       0527   ////      0528  SVI  C   RSP  056-125   III/1                 
+
+1990 +     0738   0738      0754  SVI  3   FLA  N21E09    SF                1430
+
+2000       0819   0819      0819  SVI  G   RBR  245       210                   
+
+2010       0829   0829      0829  SVI  G   RBR  245       170                   
+
+2020       0918   0918      0932  LEA  3   FLA  N21E22    SF      ERU       1429
+
+2030       0952   0954      1000  LEA  3   FLA  N20E09    SF                1430
+
+2040       1155   1155      1155  SAG  G   RBR  245       100                   
+
+2100       1158   ////      2229  SAG  C   RSP  035-180   IV/1                  
+
+2050 +     1413   1413      1413  SAG  G   RBR  245       330                   
+2050 +     1413   ////      1413  SAG  C   RSP  025-180   III/2                 
+
+2070       1619   1622      1626  G15  5   XRA  1-8A      C1.6    4.3E-04   1429
+2070       1621   1622      1627  HOL  3   FLA  N16E21    SF                1429
+
+2080       1644   1649      1704  HOL  3   FLA  N16E21    SF                1429
+
+2090       1734   1735      1740  HOL  3   FLA  N20E06    SF      ERU       1430
+2090       1739   1739      1739  SAG  U   RBR  15400     140               1430
+
+2110       1814   ////      2359  PAL  C   RSP  075-180   IV/1                  
+
+2120 +     1919   1920      1920  SAG  G   RBR  245       140                   
+
+2130       2318   2319      2321  LEA  3   FLA  N17E16    SF                1429
+
+2140       2324   2326      2327  LEA  3   FLA  N17E16    SF                1429

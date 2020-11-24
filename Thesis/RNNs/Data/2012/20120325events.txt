@@ -1,0 +1,43 @@
+:Product: 20120325events.txt
+:Created: 2012 Mar 28 0332 UT
+:Date: 2012 03 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Mar 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4130 +     0015   0028      0038  G15  5   XRA  1-8A      C3.0    2.7E-03   1444
+4130 +     0023   ////      0028  PAL  C   RSP  025-180   III/2             1444
+4130 +     0027   0027      0100  HOL  2   FLA  N20E25    1N      ERU       1444
+
+4140       0138   0157      0220  G15  5   XRA  1-8A      C2.5    4.9E-03   1445
+
+4150 +     0828   ////      0913  LEA  C   RSP  025-180   VI/1              1444
+4150       0832   0859      0922  SDO  5   XRA  1-8A      C1.2              1444
+4150 +     0851   0902      0931  LEA  3   FLA  N19E19    SF      ERU       1444
+
+4160       1119   1157      1221  G15  5   XRA  1-8A      B9.0    2.2E-03   1444
+4160 +     1131   ////      1206  SVI  C   RSP  025-180   VI/2                  
+
+4180       1437   1458      1525  G15  5   XRA  1-8A      B5.8    1.2E-03   1438
+
+4170       1455   1455      1456  SVI  G   RBR  410       120               1445
+4170       1456   1457      1459  HOL  3   FLA  S24E52    SF      DSD       1445
+4170       1456   1456      1456  SVI  G   RBR  245       90                1445
+
+4180       1457   1500      1539  HOL  3   FLA  S15E12    SF                1438
+
+4190       1747   1747      1749  HOL  3   FLA  S25E51    SF      DSD       1445
+
+4200 +     2012   ////      2018  PAL  C   RSP  025-068   III/1                 
+
+4220       2210   ////      2214  CUL  C   RSP  020-060   III/1                 
+
+4210 +     2216   ////      2218  CUL  C   RSP  018-080   III/2                 
+
+4230       2304   ////      2305  CUL  C   RSP  025-070   III/1                 

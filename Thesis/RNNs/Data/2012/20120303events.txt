@@ -1,0 +1,54 @@
+:Product: 20120303events.txt
+:Created: 2012 Mar 06 0332 UT
+:Date: 2012 03 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Mar 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1070      A0024   ////     A1347  HOL  3   DSF  N34E24    13                    
+
+ 660       0056   0102      0127  G15  5   XRA  1-8A      C1.4    2.1E-03       
+
+ 670       0301   0308      0311  G15  5   XRA  1-8A      C1.3    5.6E-04   1427
+ 670       0302   0303      0303  LEA  G   RBR  610       160               1427
+ 670       0304   0304      0311  LEA  3   FLA  N14W17    SF                1427
+
+ 680       0404   0405      0408  LEA  3   FLA  S17E63    SF                    
+
+ 690       0515   0520      0525  G15  5   XRA  1-8A      C1.2    5.3E-04       
+
+ 740       0534   0609      0637  G15  5   XRA  1-8A      C2.8    6.9E-03   1429
+
+ 700       0800   ////      0800  LEA  C   RSP  025-125   III/1                 
+
+ 710       0801   ////      0801  SVI  C   RSP  025-143   III/1                 
+
+ 720       0953   ////      1006  LEA  C   RSP  025-151   VI/1                  
+ 720       0953   ////      0954  SVI  C   RSP  025-127   III/1                 
+
+ 730       1006   ////      1008  SVI  C   RSP  025-122   III/1                 
+
+ 750       1340   1340      1340  SAG  G   RBR  245       120                   
+
+ 760       1512   1515      1517  G15  5   XRA  1-8A      B3.8    6.3E-05       
+
+ 770       1756   1803      1805  G15  5   XRA  1-8A      C1.1    4.3E-04   1429
+ 770 +     1756   1756      1756  SAG  G   RBR  245       140               1429
+
+ 800 +     1756   1806      1828  SAG  G   RNS  245       180                   
+
+ 770       1759   1803      1807  HOL  3   FLA  N17E73    SF      ERU       1429
+
+ 780 +     1805   1805      1805  SAG  G   RBR  245       180                   
+
+ 790       1813   1948      2046  G15  5   XRA  1-8A      C1.9    1.0E-02   1429
+ 790       1817   ////      1840  SAG  C   RSP  104-180   CTM/1                 
+ 790 +     1821   1841      1853  SAG  G   RBR  1415      740                   
+ 790       1822   1827      1838  SAG  G   RBR  410       83                    
+ 790 +     1828   1846      1848  SAG  G   RBR  2695      220                   

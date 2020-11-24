@@ -1,0 +1,43 @@
+:Product: 20120127events.txt
+:Created: 2012 Jan 30 0332 UT
+:Date: 2012 01 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jan 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8430       0111   0124      0132  G15  5   XRA  1-8A      C1.7    1.6E-03       
+
+8440       0143   ////      0143  LEA  C   RSP  025-100   III/1                 
+
+8450       0401   0410      0426  G15  5   XRA  1-8A      C2.1    2.6E-03       
+
+8460       0624   0642      0653  G15  5   XRA  1-8A      C5.5    6.6E-03   1402
+8460       0633   0635      0643  LEA  3   FLA  N31W74    SF                1402
+
+8470       1158   1206      1216  G15  5   XRA  1-8A      C1.4    1.1E-03       
+
+8480       1302   1305      1309  G15  5   XRA  1-8A      C1.0    2.8E-04       
+8480 +     1303   1303      1303  SVI  G   RBR  410       160                   
+8480 +     1303   1304      1304  SVI  G   RBR  245       560                   
+8480 +     1304   ////      1304  SVI  C   RSP  075-180   III/1                 
+
+8490       1737   1837      1856  G15  5   XRA  1-8A      X1.7    3.2E-01   1402
+8490 +     1808   1824      1854  SAG  G   RBR  2695      810               1402
+8490 +     1808   1811      1849  SAG  G   RBR  1415      680               1402
+8490 +     1809   1824      1913  SAG  G   RBR  4995      980               1402
+8490 +     1809   1813      1820  SAG  G   RBR  410       200               1402
+8490 +     1809   1810      1817  SAG  G   RBR  610       310               1402
+8490 +     1810   1815      1850  PAL  G   RBR  8800      810               1402
+8490 +     1810   ////      1825  SAG  C   RSP  025-180   II/3    1523      1402
+8490 +     1810   1819      1823  SAG  G   RBR  245       1100              1402
+8490       1810   1816      1914  SAG  U   RBR  15400     300               1402
+8490       1813   1851      1913  HOL  3   FLA  N27W71    1F      LPS       1402
+8490 +     1814   ////      1844  SAG  C   RSP  025-180   IV/2              1402
+
+8500       1846   ////      1952  HOL  3   LPS  ////      0.03    B.9A      1402

@@ -1,0 +1,47 @@
+:Product: 20120212events.txt
+:Created: 2012 Feb 15 0332 UT
+:Date: 2012 02 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Feb 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9650       0000   ////      0358  LEA  C   RSP  032-180   CTM/1                 
+
+9530       0137   0137      0137  LEA  G   RBR  245       170                   
+
+9540       0442   0446      0451  G15  5   XRA  1-8A      C1.3    4.6E-04   1419
+
+9550       0653   0701      0705  G15  5   XRA  1-8A      C1.6    6.6E-04   1419
+
+9560       0732   0738      0746  G15  5   XRA  1-8A      B9.7    5.4E-04   1419
+
+9570 +     0845   ////      1607  SVI  C   RSP  075-180   CTM/1                 
+
+9580       1103   1106      1108  G15  5   XRA  1-8A      B5.2    8.3E-05       
+
+9620       1222   ////      1705  SAG  C   RSP  107-180   CTM/1                 
+
+9590       1408   1408      1408  SAG  G   RBR  245       100                   
+
+9600       1437   1443      1446  G15  5   XRA  1-8A      C3.9    1.2E-03   1419
+9600 +     1439   ////      1441  SVI  C   RSP  040-082   III/1                 
+
+9610 +     1618   1622      1624  G15  5   XRA  1-8A      B5.5    1.2E-04   1418
+
+9630 +     1851   1855      1858  G15  5   XRA  1-8A      B4.8    1.2E-04   1419
+
+9640 +     1918   ////      1919  SAG  C   RSP  025-036   III/2                 
+
+9660       2152   2155      2157  G15  5   XRA  1-8A      B5.1    7.7E-05       
+
+9670 +     2239   ////      2359  LEA  C   RSP  070-174   CTM/1                 
+9670       2302   2310      2313  G15  5   XRA  1-8A      B3.4    1.7E-04       
+
+9680       2342   2346      2349  G15  5   XRA  1-8A      B4.5    1.2E-04   1419
+9680       2346   2346      2349  LEA  1   FLA  N27E70    SF                1419

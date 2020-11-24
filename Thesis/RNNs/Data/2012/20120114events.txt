@@ -1,0 +1,33 @@
+:Product: 20120114events.txt
+:Created: 2012 Jan 17 0332 UT
+:Date: 2012 01 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jan 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6550 +     0314   ////      0315  LEA  C   RSP  025-180   III/1                 
+6550 +     0314   0315      0315  LEA  G   RBR  245       160                   
+
+6560 +     0319   0335      0403  G15  5   XRA  1-8A      C2.1    4.6E-03   1396
+6560       0325   0331     A0405  LEA  2   FLA  N18E24    SF      ERU       1396
+6560 +     0339   0344      0347  LEA  G   RBR  610       330               1396
+
+6570 +     1200   1209      1220  G15  5   XRA  1-8A      C4.1    3.9E-03   1401
+
+6580 +     1314   1318      1320  G15  5   XRA  1-8A      M1.4    3.0E-03   1401
+
+6590 +     1835   1840      1843  G15  5   XRA  1-8A      C2.8    8.2E-04   1401
+
+6600       2003   ////      2045  HOL  3   EPL  ////      0.16    B.6A          
+6600 +     2038   ////      2039  PAL  C   RSP  040-180   III/1                 
+6600 +     2038   2038      2039  PAL  G   RBR  245       120                   
+
+6610 +     2141   2154      2210  G15  5   XRA  1-8A      C2.1    3.0E-03   1401
+
+6620 +     2321   2325      2330  G15  5   XRA  1-8A      C1.1    4.6E-04   1401

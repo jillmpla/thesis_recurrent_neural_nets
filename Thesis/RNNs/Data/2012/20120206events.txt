@@ -1,0 +1,42 @@
+:Product: 20120206events.txt
+:Created: 2012 Feb 09 0332 UT
+:Date: 2012 02 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Feb 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8800 +     0111   0111      0111  PAL  G   RBR  245       160                   
+
+8820       0312   0313      0315  LEA  3   FLA  N18W59    SF                1410
+
+8830 +     0723   0733      0746  G15  5   XRA  1-8A      B9.3    1.0E-03   1410
+
+8840       1120   1123      1130  G15  5   XRA  1-8A      B3.9    1.7E-04       
+
+8850       1310   1314      1319  G15  5   XRA  1-8A      B6.8    2.5E-04       
+
+8860       1359   ////      1359  SAG  C   RSP  047-180   III/1                 
+8860 +     1359   1359      1359  SAG  G   RBR  245       120                   
+
+8870       1442   1447      1452  G15  5   XRA  1-8A      B7.9    3.2E-04   1410
+8870       1445   1455      1502  HOL  3   FLA  N20W57    SF      DSD       1410
+
+8880       1515   1518      1521  G15  5   XRA  1-8A      B5.2    1.1E-04       
+
+8890       1618   1623      1626  G15  5   XRA  1-8A      B6.2    2.0E-04       
+
+8900       1649   1654      1712  G15  5   XRA  1-8A      B6.6    7.3E-04       
+
+8910       1720   1727      1737  G15  5   XRA  1-8A      C1.2    9.6E-04   1410
+8910       1724   1724      1729  HOL  3   FLA  N20W58    SF      ERU       1410
+
+8920       1815   ////      1815  SAG  C   RSP  101-180   III/1                 
+
+8930       1931   2000      2017  G15  5   XRA  1-8A      M1.0    1.9E-02   1410
+8930       1938   1959     A2007  HOL  3   FLA  N19W60    SF      ERU       1410

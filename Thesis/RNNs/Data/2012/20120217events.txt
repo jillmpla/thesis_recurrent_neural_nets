@@ -1,0 +1,16 @@
+:Product: 20120217events.txt
+:Created: 2012 Feb 20 0332 UT
+:Date: 2012 02 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Feb 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9860       0350   ////      0358  LEA  C   RSP  025-180   III/1                 
+
+9870 +     0909   ////      0915  SVI  C   RSP  025-119   III/1                 

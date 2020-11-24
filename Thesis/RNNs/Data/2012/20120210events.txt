@@ -1,0 +1,46 @@
+:Product: 20120210events.txt
+:Created: 2012 Feb 13 0332 UT
+:Date: 2012 02 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Feb 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9150       0006   0027      0047  G15  5   XRA  1-8A      B7.7    1.5E-03   1416
+9150       0023   0024      0033  LEA  3   FLA  S19E25    SF      BPT       1416
+
+9160       0124   0124      0124  LEA  G   RBR  245       160                   
+
+9170 +     0434   0435      0437  G15  5   XRA  1-8A      B8.8    1.5E-04   1416
+
+9180       0810   0813      0815  G15  5   XRA  1-8A      B3.2    1.1E-04       
+
+9190       1205   1212      1219  G15  5   XRA  1-8A      C1.0    6.3E-04   1415
+
+9200 +     1520   1536      1600  G15  5   XRA  1-8A      C1.1    2.2E-03   1415
+9200       1552   ////      1641  SAG  C   RSP  025-180   VI/1              1415
+
+9220       1827   1831      1833  G15  5   XRA  1-8A      B9.9    2.0E-04   1416
+9220       1830   1832      1835  HOL  3   FLA  S18E15    SF      ERU       1416
+
+9260 +     1843   ////      1928  HOL  4   DSF  N28E10    22                    
+
+9230       1853   1853      1853  SAG  G   RBR  245       100                   
+
+9240       2053   2053      2053  PAL  G   RBR  245       130                   
+
+9250       2055   2104      2119  G15  5   XRA  1-8A      B8.6    1.1E-03       
+
+9270       2259   ////      2259  LEA  C   RSP  025-110   III/1                 
+
+9280       2321   2326      2330  G15  5   XRA  1-8A      B8.4    3.0E-04   1416
+9280       2326   2326      2330  LEA  3   FLA  S19E12    SF                1416
+
+9290       2348   2352      2354  G15  5   XRA  1-8A      B7.5    1.6E-04   1416
+9290       2351   2351      2351  PAL  G   RBR  245       110               1416
+9290       2352   2352      2354  HOL  3   FLA  S19E12    SF                1416

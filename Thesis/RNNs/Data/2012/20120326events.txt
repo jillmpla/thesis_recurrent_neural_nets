@@ -1,0 +1,58 @@
+:Product: 20120326events.txt
+:Created: 2012 Mar 29 0332 UT
+:Date: 2012 03 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Mar 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4250       0249   ////      0249  CUL  C   RSP  020-060   III/1                 
+
+4240       0250   0255      0258  G15  5   XRA  1-8A      B5.1    1.6E-04   1438
+4240       0253   0255      0301  LEA  3   FLA  S14E01    SF                1438
+
+4350       0556   ////      0556  CUL  C   RSP  023-060   III/1                 
+
+4260 +     0607   ////      0634  LEA  C   RSP  025-180   VI/2              1442
+4260       0623   0642      0714  G15  5   XRA  1-8A      C1.4    3.4E-03   1442
+
+4330 +     0625   0640      0707  LEA  3   FLA  N19E05    1F      ERU       1444
+
+4260 +     0640   0640      0643  LEA  3   FLA  N12E11    SF                1442
+
+4270       0929   ////      0930  SVI  U   RSP  028-047   III/1                 
+
+4280 +     1117   1137      1141  G15  5   XRA  1-8A      B4.0    4.6E-04   1446
+
+4460      A1243   ////     A0552  SVI  3   DSF  N29E69    12                    
+
+4470      A1243   ////     A0552  SVI  3   DSF  S18E78    17                    
+
+4290 +     1317   1320      1322  G15  5   XRA  1-8A      B4.0    6.6E-05   1446
+
+4300 +     1431   ////      1431  SVI  C   RSP  028-081   III/1                 
+
+4310       1530   1535      1538  G15  5   XRA  1-8A      B4.3    1.4E-04   1442
+4310       1532   1536      1553  HOL  3   FLA  N12E07    SF      DSD       1442
+
+4320       1643   1648      1655  G15  5   XRA  1-8A      B4.0    2.2E-04   1442
+4320       1644   1649      1656  HOL  3   FLA  N11E06    SF      DSD       1442
+
+4340       2006   2006      2009  HOL  3   FLA  N10E04    SF      ERU       1442
+
+4360       2120   ////      2120  CUL  C   RSP  023-090   III/1                 
+
+4370       2231   ////      2231  PAL  C   RSP  025-123   III/1                 
+
+4380 +     2249   ////      2307  LEA  C   RSP  025-180   II/2    407           
+4380 +     2254   ////      2257  CUL  C   RSP  018-200   III/3                 
+4380       2304   ////      2340  LEA  C   RSP  025-124   IV/2                  
+
+4390       2314   ////      2328  CUL  C   RSP  020-050   III/1                 
+
+4400 +     2332   2338      2340  G15  5   XRA  1-8A      C2.7    5.4E-04   1442

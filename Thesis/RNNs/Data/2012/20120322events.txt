@@ -1,0 +1,20 @@
+:Product: 20120322events.txt
+:Created: 2012 Mar 25 0332 UT
+:Date: 2012 03 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Mar 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3970 +     1338   ////      1339  SVI  C   RSP  025-054   III/1                 
+
+3980       1739   1750      1756  G13  3   XRA  1-8A      C1.1    1.0E-03   1440
+
+3990       1929   1929      1934  HOL  4   FLA  N19E54    SF      ERU           
+
+4000       2134   2137      2139  HOL  3   FLA  S26W35    SF      ERU       1440

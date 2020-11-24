@@ -1,0 +1,48 @@
+:Product: 20120405events.txt
+:Created: 2012 Apr 08 0332 UT
+:Date: 2012 04 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Apr 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5270       0110   ////      0110  CUL  C   RSP  020-120   III/1                 
+
+5280 +     0110   ////      0110  LEA  C   RSP  025-156   III/1                 
+
+5290       0139   ////      0140  CUL  C   RSP  020-180   III/2                 
+
+5300       0141   ////      0143  CUL  C   RSP  020-080   III/1                 
+
+5310 +     1011   1030      1049  G15  5   XRA  1-8A      B6.9    1.2E-03   1450
+
+5320 +     1318   1327      1341  G15  5   XRA  1-8A      B9.8    9.9E-04   1450
+
+5330       1351   1356      1357  HOL  3   FLA  N13W28    SF      DSD       1450
+
+5340       1616   1624      1632  G15  5   XRA  1-8A      C3.1    1.7E-03   1450
+5340       1619   1622      1641  HOL  3   FLA  N14W30    1F      ERU       1450
+5340 +     1620   ////      1622  SVI  C   RSP  075-180   III/1             1450
+5340 +     1622   1622      1623  SAG  G   RBR  410       240               1450
+
+5350       2015   2016      2018  HOL  3   FLA  N17W25    SF                1450
+
+5370       2039   ////      2057  HOL  3   DSF  N23W33    11                1450
+
+5360       2049   2110      2157  G15  5   XRA  1-8A      C1.5    5.1E-03   1450
+5360 +     2105   ////      2106  PAL  C   RSP  109-160   III/1             1450
+5360 +     2108   ////      2116  PAL  C   RSP  025-043   II/1    360       1450
+5360 +     2110   ////      2315  PAL  C   RSP  025-180   IV/1              1450
+5360 +     2111   2113      2136  HOL  3   FLA  N18W29    SF      ERU       1450
+5360       2117   2117      2117  SAG  G   RBR  245       100               1450
+5360      B2125   ////     A0506  SOH  3   CME  XUV,EUV,UV197-019/FS898       1450
+
+5380       2343   ////      2344  PAL  C   RSP  025-180   III/1                 
+5380       2343   ////      2359  LEA  C   RSP  025-180   VI/2                  
+
+5390       2350   ////      0005  G15  5   XRA  1-8A      C1.1    8.0E-04   1450

@@ -1,0 +1,52 @@
+:Product: 20120309events.txt
+:Created: 2012 Mar 12 0332 UT
+:Date: 2012 03 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Mar 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2270       0034   0037      0046  G15  5   XRA  1-8A      C1.0    6.0E-04       
+
+2280       0123   0128      0134  G15  5   XRA  1-8A      C2.0    9.3E-04       
+
+2290       0155   0200      0206  G15  5   XRA  1-8A      C4.7    1.9E-03       
+
+2300       0301   0304      0308  G15  5   XRA  1-8A      C1.2    3.3E-04       
+
+2310       0322   0353      0418  G15  5   XRA  1-8A      M6.3    1.3E-01   1429
+2310       0341   ////      0428  PAL  C   RSP  025-180   III/1                 
+2310       0342   0440      0538  LEA  G   RBR  610       4200                  
+2310       0342   0423      0529  LEA  G   RBR  410       3700                  
+2310       0343   0423      0541  LEA  G   RBR  245       6200                  
+2310 +     0343   ////      0344  PAL  U   RSP  056-180   V/2                   
+2310       0343   ////      0345  LEA  U   RSP  049-093   II/2    1285          
+2310      B0414   ////      0835  SOH  2   CME  XUV,EUV,UV292-291/FS863       1429
+
+2330       0522   ////      0938  SVI  C   RSP  025-180   IV/1                  
+
+2320      B0550  U0550     A0618  SVI  2   FLA  N15W01    SF                1429
+2320 +     0609   0613      0616  LEA  G   RBR  245       160               1429
+2320       0613   0614      0614  SVI  U   RBR  410       100               1429
+
+2340       0819   ////      0819  SVI  C   RSP  025-038   III/1                 
+
+2350       1020   1023      1026  G15  5   XRA  1-8A      C2.7    5.6E-04       
+2350       1024   ////      1638  SVI  C   RSP  075-180   CTM/1                 
+
+2360 +     1212   ////      1214  SAG  C   RSP  025-180   III/2                 
+
+2370       1602   1606      1610  G15  5   XRA  1-8A      C1.5    5.1E-04       
+
+2380 +     1612   1617      1626  G15  5   XRA  1-8A      C2.0    1.3E-03   1430
+
+2390       1800   1803      1805  G15  5   XRA  1-8A      C1.8    2.9E-04       
+
+2400 +     1959   2025      2049  G15  5   XRA  1-8A      C9.7    2.0E-02   1432
+
+2410 +     2145   2150      2156  G15  5   XRA  1-8A      C5.1    2.3E-03   1428

@@ -1,0 +1,55 @@
+:Product: 20120120events.txt
+:Created: 2012 Jan 23 0332 UT
+:Date: 2012 01 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jan 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7440 +     0000   ////      1055  LEA  C   RSP  034-180   IV/1                  
+
+7450 +     0237   ////      0237  LEA  C   RSP  025-136   III/1                 
+
+7510       0626   ////      1539  SVI  C   RSP  036-180   IV/1                  
+
+7460 +     0756   ////      0757  LEA  C   RSP  025-119   III/2                 
+
+7470       0956   ////      0957  SVI  C   RSP  028-063   III/1                 
+
+7480 +     1049   1052      1053  SVI  G   RBR  245       12000                 
+7480 +     1049   ////      1057  SVI  C   RSP  025-180   III/2                 
+7480       1050   1050      1050  SVI  U   RBR  610       220                   
+7480 +     1052   1052      1052  SVI  G   RBR  410       300                   
+
+7490       1123   ////      1124  SVI  C   RSP  028-083   III/1                 
+
+7580       1302   ////      1840  SAG  C   RSP  103-180   IV/1                  
+
+7520       1303   ////      1303  SVI  C   RSP  028-054   III/1                 
+
+7530 +     1310   ////      1341  SVI  C   RSP  025-126   VI/2                  
+
+7540 +     1426   ////      1426  SAG  C   RSP  025-139   III/1                 
+
+7550 +     1454   ////      1454  SVI  C   RSP  028-083   III/1                 
+
+7560       1458   1501      1504  G15  5   XRA  1-8A      B9.1    2.0E-04       
+
+7570       1546   ////      1547  SAG  C   RSP  025-034   III/1                 
+
+7590       1748   ////      1840  PAL  C   RSP  079-180   IV/1                  
+7590 +     1840   ////      2059  PAL  C   RSP  083-180   CTM/1                 
+
+7600       2041   ////      2046  PAL  C   RSP  025-047   III/1                 
+
+7610 +     2101   2112      2122  G15  5   XRA  1-8A      C1.3    1.3E-03   1396
+7610       2104   ////      2106  PAL  C   RSP  025-140   III/2             1396
+7610       2116   ////      2120  PAL  C   RSP  030-086   II/1    945       1396
+
+7620       2148   2333      0036  G15  5   XRA  1-8A      C1.4    1.3E-02       
+7620 +     2214   ////      2326  LEA  C   RSP  062-180   IV/1                  

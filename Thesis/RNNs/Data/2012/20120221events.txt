@@ -1,0 +1,22 @@
+:Product: 20120221events.txt
+:Created: 2012 Feb 24 0332 UT
+:Date: 2012 02 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Feb 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  30      B0735   ////     B0918  LEA  3   EPL  ////      0.15                  
+
+  40       1142   1148      1155  G15  5   XRA  1-8A      C1.0    6.2E-04   1422
+
+  70       1828   ////      1828  SAG  C   RSP  025-180   III/1                 
+
+  50 +     1932   1937      1941  G15  5   XRA  1-8A      B5.0    1.9E-04   1422
+
+  60 +     2037   2041      2045  G15  5   XRA  1-8A      B4.5    1.5E-04   1422

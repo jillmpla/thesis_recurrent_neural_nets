@@ -1,0 +1,78 @@
+:Product: 20120304events.txt
+:Created: 2012 Mar 07 0332 UT
+:Date: 2012 03 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Mar 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 820       0030   0034      0037  G15  5   XRA  1-8A      B7.0    1.9E-04       
+
+ 830 +     0140   0145      0148  G15  5   XRA  1-8A      C1.4    4.3E-04   1429
+
+ 840 +     0205   0210      0213  G15  5   XRA  1-8A      B7.2    2.3E-04   1429
+
+ 850 +     0328   0333      0338  G15  5   XRA  1-8A      C2.8    1.1E-03   1429
+
+ 860       0539   ////      0540  LEA  C   RSP  025-066   III/1                 
+
+ 890       0556   0627      0638  SVI  G   RNS  245       190                   
+
+ 880       0601   ////      0723  SVI  C   RSP  075-180   CTM/1                 
+
+ 870 +     0644   0651      0659  G15  5   XRA  1-8A      C1.3    9.4E-04   1429
+
+ 900       1029   1052      1216  G15  5   XRA  1-8A      M2.0    9.2E-02   1429
+ 900       1032  U1110     A1324  SVI  3   FLA  N19E61    1N      ERU       1429
+ 900 +     1035   1111      1236  SVI  G   RBR  2695      2500    CastelliU 1429
+ 900 +     1035   1116      1225  SVI  G   RBR  1415      34000   CastelliU 1429
+ 900 +     1035   1119      1206  SVI  G   RBR  410       8800    CastelliU 1429
+ 900 +     1036   1111      1229  SVI  G   RBR  4995      1800    CastelliU 1429
+ 900 +     1037   1111      1218  SVI  G   RBR  8800      1200    CastelliU 1429
+ 900 +     1038   1119      1204  SVI  G   RBR  245       1400    CastelliU 1429
+ 900       1039   1112      1205  SVI  G   RBR  15400     670     CastelliU 1429
+ 900       1040   ////      1200  SVI  C   RSP  025-180   IV/2              1429
+ 900      B1100   ////     A1542  SOH  4   CME  XUV,EUV,UV052-050/FS1362      1429
+ 900 +     1125   1129      1205  SAG  G   RBR  610       4200              1429
+
+ 910      U1130  U1134      1249  SAG  G   RBR  15400     300                   
+
+ 920       1537   1537      1543  HOL  3   FLA  N19E44    SF      DSD           
+
+ 930       1602   1603      1615  HOL  3   FLA  N19E44    SF      DSD           
+
+ 940       1632   1634      1701  HOL  3   FLA  N19E44    SF      DSD       1429
+
+ 990       1635   1638      1640  HOL  3   FLA  N15E60    SF      ERU       1429
+
+ 940       1644   1644      1644  SAG  G   RBR  245       100               1429
+
+ 950       1717   1718      1723  HOL  3   FLA  N19E44    SF                    
+
+ 960       1724   1731      1735  G15  5   XRA  1-8A      C3.2    1.4E-03   1427
+ 960       1726   1729      1748  HOL  3   FLA  N14W39    SF                1427
+
+ 970       1949   1949      1952  HOL  3   FLA  N16E58    SF                1429
+
+ 980       2029   2032      2042  HOL  3   FLA  N18E41    SF                1430
+
+1020       2052   ////      2137  PAL  C   RSP  025-085   CTM/1                 
+
+1000       2106   2110      2112  HOL  3   FLA  N16E57    SF      DSD       1429
+
+1010       2128   2128      2132  HOL  3   FLA  N16E57    SF                1429
+
+1030       2155   2156      2201  HOL  3   FLA  N15E55    SF      ERU       1429
+
+1040       2310   2311      2327  LEA  3   FLA  N17E56    SF                1429
+
+1050 +     2340   ////      2340  LEA  C   RSP  025-076   III/2                 
+
+1060 +     2344   2345      2350  HOL  3   FLA  N16E56    SF      ERU       1429
+
+1080 +     2346   2347      2354  HOL  3   FLA  N18E39    SF                1430

@@ -1,0 +1,48 @@
+:Product: 20120113events.txt
+:Created: 2012 Jan 16 0332 UT
+:Date: 2012 01 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jan 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6400       0207   0207      0207  LEA  G   RBR  410       140                   
+
+6410       0453   ////      0454  LEA  C   RSP  025-108   III/1                 
+
+6420       0601   0605      0608  G15  5   XRA  1-8A      C2.2    5.6E-04   1391
+6420       0604   0604      0611  LEA  3   FLA  N11W57    SF                1391
+
+6430       0907   ////      0909  SVI  C   RSP  025-098   III/2                 
+6430       0907   ////      0908  LEA  U   RSP  025-104   V/2                   
+
+6440       0919   0923      0926  G15  5   XRA  1-8A      B8.2    2.2E-04       
+6440       0922   ////      0922  SVI  C   RSP  075-180   III/1                 
+6440 +     0922   0922      0922  SVI  G   RBR  245       580                   
+
+6450       1055   ////      1058  SVI  C   RSP  025-180   III/2                 
+6450       1056   1056      1056  SVI  G   RBR  245       150                   
+
+6460       1059   ////      1102  SVI  C   RSP  025-180   III/2                 
+6460       1100   1100      1100  SVI  G   RBR  245       210                   
+
+6470       1530   ////      1530  SAG  C   RSP  025-037   III/1                 
+
+6480       1624   1624      1624  SAG  G   RBR  245       100                   
+
+6490       1654   1658      1720  HOL  3   FLA  N24E24    SF      ERU       1396
+
+6500 +     1747   ////      1748  SAG  C   RSP  025-180   III/1                 
+
+6510 +     2339   2339      2339  PAL  G   RBR  245       180                   
+6510       2339   2339      2339  PAL  G   RBR  410       170                   
+6510 +     2339   ////      2339  LEA  C   RSP  057-180   III/1                 
+
+6520       2340   2340      2340  LEA  G   RBR  410       160                   
+
+6530       2357   ////      2357  PAL  C   RSP  075-146   III/1                 

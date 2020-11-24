@@ -1,0 +1,37 @@
+:Product: 20120308events.txt
+:Created: 2012 Mar 11 0332 UT
+:Date: 2012 03 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Mar 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2170       0000   ////      0304  PAL  C   RSP  075-180   IV/1                  
+
+2150 +     0034   ////      0035  LEA  C   RSP  025-104   III/2                 
+
+2160       0249   0253      0256  G15  5   XRA  1-8A      C7.2    1.5E-03   1428
+2160       0252   0253      0301  LEA  3   FLA  S18W03    SF                1428
+
+2180       0356   0358      0400  LEA  3   FLA  N17E11    SF                1429
+
+2190       0703   0705      0713  LEA  3   FLA  N16E12    SF      ERU       1429
+
+2210       0713   0721      0733  LEA  3   FLA  N16E12    SF      ERU       1429
+
+2200       1019   1023      1026  G15  5   XRA  1-8A      C1.7    4.0E-04       
+
+2220       1052   ////      1352  SVI  C   RSP  075-180   CTM/1                 
+
+2260       1617   1623      1627  G15  5   XRA  1-8A      C1.1    6.7E-04   1429
+
+2230       1928   1931      1934  G15  5   XRA  1-8A      C2.0    4.2E-04       
+
+2240       1958   2022      2033  G15  5   XRA  1-8A      C1.7    2.2E-03       
+
+2250       2322   2327      2331  G15  5   XRA  1-8A      C1.4    4.9E-04       

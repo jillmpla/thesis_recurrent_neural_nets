@@ -1,0 +1,25 @@
+:Product: 20120228events.txt
+:Created: 2012 Mar 02 0332 UT
+:Date: 2012 02 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Feb 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 300       0006   0019      0032  G15  5   XRA  1-8A      B6.6    7.8E-04       
+ 300 +     0008   ////      0012  PAL  C   RSP  025-180   III/1                 
+
+ 310       0123   ////      0124  LEA  C   RSP  025-075   III/1                 
+
+ 320       0757   0807      0814  G15  5   XRA  1-8A      B6.7    4.6E-04       
+
+ 370      A1309   ////     A0703  SVI  3   DSF  N24E59    11                    
+
+ 330 +     1315   ////      1317  SVI  C   RSP  025-038   III/1                 
+
+ 340       2344   ////      2344  LEA  U   RSP  025-059   III/1                 

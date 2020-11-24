@@ -1,0 +1,86 @@
+:Product: 20120112events.txt
+:Created: 2012 Jan 15 0332 UT
+:Date: 2012 01 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jan 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6050 +     0026   ////      0026  LEA  C   RSP  025-180   III/1                 
+6050 +     0026   0026      0026  LEA  G   RBR  245       140                   
+
+6070       0049   0058      0106  G15  5   XRA  1-8A      C1.5    1.0E-03   1395
+6070 +     0050   ////      0053  LEA  C   RSP  025-180   V/2               1395
+6070       0051   0121      0137  LEA  3   FLA  N19E19    SF      LPS       1395
+6070 +     0055   ////      0128  LEA  C   RSP  025-180   VI/1              1395
+6070 +     0057   0057      0057  LEA  G   RBR  245       100               1395
+6070       0105   ////      0131  LEA  3   LPS  ////      0.05              1395
+
+6080       0212   0220      0228  G15  5   XRA  1-8A      B8.9    6.9E-04   1393
+6080 +     0225   0226      0226  PAL  G   RBR  245       180                   
+
+6090 +     0233   0233      0233  PAL  G   RBR  245       210                   
+
+6110 +     0240   0240      0241  LEA  G   RBR  245       230                   
+
+6120       0248   0248      0249  PAL  G   RBR  245       170                   
+
+6130       0255   0256      0257  PAL  G   RBR  245       340                   
+
+6140       0305   0305      0305  PAL  G   RBR  245       100                   
+
+6150       0310   0310      0311  PAL  G   RBR  245       180                   
+
+6160       0314   0316      0316  PAL  G   RBR  245       150                   
+
+6170       0318   0318      0320  PAL  G   RBR  245       130                   
+
+6180       0333   0333      0333  PAL  G   RBR  245       160                   
+
+6190       0336   0339      0341  PAL  G   RBR  245       220                   
+
+6200       0349   0349      0349  PAL  G   RBR  245       200                   
+
+6210       0352   0352      0352  PAL  G   RBR  245       160                   
+
+6220 +     0419   0423      0427  G15  5   XRA  1-8A      B9.0    3.0E-04   1393
+
+6230       0446   ////      0504  LEA  C   RSP  025-135   VI/1                  
+
+6240 +     0554   0554      0630  LEA  G   RNS  245       160                   
+
+6250       0732   0732      0732  SVI  G   RBR  245       100                   
+
+6260       0754   1001      1216  G15  5   XRA  1-8A      C2.5    3.2E-02       
+6260 +     0816   ////      0846  LEA  C   RSP  025-180   VI/1                  
+6260       0822   ////      0908  SVI  C   RSP  113-180   CTM/1                 
+
+6390      A0914   ////     A2303  LEA  3   DSF  S37E61    9                     
+
+6270       1103   1103      1103  SVI  G   RBR  245       200                   
+
+6280       1113   ////      1116  SVI  C   RSP  075-180   III/1                 
+
+6290       1311   1323      1333  G15  5   XRA  1-8A      C3.3    3.5E-03   1393
+
+6300 +     1402   ////      1402  SAG  C   RSP  102-180   III/1                 
+
+6310       1702   1702      1703  SAG  G   RBR  245       1100                  
+6310       1702   ////      1703  SAG  C   RSP  073-180   III/2                 
+
+6320       1758   ////      1758  SAG  C   RSP  025-089   III/1                 
+
+6330 +     1803   1803      1803  SAG  G   RBR  245       270                   
+
+6340 +     1927   ////      1929  PAL  C   RSP  025-180   III/2                 
+
+6360 +     2040   ////      2041  PAL  C   RSP  025-180   III/1                 
+
+6370 +     2239   2239      2239  PAL  G   RBR  610       150                   
+
+6540      A2306   ////     A1457  HOL  3   DSF  N17E48    18                    

@@ -1,0 +1,32 @@
+:Product: 20120125events.txt
+:Created: 2012 Jan 28 0332 UT
+:Date: 2012 01 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jan 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8200       0333   0333      0333  LEA  G   RBR  245       320                   
+
+8210       0541   0541      0541  LEA  G   RBR  410       110                   
+
+8220       0600   0600      0600  LEA  G   RBR  245       130                   
+
+8230       0644   0644      0644  SVI  G   RBR  245       110                   
+
+8240       0805   0805      0805  SVI  G   RBR  245       110                   
+
+8250       0820   0820      0820  LEA  G   RBR  245       140                   
+
+8260       1036   ////      1250  SVI  C   RSP  112-180   CTM/1                 
+
+8270       1859   1859      1908  HOL  3   FLA  N32W54    SF                1402
+
+8280       1930   1930      1930  SAG  G   RBR  245       120                   
+
+8290 +     2351   2351      2351  PAL  G   RBR  245       190                   

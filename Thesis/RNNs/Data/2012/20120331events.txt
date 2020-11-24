@@ -1,0 +1,26 @@
+:Product: 20120331events.txt
+:Created: 2012 Apr 03 0332 UT
+:Date: 2012 03 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Mar 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4860       0811   ////      0811  SVI  C   RSP  025-053   III/1                 
+
+4870 +     1042   ////      1043  SVI  C   RSP  025-094   III/2                 
+
+4880       1403   1403      1403  SAG  G   RBR  245       150                   
+
+4890 +     1441   ////      1450  SVI  C   RSP  025-122   III/1                 
+
+4900       1838   1838      1838  SAG  G   RBR  245       100                   
+
+4910 +     2101   2109      2120  G15  5   XRA  1-8A      B8.9    7.6E-04   1444
+4910       2103   2107      2126  HOL  3   FLA  N23W64    SF      ERU       1444
+4910 +     2105   ////      2107  SAG  C   RSP  025-067   III/1             1444
