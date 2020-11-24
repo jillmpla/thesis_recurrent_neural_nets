@@ -1,0 +1,63 @@
+:Product: 20130903events.txt
+:Created: 2013 Sep 06 0332 UT
+:Date: 2013 09 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Sep 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2560       0256   0301      0306  G15  5   XRA  1-8A      B5.9    2.2E-04   1836
+2560       0259   0301      0303  LEA  3   FLA  N13W14    SF      ERU       1836
+
+2580 +     0351   0351      0352  LEA  G   RBR  410       110                   
+2580 +     0352   ////      0401  CUL  C   RSP  018-400   III/1                 
+2580 +     0356   0356      0356  LEA  G   RBR  245       100                   
+
+2590 +     0600   ////      0601  LEA  C   RSP  029-108   III/1                 
+
+2600       0637   0637      0641  SVI  3   FLA  S17W21    SF                1837
+
+2610 +     0852   ////      0853  LEA  C   RSP  043-180   III/1                 
+2610 +     0853   0853      0853  SVI  G   RBR  245       210                   
+2610       0853   0853      0853  SVI  G   RBR  410       130                   
+
+2620       0936   0937     A0939  SVI  3   FLA  N10W55    SF                1834
+
+2630       0945   0945      0952  SVI  3   FLA  S17W23    SF                1837
+
+2640       1043   1052      1058  G15  5   XRA  1-8A      B6.6    4.6E-04   1834
+
+2650       1211   1225      1226  SVI  3   FLA  S17W24    SF                1837
+
+2660 +     1404  U1427      1437  SVI  3   FLA  N10W57    SF                1834
+2660       1414   1421      1430  G15  5   XRA  1-8A      B8.8    6.6E-04   1834
+
+2670       1445   ////      1449  SVI  C   RSP  055-170   III/1                 
+2670       1446   1448      1448  SVI  G   RBR  245       220                   
+
+2680       1456   1500      1507  SVI  3   FLA  S18W26    SF                1837
+2680       1504   ////      1505  SVI  C   RSP  051-171   III/1             1837
+2680       1504   ////      1516  SAG  C   RSP  025-180   VI/1              1837
+2680       1504   1504      1504  SVI  G   RBR  245       130               1837
+
+2690       1515   ////      1516  SVI  C   RSP  025-079   III/1                 
+
+2700       1609   1609      1611  SVI  3   FLA  N09W59    SF      ERU       1834
+
+2720       1726   1751      1811  G15  5   XRA  1-8A      C1.3    1.5E-03   1834
+2720       1738   1747      1749  HOL  3   FLA  N12W59    SF      ERU       1834
+
+2730       2130   2133      2139  G15  5   XRA  1-8A      B6.9    2.6E-04   1837
+2730       2132   2136      2141  HOL  3   FLA  S17W30    SF      ERU       1837
+
+2740       2245   2301      2306  HOL  3   FLA  N11W64    SF      ERU       1834
+
+2750       2318   2322      2327  G15  5   XRA  1-8A      B7.4    2.8E-04   1837
+2750       2320   2320      2324  HOL  3   FLA  S17W30    SF      ERU       1837
+
+2760       2357   0003      0007  G15  5   XRA  1-8A      B8.5    3.5E-04   1837

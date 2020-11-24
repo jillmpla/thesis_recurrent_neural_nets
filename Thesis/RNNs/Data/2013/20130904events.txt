@@ -1,0 +1,89 @@
+:Product: 20130904events.txt
+:Created: 2013 Sep 07 0332 UT
+:Date: 2013 09 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Sep 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2760       0000   0002      0004  HOL  3   FLA  S17W31    SF      ERU       1837
+
+2770       0037   0048      0057  G15  5   XRA  1-8A      B6.5    6.4E-04   1837
+
+2780       0244   0251      0259  G15  5   XRA  1-8A      C1.1    7.3E-04   1837
+
+2790       0413   0428      0431  G15  5   XRA  1-8A      C3.6    1.6E-03   1837
+2790       0427   0431      0445  LEA  3   FLA  S16W36    SF                1837
+
+2800       0534   0539      0747  SVI  3   FLA  S19W35    SF      ERU       1837
+2800       0535   0540      0549  G15  5   XRA  1-8A      C2.9    1.6E-03   1837
+
+2840       0613   0616      0620  G15  5   XRA  1-8A      C1.2    5.2E-04       
+
+2810      B0629  U0632     A0650  LEA  1   FLA  S16W37    SF                1837
+
+2830 +     0719   0723      0727  G15  5   XRA  1-8A      C1.1    5.9E-04   1837
+2830       0721   0726      0727  LEA  3   FLA  S16W38    SF                1837
+
+2850       0728   0733      0737  G15  5   XRA  1-8A      C1.2    7.2E-04   1837
+2850       0732   0732      0736  LEA  3   FLA  S16W38    SF                1837
+
+2880       0817   0821      0826  G15  5   XRA  1-8A      B9.2    3.5E-04   1837
+2880 +     0818   0839      0903  SVI  3   FLA  S18W37    SF                1837
+
+2890       0836   0841      0902  G15  5   XRA  1-8A      C2.6    3.7E-04   1837
+2890       0837   0839      0857  LEA  3   FLA  S16W38    SF      DSD       1837
+
+2900       0904   0906      0916  SVI  3   FLA  S18W36    SF                1837
+2900       0911   ////      0913  SVI  U   RSP  030-075   III/1             1837
+
+2910       0930   0930      0932  SVI  3   FLA  S18W37    SF                1837
+
+2920       0959   1018      1038  SVI  3   FLA  S18W36    SF                1837
+2920       1013   1017      1022  G15  5   XRA  1-8A      B8.9    3.5E-04   1837
+
+2930       1041   1044      1049  SVI  3   FLA  S18W37    SF                1837
+
+2940       1108   ////      1108  SVI  C   RSP  051-161   III/1                 
+
+2950       1132   1133      1137  SVI  3   FLA  S18W38    SF                1837
+
+2960       1144   1149      1153  G15  5   XRA  1-8A      B9.4    3.6E-04   1837
+
+3090      B1145  U1148     A1203  SVI  3   FLA  N12W30    SF                1836
+
+2960      B1145  U1145     A1150  SVI  3   FLA  S18W38    SF                1837
+
+2970       1208   1214      1239  SVI  3   FLA  S18W38    SF                1837
+
+2980       1211   ////      1212  SAG  C   RSP  025-075   III/1                 
+
+2970       1212   1215      1218  G15  5   XRA  1-8A      B7.3    1.6E-04   1837
+
+2990 +     1219   ////      1303  SAG  C   RSP  025-180   VI/1                  
+
+3000       1345   ////      1345  SAG  C   RSP  099-180   III/1                 
+3000       1345   ////      1404  SVI  C   RSP  054-146   VI/1                  
+
+3010       1404   ////      1404  SAG  C   RSP  101-180   III/1                 
+
+3020       1445   1447      1448  SAG  G   RBR  2695      100                   
+
+3030       1506   1517      1522  G15  5   XRA  1-8A      B7.8    5.6E-04   1836
+3030 +     1508   1511      1514  SVI  3   FLA  N12W33    SF                1836
+
+3040 +     1600   1600      1600  SVI  G   RBR  410       280                   
+3040 +     1600   1600      1600  SAG  G   RBR  245       320                   
+3040       1600   ////      1601  SVI  C   RSP  049-161   III/1                 
+
+3050       2021   2025      2029  HOL  3   FLA  N12W36    SF      ERU       1836
+
+3060       2131   2135      2139  G15  5   XRA  1-8A      C1.3    3.7E-04   1836
+3060       2134   2136      2141  HOL  3   FLA  N13W36    SF      ERU       1836
+
+3070       2302   2302      2302  PAL  G   RBR  245       260                   

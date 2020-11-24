@@ -1,0 +1,20 @@
+:Product: 20130911events.txt
+:Created: 2013 Sep 14 0332 UT
+:Date: 2013 09 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Sep 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3550 +     0328   ////      0328  CUL  C   RSP  018-057   III/1                 
+
+3560       0608   ////      0609  LEA  C   RSP  025-077   III/1                 
+
+3570       0810   ////      0910  SVI  3   EPL  ////      0.27    B.9A          
+
+3580      A1628   ////     A0629  SVI  3   DSF  N07E08    10                    

@@ -1,0 +1,26 @@
+:Product: 20130929events.txt
+:Created: 2013 Oct 02 0332 UT
+:Date: 2013 09 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Sep 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5510       0039   0127      0203  G15  5   XRA  1-8A      C1.6    6.0E-03   1853
+
+5530       0225   ////      0437  LEA  2   LPS  ////      0.07    B.9A      1850
+
+5540       0511   0525      0542  G15  5   XRA  1-8A      C1.6    2.3E-03   1850
+5540       0522   0522      0533  LEA  3   FLA  N09W44    SF                1850
+
+5550       0743   ////      0744  LEA  C   RSP  025-087   III/1                 
+5550       0743   ////      0805  SVI  C   RSP  027-081   VI/1                  
+
+5580       2143   2339      0103  G15  5   XRA  1-8A      C1.2    1.1E-02       
+
+5570       2207   2207      2207  PAL  G   RBR  245       100                   

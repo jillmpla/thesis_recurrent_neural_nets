@@ -1,0 +1,18 @@
+:Product: 20130915events.txt
+:Created: 2013 Sep 18 0332 UT
+:Date: 2013 09 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Sep 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3720 +     0615   ////      0616  SVI  U   RSP  025-078   III/1                 
+
+3730      A0921   ////     A2318  LEA  3   DSF  N21W34    21                    
+
+3760      A1441   ////     A0648  SVI  3   DSF  S15W65    14                    

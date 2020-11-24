@@ -1,0 +1,87 @@
+:Product: 20131011events.txt
+:Created: 2013 Oct 14 0332 UT
+:Date: 2013 10 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Oct 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6760 +     0000   ////      0031  LEA  C   RSP  058-080   CTM/1             1861
+6760       0002   0009      0026  LEA  3   FLA  S10E22    SF      ERU       1861
+6760 +     0022   ////      0022  CUL  C   RSP  018-200   III/2             1861
+
+6770 +     0115   0115      0116  LEA  G   RBR  245       160                   
+6770 +     0116   ////      0116  CUL  C   RSP  030-270   III/1                 
+
+6780       0321   0327      0336  G15  5   XRA  1-8A      C1.7    1.2E-03   1861
+
+6790       0359   0410      0419  G15  5   XRA  1-8A      C5.5    4.1E-03   1861
+6790       0404   0406      0425  LEA  3   FLA  S10E20    SF      ERU       1861
+
+6800       0544   0549      0554  G15  5   XRA  1-8A      C1.4    6.6E-04   1861
+6800      B0556  U0709     A0747  SVI  3   FLA  S08E20    2F      ERU       1861
+
+6820       0701   0725      0745  G15  5   XRA  1-8A      M1.5    2.5E-02       
+
+6810      B0708  U0721     A0722  SVI  3   FLA  S21E44    SF      ERU       1865
+
+6820 +     0711   ////      0720  LEA  C   RSP  025-180   II/2    510           
+6820       0711   0711      0712  LEA  G   RBR  245       980                   
+6820 +     0717   ////      0824  SVI  C   RSP  025-180   IV/2                  
+6820 +     0720   ////      0729  LEA  C   RSP  025-106   III/2                 
+6820 +     0725   0725      0726  LEA  G   RBR  2695      160                   
+6820 +     0728   0733      0733  LEA  G   RBR  1415      410                   
+
+6850       0822   0918      0929  G15  5   XRA  1-8A      C5.4    4.2E-03   1861
+
+6840 +     0842   0842      0843  SVI  G   RBR  410       1200                  
+
+6850 +     0914   0918      0925  LEA  3   FLA  S10E17    SF      DSD       1861
+
+6870      B0915  U0918     A0922  SVI  3   FLA  S21W75    SF      DSD       1866
+
+6860 +     0939   0940      0940  LEA  G   RBR  410       2600                  
+
+6880      B1000  U1004     A1007  SVI  3   FLA  S08E17    SF      ERU       1861
+
+7160      A1107   ////     A0740  SVI  3   DSF  S35W04    9                     
+
+6890       1214   1228      1247  G15  5   XRA  1-8A      C6.2    8.8E-03   1865
+
+6900       1430   1454      1505  G15  5   XRA  1-8A      C4.7    6.7E-03   1861
+6900       1434   1446      1544  HOL  3   FLA  S09E14    SF      ERU       1861
+
+6910       1543   1547      1556  HOL  3   FLA  S20E52    SF      ERU       1865
+6910 +     1545   1545      1546  SAG  G   RBR  245       620               1865
+
+6920       1604   1605      1609  HOL  3   FLA  S22W77    SF                1866
+
+6930       1611   1614      1619  HOL  3   FLA  S29W01    SF      ERU       1860
+
+6940       1651   1656      1702  HOL  3   FLA  S09E16    SF                1861
+6940       1653   1657      1659  G15  5   XRA  1-8A      C2.3    4.8E-04   1861
+
+6950 +     1744   1744      1744  SAG  G   RBR  410       620                   
+
+6960       1753   1805      1812  HOL  3   FLA  S10E15    SF      ERU       1861
+
+6970 +     1831   1831      1831  SAG  G   RBR  610       110                   
+
+6980       1838   1844      1850  HOL  3   FLA  S10E15    SF      DSD       1861
+6980       1839   1845      1847  G15  5   XRA  1-8A      C1.6    5.0E-04   1861
+
+6990       2004   2014      2019  HOL  3   FLA  S10E12    SF      ERU       1861
+6990       2011   2014      2016  G15  5   XRA  1-8A      C4.0    6.1E-04   1861
+
+7000       2146   2147      2155  HOL  3   FLA  S10E12    SF      ERU       1861
+
+7010       2157   2203      2218  G15  5   XRA  1-8A      C2.4    2.3E-03   1861
+7010       2159   2201      2210  HOL  3   FLA  S09E11    SF      ERU       1861
+
+7020       2256   2307      2319  G15  5   XRA  1-8A      C6.3    6.2E-03   1861
+7020 +     2257   2300      2342  HOL  3   FLA  S09E11    SF      ERU       1861

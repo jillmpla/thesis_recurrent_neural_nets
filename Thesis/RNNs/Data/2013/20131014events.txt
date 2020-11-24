@@ -1,0 +1,45 @@
+:Product: 20131014events.txt
+:Created: 2013 Oct 17 0332 UT
+:Date: 2013 10 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Oct 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7380       0005   ////      0151  LEA  C   RSP  055-180   CTM/1             1865
+
+7420       0012   0022      0030  G15  5   XRA  1-8A      C1.8    1.5E-03   1861
+
+7430       0049   0101      0110  G15  5   XRA  1-8A      C1.5    1.6E-03   1869
+7430 +     0050   ////      0051  CUL  C   RSP  018-075   III/2                 
+
+7440       0317   0324      0328  G15  5   XRA  1-8A      C1.1    5.2E-04   1869
+7440       0326   ////      0326  LEA  C   RSP  025-088   III/1                 
+
+7450 +     0357   ////      0358  CUL  C   RSP  020-060   III/1                 
+
+7520       0451   ////      0451  CUL  C   RSP  020-057   III/1                 
+
+7530       0633   ////      0633  CUL  C   RSP  023-057   III/1                 
+
+7460 +     1148   ////      1148  SAG  C   RSP  025-082   III/1                 
+
+7470       1256   1315      1336  G15  5   XRA  1-8A      C8.0    1.3E-02   1865
+7470      B1300  U1325      1359  SVI  2   FLA  S21W01    1F      DSD       1865
+7470 +     1304   ////      1322  SAG  C   RSP  025-051   VI/1              1865
+
+7480 +     2013   2013      2013  PAL  G   RBR  245       100                   
+
+7490 +     2018   2018      2018  PAL  G   RBR  245       110                   
+
+7500       2120   2127      2134  G15  5   XRA  1-8A      C3.4    2.1E-03   1861
+
+7540       2138   2153      2203  G15  5   XRA  1-8A      C3.0    4.2E-03       
+
+7510       2249   2303      2312  G15  5   XRA  1-8A      C7.4    7.3E-03   1861
+7510       2249   2254      2322  LEA  2   FLA  S09W30    SN      ERU       1861

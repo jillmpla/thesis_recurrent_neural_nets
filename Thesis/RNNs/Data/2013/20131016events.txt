@@ -1,0 +1,63 @@
+:Product: 20131016events.txt
+:Created: 2013 Oct 19 0332 UT
+:Date: 2013 10 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Oct 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7790 +     0220   ////      0220  CUL  C   RSP  020-170   III/1                 
+
+7800       0332   0348      0402  G15  5   XRA  1-8A      C2.5    3.3E-03       
+7800 +     0334   ////      0334  CUL  C   RSP  023-120   III/1                 
+
+7810 +     0425   ////      0426  LEA  C   RSP  025-092   III/1                 
+
+7820       0520   0532      0545  G15  5   XRA  1-8A      C3.7    3.6E-03       
+
+7830       0630   0640      0646  G15  5   XRA  1-8A      B7.8    6.6E-04   1861
+7830       0631   0638      0648  SVI  3   FLA  S11W46    SF      ERU       1861
+
+7840       0705   ////      0707  LEA  C   RSP  025-180   III/2                 
+
+7850       0910   0920      0930  G15  5   XRA  1-8A      C1.8    1.6E-03   1861
+7850 +     0912  U0920     A0924  SVI  3   FLA  S11W41    SF                1861
+7850 +     0912   ////      0915  LEA  C   RSP  025-180   III/1                 
+7850       0913   0914      0914  LEA  G   RBR  610       180                   
+7850 +     0919   ////      0929  SVI  C   RSP  027-138   II/1    548           
+7850       0929   ////      1011  LEA  C   RSP  107-180   IV/1                  
+
+7870       0930   ////      1043  SVI  C   RSP  117-169   IV/1                  
+
+7860       0930   0930      0930  SVI  G   RBR  245       160                   
+
+7880       1354   1402      1412  G15  5   XRA  1-8A      C1.4    1.2E-03   1861
+
+7890       1426   1432      1440  G15  5   XRA  1-8A      C8.9    4.4E-03   1865
+7890       1427   1431      1453  HOL  3   FLA  S23W29    1N      DSD       1865
+
+7900       1503   1520      1534  G15  5   XRA  1-8A      C1.8    2.9E-03   1870
+7900       1505   1508      1536  HOL  3   FLA  S15W29    SF      ERU       1870
+
+7910       1623   1638      1644  G15  5   XRA  1-8A      C1.6    1.5E-03       
+7910       1627   1634      1648  HOL  3   FLA  S11W46    SF      ERU       1861
+
+7920       1739   1743      1746  G15  5   XRA  1-8A      C1.9    4.6E-04   1867
+7920       1742   1743      1746  HOL  3   FLA  N21W72    SF                1867
+
+7960       2039   2051      2107  G15  5   XRA  1-8A      C1.2    1.7E-03       
+
+7930       2127   2130      2134  HOL  3   FLA  S27W46    SF                1864
+
+7940       2224   2228      2233  HOL  3   FLA  S12W49    SF      ERU       1861
+
+7950       2238   2239      2241  HOL  3   FLA  S12W49    SF                1861
+
+7970       2311   2328      2339  G15  5   XRA  1-8A      C1.4    2.0E-03   1861
+7970       2325   ////      2325  LEA  C   RSP  025-180   III/1                 
+7970       2339   ////      0022  HOL  1   EPL  ////      0.16                  

@@ -1,0 +1,19 @@
+:Product: 20131004events.txt
+:Created: 2013 Oct 07 0332 UT
+:Date: 2013 10 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Oct 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5870       0317   0332      0352  G15  5   XRA  1-8A      C2.5    3.8E-03   1856
+5870       0329   0333      0336  LEA  3   FLA  N08E57    SF      ERU       1856
+
+5890       1702   1707      1710  G15  5   XRA  1-8A      B4.2    1.3E-04       
+
+5900       2059   2110      2116  G15  5   XRA  1-8A      B4.9    2.1E-04   1857

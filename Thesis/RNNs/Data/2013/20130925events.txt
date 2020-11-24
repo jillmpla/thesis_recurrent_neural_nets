@@ -1,0 +1,45 @@
+:Product: 20130925events.txt
+:Created: 2013 Sep 28 0332 UT
+:Date: 2013 09 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Sep 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5160       0033   0033      0033  LEA  G   RBR  1415      110                   
+
+5270      A0037   ////     A1318  HOL  3   DSF  N38E41    5                     
+
+5170 +     0522   0522      0522  LEA  G   RBR  245       170                   
+5170 +     0522   ////      0522  CUL  C   RSP  045-270   III/1                 
+
+5190       1026   ////      1026  SVI  C   RSP  027-081   III/1                 
+
+5200       1041   1045      1053  SVI  3   FLA  N12E02    SF                1850
+
+5210       1056   1056      1102  SVI  3   FLA  N12E01    SF                1850
+
+5220       1223   1227      1231  G15  5   XRA  1-8A      B4.7    2.3E-04   1850
+5220       1225   1225      1234  SVI  3   FLA  N12E01    SF                1850
+
+5230       1500   ////      1500  SVI  C   RSP  032-082   III/1                 
+5230       1500   ////      1519  SAG  C   RSP  025-083   VI/1                  
+
+5240       1701   ////      1701  SAG  C   RSP  051-180   III/1                 
+
+5250       1726   ////      1726  SAG  C   RSP  063-166   III/1                 
+
+5290       1736   1737      1738  G15  5   XRA  1-8A      B6.2    9.1E-05       
+
+5300       1933   1936      1943  G15  5   XRA  1-8A      B3.8    2.3E-04       
+
+5260 +     2024   2027      2030  G15  5   XRA  1-8A      B3.9    1.5E-04       
+
+5280       2223   2226      2229  G15  5   XRA  1-8A      B6.1    1.3E-04       
+
+5310       2234   2243      2250  G15  5   XRA  1-8A      B7.3    6.7E-04   1850

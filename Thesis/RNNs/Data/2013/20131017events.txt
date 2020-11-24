@@ -1,0 +1,91 @@
+:Product: 20131017events.txt
+:Created: 2013 Oct 20 0332 UT
+:Date: 2013 10 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Oct 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8030      B0003   ////     B0522  LEA  3   EPL  ////      0.16                  
+
+7990       0032   ////      0349  LEA  C   RSP  025-180   VI/1                  
+7990 +     0110   ////      0110  CUL  C   RSP  020-200   III/1                 
+
+7980       0133   0133      0133  LEA  G   RBR  245       100                   
+
+8000 +     0247   ////      0248  CUL  C   RSP  020-260   III/1                 
+
+8010       0320   0328      0335  G15  5   XRA  1-8A      C4.7    3.8E-03       
+8010       0321   0330      0341  LEA  3   FLA  S08W52    SF      ERU       1861
+
+8020       0512   0512      0512  LEA  G   RBR  245       150                   
+
+8040       0607   0612      0617  G15  5   XRA  1-8A      C1.2    5.5E-04   1861
+8040       0612  U0616      0647  SVI  3   FLA  S11W46    SF      ERU       1861
+
+8050       0726  U0730      0730  SVI  3   FLA  S11W54    SF                1861
+
+8060       0753   0754      0756  SVI  3   FLA  S11W54    SF                1861
+
+8070 +     0808   ////      0808  LEA  C   RSP  063-158   III/1                 
+
+8080       0855   0902      0906  SVI  3   FLA  S11W56    SF                1861
+8080       0858   ////      0858  LEA  C   RSP  065-109   III/1             1861
+
+8090       0915   0917      0919  SVI  3   FLA  S11W56    SF      ERU       1861
+
+8240      A0919   ////     A2336  LEA  3   DSF  S25E39    5                     
+
+8280      A0919   ////     A2236  LEA  3   DSF  S15E18    6                 1874
+
+8290      A0921   ////     A2231  LEA  3   DSF  S09E26    19                1874
+
+8100 +     0938  U0940      0940  SVI  3   FLA  S11W56    SF                1861
+
+8110       1025   1032      1037  G15  5   XRA  1-8A      C5.8    2.8E-03   1861
+8110       1027   1029      1038  SVI  3   FLA  S11W56    SN      ERU       1861
+
+8120       1147   1204      1215  G15  5   XRA  1-8A      C4.8    5.6E-03   1861
+8120       1148  U1203      1213  SVI  3   FLA  S11W56    SF      ERU       1861
+
+8130       1342   1354      1407  HOL  3   FLA  S09W60    SF                1861
+
+8140       1437   1439      1441  SVI  3   FLA  N09E80    SF                    
+
+8150       1509   1541      1558  G15  5   XRA  1-8A      M1.2    2.5E-02   1861
+
+8450      A1518   ////     A0553  SVI  3   DSF  N51E47    22                    
+
+8460      A1518   ////     A0553  SVI  3   DSF  S23E42    15                    
+
+8150 +     1530   ////      1533  SAG  C   RSP  025-180   III/2                 
+8150 +     1531   1532      1532  SAG  G   RBR  245       170                   
+
+8200       1549   ////      1709  HOL  3   DSF  S19E28    7                 1874
+
+8160       1603   1603      1603  SAG  G   RBR  245       110                   
+
+8170       1624   ////      1624  SAG  C   RSP  025-116   III/1                 
+
+8180       1631   1645      1650  HOL  3   FLA  S10W65    SF      ERU       1861
+
+8190       1655   1658      1700  HOL  3   FLA  S10W65    SF                1861
+
+8250       2042   ////      2044  CUL  C   RSP  025-060   III/1                 
+
+8210       2112   2113      2118  HOL  3   FLA  S10W65    SF      ERU       1861
+
+8260       2206   ////      2359  LEA  C   RSP  103-180   CTM/1                 
+8260       2218   2224      2232  G15  5   XRA  1-8A      C1.6    1.3E-03       
+
+8220       2221   2224      2226  HOL  3   FLA  S22W49    SF      DSD       1865
+8220       2225   ////      2230  CUL  C   RSP  035-070   III/1             1865
+
+8230 +     2259   2300      2301  HOL  3   FLA  S10W63    SF                1861
+
+8540      A2355   ////     A1341  HOL  3   DSF  N42E26    28                    

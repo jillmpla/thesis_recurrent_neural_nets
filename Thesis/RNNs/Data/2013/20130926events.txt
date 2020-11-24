@@ -1,0 +1,41 @@
+:Product: 20130926events.txt
+:Created: 2013 Sep 29 0332 UT
+:Date: 2013 09 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Sep 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5320       0305   ////      0305  LEA  C   RSP  025-049   III/1                 
+
+5340       0306   ////      0306  CUL  C   RSP  020-057   III/1                 
+
+5360       0307   0318      0326  G15  5   XRA  1-8A      B7.0    6.7E-04   1850
+
+5330       0335   ////      0353  LEA  C   RSP  025-121   VI/1                  
+5330 +     0336   ////      0336  CUL  C   RSP  018-120   III/3                 
+
+5350 +     0426   ////      0427  LEA  C   RSP  025-107   III/1                 
+
+5370 +     0655   ////      0656  SVI  C   RSP  025-147   III/1                 
+
+5380 +     0928   ////      0935  SVI  C   RSP  025-079   III/1                 
+
+5390 +     1012   ////      1120  SVI  C   RSP  025-155   VI/1                  
+
+5400       1153   ////      1154  SVI  C   RSP  025-035   III/1                 
+
+5420       1356   1416      1446  G15  5   XRA  1-8A      B5.4    1.3E-03   1850
+
+5410 +     1357   ////      1357  SVI  C   RSP  025-080   III/2                 
+
+5420       1409   1409      1420  SVI  3   FLA  N08W12    SF      ERU       1850
+
+5430       1639   ////      1639  SAG  C   RSP  025-098   III/1                 
+
+5440       1826   ////      1827  SAG  C   RSP  025-038   III/1                 

@@ -1,0 +1,20 @@
+:Product: 20130916events.txt
+:Created: 2013 Sep 19 0332 UT
+:Date: 2013 09 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Sep 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3740       0124   0124      0124  PAL  G   RBR  610       100                   
+
+3750       0605   0605      0605  LEA  G   RBR  410       100                   
+
+3780      A0923   ////     A2322  LEA  3   DSF  S26W50    7                     
+
+3770       2145   2222      2243  G15  5   XRA  1-8A      B6.0    1.3E-03   1846

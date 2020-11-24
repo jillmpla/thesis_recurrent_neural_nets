@@ -1,0 +1,78 @@
+:Product: 20131018events.txt
+:Created: 2013 Oct 21 0332 UT
+:Date: 2013 10 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Oct 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8300       0000   ////      0036  LEA  C   RSP  103-180   CTM/1                 
+
+8270       0014   0016      0020  LEA  3   FLA  S09W66    SF      DSD       1861
+
+8310       0056   0101      0104  G15  5   XRA  1-8A      C2.7    8.1E-04   1875
+
+8320 +     0208   ////      0209  CUL  C   RSP  018-200   III/1                 
+
+8330       0302   0307      0310  G15  5   XRA  1-8A      C3.3    9.7E-04       
+8330 +     0305   ////      0306  CUL  C   RSP  018-260   III/1                 
+
+8340       0324   0327      0330  G15  5   XRA  1-8A      C1.5    3.4E-04   1861
+
+8350       0425   0425      0425  LEA  G   RBR  245       150                   
+
+8370 +     0425   ////      0426  LEA  C   RSP  038-180   III/2                 
+
+8360       0426   ////      0427  CUL  C   RSP  045-260   III/1                 
+
+8380       0500   0508      0512  G15  5   XRA  1-8A      C5.3    2.2E-03   1875
+
+8390       0610   ////      0728  LEA  C   RSP  025-180   VI/2                  
+8390 +     0707   ////      0711  SVI  C   RSP  027-164   III/2                 
+
+8400       0724   0729      0731  G15  5   XRA  1-8A      C3.3    7.5E-04   1875
+8400 +     0727   ////      0728  LEA  C   RSP  025-180   III/2                 
+8400       0728   0728      0728  SVI  G   RBR  8800      57                    
+8400 +     0728   0728      0728  LEA  G   RBR  15400     120                   
+8400       0728   0728      0728  LEA  G   RBR  410       100                   
+8400 +     0728   0728      0728  LEA  G   RBR  245       220                   
+
+8410       0738   0738      0741  SVI  3   FLA  S11W69    SF                1861
+
+8420 +     0749   ////      0749  LEA  C   RSP  025-066   III/1                 
+
+8430       0816   0821      0824  G15  5   XRA  1-8A      C2.2    6.9E-04   1875
+8430 +     0818   ////      0819  LEA  C   RSP  043-180   III/1             1875
+8430 +     0818   0818      0818  SVI  G   RBR  245       230               1875
+8430       0819   0819      0824  SVI  3   FLA  N08E76    SF                1875
+
+8440 +     0905   ////      0905  LEA  C   RSP  025-127   III/1                 
+
+8470       1017   1034      1048  G15  5   XRA  1-8A      C5.0    7.5E-03   1861
+
+8480       1051   1054      1056  G15  5   XRA  1-8A      C4.7    7.3E-04   1875
+8480       1052   1052      1053  SVI  G   RBR  15400     130                   
+8480       1052   1052      1052  SVI  G   RBR  8800      57                    
+8480       1053   ////      1054  SVI  C   RSP  027-171   III/2                 
+8480       1053   1053      1053  SVI  G   RBR  245       110                   
+
+8490 +     1352   1357      1420  SVI  3   FLA  S11W71    SF                1861
+
+8500       1420   1425      1427  HOL  3   FLA  S09W72    SF                1861
+
+8510       1428   1430      1439  SVI  3   FLA  N09E69    SF                1875
+
+8520 +     1506   1519      1525  SVI  3   FLA  S12W73    SF      DSD       1861
+
+8530       1510   1516      1524  SVI  3   FLA  N08E66    SF                1875
+
+8520       1515   1526      1539  G15  5   XRA  1-8A      C8.4    9.5E-03   1861
+
+8650      A1523   ////     A0647  SVI  3   DSF  N65E34    42                    
+
+8550       2339   ////      2359  LEA  C   RSP  025-148   VI/1                  

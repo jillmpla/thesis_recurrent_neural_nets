@@ -1,0 +1,62 @@
+:Product: 20130721events.txt
+:Created: 2013 Jul 24 0332 UT
+:Date: 2013 07 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jul 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7400       0008   ////      0034  LEA  C   RSP  025-180   VI/1                  
+7400 +     0033   0033      0034  LEA  G   RBR  245       710                   
+
+7410       0105   ////      0130  LEA  C   RSP  025-180   VI/1                  
+
+7420       0258   0308      0310  G15  5   XRA  1-8A      C1.0    4.7E-04   1800
+7420       0300   0306      0312  LEA  3   FLA  S07E34    SF      DSD       1800
+
+7430       0319   0329      0336  LEA  3   FLA  S07E33    SF                1800
+
+7440 +     0409   ////      0410  LEA  C   RSP  025-180   III/1                 
+
+7450       0441   0444      0448  LEA  3   FLA  S07E33    SF                1800
+
+7460       0521   0525      0527  G15  5   XRA  1-8A      B5.7    1.2E-04   1800
+7460       0524   0525      0528  LEA  3   FLA  S07E32    SF                1800
+
+7470       0640   0645      0649  G15  5   XRA  1-8A      B8.0    2.7E-04   1793
+7470 +     0643   0644      0649  LEA  3   FLA  N23W07    SF      ERU       1793
+
+7500       0824   0844      0939  G15  5   XRA  1-8A      C3.1    1.0E-02   1800
+7500 +     0825   0841      1018  SVI  3   FLA  S06E31    1F      ERU       1800
+
+7480 +     0827   0827      0831  SVI  3   FLA  N23W09    SF      ERU       1793
+
+7490 +     0842   ////      0843  SVI  C   RSP  025-180   III/2                 
+7490 +     0843   0843      0843  SVI  G   RBR  245       140                   
+
+7500       0907   ////      0910  SVI  U   RSP  025-081   VI/1              1800
+7500       0907   ////      0910  SVI  U   RSP  025-081   III/1             1800
+
+7510       1215   1219      1224  G15  5   XRA  1-8A      B8.3    3.0E-04   1793
+7510       1217   1218      1222  SVI  3   FLA  N22W09    SF      ERU       1793
+
+7520       1232   1234      1238  SVI  3   FLA  N22W11    SF      ERU       1793
+
+7530       1455   1459      1501  G15  5   XRA  1-8A      B6.2    1.3E-04   1793
+
+7540       2107   2107      2107  PAL  G   RBR  245       110                   
+
+7550       2111   2111      2111  PAL  G   RBR  245       100                   
+
+7590       2129   2305      2323  PAL  G   RNS  245       250                   
+
+7560       2137   ////      2222  SAG  C   RSP  101-180   CTM/1                 
+
+7570       2253   2253      2254  PAL  G   RBR  245       450                   
+
+7580       2319   ////      2359  LEA  C   RSP  075-180   CTM/1                 

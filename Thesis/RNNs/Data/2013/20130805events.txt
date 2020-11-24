@@ -1,0 +1,26 @@
+:Product: 20130805events.txt
+:Created: 2013 Aug 08 0332 UT
+:Date: 2013 08 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Aug 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9230 +     0114   ////      0122  CUL  C   RSP  018-060   III/2                 
+
+9240       0325   ////      0326  LEA  C   RSP  055-180   III/2                 
+
+9250       0413   ////      0413  CUL  C   RSP  018-057   III/1                 
+
+9260 +     0557   ////      0558  LEA  C   RSP  025-125   III/1                 
+
+9270       0632   0632      0632  LEA  G   RBR  245       200                   
+
+9280 +     0921   ////      0923  LEA  C   RSP  025-161   III/1                 
+
+9290       1901   1905      1908  G15  5   XRA  1-8A      B3.6    1.0E-04   1810

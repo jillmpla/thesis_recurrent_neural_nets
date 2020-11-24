@@ -1,0 +1,50 @@
+:Product: 20131013events.txt
+:Created: 2013 Oct 16 0332 UT
+:Date: 2013 10 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Oct 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7260       0004   0008      0010  G15  5   XRA  1-8A      C1.2    2.7E-04       
+
+7270       0012   0043      0105  G15  5   XRA  1-8A      M1.7    3.1E-02   1865
+7270       0027   0035      0111  LEA  3   FLA  S22E17    SF      PRB       1865
+7270       0030   ////      0130  LEA  C   RSP  025-180   VI/2              1865
+7270       0038   ////      0044  LEA  C   RSP  034-117   II/1    798       1865
+7270       0041   0041      0041  LEA  G   RBR  245       100               1865
+
+7280 +     0131   0146      0153  LEA  G   RBR  610       190                   
+
+7290 +     0707   ////      0707  LEA  C   RSP  025-126   III/1                 
+
+7300 +     0707   0707      0707  LEA  G   RBR  245       210                   
+
+7310 +     0711   ////      0723  SVI  C   RSP  029-180   II/1    688           
+
+7320       0826   0910      0919  G15  5   XRA  1-8A      C1.4    7.0E-04       
+
+7390      A0946   ////     A2318  LEA  3   DSF  N27W32    15                    
+
+7400      A0946   ////     A2318  LEA  3   DSF  S39W55    15                    
+
+7410      A0946   ////     A2318  LEA  3   DSF  S36W30    5                     
+
+7330       1127   1131      1134  SVI  3   FLA  S07W10    SF      ERU       1861
+
+7340 +     1352   ////      1353  SAG  C   RSP  025-037   III/1                 
+
+7350 +     1542   ////      1542  SAG  C   RSP  025-180   III/1                 
+
+7360       1750   1758      1807  G15  5   XRA  1-8A      C4.5    2.9E-03   1861
+7360       1752   1759      1829  HOL  2   FLA  S12W14    2F      ERU       1861
+
+7370       2132   2135      2140  G15  5   XRA  1-8A      C1.2    4.0E-04   1865
+
+7380       2355   0002      0009  G15  5   XRA  1-8A      C1.1    7.1E-04   1865
+7380      B2359   2359      0005  LEA  3   FLA  S22E01    SF                1865

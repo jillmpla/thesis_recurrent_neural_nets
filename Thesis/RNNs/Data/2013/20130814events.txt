@@ -1,0 +1,50 @@
+:Product: 20130814events.txt
+:Created: 2013 Aug 17 0332 UT
+:Date: 2013 08 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Aug 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 240       0022   0031      0035  G15  5   XRA  1-8A      C4.9    2.2E-03   1809
+
+ 250       0203   0209      0217  G15  5   XRA  1-8A      C1.5    1.0E-03   1809
+
+ 260      B0524   0537      0625  SVI  3   FLA  S06E18    SF                1818
+
+ 270       0633   0641      0646  SVI  3   FLA  S06E18    SF                1818
+
+ 280       0900   0900      0923  SVI  3   FLA  S20E08    SF                1819
+
+ 390      A0916   ////     A0342  LEA  4   DSF  S26W60    16                    
+
+ 290       1019   1037      1139  G15  5   XRA  1-8A      C1.5    6.5E-03   1817
+ 290       1023   1024      1143  SVI  3   FLA  S22W07    SF      ERU       1817
+
+ 300       1332   1333      1339  SVI  3   FLA  S22W10    SF                1817
+
+ 320       1650   1655      1711  G15  5   XRA  1-8A      C3.6    3.3E-03   1817
+ 320 +     1651   1653      1724  HOL  3   FLA  S23W12    1F      DSD       1817
+ 320 +     1653   1653      1654  SAG  G   RBR  4995      110               1817
+ 320 +     1653   1653      1654  SAG  G   RBR  8800      78                1817
+
+ 310       1653   1653      1653  PAL  G   RBR  4995      100                   
+
+ 320       1654   1654      1654  SVI  G   RBR  2695      53                1817
+
+ 410      A1701   ////     A1404  SVI  3   DSF  S28W70    21                    
+
+ 330       1747   1753      1758  G15  5   XRA  1-8A      C1.5    6.9E-04   1817
+
+ 360       1900   1950      2013  G15  5   XRA  1-8A      C1.0    3.9E-03   1817
+
+ 340       2011   2012      2017  HOL  3   FLA  S06E11    SF      ERU       1818
+
+ 350      B2036   ////     B2125  HOL  4   EPL  ////      0.2     B.6A          
+
+ 370       2249   2255      2302  G15  5   XRA  1-8A      C1.6    9.5E-04   1817

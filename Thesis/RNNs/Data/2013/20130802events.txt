@@ -1,0 +1,60 @@
+:Product: 20130802events.txt
+:Created: 2013 Aug 05 0332 UT
+:Date: 2013 08 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Aug 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8930      A0029   ////     A1257  HOL  3   DSF  S23W13    13                    
+
+8890 +     0407   ////      1305  SVI  C   RSP  025-180   CTM/2                 
+
+8830 +     0416   ////      0416  LEA  C   RSP  025-145   III/1                 
+
+8840       0557   0559      0602  SVI  3   FLA  N16E53    SF      ERU       1809
+
+8850 +     0628   0628      0628  LEA  G   RBR  245       180                   
+
+8860       0640   0640      0640  LEA  G   RBR  245       100                   
+
+8870       0723   0727      0730  G15  5   XRA  1-8A      B4.3    1.2E-04   1809
+8870       0726   0727      0730  SVI  3   FLA  N16E54    SF      ERU       1809
+
+8880       0757   0800      0802  G15  5   XRA  1-8A      B5.7    9.1E-05   1807
+8880 +     0800   0801      0803  SVI  3   FLA  N25W63    SF      DSD       1807
+
+9030      A0927   ////     A2333  LEA  3   DSF  S25W19    13                    
+
+9040 +    A0927   ////     A2333  LEA  3   DSF  S27E36    8                     
+
+8910       1108   1115      1124  G15  5   XRA  1-8A      B9.7    7.1E-04   1806
+8910 +     1114   1115      1118  SVI  3   FLA  S16W11    SF      ERU       1806
+
+8940       1143   ////      1308  SVI  3   DSF  S18W31    10                    
+
+8920 +     1159   ////      1245  SVI  C   RSP  025-180   VI/2                  
+
+8950       1448   1452      1504  G15  5   XRA  1-8A      B5.0    3.9E-04       
+8950 +     1452   ////      1452  SVI  C   RSP  025-180   III/1                 
+
+8960 +     1527   ////      1529  SVI  C   RSP  025-135   III/1                 
+
+8990 +     1609   ////      1751  SVI  C   RSP  075-180   CTM/1                 
+
+8970       1615   ////      1637  SAG  C   RSP  025-180   VI/1                  
+8970       1615   ////      1615  SVI  C   RSP  025-080   III/1                 
+
+8980       1635   ////      1637  SVI  C   RSP  025-144   III/1                 
+
+9000       1838   ////      1838  SAG  C   RSP  025-050   III/1                 
+
+9010       2017   2017      2017  PAL  G   RBR  245       100                   
+
+9020       2041   2047      2101  G15  5   XRA  1-8A      B7.2    6.9E-04   1809
+9020       2043   2047      2105  HOL  3   FLA  N11E49    SF      ERU       1809

@@ -1,0 +1,25 @@
+:Product: 20131002events.txt
+:Created: 2013 Oct 05 0332 UT
+:Date: 2013 10 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Oct 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5660       0153   0156      0158  G15  5   XRA  1-8A      B5.9    9.8E-05       
+
+5670       0307   ////      0307  LEA  C   RSP  025-110   III/1                 
+
+5680       0330   0330      0330  LEA  G   RBR  245       110                   
+
+5700       1046   1052      1101  G15  5   XRA  1-8A      B6.1    4.3E-04   1857
+
+5710       1954   2151      2320  G15  5   XRA  1-8A      C1.5    1.5E-02       
+
+5720 +     2256   ////      2326  LEA  4   DSF  S13E47    1                     
+5720       2329   0006      0041  G15  5   XRA  1-8A      C1.5    6.2E-03       

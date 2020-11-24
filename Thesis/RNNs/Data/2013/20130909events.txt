@@ -1,0 +1,20 @@
+:Product: 20130909events.txt
+:Created: 2013 Sep 12 0332 UT
+:Date: 2013 09 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Sep 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3430      B0000   ////     B0240  LEA  3   EPL  ////      0.02                  
+
+3450 +    B0000   ////     B0413  LEA  3   DSF  N36W69    21                    
+
+3440 +     0253   0253      0253  LEA  G   RBR  245       110                   
+
+3500      A1102   ////     A0758  SVI  3   DSF  S07E44    12                    

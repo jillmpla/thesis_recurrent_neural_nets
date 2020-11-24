@@ -1,0 +1,21 @@
+:Product: 20130801events.txt
+:Created: 2013 Aug 04 0332 UT
+:Date: 2013 08 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Aug 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8790 +     1408   1444      1548  SVI  3   FLA  S15E03    SF      ERU       1806
+
+8800       2100   2104      2110  HOL  3   FLA  N14E60    SF      ERU       1809
+
+8820       2127   ////      2127  CUL  C   RSP  035-057   III/1                 
+
+8810       2253   2257      2300  G15  5   XRA  1-8A      B8.4    2.2E-04   1809
+8810       2255   2255      2300  HOL  3   FLA  N14E58    SF      ERU       1809

@@ -1,0 +1,59 @@
+:Product: 20130811events.txt
+:Created: 2013 Aug 14 0332 UT
+:Date: 2013 08 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Aug 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9720       0023   0026      0028  G15  5   XRA  1-8A      B5.0    8.4E-05       
+
+9780       0039   ////      0203  LEA  4   DSF  S03E56    16                1818
+
+9730       0126   0130      0132  G15  5   XRA  1-8A      C1.3    2.4E-04   1819
+
+9740       0215   0219      0221  G15  5   XRA  1-8A      B6.6    1.5E-04       
+
+9750       0526   0530      0532  G15  5   XRA  1-8A      C1.1    1.8E-04   1817
+
+9760       0606   0612      0622  G15  5   XRA  1-8A      B7.1    5.5E-04       
+
+9770       0638   0640      0647  SVI  3   FLA  S02E57    SF      ERU       1818
+9770 +     0646   ////      0646  SVI  C   RSP  025-074   III/1             1818
+
+9790       0817   0819      0821  SVI  3   FLA  S04E58    SF                1818
+
+9800       0930   0936      0942  SVI  3   FLA  S18E33    SF                1817
+
+9930      A0936   ////     A2326  LEA  3   DSF  N51E29    9                     
+
+9810       1226   1231      1234  G15  5   XRA  1-8A      B7.1    2.2E-04   1817
+9810       1228   1232      1242  SVI  3   FLA  S18E31    SF      DSD       1817
+
+9820 +     1418   1434      1449  G15  5   XRA  1-8A      C2.0    2.7E-03   1817
+
+9830       1509   1515      1517  SVI  3   FLA  S02E51    SF      DSD       1818
+
+9840       1628   1630      1633  SVI  3   FLA  S02E52    SF                1818
+
+9850       1637   1648      1655  G15  5   XRA  1-8A      C1.2    9.1E-04   1817
+9850       1640   1640     A1644  SVI  3   FLA  S19E29    SF                1817
+
+9860 +     1755   1758      1803  G15  5   XRA  1-8A      B6.1    2.0E-04   1818
+
+9870       1848   1850      1854  HOL  2   FLA  S05E52    SF                1818
+
+9880       1927   1932      2003  G15  5   XRA  1-8A      C2.1    3.6E-03   1817
+9880       1929   1930      2022  HOL  2   FLA  S20E27    SF      DSD       1817
+
+9890       1931   1948      2000  HOL  2   FLA  S05E52    SF      ERU       1818
+
+9900       2124   2131      2138  G15  5   XRA  1-8A      C6.7    3.4E-03   1817
+
+9910       2126   2155      2234  HOL  3   FLA  S20E25    SF      ERU       1817
+9910       2147   2158      2211  G15  5   XRA  1-8A      C8.4    9.5E-03   1817

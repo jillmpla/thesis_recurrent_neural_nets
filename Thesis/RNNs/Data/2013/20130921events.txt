@@ -1,0 +1,46 @@
+:Product: 20130921events.txt
+:Created: 2013 Sep 24 0332 UT
+:Date: 2013 09 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Sep 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4370 +     0139   0145      0152  G15  5   XRA  1-8A      C1.0    5.5E-04   1850
+
+4380       0201   0204      0206  G15  5   XRA  1-8A      B8.3    2.7E-04   1850
+4380       0202   0204      0207  LEA  3   FLA  N04E69    SF                1850
+
+4400      A0235   ////     A0410  LEA  3   DSF  N29E89    18                    
+
+4390       0321   0321      0321  LEA  G   RBR  410       200                   
+
+4410       0622  U0627      0645  SVI  3   FLA  N20E13    SF      ERU       1849
+4410 +     0622   ////      0622  LEA  C   RSP  025-051   III/1             1849
+
+4420       0728   0735      0741  G15  5   XRA  1-8A      B8.9    6.6E-04       
+4420      B0731   0732      0747  SVI  3   FLA  N21E48    SF                    
+
+4440       0838   0924      0932  SDO  5   XRA  1-8A      C3.0              1850
+4440 +     0910   0923      0943  SVI  3   FLA  N13E67    1F      ERU       1850
+
+4500      A0946   ////     A2307  LEA  4   DSF  S26E19    11                    
+
+4510      A0946   ////     A2307  LEA  4   DSF  S01E56    5                     
+
+4450       1043   1045      1052  SVI  3   FLA  N20E11    SF      ERU       1849
+
+4580      A1552   ////     A0529  SVI  3   DSF  N01E18    8                     
+
+4460       1722   1722      1722  SAG  G   RBR  15400     330                   
+
+4470       1734   1734      1734  SAG  G   RBR  15400     160                   
+
+4480       2234   2234      2234  PAL  U   RBR  245       130                   
+
+4490       2314   ////      2314  LEA  C   RSP  025-058   III/1                 

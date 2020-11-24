@@ -1,0 +1,29 @@
+:Product: 20131006events.txt
+:Created: 2013 Oct 09 0332 UT
+:Date: 2013 10 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Oct 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5990       0016   0051      0103  G15  5   XRA  1-8A      B8.7    1.9E-03   1857
+5990 +     0020   0032      0032  LEA  4   FLA  S08E33    SF      ERU       1857
+
+6000       0202   0206      0209  G15  5   XRA  1-8A      B4.4    1.2E-04       
+
+6010       1121   1125      1127  G15  5   XRA  1-8A      C1.0    2.0E-04   1856
+
+6040       1337   1424      1456  G15  5   XRA  1-8A      C1.1    4.1E-03       
+
+6020       1340   ////      1348  SVI  C   RSP  025-078   III/1                 
+
+6030       1511   1513      1514  HOL  3   FLA  S25E61    SF                    
+
+6050       1848   1858      1907  G15  5   XRA  1-8A      B7.5    6.7E-04       
+
+6060       2157   2202      2207  G15  5   XRA  1-8A      B7.3    3.0E-04       

@@ -1,0 +1,54 @@
+:Product: 20130821events.txt
+:Created: 2013 Aug 24 0332 UT
+:Date: 2013 08 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Aug 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1270       0021   ////      0214  LEA  3   DSF  N19W70    18                    
+
+1240       0204   0207      0209  G15  5   XRA  1-8A      B7.7    1.2E-04   1825
+
+1280       0304   ////      0444  LEA  3   DSF  S16E11    8                     
+1280 +     0336   0406      0408  G15  5   XRA  1-8A      C1.3    1.7E-03   1823
+
+1250       0405   0405      0409  LEA  3   FLA  S14W34    SF      ERU       1820
+
+1260       0454   0500      0503  G15  5   XRA  1-8A      C1.6    5.9E-04   1829
+1260       0457   0459      0504  LEA  3   FLA  N04W49    SF                    
+
+1290 +     0621   ////      0621  SVI  C   RSP  025-043   III/1                 
+
+1300 +     0651   0654      0659  SVI  3   FLA  N01W53    SF      DSD           
+
+1310       0717   0717      0721  SVI  3   FLA  S15W36    SF                1820
+
+1320       0725   0743      0803  G15  5   XRA  1-8A      C2.2    4.1E-03   1828
+1320 +     0729   0742      0746  LEA  3   FLA  N14E55    SF      BPT       1828
+1320 +     0739   ////      0739  LEA  C   RSP  050-082   III/1             1828
+
+1330 +     0823   ////      0824  LEA  C   RSP  025-093   III/1             1820
+1330 +     0823   ////      1029  SVI  C   RSP  074-173   CTM/1             1820
+1330      B0906  U0911     A0931  SVI  3   FLA  S15W37    SF                1820
+
+1340       0909   0909      0924  LEA  3   FLA  S14W40    SF      BPT       1820
+
+1360       1125   1134      1148  G15  5   XRA  1-8A      C1.1    1.2E-03   1818
+
+1380       1408   1409      1412  HOL  3   FLA  N15E52    SF      ERU       1828
+
+1390       1752   ////      1752  SAG  C   RSP  025-134   III/1                 
+
+1400       1753   1754      1800  HOL  3   FLA  N16E42    SF      DSD       1828
+
+1410       2051   ////      2052  SAG  C   RSP  025-180   III/1                 
+
+1420       2319   2324      2329  G15  5   XRA  1-8A      B9.9    4.2E-04       
+
+1430 +     2339   2339      2339  PAL  G   RBR  245       210                   

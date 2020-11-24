@@ -1,0 +1,27 @@
+:Product: 20130723events.txt
+:Created: 2013 Jul 26 0332 UT
+:Date: 2013 07 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jul 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7630 +     0239   0244      0253  G15  5   XRA  1-8A      B6.3    3.9E-04   1801
+
+7640 +     0315   0322      0335  G15  5   XRA  1-8A      B5.3    5.4E-04   1801
+
+7670       0510   ////      0511  CUL  C   RSP  018-057   III/1                 
+
+7650 +     0510   ////      0525  LEA  C   RSP  028-161   VI/1                  
+7650       0525   ////      0525  CUL  C   RSP  018-057   III/1                 
+
+7660 +     0709   ////      0723  LEA  C   RSP  034-119   VI/1                  
+
+7690       2308   2311      2317  G15  5   XRA  1-8A      B4.0    2.2E-04       
+
+7700       2326   2329      2331  G15  5   XRA  1-8A      B3.9    1.4E-04       

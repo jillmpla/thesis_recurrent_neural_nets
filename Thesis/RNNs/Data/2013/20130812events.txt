@@ -1,0 +1,45 @@
+:Product: 20130812events.txt
+:Created: 2013 Aug 15 0332 UT
+:Date: 2013 08 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Aug 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9920       0010   0015      0020  G15  5   XRA  1-8A      C1.0    4.4E-04       
+
+9940 +     0057   ////      0058  LEA  C   RSP  025-136   III/1                 
+
+9950       0329   0332      0336  G15  5   XRA  1-8A      B6.1    1.7E-04       
+
+9960       0722   0724      0731  SVI  3   FLA  S00E42    SF                1818
+
+9970       0822   0823      0826  SVI  3   FLA  S17E20    SF                1817
+
+  80      A0932   ////     A2336  LEA  3   DSF  S34E32    9                     
+
+9980       0949   0949      0956  SVI  3   FLA  S17E20    SF                1817
+
+9990       1021   1041      1047  G15  5   XRA  1-8A      M1.5    9.6E-03   1817
+9990       1023   1040      1130  SVI  3   FLA  S17E19    SN      ERU       1817
+9990 +     1037   1038      1041  SVI  G   RBR  8800      130               1817
+9990       1037   1038      1039  SVI  G   RBR  15400     71                1817
+9990 +     1037   1038      1041  SVI  G   RBR  4995      94                1817
+9990 +     1050   1050      1051  SVI  G   RBR  1415      220               1817
+9990 +     1050   1050      1052  SVI  G   RBR  410       170               1817
+9990 +     1110   1110      1121  SAG  G   RBR  610       100               1817
+
+  30       1357   1400      1406  SVI  3   FLA  N10W88    SF                1809
+
+  40       1627   1629      1636  HOL  3   FLA  N10W83    SF                1809
+
+  50       1753   1757      1805  G15  5   XRA  1-8A      B6.6    3.5E-04   1817
+
+  60       2030   2039      2041  HOL  3   FLA  N09W88    SF                1809
+
+  70       2227   2227      2233  HOL  3   FLA  N09W88    SF      ERU       1809
