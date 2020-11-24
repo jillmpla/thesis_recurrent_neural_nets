@@ -1,0 +1,63 @@
+:Product: 20131012events.txt
+:Created: 2013 Oct 15 0332 UT
+:Date: 2013 10 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Oct 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7030       0046   0051      0102  G15  5   XRA  1-8A      C1.5    1.1E-03   1861
+
+7040       0154   0200      0203  G15  5   XRA  1-8A      C5.2    1.6E-03   1861
+7040       0157   0159      0202  LEA  3   FLA  S09E09    1F      ERU       1861
+
+7050       0241   0241      0244  LEA  3   FLA  S07E06    SF                1861
+
+7060       0337   0347      0359  G15  5   XRA  1-8A      C5.4    4.9E-03   1861
+7060       0341   0344      0416  LEA  3   FLA  S07E05    1F      ERU       1861
+7060       0354   ////      0614  LEA  C   RSP  152-180   CTM/1             1861
+
+7070       0624   0628      0637  G15  5   XRA  1-8A      C2.0    1.1E-03   1861
+
+7080      B0737  U0737      0749  SVI  3   FLA  S10E06    SF      ERU       1861
+
+7090       0812   0816      0820  G15  5   XRA  1-8A      C2.0    6.3E-04   1861
+
+7150 +     0832   0832      0832  SVI  G   RNS  245       120                   
+
+7100       0836   ////      0850  SVI  C   RSP  116-171   CTM/1                 
+
+7110 +    B0854  U0854     A0906  SVI  3   FLA  S11E06    SF      ERU       1861
+
+7120       0938   0938      0938  LEA  G   RBR  245       100                   
+
+7130       1042   1046      1048  G15  5   XRA  1-8A      C1.5    3.0E-04   1865
+
+7170       1102   1214      1228  G15  5   XRA  1-8A      C2.4    6.8E-03   1861
+
+7140      B1133  U1134     A1139  SVI  3   FLA  S12E03    SF      ERU       1861
+
+7170      B1212  U1214     A1230  SVI  3   FLA  S10E02    SF      ERU       1861
+
+7180       1601   1601      1602  SAG  G   RBR  245       140                   
+
+7190       1615   1615      1616  SAG  G   RBR  245       100                   
+
+7210       1629   ////      1947  HOL  2   EPL  ////      0.23                  
+
+7200       1704   1708      1718  G15  5   XRA  1-8A      C1.8    1.1E-03   1861
+7200       1707   1707      1716  HOL  3   FLA  S11E03    SF      DSD       1861
+
+7220       2125   2126      2128  HOL  2   FLA  S09W02    SF                1861
+
+7230       2140   2143      2145  HOL  2   FLA  S10W02    SF                1861
+
+7240       2202   2216      2228  G15  5   XRA  1-8A      C2.9    3.4E-03   1861
+7240       2206   2208      2243  HOL  3   FLA  S11W05    SF      ERU       1861
+
+7250       2352   2352      2352  LEA  G   RBR  245       100                   

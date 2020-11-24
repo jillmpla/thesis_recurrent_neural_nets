@@ -1,0 +1,55 @@
+:Product: 20131124events.txt
+:Created: 2013 Nov 27 0332 UT
+:Date: 2013 11 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Nov 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 190       0000   ////      0148  LEA  C   RSP  076-180   CTM/1                 
+
+ 170       0030   ////      0039  LEA  C   RSP  031-074   III/1                 
+
+ 160       0042   0046      0055  G15  5   XRA  1-8A      C1.4    8.3E-04   1904
+
+ 270       0136   0231      0247  G15  5   XRA  1-8A      C3.2    7.6E-03   1904
+
+ 200       0235   ////      0235  LEA  C   RSP  039-055   III/1                 
+
+ 210       0401   0401      0401  LEA  G   RBR  245       130                   
+
+ 220 +     0606   ////      0610  LEA  C   RSP  025-119   III/2                 
+
+ 240       0702   0707      0714  G15  5   XRA  1-8A      C1.7    9.0E-04   1904
+
+ 250       0743   0752      0756  G15  5   XRA  1-8A      C4.7    2.2E-03   1904
+ 250      B0746  U0750     A0754  SVI  3   FLA  N11W73    SF                1904
+
+ 280       0933   0940      0947  G15  5   XRA  1-8A      C3.1    1.8E-03   1904
+ 280       0935   0938      0941  LEA  3   FLA  N14W71    SF                1904
+ 280 +     0936   ////      0937  LEA  C   RSP  033-109   III/1             1904
+
+ 370      A1016   ////     A2213  LEA  3   DSF  S05W56    9                     
+
+ 290       1135   ////      1136  SVI  U   RSP  029-161   III/1                 
+
+ 300       1200   1208      1213  G15  5   XRA  1-8A      C1.3    7.2E-04   1904
+
+ 310       1303   1308      1311  G15  5   XRA  1-8A      C1.0    3.4E-04   1904
+
+ 390       1429   1526      1556  G15  5   XRA  1-8A      C3.1    1.0E-02   1904
+
+ 400       1604   1623      1635  G15  5   XRA  1-8A      C2.5    4.2E-03   1904
+
+ 320       1708   1708      1708  SAG  G   RBR  245       130                   
+
+ 330       1712   1712      1712  SAG  G   RBR  245       130                   
+
+ 340       1716   1716      1718  SAG  G   RNS  245       210                   
+
+ 350       2314   2327      2340  G15  5   XRA  1-8A      C1.3    1.6E-03   1904

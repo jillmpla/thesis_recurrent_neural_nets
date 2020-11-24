@@ -1,0 +1,26 @@
+:Product: 20130905events.txt
+:Created: 2013 Sep 08 0332 UT
+:Date: 2013 09 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Sep 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3080       0225   0225      0225  PAL  G   RBR  245       130                   
+
+3100       0650   0651      0657  SVI  3   FLA  N11W41    SF                1836
+
+3110       1430   1431      1434  SVI  3   FLA  S19W54    SF                1837
+
+3180      A1623   ////     A0512  SVI  3   DSF  N13E50    14                    
+
+3120       1946   1954      2000  G15  5   XRA  1-8A      C1.5    8.6E-04   1836
+3120       1951   1955      2001  HOL  3   FLA  N11W50    SF      ERU       1836
+
+3130       2159   2221      2232  G15  5   XRA  1-8A      C1.4    2.1E-03   1837
+3130       2200   2215      2223  HOL  3   FLA  S18W58    SF      ERU       1837

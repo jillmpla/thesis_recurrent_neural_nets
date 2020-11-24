@@ -1,0 +1,64 @@
+:Product: 20130902events.txt
+:Created: 2013 Sep 05 0332 UT
+:Date: 2013 09 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Sep 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2440      A0030   ////     A1329  HOL  3   DSF  S31E28    12                    
+
+2370      A0137   ////     A0248  LEA  4   DSF  S46E30    16                    
+
+2330       0241   ////      0242  LEA  C   RSP  085-085   III/1                 
+
+2340 +     0329   ////      0330  LEA  C   RSP  025-180   III/1                 
+
+2350 +     0442   ////      0451  LEA  C   RSP  038-180   III/1                 
+
+2530       0538   ////      0538  CUL  C   RSP  045-260   III/1                 
+
+2360 +     0538   0538      0538  LEA  G   RBR  245       300                   
+2360 +     0538   ////      0538  SVI  C   RSP  039-180   III/2                 
+
+2380 +     0610   0610      0611  LEA  G   RBR  245       1700                  
+2380 +     0610   0610      0610  LEA  G   RBR  410       880                   
+2380 +     0610   ////      0611  LEA  C   RSP  025-180   III/2                 
+2380 +     0611   ////      0612  CUL  C   RSP  020-057   V/3                   
+
+2520 +    A0941   ////     A2307  LEA  3   DSF  N03E17    7                     
+
+2400       1028   1028      1028  SVI  G   RBR  245       270                   
+
+2410       1104   1108      1113  G15  5   XRA  1-8A      B4.6    1.8E-04       
+
+2420       1215   1217      1219  SVI  3   FLA  S17W11    SF                1837
+
+2430       1316   ////      1323  SVI  C   RSP  073-171   III/1                 
+
+2570       1336   1401      1408  G15  5   XRA  1-8A      B5.3    8.6E-04   1834
+
+2450 +     1429   ////      1429  SAG  C   RSP  100-148   III/1                 
+
+2460       1519   1521      1526  SVI  3   FLA  S17W13    SF                1837
+
+2470 +     1647   ////      1648  SVI  U   RSP  030-136   III/1                 
+2470 +     1652   1652      1653  SAG  G   RBR  245       120                   
+
+2480       1725   1725      1725  PAL  G   RBR  245       150                   
+
+2490       2124   2124      2124  PAL  G   RBR  245       100                   
+
+2500       2131   2133      2133  PAL  G   RBR  245       110                   
+2500       2133   ////      2133  CUL  C   RSP  027-057   III/1                 
+
+2540       2228   ////      2228  CUL  C   RSP  020-057   III/2                 
+
+2550       2242   ////      2244  CUL  C   RSP  023-057   III/1                 
+
+2510 +     2314   ////      2314  CUL  C   RSP  018-057   III/2                 

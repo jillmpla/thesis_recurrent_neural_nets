@@ -1,0 +1,20 @@
+:Product: 20130825events.txt
+:Created: 2013 Aug 28 0332 UT
+:Date: 2013 08 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Aug 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1790 +     0542   ////      0841  SVI  3   DSF  N40W04    8                     
+
+1810      A0926   ////     A2325  LEA  2   DSF  S20E25    8                     
+
+1800 +     1043   ////      1043  SAG  C   RSP  025-051   III/1                 
+
+1830      A1418   ////     A0610  SVI  3   DSF  N16W59    8                     

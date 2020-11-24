@@ -1,0 +1,54 @@
+:Product: 20131128events.txt
+:Created: 2013 Dec 01 0332 UT
+:Date: 2013 11 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Nov 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 560       0009   0009      0009  LEA  G   RBR  410       170                   
+
+ 590 +     0104   ////      0228  LEA  3   DSF  S08W47    17                    
+
+ 570       0118   ////      0119  LEA  C   RSP  025-180   III/1                 
+ 570       0119   ////      1034  LEA  C   RSP  035-180   CTM/1                 
+
+ 580       0423   0423      0423  LEA  G   RBR  245       100                   
+
+ 610       0505   ////      0553  LEA  C   RSP  030-139   VI/1                  
+
+ 620       0530   0540      0615  LEA  G   RNS  245       110                   
+
+ 630       0610   ////      0800  SVI  C   RSP  075-180   CTM/1                 
+
+ 640       0725   ////      0834  LEA  C   RSP  025-142   VI/1                  
+ 640       0725   ////      0729  SVI  U   RSP  025-038   III/1                 
+
+ 660       0905   ////      1113  SVI  C   RSP  075-180   CTM/1                 
+
+ 650       0933   0937      0940  G15  5   XRA  1-8A      C1.0    4.3E-04   1907
+ 650       0936   0937      0942  SVI  3   FLA  S11E07    SF                1907
+ 650 +     0936   ////      0937  SVI  C   RSP  025-166   III/1             1907
+ 650 +     0936   0936      0936  SVI  G   RBR  245       110               1907
+
+ 670       1158   1202      1206  G15  5   XRA  1-8A      B8.5    2.8E-04   1908
+
+ 680       1228   1232      1235  G15  5   XRA  1-8A      B9.0    2.5E-04   1908
+
+ 690       1559   1604      1612  G15  5   XRA  1-8A      C1.2    7.5E-04   1908
+ 690       1601   1603      1612  HOL  3   FLA  S26E34    SF      ERU       1908
+
+ 700       1657   1707      1712  G15  5   XRA  1-8A      C1.2    7.9E-04   1908
+ 700       1700   1700      1702  HOL  3   FLA  S24E35    SF      ERU       1908
+
+ 710       1705   1707      1711  HOL  3   FLA  S24E35    SF      ERU       1908
+
+ 720       1832   ////      1834  SAG  C   RSP  025-180   III/2                 
+
+ 730       1942   1950      1954  G15  5   XRA  1-8A      C1.0    6.5E-04   1908
+ 730       1948   1948      1955  HOL  3   FLA  S25E34    SF      ERU       1908

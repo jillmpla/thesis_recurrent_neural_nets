@@ -1,0 +1,22 @@
+:Product: 20130928events.txt
+:Created: 2013 Oct 01 0332 UT
+:Date: 2013 09 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Sep 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5520      A0944   ////     A2305  LEA  3   DSF  S38W42    11                    
+
+5480 +     1149   ////      1149  SVI  C   RSP  025-079   III/1                 
+
+5490       1156   1205      1212  G15  5   XRA  1-8A      B6.0    4.5E-04   1853
+
+5560      A1553   ////     A0641  SVI  3   DSF  S30E45    35                    
+
+5500       1740   1743      1745  G15  5   XRA  1-8A      B4.3    7.1E-05   1853

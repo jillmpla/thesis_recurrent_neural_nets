@@ -1,0 +1,96 @@
+:Product: 20131115events.txt
+:Created: 2013 Nov 18 0332 UT
+:Date: 2013 11 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Nov 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7820      B0000   ////     B0323  LEA  3   EPL  ////      0.2                   
+7820       0018   ////      0019  CUL  C   RSP  040-260   III/1                 
+
+7770 +     0018   0018      0018  LEA  G   RBR  245       110                   
+7770       0018   ////      0312  LEA  C   RSP  025-141   VI/1                  
+
+7780       0144   0144      0144  LEA  G   RBR  245       140                   
+
+7790       0220   0229      0233  G15  5   XRA  1-8A      M1.0    4.5E-03   1899
+7790       0223   0229      0241  LEA  3   FLA  N07E52    SF      ERU       1899
+
+7800       0255   0259      0310  G15  5   XRA  1-8A      C1.7    1.3E-03   1897
+
+7830       0357   0401      0406  G15  5   XRA  1-8A      C3.6    1.2E-03   1890
+
+7840       0511   ////      0511  LEA  C   RSP  025-125   III/1                 
+
+7850       0543   0546      0548  G15  5   XRA  1-8A      C1.6    2.6E-04   1900
+7850       0545   0545     A0549  LEA  3   FLA  S19W15    SF                1900
+
+7860       0618   ////      0618  LEA  C   RSP  025-052   III/1                 
+
+7910 +     0654   ////      0749  SVI  C   RSP  104-169   CTM/1                 
+
+7870       0701   ////      0701  LEA  C   RSP  025-051   III/1                 
+
+7880       0741   0741      0745  SVI  3   FLA  N12E50    SF                1899
+
+7890 +     0747   ////      0748  SVI  C   RSP  029-139   III/1                 
+
+7900       0751   0751      0755  SVI  3   FLA  N09E50    SF                1899
+
+7920       0804  U0806      0815  SVI  3   FLA  N11E50    SF                1899
+
+7930 +    B0843  U0915      0942  SVI  3   FLA  S23E24    SF                1897
+
+7980       0910  U0910      0919  SVI  3   FLA  S12W16    SF      ERU       1893
+
+7990      B0953  U0955     A1010  SVI  3   FLA  S22E26    SF      ERU       1897
+
+7940      B1009  U1026     A1053  SVI  3   FLA  N11E49    SF                1899
+
+7950       1050  U1050     A1103  SVI  3   FLA  N20E02    SF                    
+
+7960       1105   1109      1113  G15  5   XRA  1-8A      C1.5    4.9E-04   1897
+7960      B1110  U1110     A1116  SVI  3   FLA  S20E19    SF                1897
+
+7970       1131   1135      1140  G15  5   XRA  1-8A      C7.5    2.3E-03   1897
+7970      B1134  U1134     A1219  SVI  3   FLA  S18E20    1N      ERU       1897
+
+8000       1252   1253      1254  SAG  G   RBR  410       150                   
+8000 +     1252   ////      1254  SAG  C   RSP  025-180   III/1                 
+8000 +     1253   1253      1254  SVI  G   RBR  245       140                   
+
+8010 +     1307   ////      1307  SVI  C   RSP  027-134   III/1                 
+
+8020 +     1313   ////      1343  SAG  C   RSP  101-180   CTM/1                 
+
+8030       1556   ////      1558  SAG  C   RSP  025-180   V/2                   
+8030       1557   1557      1557  SAG  G   RBR  410       250                   
+8030       1557   1557      1557  SAG  G   RBR  245       470                   
+8030       1557   1557      1557  SAG  G   RBR  610       110                   
+
+8040       1603   ////      1605  SAG  C   RSP  105-180   III/1                 
+8040       1604   1604      1604  SAG  G   RBR  245       100                   
+
+8050       1627   1627      1627  SAG  G   RBR  245       110                   
+
+8060       1743   ////      1743  SAG  C   RSP  054-180   III/1                 
+8060 +     1743   1743      1743  SAG  G   RBR  245       130                   
+
+8070       1927   ////      1931  SAG  C   RSP  025-180   III/2                 
+8070 +     1929   1929      1930  SAG  G   RBR  245       290                   
+
+8080       2002   2009      2015  G15  5   XRA  1-8A      C3.1    1.7E-03   1900
+
+8090       2258   2303      2310  G15  5   XRA  1-8A      C3.5    1.8E-03       
+
+8100 +     2334   2334      2336  PAL  G   RBR  245       740                   
+8100       2334   ////      2336  LEA  C   RSP  025-180   V/2                   
+8100 +     2335   2335      2335  PAL  G   RBR  410       150                   
+
+8110       2336   ////      2350  LEA  C   RSP  100-180   CTM/1                 

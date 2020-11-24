@@ -1,0 +1,38 @@
+:Product: 20131130events.txt
+:Created: 2013 Dec 03 0332 UT
+:Date: 2013 11 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Nov 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 800       0147   ////      0256  LEA  C   RSP  110-158   CTM/1                 
+
+ 810       0329   ////      0329  LEA  C   RSP  025-057   III/1                 
+
+ 820       0617   ////      0618  LEA  C   RSP  025-086   III/1                 
+
+ 870       0623   ////      1126  SVI  C   RSP  075-180   CTM/1                 
+
+ 830       0623   0623      0623  LEA  G   RBR  245       130                   
+
+ 840 +     0706   ////      0715  LEA  C   RSP  025-078   III/1                 
+
+ 850       0845   0845      0845  LEA  G   RBR  245       100                   
+
+ 860 +     0926   ////      0928  SVI  C   RSP  025-143   III/1                 
+
+ 880       1116   1121      1126  G15  5   XRA  1-8A      B6.7    3.0E-04   1909
+
+ 890       1423   1429      1440  G15  5   XRA  1-8A      B8.6    6.8E-04   1909
+
+ 900       1454   1459      1512  G15  5   XRA  1-8A      B8.7    7.6E-04   1909
+
+ 910       2122   2127      2134  G15  5   XRA  1-8A      B7.0    3.9E-04       
+
+ 920       2154   2158      2200  G15  5   XRA  1-8A      C1.0    2.4E-04   1909

@@ -1,0 +1,53 @@
+:Product: 20131121events.txt
+:Created: 2013 Nov 24 0332 UT
+:Date: 2013 11 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Nov 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9410       0002   ////      0158  LEA  C   RSP  028-093   VI/1                  
+
+9420       0339   ////      0339  LEA  C   RSP  033-053   III/1                 
+
+9430       0456   ////      0603  LEA  C   RSP  036-087   VI/1                  
+
+9520      A0649   ////     A0820  SVI  2   DSF  N19E28    9                     
+
+9440       0701   ////      0701  LEA  C   RSP  036-064   III/1                 
+
+9450 +     0731   ////      0732  LEA  C   RSP  036-114   III/2                 
+
+9460       0903   0908      0915  G15  5   XRA  1-8A      C1.8    1.0E-03   1897
+9460       0904   0908      0912  LEA  3   FLA  S19W63    SF                1897
+
+9470       1052   1111      1142  G15  5   XRA  1-8A      M1.2    2.5E-02   1893
+
+9480       1144   1144      1144  SVI  U   RBR  410       130                   
+
+9490 +     1219   1219      1219  SVI  G   RBR  245       150                   
+
+9500 +     1223   1223      1223  SVI  G   RBR  245       100                   
+
+9510 +     1424   1425      1425  SAG  G   RBR  245       120                   
+
+9530       1537   1537      1537  SAG  G   RBR  245       130                   
+
+9540       1635   1635      1635  SAG  G   RBR  245       120                   
+
+9550       1652   1652      1654  SAG  G   RBR  245       180                   
+
+9560       1721   1721      1721  SAG  G   RBR  245       160                   
+
+9570       2044   2051      2102  G15  5   XRA  1-8A      C1.1    9.9E-04   1905
+
+9580       2102   2102      2102  PAL  G   RBR  245       890                   
+
+9590       2129   2129      2130  PAL  G   RBR  245       410                   
+
+9600       2143   2151      2200  G15  5   XRA  1-8A      C1.7    1.4E-03   1893

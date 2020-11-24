@@ -1,0 +1,59 @@
+:Product: 20131010events.txt
+:Created: 2013 Oct 13 0332 UT
+:Date: 2013 10 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Oct 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6580       0007   ////      0007  CUL  C   RSP  018-060   III/1                 
+
+6590       0701   0708      0711  G15  5   XRA  1-8A      C1.2    6.9E-04   1861
+6590 +     0702   0707      0710  LEA  3   FLA  S14E32    SF      ERU       1861
+
+6600       1057   1101      1104  G15  5   XRA  1-8A      C1.6    3.8E-04   1861
+6600       1059  U1100      1113  SVI  3   FLA  S08E30    SF      ERU       1861
+
+6610      B1205  U1205      1211  SVI  3   FLA  S09E30    SF      ERU       1861
+
+6620       1247   ////      1259  SAG  C   RSP  025-080   VI/1                  
+6620       1254   ////      1259  SVI  C   RSP  025-081   III/1                 
+
+6630 +     1356   1356      1404  SVI  3   FLA  S09E29    SF      ERU       1861
+
+6640       1408   1409      1419  SVI  3   FLA  S08E28    SF      ERU       1861
+
+6650 +     1439   ////      1441  SAG  C   RSP  025-180   III/2                 
+
+6660       1533   1544      1555  HOL  3   FLA  S09E39    SF      ERU       1861
+6660       1541   1545      1547  G15  5   XRA  1-8A      B8.7    1.8E-04   1861
+
+6670       1557   1558      1608  HOL  3   FLA  S09E39    SF      ERU       1861
+
+6680       1612   1626      1630  HOL  3   FLA  S08E28    SF      ERU       1861
+6680       1620   1623      1625  G15  5   XRA  1-8A      C1.4    2.4E-04   1861
+
+6690       1640   1644      1648  G15  5   XRA  1-8A      C1.2    4.0E-04   1861
+
+6720       1642   1644      1649  HOL  3   FLA  S19E54    SF                1865
+
+6690       1645   1645      1703  HOL  3   FLA  S09E28    SF                1861
+
+6700       1656   1659      1705  G15  5   XRA  1-8A      C1.6    6.0E-04   1865
+6700       1658   1700      1714  HOL  3   FLA  S20E54    SF      ERU       1865
+
+6710       1746   1752      1802  G15  5   XRA  1-8A      C1.3    1.0E-03   1865
+6710       1754   1754      1809  HOL  3   FLA  S20E52    SF      ERU       1865
+
+6730       1933   1938      1956  G15  5   XRA  1-8A      C1.1    1.3E-03   1861
+
+6740       2017   2024      2028  G15  5   XRA  1-8A      C1.0    5.0E-04   1865
+
+6750       2106   2109      2111  G15  5   XRA  1-8A      B8.6    1.3E-04       
+
+6760       2359   0009      0028  G15  5   XRA  1-8A      C3.0    3.6E-03   1861

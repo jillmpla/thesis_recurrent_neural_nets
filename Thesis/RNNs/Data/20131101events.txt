@@ -1,0 +1,81 @@
+:Product: 20131101events.txt
+:Created: 2013 Nov 04 0332 UT
+:Date: 2013 11 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Nov 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3780       0001   0009      0016  G15  5   XRA  1-8A      C6.2    3.8E-03   1884
+3780       0004   0005      0021  LEA  3   FLA  S12E13    SF      ERU       1884
+
+3800       0128   ////      0128  CUL  C   RSP  020-090   III/1                 
+3800       0128   ////      0217  LEA  C   RSP  025-113   VI/1                  
+
+4010       0147   ////      0147  CUL  C   RSP  020-090   III/1                 
+
+4020 +     0213   ////      0214  CUL  C   RSP  018-180   III/1                 
+
+4030       0216   ////      0216  CUL  C   RSP  020-130   III/1                 
+
+3810       0555   0555      0555  LEA  G   RBR  245       140                   
+
+3820       0636   ////      0704  LEA  C   RSP  025-114   VI/1                  
+
+3830       0723   0738      0758  G15  5   XRA  1-8A      C1.5    2.8E-03   1884
+
+3840 +     0838   ////      0839  LEA  C   RSP  058-180   III/1                 
+
+3850       0951   0955      0958  G15  5   XRA  1-8A      C1.1    3.3E-04   1884
+3850      B0951   0954      1000  SVI  3   FLA  S12E06    SF                1884
+
+4000      A1000   ////     A2222  LEA  3   DSF  N40E48    19                    
+
+3860       1004   1008      1011  G15  5   XRA  1-8A      C3.5    7.7E-04   1884
+3860 +     1005   1012      1018  LEA  2   FLA  S12E03    SF                1884
+
+3870       1220   1221      1227  SVI  3   FLA  S12E04    SF                1884
+
+3880 +     1246   1246      1248  SVI  G   RBR  245       290                   
+
+3890      B1327  U1331     A1340  SVI  3   FLA  S11E04    SF                1884
+
+3900 +     1417   ////      1418  SAG  C   RSP  025-039   III/1                 
+
+4110      A1426   ////     A0812  SVI  3   DSF  N50W18    16                    
+
+4120      A1426   ////     A0812  SVI  3   DSF  S27W69    8                     
+
+3910 +     1456   1456      1456  SAG  G   RBR  245       110                   
+
+3920       1517   1522      1525  G15  5   XRA  1-8A      C1.8    5.6E-04   1884
+3920       1519   1522      1528  HOL  4   FLA  S11E02    SF      ERU       1884
+
+3930       1628   ////      1630  SAG  C   RSP  045-180   III/1                 
+3930       1628   1628      1630  SAG  G   RBR  245       320                   
+
+3940       1811   ////      1838  SAG  C   RSP  025-077   VI/1                  
+3940       1837   1840      1843  G15  5   XRA  1-8A      C1.1    2.4E-04   1884
+
+3950 +     1844   1844      1844  SAG  G   RBR  245       210                   
+
+3960 +     1848   1848      1848  SAG  G   RBR  245       150                   
+
+3970       1946   1953      1958  G15  5   XRA  1-8A      M6.3    2.3E-02   1884
+3970       1949   1952      2055  HOL  3   FLA  S11E01    1B      ERU       1884
+3970 +     1949   1950      1953  PAL  G   RBR  4995      410               1884
+3970 +     1949   1950      1953  PAL  G   RBR  8800      300               1884
+3970 +     1949   1950      1953  PAL  G   RBR  2695      290               1884
+3970 +     1950   1952      1953  PAL  G   RBR  15400     120               1884
+3970 +     1952   1952      1953  PAL  G   RBR  1415      150               1884
+
+3980       2000   ////      2007  SAG  C   RSP  058-180   III/1                 
+
+3990       2203   ////      2335  LEA  C   RSP  025-180   VI/1                  
+
+4200      A2354   ////     A1404  HOL  3   DSF  S41W00    17                    

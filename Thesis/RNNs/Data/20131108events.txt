@@ -1,0 +1,61 @@
+:Product: 20131108events.txt
+:Created: 2013 Nov 11 0332 UT
+:Date: 2013 11 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Nov 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5900       0000   ////      0216  LEA  C   RSP  030-075   VI/1                  
+5900       0000   ////      0424  LEA  C   RSP  055-180   CTM/1                 
+
+5910       0233   0240      0246  G15  5   XRA  1-8A      C5.7    2.9E-03   1891
+5910       0235   0240      0254  LEA  3   FLA  S18W25    SN                1891
+
+5980      B0324   ////      1130  SOH  4   CME  XUV,EUV,UV072-071/FS784       11890
+
+5920       0420   0426      0429  G15  5   XRA  1-8A      X1.1    2.8E-02   1890
+5920 +     0423   0424      0427  LEA  G   RBR  8800      2200    CastelliU 1890
+5920 +     0423   0424      0427  LEA  G   RBR  15400     3800    CastelliU 1890
+5920 +     0423   0424      0428  LEA  G   RBR  4995      1500    CastelliU 1890
+5920 +     0423   0425      0429  LEA  G   RBR  410       130000  CastelliU 1890
+5920 +     0424   0425      0429  LEA  G   RBR  2695      1000    CastelliU 1890
+5920 +     0424   0425      0431  LEA  G   RBR  610       1400    CastelliU 1890
+5920       0424   0425      0442  LEA  3   FLA  S14E15    2B      ERU       1890
+5920       0424   ////      0426  CUL  C   RSP  040-600   III/3             1890
+5920 +     0424   0425      0430  LEA  G   RBR  245       65000   CastelliU 1890
+5920 +     0424   ////      0436  COM  C   RSP  30-80     II/1    834       1890
+5920 +     0424   ////      2359  COM  C   RSP  25-180    IV/2              1890
+5920 +     0424   0425      0430  LEA  G   RBR  1415      890     CastelliU 1890
+
+5930       0440   0444      0541  LEA  G   RNS  245       170                   
+
+5940       0640   0658      0705  LEA  G   RBR  410       140                   
+5940 +     0657   ////      0847  LEA  C   RSP  034-119   VI/2                  
+5940       0658   0658      0707  LEA  G   RBR  245       140                   
+
+5950       0738   0757      0818  G15  5   XRA  1-8A      C1.4    3.0E-03   1891
+5950 +     0741  U0748      0820  SVI  3   FLA  S20W27    SF      ERU       1891
+
+5960 +     0920   0929      0943  SVI  3   FLA  S18W28    1B      ERU       1891
+5960       0922   0928      0931  G15  5   XRA  1-8A      M2.3    4.9E-03   1891
+5960 +     0927   0927      0927  SVI  G   RBR  1415      150               1891
+5960 +     0928   0928      0928  SVI  G   RBR  8800      120               1891
+5960 +     0930   0930      0931  LEA  G   RBR  610       150               1891
+
+6030       1002   ////      2218  LEA  3   DSF  S28W30    13                    
+
+5970       1300  U1300      1314  SVI  3   FLA  S10E09    SF                1890
+
+6000       1816   1821      1827  G15  5   XRA  1-8A      C1.1    5.7E-04   1887
+6000       1816   ////      1903  PAL  C   RSP  025-180   IV/1              1887
+6000       1817   1818      1822  HOL  3   FLA  N21W55    SF      ERU       1887
+
+6040       2209   ////      2359  LEA  C   RSP  025-089   VI/1                  
+
+6020       2236   2239      2241  G15  5   XRA  1-8A      B9.5    1.6E-04   1887

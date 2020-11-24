@@ -1,0 +1,74 @@
+:Product: 20131009events.txt
+:Created: 2013 Oct 12 0332 UT
+:Date: 2013 10 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Oct 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6330       0123   0148      0156  G15  5   XRA  1-8A      M2.8    2.5E-02   1865
+6330       0131   ////      0204  LEA  C   RSP  025-180   VI/1                  
+6330       0132   ////      0132  CUL  C   RSP  020-100   III/1                 
+6330 +     0146   ////      0157  CUL  C   RSP  030-170   II/1                  
+6330       0155   ////      0206  LEA  C   RSP  025-094   IV/1                  
+
+6360       0202   ////      0202  CUL  C   RSP  018-170   III/2                 
+
+6370       0250   ////      0257  CUL  C   RSP  018-120   III/1                 
+
+6340       0250   ////      0253  LEA  C   RSP  025-124   III/1                 
+
+6350       0318   ////      0319  LEA  C   RSP  025-108   III/1                 
+
+6380       0345   ////      0348  LEA  C   RSP  025-129   V/2                   
+6380       0346   ////      0347  CUL  C   RSP  018-170   III/3                 
+
+6410       0441   ////      1008  LEA  C   RSP  025-180   VI/1                  
+
+6390       0506   0528      0538  G15  5   XRA  1-8A      B9.5    1.3E-03   1856
+
+6420       0603   ////      0937  SVI  C   RSP  025-152   VI/2                  
+
+6400       0608   0613      0621  G15  5   XRA  1-8A      C1.0    6.0E-04   1865
+6400 +     0611   0615      0620  LEA  3   FLA  S22E63    SF      DSD       1865
+
+6420 +     0630   ////      0630  CUL  C   RSP  018-180   III/3                 
+
+6430 +     0834   ////      1015  LEA  4   EPL  ////      0.18                  
+
+6570      A0944   ////     A2227  LEA  3   DSF  S40E42    17                    
+
+6440 +     1125   ////      1128  SVI  C   RSP  025-081   III/1                 
+
+6450 +     1208   ////      1209  SVI  C   RSP  025-146   III/2                 
+
+6460       1243   ////      1243  SVI  C   RSP  025-080   III/1                 
+6460       1243   ////      1508  SAG  C   RSP  025-180   VII/2                 
+
+6480       1310   ////      1508  SVI  C   RSP  025-180   VII/2                 
+
+6470       1339   ////      1340  SVI  C   RSP  025-171   III/2                 
+
+6490       1633   ////      1633  SAG  U   RSP  025-138   III/1                 
+
+6500       1754   ////      1807  SAG  C   RSP  025-089   VI/1                  
+
+6510       1941   ////      1941  SAG  C   RSP  025-110   III/2                 
+
+6520       2020   2027      2032  G15  5   XRA  1-8A      B7.2    3.9E-04   1857
+6520       2022   2024      2035  HOL  3   FLA  S08W19    SF      ERU       1857
+
+6530       2104   ////      2104  CUL  C   RSP  023-050   III/1                 
+
+6540       2110   ////      2155  SAG  C   RSP  025-078   VI/1                  
+6540       2129   2141      2157  G15  5   XRA  1-8A      B7.6    1.0E-03   1856
+6540 +     2155   ////      2157  CUL  C   RSP  018-180   III/3                 
+
+6550 +     2248   ////      2258  LEA  C   RSP  025-098   III/1                 
+
+6560 +     2343   ////      2345  LEA  C   RSP  025-090   III/2                 

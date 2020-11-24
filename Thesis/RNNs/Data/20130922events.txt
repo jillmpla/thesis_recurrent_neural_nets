@@ -1,0 +1,47 @@
+:Product: 20130922events.txt
+:Created: 2013 Sep 25 0332 UT
+:Date: 2013 09 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Sep 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4520       0151   0151      0151  LEA  G   RBR  245       110                   
+
+4530 +     0242   0247      0251  G15  5   XRA  1-8A      B6.0    2.3E-04   1850
+
+4560       0329   ////      0531  LEA  2   DSF  S39W60    29                    
+
+4540       0350   ////      0438  LEA  3   EPL  ////      0.23    B.8A          
+
+4570       0609   ////      0640  SVI  C   RSP  025-052   VI/1                  
+
+4550       0637   0637      0643  SVI  3   FLA  N20E01    SF      ERU       1849
+4550       0640   ////      0640  LEA  C   RSP  025-057   III/1             1849
+
+4590       1342   1342      1342  SVI  G   RBR  245       120                   
+
+4600       1342   1342      1342  SAG  G   RBR  245       130                   
+
+4610 +     1428   ////      1450  SVI  C   RSP  025-080   VI/1                  
+
+4890      A1601   ////     A0538  SVI  3   DSF  S49W17    10                    
+
+4620       1752   1752      1752  SAG  G   RBR  245       100                   
+
+4630       1756   1756      1756  PAL  U   RBR  245       130                   
+
+4640       1756   1756      1756  SAG  G   RBR  245       120                   
+
+4650       2040   2040      2040  PAL  U   RBR  245       110                   
+
+4660       2040   2040      2040  SAG  G   RBR  245       110                   
+
+4670       2214   2214      2214  PAL  G   RBR  245       120                   
+
+4680       2217   2218      2218  PAL  G   RBR  245       120                   

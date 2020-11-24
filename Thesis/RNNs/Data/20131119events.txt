@@ -1,0 +1,60 @@
+:Product: 20131119events.txt
+:Created: 2013 Nov 22 0332 UT
+:Date: 2013 11 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Nov 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9080       0000   ////      0712  LEA  C   RSP  025-180   VI/1                  
+
+9050       0014   0036      0056  G15  5   XRA  1-8A      C1.8    3.8E-03   1897
+9050       0024   0039      0039  LEA  3   FLA  S16W33    SF                1897
+9050       0029   ////      0030  LEA  C   RSP  025-180   III/2             1897
+
+9060       0235   0235      0235  LEA  G   RBR  245       150                   
+9060       0235   ////      0236  LEA  C   RSP  025-180   III/2                 
+
+9070       0504   0526      0537  G15  5   XRA  1-8A      C1.8    3.1E-03   1900
+
+9090       0800   ////      0941  LEA  C   RSP  039-114   III/1                 
+
+9100       1014   1026      1034  G15  5   XRA  1-8A      X1.0    6.6E-02   1893
+9100       1017   1022     U1029  LEA  G   RBR  15400     5100    CastelliU 1893
+9100       1018   1023     U1029  LEA  G   RBR  8800      2700    CastelliU 1893
+9100       1020   1021     U1027  LEA  G   RBR  2695      530     CastelliU 1893
+9100       1020   1023     U1029  LEA  G   RBR  4995      690     CastelliU 1893
+9100       1020   1022      1024  LEA  G   RBR  1415      610     CastelliU 1893
+9100       1020   1021      1024  LEA  G   RBR  610       820     CastelliU 1893
+9100       1022   1023      1025  LEA  G   RBR  245       23000   CastelliU 1893
+9100       1022   1023      1024  LEA  G   RBR  410       280     CastelliU 1893
+9100      B1024  U1032     A1035  LEA  1   FLA  S70W14    SF                1893
+9100       1024   ////      1029  LEA  C   RSP  036-180   II/1    1049      1893
+
+9110       1305   ////      1311  SAG  U   RSP  025-075   III/1                 
+
+9190       1602   ////      2111  HOL  3   DSF  N38E03    6                     
+
+9120       1648   1651      1656  G15  5   XRA  1-8A      C1.1    3.9E-04       
+9120       1649   1649      1650  SAG  G   RBR  410       300                   
+
+9130       1703   1706      1709  G15  5   XRA  1-8A      C1.3    3.0E-04       
+
+9140       1755   1801      1805  G15  5   XRA  1-8A      C2.1    8.4E-04   1893
+
+9150       1812   1815      1819  G15  5   XRA  1-8A      C1.6    4.3E-04       
+
+9160 +     1905   1905      1905  SAG  G   RBR  245       210                   
+9160       1905   ////      1907  SAG  C   RSP  025-180   III/1                 
+
+9170       2033   ////      2033  SAG  C   RSP  025-044   III/1                 
+
+9180       2137   2137      2139  PAL  G   RBR  245       100                   
+
+9200       2216   ////      2359  LEA  C   RSP  025-113   VI/1                  
+9200       2302   ////      2319  LEA  3   EPL  ////      0.16                  

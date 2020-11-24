@@ -1,0 +1,23 @@
+:Product: 20130930events.txt
+:Created: 2013 Oct 03 0332 UT
+:Date: 2013 09 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Sep 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5590       0309   ////      0314  LEA  C   RSP  025-105   III/1                 
+
+5600       1629   ////      1645  SAG  C   RSP  025-180   VI/2                  
+
+5610       1727   1730      1732  G15  5   XRA  1-8A      B4.8    8.1E-05       
+5610       1728   ////      1730  SAG  C   RSP  025-180   III/2                 
+5610 +     1731   1731      1731  SAG  G   RBR  245       160                   
+5610 +     1731   1731      1732  SAG  G   RBR  410       340                   
+
+5620       2215   2215      2215  PAL  G   RBR  245       160                   

@@ -1,0 +1,46 @@
+:Product: 20131008events.txt
+:Created: 2013 Oct 11 0332 UT
+:Date: 2013 10 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Oct 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6200       0032   ////      1014  LEA  3   EPL  ////      0.16                  
+
+6170       0231   0241      0244  G15  5   XRA  1-8A      B6.9    3.7E-04   1861
+6170       0238   0238      0238  LEA  G   RBR  245       350                   
+
+6180       0247   0247      0247  LEA  G   RBR  245       120                   
+
+6190       0543   ////      0543  SVI  C   RSP  103-152   III/1                 
+6190       0543   ////      0556  LEA  C   RSP  025-180   VI/1                  
+
+6230       0544   ////      0545  CUL  C   RSP  018-260   III/1                 
+
+6240       0553   ////      0553  CUL  C   RSP  075-140   III/1                 
+
+6290      A0956   ////     A2237  LEA  3   DSF  N35E62    25                    
+
+6300      A0956   ////     A2237  LEA  3   DSF  S08E14    18                    
+
+6210       1053   1100      1111  G15  5   XRA  1-8A      B9.3    7.6E-04   1861
+
+6220 +     1533   ////      1533  SAG  C   RSP  025-053   III/1                 
+
+6310       1550   ////      2101  HOL  2   DSF  N08E08    20      B.4A          
+
+6320       1907   ////      2120  HOL  3   DSF  N24E27    47      B.4A          
+
+6250       2141   2144      2151  HOL  3   FLA  N08W08    SF                1856
+
+6260 +     2223   2223      2246  HOL  3   FLA  N07W10    SF                1856
+
+6270       2342   ////      2342  CUL  C   RSP  035-180   III/1                 
+
+6280       2342   ////      2342  LEA  C   RSP  034-180   III/1                 

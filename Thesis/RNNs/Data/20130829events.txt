@@ -1,0 +1,32 @@
+:Product: 20130829events.txt
+:Created: 2013 Sep 01 0332 UT
+:Date: 2013 08 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Aug 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1940       0133   ////      0529  LEA  2   DSF  S60E00    44                    
+
+1920       0418   0434      0501  G15  5   XRA  1-8A      C1.2    2.5E-03   1836
+1920 +     0452   ////      0452  LEA  C   RSP  028-124   III/1                 
+
+1930       0643   0647      0705  G15  5   XRA  1-8A      B5.3    5.3E-04   1834
+1930       0645   0645      0650  SVI  3   FLA  N16E17    SF      ERU       1834
+
+2000      A0939   ////     A2319  LEA  3   DSF  S30W03    14                    
+
+1960       1219   ////      1222  SVI  C   RSP  105-180   III/1                 
+
+1970       1255   ////      1330  SVI  2   BSL  ////      0.2     B.9A          
+
+1990       1307   1314      1325  G15  5   XRA  1-8A      B5.8    4.7E-04   1836
+
+2070      A1556   ////     A0156  SVI  3   DSF  N43E34    8                     
+
+1980       2131   2134      2136  G15  5   XRA  1-8A      B4.4    7.1E-05       

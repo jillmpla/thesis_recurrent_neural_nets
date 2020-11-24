@@ -1,0 +1,59 @@
+:Product: 20131102events.txt
+:Created: 2013 Nov 05 0332 UT
+:Date: 2013 11 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Nov 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4040       0010   ////      0012  LEA  C   RSP  025-108   III/1                 
+
+4050       0132   ////      0255  LEA  C   RSP  025-180   VI/1                  
+
+4070       0431   ////      0503  LEA  C   RSP  025-180   VI/2                  
+
+4060       0440   0446      0450  G15  5   XRA  1-8A      C8.2    2.7E-03   1885
+4060       0443   0444      0458  LEA  3   FLA  S23W04    SF                1885
+4060       0446   ////      0450  LEA  C   RSP  076-180   II/1    584       1885
+4060 +     0446   0447      0447  LEA  G   RBR  245       380               1885
+
+4080 +     0554   ////      0648  LEA  C   RSP  025-180   VI/1                  
+
+4090 +     0808   ////      0904  LEA  C   RSP  035-180   CTM/1                 
+4090 +     0829   ////      0904  SVI  C   RSP  025-080   VI/1                  
+
+4100      B0931  U0931     A0945  SVI  3   FLA  S12W05    SF                1884
+
+4250 +    A0949   ////     A2227  LEA  3   DSF  S24W02    7                 1885
+
+4130       1035   1040      1047  G15  5   XRA  1-8A      C1.4    7.9E-04   1884
+4130      B1037  U1040     A1134  SVI  3   FLA  S14W04    SF      ERU       1884
+
+4140       1112   1115      1118  G15  5   XRA  1-8A      C1.6    3.5E-04       
+
+4150 +     1211   ////      1212  SVI  C   RSP  025-135   III/2                 
+
+4160      B1252  U1312      1359  SVI  3   FLA  S12W06    1F      ERU       1884
+4160       1254   1307      1319  G15  5   XRA  1-8A      C4.3    4.8E-03   1884
+
+4170       1321   ////      1322  SVI  U   RSP  120-150   III/1                 
+4170       1321   ////      1407  SAG  C   RSP  025-180   VI/1                  
+
+4190       1522   1527      1535  G15  5   XRA  1-8A      C1.1    7.0E-04   1884
+4190       1524   1526      1531  HOL  3   FLA  S12W08    SF      ERU       1884
+
+4210       1808   1812      1821  G15  5   XRA  1-8A      C1.7    1.0E-03   1889
+
+4220       2020   2024      2026  G15  5   XRA  1-8A      C1.6    3.8E-04   1889
+4220       2022   2023      2028  HOL  3   FLA  S18E25    SF      DSD       1889
+
+4230       2127   2131      2142  HOL  3   FLA  S12W11    SF      ERU       1884
+4230       2128   2132      2139  G15  5   XRA  1-8A      C3.6    1.7E-03   1884
+
+4240       2213   2221      2225  G15  5   XRA  1-8A      M1.6    6.4E-03   1884
+4240 +     2216   2219      2248  HOL  3   FLA  S12W11    1F      ERU       1884

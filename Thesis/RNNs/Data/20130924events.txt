@@ -1,0 +1,38 @@
+:Product: 20130924events.txt
+:Created: 2013 Sep 27 0332 UT
+:Date: 2013 09 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Sep 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5070       0201   0209      0215  G15  5   XRA  1-8A      B8.1    4.6E-04   1850
+5070      B0208  U0208     A0223  LEA  1   FLA  N09E23    SF                1850
+
+5080       0251   ////      0251  CUL  C   RSP  020-057   III/1                 
+
+5180      A1616   ////     A0554  SVI  3   DSF  N24E70    8                     
+
+5090       1706   1712      1715  G15  5   XRA  1-8A      B5.6    1.9E-04   1850
+5090       1711   1711      1717  HOL  3   FLA  N10E13    SF      ERU       1850
+
+5100       1853   1906      1919  G15  5   XRA  1-8A      B9.9    1.2E-03   1850
+5100       1857   1900      1912  HOL  3   FLA  N11E13    SF      ERU       1850
+
+5110       2007   ////      2025  HOL  4   BSL  ////      0.4     B.9A          
+5110 +     2007   ////      2007  CUL  C   RSP  018-080   III/1                 
+
+5140       2242   ////      2243  CUL  C   RSP  018-075   III/1                 
+
+5120       2242   ////      2242  LEA  C   RSP  025-084   III/1                 
+
+5130       2250   2256      2303  G15  5   XRA  1-8A      C1.1    6.2E-04   1846
+5130       2253   2255      2305  HOL  3   FLA  S19W13    SF      ERU       1846
+
+5150       2327   2329      2332  G15  5   XRA  1-8A      B6.6    2.3E-04   1850
+5150 +     2328   2331      2342  HOL  3   FLA  N10E10    SF      ERU       1850

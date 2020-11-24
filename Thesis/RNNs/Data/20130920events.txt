@@ -1,0 +1,67 @@
+:Product: 20130920events.txt
+:Created: 2013 Sep 23 0332 UT
+:Date: 2013 09 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Sep 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4240      A0023   ////     A1331  HOL  3   DSF  S22W10    11                    
+
+4150       0118   ////      0310  LEA  C   RSP  025-180   CTM/1                 
+
+4130 +     0119   0120      0120  LEA  G   RBR  245       170                   
+
+4140       0122   0122      0122  LEA  G   RBR  245       110                   
+
+4160       0411   0419      0438  G15  5   XRA  1-8A      B9.6    1.1E-03   1850
+4160       0427   ////      0537  LEA  C   RSP  075-180   CTM/1                 
+
+4190       0504   ////      0845  SVI  C   RSP  059-172   CTM/1                 
+
+4170       0602   ////      0602  SVI  C   RSP  025-048   III/1                 
+
+4180       0735   ////      0749  SVI  C   RSP  025-078   VI/1                  
+4180 +     0746   ////      0747  LEA  C   RSP  025-180   III/1                 
+
+4200 +     0956   1002      1008  G15  5   XRA  1-8A      C2.1    9.3E-04   1850
+
+4210       1139   1153      1203  G15  5   XRA  1-8A      C3.8    3.4E-03   1850
+4210       1143   1144      1206  SVI  3   FLA  N11E76    SF      ERU       1850
+
+4220       1246   1251      1300  G15  5   XRA  1-8A      C2.3    1.3E-03   1850
+
+4230 +     1452   1453      1453  SAG  G   RBR  245       150                   
+
+4250 +     1510   ////      1515  SVI  C   RSP  025-080   III/1                 
+
+4260       1527   1527      1528  SAG  G   RBR  245       110                   
+
+4430      A1618   ////     A0516  SVI  3   DSF  N27E70    15                    
+
+4270       1651   1657      1708  G15  5   XRA  1-8A      C1.3    9.3E-04   1850
+4270       1654   1659      1700  HOL  4   FLA  N11E76    SF                1850
+4270       1703   1703      1703  SAG  G   RBR  245       100               1850
+
+4280       1714   1714      1714  SAG  G   RBR  245       140                   
+
+4290       1824   ////      1843  SAG  C   RSP  025-039   VI/1                  
+
+4330       1842   1845      1940  SAG  G   RNS  245       230                   
+
+4300       1854   1854      1854  SAG  G   RBR  410       150                   
+
+4310       1931   ////      1931  SAG  C   RSP  025-075   III/1                 
+
+4320       1946   1951      1957  G15  5   XRA  1-8A      B6.8    3.1E-04   1850
+
+4340       2126   2126      2126  SAG  G   RBR  245       120                   
+
+4350       2140   2140      2140  SAG  G   RBR  410       200                   
+
+4360       2231   ////      2321  LEA  C   RSP  074-180   CTM/1                 

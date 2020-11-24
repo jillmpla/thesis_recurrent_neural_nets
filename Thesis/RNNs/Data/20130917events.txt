@@ -1,0 +1,22 @@
+:Product: 20130917events.txt
+:Created: 2013 Sep 20 0332 UT
+:Date: 2013 09 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Sep 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3790       0231   ////      0404  LEA  2   LPS  ////      0.07                  
+
+3800       0434   ////      0729  LEA  3   DSF  S33W45    9                     
+
+3810       1249  U1250      1254  SVI  3   FLA  N02E14    SF                    
+
+3820       2113   2118      2125  G15  5   XRA  1-8A      B6.8    3.2E-04       
+
+3830       2251   2255      2300  G15  5   XRA  1-8A      B4.2    1.6E-04   1846

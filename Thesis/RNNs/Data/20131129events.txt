@@ -1,0 +1,23 @@
+:Product: 20131129events.txt
+:Created: 2013 Dec 02 0332 UT
+:Date: 2013 11 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Nov 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 750       0626   0642      0650  G15  5   XRA  1-8A      B7.3    8.9E-04   1908
+
+ 760 +     0652   ////      1011  SVI  C   RSP  075-180   CTM/1                 
+
+ 770       0959   1006      1009  G15  5   XRA  1-8A      C1.5    5.7E-04   1907
+ 770 +     1003   1006      1008  LEA  3   FLA  S05W16    SF                    
+
+ 780 +     1503   ////      1503  SAG  C   RSP  025-180   III/1                 
+
+ 790       2325   2325      2325  LEA  G   RBR  245       130                   
