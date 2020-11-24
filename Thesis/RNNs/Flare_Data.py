@@ -3,15 +3,15 @@
 
 import tensorflow as tf
 from tensorflow import keras
-from matplotlib import pyplot as plt
+import os
+import glob
+import shutil
+import datetime
 import numpy as np
 import pandas as pd
-import datetime
-import shutil
-import glob
-import os
-from astropy.time import Time
 from pathlib import Path
+from astropy.time import Time
+from matplotlib import pyplot as plt
 from sklearn.preprocessing import LabelBinarizer
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
@@ -43,7 +43,6 @@ def convert_time_2012(k):
 	
 	#delete first row of df from previous year
 	k = k[(k['T_REC'].dt.year != 2011)]
-	
 	return(k)
 
 def convert_time_2013(k):
@@ -59,7 +58,6 @@ def convert_time_2013(k):
 	
 	#delete first row of df from previous year
 	k = k[(k['T_REC'].dt.year != 2012)]
-	
 	return(k)
 
 def convert_time_2014(k):
@@ -75,7 +73,6 @@ def convert_time_2014(k):
 	
 	#delete first row of df from previous year
 	k = k[(k['T_REC'].dt.year != 2013)]
-	
 	return(k)
 	
 def convert_time_2015(k):
@@ -91,7 +88,6 @@ def convert_time_2015(k):
 	
 	#delete first row of df from previous year
 	k = k[(k['T_REC'].dt.year != 2014)]
-	
 	return(k)
 
 def getAllData(binary):
@@ -121,23 +117,85 @@ def getAllData(binary):
     #time in UTC
     #Event - arbitrary event number assigned by SWPC
     #Reg# - SWPC-assigned solar region number
-	cwd = os.getcwd() 
-	extraEvents = "\\Data"
-	my_dir = cwd + extraEvents
-	filesList = []
-	dataframes = []
-	os.chdir( my_dir )
 	
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	#If any additional daily report years are added to the Data folder add a new entry here
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	df = pd.DataFrame()
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	cwd = os.getcwd() 
+	daily_Events = "\\Data"
+	my_dir = cwd + daily_Events
+	os.chdir(my_dir)
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	daily_reports_year = "\\2012" #folder year for daily reports, only variable changed in this block
+	year_dir = my_dir + daily_reports_year
+	os.chdir(year_dir)
+
+	filesList = []
 	for files in glob.glob("*.txt"):
 		filesList.append(files)
-		
-	df = pd.DataFrame()
+    
+	for aFile in filesList:
+		frame = pd.read_csv(aFile, skiprows=11, engine = 'python', sep='[\s+]{2,}', skip_blank_lines=True, header=None, names=["Event", "Begin", "Max", "End", "Obs", "Q", "Type", "Loc/Frq", "Particulars", "Particulars2", "Reg#"], usecols = [0,1,2,3,4,5,6,7,8,9,10])
+		frame['Filename'] = Path(aFile).stem[:-6]
+		frame['Day'] = pd.to_datetime(frame['Filename'])    
+		df = df.append(frame)
+	os.chdir('..')
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	daily_reports_year = "\\2013" #folder year for daily reports, only variable changed in this block
+	current_dir = os.getcwd() 
+	year_dir = current_dir + daily_reports_year
+	os.chdir(year_dir)
+
+	filesList = []
+	for files in glob.glob("*.txt"):
+		filesList.append(files)
 
 	for aFile in filesList:
 		frame = pd.read_csv(aFile, skiprows=11, engine = 'python', sep='[\s+]{2,}', skip_blank_lines=True, header=None, names=["Event", "Begin", "Max", "End", "Obs", "Q", "Type", "Loc/Frq", "Particulars", "Particulars2", "Reg#"], usecols = [0,1,2,3,4,5,6,7,8,9,10])
 		frame['Filename'] = Path(aFile).stem[:-6]
 		frame['Day'] = pd.to_datetime(frame['Filename'])    
 		df = df.append(frame)
+	os.chdir('..')
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	daily_reports_year = "\\2014" #folder year for daily reports, only variable changed in this block
+	current_dir = os.getcwd() 
+	year_dir = current_dir + daily_reports_year
+	os.chdir(year_dir)
+
+	filesList = []
+	for files in glob.glob("*.txt"):
+		filesList.append(files)
+
+	for aFile in filesList:
+		frame = pd.read_csv(aFile, skiprows=11, engine = 'python', sep='[\s+]{2,}', skip_blank_lines=True, header=None, names=["Event", "Begin", "Max", "End", "Obs", "Q", "Type", "Loc/Frq", "Particulars", "Particulars2", "Reg#"], usecols = [0,1,2,3,4,5,6,7,8,9,10])
+		frame['Filename'] = Path(aFile).stem[:-6]
+		frame['Day'] = pd.to_datetime(frame['Filename'])    
+		df = df.append(frame)
+	os.chdir('..')
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	daily_reports_year = "\\2015" #folder year for daily reports, only variable changed in this block
+	current_dir = os.getcwd() 
+	year_dir = current_dir + daily_reports_year
+	os.chdir(year_dir)
+
+	filesList = []
+	for files in glob.glob("*.txt"):
+		filesList.append(files)
+
+	for aFile in filesList:
+		frame = pd.read_csv(aFile, skiprows=11, engine = 'python', sep='[\s+]{2,}', skip_blank_lines=True, header=None, names=["Event", "Begin", "Max", "End", "Obs", "Q", "Type", "Loc/Frq", "Particulars", "Particulars2", "Reg#"], usecols = [0,1,2,3,4,5,6,7,8,9,10])
+		frame['Filename'] = Path(aFile).stem[:-6]
+		frame['Day'] = pd.to_datetime(frame['Filename'])    
+		df = df.append(frame)
+	os.chdir('..')
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
     #get Peak_Time, Class, and Region_Num from data
 	df = df[~df.Event.str.contains('#')]
@@ -309,6 +367,7 @@ def getAllData(binary):
 			else:
 				allLabels.append(fla_class_1)
 		if mylabel_1.empty:
+			#could put an if else here even/odd num, skip/delete mygroup
 			no_fla = 'N' #N for no flare occurred
 			allLabels.append(no_fla)
         #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -336,6 +395,8 @@ def getAllData(binary):
 	tim_steps = allData.shape[1] #number of timesteps
 	n_feats = allData.shape[2] #number of features per timestep
 
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
     #one-hot encoding
     #6 flare classes: N is no flare, A is smallest, X is largest
     #key = {'N', 'A', 'B', 'C', 'M', 'X'}
@@ -347,15 +408,21 @@ def getAllData(binary):
 	print(np.unique(allLabels, return_counts=True))
     #check inverse
     #print(a_encoder.inverse_transform(allLabels_enc))
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
     #normalized feature data - :::allData::: [num_sequences, number of timesteps, number of features per timestep]
     #encoded labels - :::allLabels_enc::: one-hot encoding
 
-    #split into train and test - 80% train, 20% test
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+    #split into train and test - 60% train, 20% validation (of train), 20% test
 	#use specific seed for pseudo-random number generator when spliting data to properly compare machine learning models
 	#get a balanced number of examples for each class label in both train and test with stratify=y
 	X_train, X_test, y_train, y_test = train_test_split(allData, allLabels_enc, test_size = 0.20, random_state=123, stratify=allLabels_enc)
 	#split train set further into train and validation sets
 	X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size = 0.20, random_state=123, stratify=y_train)
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
 	return(X_train, X_val, X_test, y_train, y_val, y_test, tim_steps, n_feats, count_of_classes)
