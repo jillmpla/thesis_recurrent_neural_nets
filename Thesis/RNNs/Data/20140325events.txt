@@ -1,0 +1,28 @@
+:Product: 20140325events.txt
+:Created: 2014 Mar 28 0332 UT
+:Date: 2014 03 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7890       0207   ////      0207  LEA  C   RSP  059-102   III/1                 
+
+7940       0521   0529      0544  G15  5   XRA  1-8A      C1.4    1.8E-03   2015
+
+7900       0607   0610      0612  G15  5   XRA  1-8A      C1.2    2.1E-04   2010
+
+7920       0752  U0801      0841  SVI  3   FLA  S16W29    SF      ERU       2010
+
+7910       0805   0808      0811  G15  5   XRA  1-8A      C1.1    2.4E-04   2010
+
+8030      A1158   ////     A0603  SVI  3   DSF  N04W07    7                     
+
+7930       1529   1531      1532  HOL  3   FLA  S15W36    SF      DSD       2010
+
+7950       2345   2356      0005  G15  5   XRA  1-8A      C1.0    1.1E-03       

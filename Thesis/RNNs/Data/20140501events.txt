@@ -1,0 +1,73 @@
+:Product: 20140501events.txt
+:Created: 2014 May 04 0332 UT
+:Date: 2014 05 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 May 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5690       0017   ////      0135  LEA  C   RSP  027-180   VI/1                  
+
+5610       0041   0043      0046  HOL  3   FLA  N19W78    SF      DSD       2048
+
+5890      A0101   ////     A1339  HOL  3   DSF  N04E15    14                    
+
+5700       0123   0123      0123  LEA  G   RBR  245       100                   
+5700       0123   ////      0124  LEA  C   RSP  025-180   V/1                   
+5700       0124   ////      0125  CUL  C   RSP  018-057   III/2                 
+
+5710       0132   0142      0156  G15  5   XRA  1-8A      B7.2    7.5E-04       
+
+5840       0210   ////      0640  LEA  C   RSP  027-180   VI/2                  
+
+5720       0219   0219      0219  LEA  G   RBR  245       120                   
+
+5810       0228   ////      0451  LEA  C   RSP  076-172   CTM/1                 
+
+5730       0230   0230      0231  LEA  G   RBR  245       340                   
+5730       0230   ////      0232  LEA  C   RSP  025-180   V/2                   
+5730       0231   ////      0233  CUL  C   RSP  018-070   III/3                 
+
+5740       0233   0233      0233  LEA  G   RBR  245       120                   
+
+5750       0321   ////      0322  CUL  C   RSP  018-090   III/3                 
+5750 +     0322   ////      0323  CUL  C   RSP  018-030   V/3                   
+
+5780       0358   0401      0404  G15  5   XRA  1-8A      B6.3    1.4E-04   2048
+
+5850       0405   ////      0632  SVI  C   RSP  075-155   CTM/1                 
+
+5790       0406   ////      0409  CUL  C   RSP  018-075   III/3                 
+
+5850       0502   ////      0519  SVI  C   RSP  025-140   VI/1                  
+
+5800       0507   0507      0507  LEA  G   RBR  245       330                   
+
+5820       0508   ////      0510  SVI  C   RSP  025-180   V/2                   
+5820       0509   ////      0510  CUL  C   RSP  020-090   III/3                 
+
+5830       0538   ////      0544  SVI  C   RSP  027-150   V/2                   
+5830       0543   ////      0544  CUL  C   RSP  023-090   III/3                 
+
+5860       0550   ////      0641  SVI  C   RSP  025-143   VI/1                  
+5860       0606   ////      0607  SVI  C   RSP  025-081   III/1                 
+
+5870       0840   ////      0850  LEA  C   RSP  025-180   III/2                 
+5870       0840   ////      0850  SVI  C   RSP  025-158   V/2                   
+
+5880       0947   ////      0949  SVI  C   RSP  025-145   III/1                 
+
+5900      B1411  U1414      1422  SVI  3   FLA  S19W07    SF                2047
+
+5910 +     1430   ////      1434  SVI  C   RSP  030-080   III/1                 
+
+5920       1722   ////      1727  SAG  C   RSP  025-056   III/1                 
+
+5930       1744   1749      1754  G15  5   XRA  1-8A      B6.8    3.0E-04   2050
+
+5940       2329   2333      2336  G15  5   XRA  1-8A      B5.8    1.6E-04   2047

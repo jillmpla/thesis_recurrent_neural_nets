@@ -1,0 +1,54 @@
+:Product: 20140421events.txt
+:Created: 2014 Apr 24 0332 UT
+:Date: 2014 04 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Apr 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4330      A0012   ////     A1317  HOL  3   DSF  N60W10    10                    
+
+4210       0037   ////      0053  LEA  2   EPL  ////      0.15              2036
+
+4250       0056   0108      0153  G15  5   XRA  1-8A      C1.7    5.5E-03   2034
+
+4400       0357   ////      0357  CUL  C   RSP  018-057   III/1                 
+
+4260 +     0449   0454      0457  G15  5   XRA  1-8A      C1.4    4.7E-04   2045
+
+4270 +     0630   0634      0640  G15  5   XRA  1-8A      C1.2    5.8E-04   2036
+
+4280       0653   0702      0709  G15  5   XRA  1-8A      C1.2    1.1E-03   2036
+
+4290       0913   0935      1020  G15  5   XRA  1-8A      C2.0    6.3E-03   2038
+4290       0924   0944      1021  SVI  3   FLA  S10W07    SF                2038
+
+4300       0933   0934      0937  SVI  3   FLA  S23E61    SF                2045
+
+4310       1143   1149      1153  SVI  3   FLA  S17W67    SF                2036
+
+4320       1326   1329      1337  G15  5   XRA  1-8A      C1.1    5.6E-04   2038
+4320       1329   1329      1332  HOL  3   FLA  S11W11    SF      ERU       2038
+
+4360       1930   2002      2026  G15  5   XRA  1-8A      C5.1    1.3E-02   2038
+4360       1932   2005      2106  HOL  3   FLA  S11W14    SF      ERU       2038
+
+4340       1944   1945      1948  HOL  3   FLA  S11W54    SF      ERU       2035
+
+4390       2103   ////      2130  HOL  2   DSF  S02W07    6                     
+
+4350       2108   2109      2114  HOL  3   FLA  S11W54    SF      ERU       2035
+
+4380       2209   2229      2246  G15  5   XRA  1-8A      C3.0    5.5E-03   2038
+
+4370       2213   2213      2218  HOL  3   FLA  S11W54    SF      DSD       2035
+
+4380       2214   2224      2256  HOL  3   FLA  S11W18    SF      ERU       2038
+4380       2229   ////      2229  CUL  C   RSP  020-057   III/1             2038
+
+4410       2320   2331      2340  G15  5   XRA  1-8A      C2.3    2.7E-03   2035

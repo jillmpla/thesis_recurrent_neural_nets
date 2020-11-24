@@ -1,0 +1,60 @@
+:Product: 20140326events.txt
+:Created: 2014 Mar 29 0332 UT
+:Date: 2014 03 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7960       0035   0054      0103  G15  5   XRA  1-8A      C1.1    1.6E-03   2010
+7960       0052   0054      0058  LEA  3   FLA  S14W42    SF                2010
+
+7970       0318   0326      0339  G15  5   XRA  1-8A      C1.4    1.4E-03       
+
+7980       0514   0514      0514  LEA  G   RBR  245       110                   
+
+7990 +     0514   ////      0514  LEA  C   RSP  025-112   III/1                 
+
+8080       0547   ////      1141  SVI  C   RSP  075-160   CTM/1                 
+
+8000       0657   0701      0704  G15  5   XRA  1-8A      B8.7    2.4E-04       
+8000 +     0700   ////      0700  LEA  C   RSP  025-180   III/1                 
+
+8010       0803   0808      0809  SVI  3   FLA  S14W07    SF                2014
+
+8020 +     0838   ////      0840  LEA  C   RSP  025-180   III/2                 
+
+8040       0935   0936      0937  SVI  3   FLA  S15W46    SF                2010
+
+8050       0945   ////      0946  SVI  C   RSP  033-135   III/1                 
+8050       0946   ////      1006  LEA  C   RSP  062-180   VI/1                  
+8050 +     0946   0946      0946  SVI  G   RBR  245       150                   
+
+8060       0957   1001      1010  G15  5   XRA  1-8A      C1.1    6.9E-04   2010
+8060       0958   1001      1021  SVI  3   FLA  S15W46    1F      ERU       2010
+8060       1005   ////      1005  SVI  C   RSP  047-171   III/2             2010
+
+8070       1024   ////      1108  SVI  C   RSP  103-138   VI/1                  
+8070       1059   1102      1104  G15  5   XRA  1-8A      C1.5    2.0E-04   2014
+8070 +     1059   ////      1103  SVI  C   RSP  025-180   III/1                 
+8070       1100   1100      1100  SVI  G   RBR  410       120                   
+
+8090 +     1232   ////      1232  SAG  C   RSP  025-180   III/2                 
+
+8100 +     1307   ////      1308  SAG  C   RSP  025-099   III/2                 
+
+8110       1424   1424      1426  SVI  3   FLA  S16W45    SF                2010
+
+8140      A1803   ////     A1859  HOL  2   DSF  S20W55    6                     
+
+8120      B2118   2131      2134  HOL  2   FLA  S13W52    SF      ERU       2010
+8120       2120   2123      2125  G15  5   XRA  1-8A      C1.2    2.0E-04   2010
+
+8130       2203   2206      2212  G15  5   XRA  1-8A      C1.1    4.4E-04   2010
+
+8150 +     2313   ////      2314  LEA  C   RSP  031-106   III/1                 

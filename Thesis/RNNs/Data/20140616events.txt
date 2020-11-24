@@ -1,0 +1,67 @@
+:Product: 20140616events.txt
+:Created: 2014 Jun 19 0332 UT
+:Date: 2014 06 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jun 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4560       0024   ////      0236  LEA  C   RSP  076-136   CTM/1                 
+
+4570       0133   0215      0301  G15  5   XRA  1-8A      C8.3    3.2E-02   2085
+
+4590       0133   0135      0139  LEA  3   FLA  ////      SF                2085
+
+4580       0241   0241      0241  LEA  G   RBR  245       110                   
+
+4600       0250   0319      0412  LEA  2   FLA  N18W38    SF      ERU       2089
+4600      B0326   ////     B0557  LEA  3   LPS  ////      0.05              2089
+
+4610       0431   0438      0440  LEA  3   FLA  N18W40    SF      ERU       2089
+
+4620       0443   0443      0454  LEA  3   FLA  N18W40    SF      ERU       2089
+
+4630       0512   0513      0520  LEA  3   FLA  S20E15    SF      ERU       2092
+4630 +     0517   0517      0517  LEA  G   RBR  245       110               2092
+
+4640 +     0539   0539      0612  LEA  3   FLA  N17W39    SF      ERU       2089
+
+4650 +    B0613  U0741     A0815  SVI  3   FLA  N16W42    1F      ERU       2089
+
+4660       0730   0742      0751  G15  5   XRA  1-8A      C2.8    2.7E-03   2089
+4660       0730   0734      0819  LEA  3   FLA  N18W42    SF      ERU       2089
+
+4670       1126   1129      1132  G15  5   XRA  1-8A      C1.5    3.5E-04   2089
+
+4680 +     1138   ////      1145  SAG  C   RSP  025-071   III/1                 
+
+4690       1218   1221      1235  G15  5   XRA  1-8A      C1.1    9.3E-04   2089
+
+4700      B1406  U1408     A1414  SVI  3   FLA  N15W45    SF                2089
+
+4710       1448   1452      1456  G15  5   XRA  1-8A      C1.9    6.0E-04   2089
+4710       1450   1452      1458  HOL  3   FLA  N17W45    SF      DSD       2089
+
+4720       1759   1807      1812  G15  5   XRA  1-8A      C2.3    1.3E-03   2087
+
+4780 +     1759   ////      1942  HOL  3   DSF  S36W28    5                     
+
+4720       1801   1806      1822  HOL  3   FLA  S20W02    SF      ERU       2087
+
+4730       1833   1834      1838  HOL  3   FLA  N17W47    SF      ERU       2089
+
+4740       1843   1843      1849  HOL  3   FLA  N17W48    SF      ERU       2089
+
+4750       1909   1918      1924  G15  5   XRA  1-8A      C2.9    1.9E-03   2087
+4750       1912   1928      1933  HOL  3   FLA  S20W02    SF      ERU       2087
+
+4760       2004   2008      2021  HOL  3   FLA  S20W02    SF                2087
+4760       2010   2022      2033  G15  5   XRA  1-8A      C3.2    3.5E-03   2087
+
+4770       2144   2151      2157  G15  5   XRA  1-8A      C2.3    1.2E-03   2089
+4770       2148   2149      2157  HOL  3   FLA  N17W50    SF      ERU       2089

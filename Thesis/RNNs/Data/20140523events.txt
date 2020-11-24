@@ -1,0 +1,50 @@
+:Product: 20140523events.txt
+:Created: 2014 May 26 0332 UT
+:Date: 2014 05 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 May 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9290       0211   ////      0211  CUL  C   RSP  035-140   III/1                 
+
+9270       0251   0259      0307  LEA  3   FLA  S19W33    SF                2065
+9270       0258   ////      0258  CUL  C   RSP  035-180   III/1             2065
+
+9300       0354   ////      0354  CUL  C   RSP  040-180   III/1                 
+
+9310       0451   0458      0504  G15  5   XRA  1-8A      C1.5    8.5E-04   2065
+9310 +     0452   ////      0454  LEA  C   RSP  025-180   III/1             2065
+9310 +     0453   0457      0515  LEA  3   FLA  S19W35    SF      ERU       2065
+
+9320       0546   ////      0546  SVI  C   RSP  057-081   III/1                 
+9320       0546   ////      0607  LEA  C   RSP  025-125   VI/1                  
+
+9330       0607   ////      0607  SVI  C   RSP  025-124   III/1                 
+
+9340 +     0638   ////      0638  LEA  C   RSP  025-084   III/1                 
+
+9350       0718   ////      0724  SVI  C   RSP  025-076   III/1                 
+
+9360       0756   0801      0811  SVI  3   FLA  S20W35    SF      ERU       2065
+
+9370       0814   0820      0826  SVI  3   FLA  S20W35    SF      ERU       2065
+
+9380 +     1034   1149      1228  G15  5   XRA  1-8A      C1.1    6.0E-03   2068
+
+9390 +     1210   ////      1210  SVI  C   RSP  025-117   III/1                 
+
+9400 +     1330   ////      1331  SAG  C   RSP  025-071   III/1                 
+
+9410 +     1443   ////      1444  SAG  C   RSP  025-058   III/1                 
+
+9420       1446   1451      1452  SVI  3   FLA  S20W39    SF                2065
+
+9430 +     1546   1551      1556  G15  5   XRA  1-8A      B7.9    3.4E-04   2065
+
+9440       1931   1954      2017  G15  5   XRA  1-8A      B7.3    1.8E-03   2068

@@ -1,0 +1,53 @@
+:Product: 20140502events.txt
+:Created: 2014 May 05 0332 UT
+:Date: 2014 05 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 May 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5950 +     0020   ////      0025  LEA  U   RSP  044-133   III/1                 
+
+5970       0301   0304      0313  G15  5   XRA  1-8A      B9.4    5.1E-04   2047
+
+5980 +     0314   ////      0315  LEA  C   RSP  029-096   III/1                 
+
+5990 +     0649   ////      0725  SVI  C   RSP  025-124   VI/1                  
+
+6000       0759   0802      0805  G15  5   XRA  1-8A      C1.3    2.7E-04   2047
+6000      B0802  U0802     A0815  SVI  3   FLA  S19W19    SF                2047
+
+6010       0917   0940      1001  G15  5   XRA  1-8A      C4.4    8.7E-03   2047
+6010      B0950  U0951     A0952  SVI  3   FLA  S22W18    SF      ERU       2047
+
+6020 +     1218   ////      1240  SAG  C   RSP  025-080   VI/2                  
+
+6030       1353   1353      1353  SAG  G   RBR  410       120                   
+
+6040       1403   1413      1429  G15  5   XRA  1-8A      C1.4    1.7E-03   2047
+6040       1406   1406      1409  HOL  3   FLA  S17E03    SF      ERU       2047
+6040       1420   ////      1420  SAG  C   RSP  025-030   III/1             2047
+
+6050       1532  U1533     A1602  SVI  3   FLA  S12W31    SF                2051
+
+6230      A1612   ////     A1316  SVI  3   DSF  N32E32    6                     
+
+6060 +     1618   1618      1618  SAG  G   RBR  245       120                   
+
+6070 +     1627   ////      1628  SVI  C   RSP  030-132   III/1                 
+
+6080 +     1936   1940      1945  G15  5   XRA  1-8A      C1.0    3.9E-04   2052
+
+6090       2001   ////      2001  PAL  C   RSP  025-110   III/1                 
+
+6100       2014   2019      2022  G15  5   XRA  1-8A      C2.1    6.1E-04   2052
+6100       2016   2018      2024  HOL  3   FLA  S12E51    SF                2052
+
+6110 +     2201   2205      2211  G15  5   XRA  1-8A      C1.3    5.6E-04   2049
+
+6120       2233   2238      2243  G15  5   XRA  1-8A      C1.0    6.1E-04   2052

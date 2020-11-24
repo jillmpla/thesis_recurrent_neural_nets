@@ -1,0 +1,18 @@
+:Product: 20140426events.txt
+:Created: 2014 Apr 29 0332 UT
+:Date: 2014 04 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Apr 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4970       0216   0227      0240  G15  5   XRA  1-8A      C1.5    2.1E-03       
+
+4980       0546   0628      0718  G15  5   XRA  1-8A      C1.6    6.7E-03       
+
+5000 +     1447   1459      1507  G15  5   XRA  1-8A      C2.4    2.1E-03   2038

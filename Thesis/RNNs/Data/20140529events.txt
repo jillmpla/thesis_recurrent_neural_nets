@@ -1,0 +1,39 @@
+:Product: 20140529events.txt
+:Created: 2014 Jun 01 0332 UT
+:Date: 2014 05 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 May 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 250      A0029   ////     A1238  HOL  3   DSF  S03E15    5                     
+
+ 290       0244   ////      0244  CUL  C   RSP  035-120   III/1                 
+
+ 200       0421   0430      0440  G15  5   XRA  1-8A      C1.4    1.2E-03   2071
+ 200       0424   0430      0454  LEA  3   FLA  S09W50    SF                2071
+
+ 240       0842   0857      0912  G15  5   XRA  1-8A      B3.4    5.9E-04       
+
+ 210       0846   ////      0852  SVI  C   RSP  025-081   V/2                   
+ 210       0846   ////      0850  LEA  C   RSP  025-095   III/1                 
+ 210 +     0851   ////      0900  SVI  C   RSP  029-140   II/1    656           
+
+ 320      A0921   ////     A2337  LEA  2   DSF  N25W48    12                    
+
+ 220 +     1007   ////      1016  SAG  C   RSP  025-108   III/1                 
+
+ 230 +     1112   ////      1114  SVI  C   RSP  025-077   III/1                 
+
+ 260       1752   1819      1830  G15  5   XRA  1-8A      B4.6    8.6E-04   2073
+
+ 270       1850   ////      1852  SAG  C   RSP  025-077   III/2                 
+
+ 280       2006   ////      2006  SAG  C   RSP  025-035   III/1                 
+
+ 300       2059   ////      2059  SAG  C   RSP  025-072   III/1                 

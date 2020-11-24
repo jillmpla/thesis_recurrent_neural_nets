@@ -1,0 +1,69 @@
+:Product: 20140524events.txt
+:Created: 2014 May 27 0332 UT
+:Date: 2014 05 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 May 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9450       0139   0145      0151  G15  5   XRA  1-8A      B8.2    4.0E-04       
+
+9460       0332   0333      0353  LEA  3   FLA  S18W47    SF                2065
+
+9470       0447   0451      0456  G15  5   XRA  1-8A      B8.0    3.1E-04   2065
+9470       0448   0451      0455  LEA  3   FLA  S18W47    SF      DSD       2065
+9470       0448   ////      0454  SVI  C   RSP  111-141   III/1             2065
+
+9480       0528   0531      0541  LEA  3   FLA  S17W48    SF      DSD       2065
+
+9490       0601   0601      0601  LEA  G   RBR  245       150                   
+
+9500       0609   0616      0628  G15  5   XRA  1-8A      B8.0    7.6E-04       
+
+9670      A0729   ////     A2333  LEA  3   DSF  S04W08    11                    
+
+9510       0734   0737      0740  G15  5   XRA  1-8A      C1.0    2.2E-04   2065
+
+9520      B0813  U0911      1031  SVI  3   FLA  S21W49    1F      ERU       2065
+9520       0901   0914      0922  G15  5   XRA  1-8A      C1.0    1.1E-03   2065
+
+9530 +     1008   ////      1129  SAG  C   RSP  100-180   CTM/1                 
+
+9540       1156  U1244      1303  SVI  3   FLA  S21W51    SF                2065
+9540       1228   1302      1317  G15  5   XRA  1-8A      C1.1    2.9E-03   2065
+
+9550       1304   1343      1457  SVI  3   FLA  S21W53    1F      ERU       2065
+9550       1330   1339      1353  G15  5   XRA  1-8A      C1.0    1.4E-03   2065
+
+9570       1334   1342      1420  HOL  3   FLA  S19W54    SF      DSD       2065
+
+9560       1404   1428      1436  G15  5   XRA  1-8A      C1.3    2.1E-03   2065
+9560       1411   1414      1443  SVI  3   FLA  S16W40    SF      ERU       2074
+
+9580 +     1517   ////      1518  SAG  C   RSP  025-049   III/1                 
+
+9600 +     1606   ////      1606  SAG  C   RSP  025-060   III/1                 
+
+9610       1723   1728      1731  HOL  3   FLA  S19W56    SF                2065
+
+9770       1750   1752      1755  G15  5   XRA  1-8A      C1.0    3.5E-04   2065
+
+9620       1826   1835      1844  G15  5   XRA  1-8A      M1.3    8.1E-03   2065
+9620 +     1829   1830      1832  SAG  G   RBR  2695      229                   
+9620 +     1830   1830      1831  SAG  G   RBR  4995      150                   
+9620 +     1830   1831      1832  SAG  G   RBR  1415      130                   
+
+9630      B1856  U1908      1910  HOL  1   FLA  S19W56    SF                2065
+
+9640       1956   ////      1956  SAG  C   RSP  101-180   III/1                 
+
+9650       2002   2002      2014  HOL  3   FLA  S17W56    SF                2065
+
+9660 +     2016   2024      2032  G15  5   XRA  1-8A      C1.2    9.1E-04   2065
+
+9680       2232   2257      2307  G15  5   XRA  1-8A      C1.6    2.8E-04   2065

@@ -1,0 +1,36 @@
+:Product: 20140508events.txt
+:Created: 2014 May 11 0332 UT
+:Date: 2014 05 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 May 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6910       0121   0140      0206  G15  5   XRA  1-8A      C3.0    6.5E-03   2056
+
+6920       0436   ////      0436  SVI  C   RSP  102-141   III/1                 
+
+6980       0630   ////      0631  CUL  C   RSP  027-057   III/1                 
+
+6930       0630   ////      0631  SVI  C   RSP  025-077   III/1                 
+
+6940      B0735  U0735      0743  SVI  3   FLA  N13E40    SF      ERU       2055
+
+6960       0959   1007      1018  G15  5   XRA  1-8A      M5.2    4.7E-02   2056
+6960      B0944  U1003     A1125  SVI  3   FLA  N08E54    2B      ERU       2056
+6960 +     1000   1002      1009  SVI  G   RBR  8800      1300    CastelliU 2056
+6960 +     1000   1002      1009  SVI  G   RBR  4995      610     CastelliU 2056
+6960 +     1000   1003      1009  SVI  G   RBR  15400     1500    CastelliU 2056
+6960 +     1000   1002      1008  SVI  G   RBR  2695      390     CastelliU 2056
+6960 +     1001   1002      1005  SVI  G   RBR  1415      310     CastelliU 2056
+
+6970       1434   1458      1518  G15  5   XRA  1-8A      C1.3    3.0E-03   2058
+
+6990       1944   ////      1956  SAG  C   RSP  025-051   VI/1                  
+
+7000       2215   ////      2215  CUL  C   RSP  023-050   III/1                 

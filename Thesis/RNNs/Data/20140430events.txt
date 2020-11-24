@@ -1,0 +1,84 @@
+:Product: 20140430events.txt
+:Created: 2014 May 03 0332 UT
+:Date: 2014 04 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Apr 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5370       0029   0032      0035  G15  5   XRA  1-8A      B8.0    1.7E-04   2049
+5370       0031   0031      0033  HOL  3   FLA  S09E48    SF                2049
+
+5390       0120   0126      0132  G15  5   XRA  1-8A      C1.1    5.8E-04   2050
+
+5400       0456   0458      0501  SVI  3   FLA  S06E45    SF                2049
+
+5410       0514   0514      0514  LEA  G   RBR  245       200                   
+
+5420       0532   0532      0537  SVI  3   FLA  S07E45    SF                2049
+
+5430       0615   0619      0636  SVI  3   FLA  S05E44    SF      ERU       2049
+5430       0615   0620      0624  G15  5   XRA  1-8A      C1.5    5.3E-04   2049
+
+5440       1009   1010      1033  SVI  3   FLA  S06E42    SF      ERU       2049
+
+5450       1041   1053      1112  SVI  3   FLA  S06E42    SF                2049
+
+5460       1112   1114      1124  SVI  3   FLA  N18W70    SF                2048
+5460       1113   1119      1122  G15  5   XRA  1-8A      B4.8    2.7E-04   2048
+
+5470       1336   1339      1341  G15  5   XRA  1-8A      B6.4    7.9E-05   2047
+5470       1338   1339      1342  HOL  2   FLA  S17E03    SF      DSD       2047
+
+5480       1345   1348      1354  HOL  2   FLA  S07E40    SF                2049
+
+5490       1355   ////      1355  SVI  C   RSP  042-125   III/1                 
+5490       1355   ////      1450  SAG  C   RSP  025-180   VI/2                  
+
+5500       1420   ////      1451  SVI  C   RSP  025-141   VI/1                  
+5500       1445   1449      1451  G15  5   XRA  1-8A      B6.0    1.2E-04   2047
+5500 +     1447   ////      1450  SAG  C   RSP  025-180   III/2                 
+5500 +     1447   1449      1450  SVI  G   RBR  245       570                   
+5500 +     1449   1449      1449  SAG  G   RBR  410       120                   
+
+5510 +     1626   ////      1626  SAG  C   RSP  025-180   III/1                 
+
+5520       1723   ////      1727  SAG  C   RSP  025-133   III/1                 
+
+5530       1933   ////      1942  SAG  C   RSP  025-159   III/2             2049
+5530       1938   1942      1945  G15  5   XRA  1-8A      B7.1    1.9E-04   2049
+5530       1941   1941      1945  HOL  3   FLA  S07E39    SF                2049
+
+5540       2022   2026      2028  G15  5   XRA  1-8A      B6.9    1.6E-04       
+
+5550       2056   2056      2056  SAG  G   RBR  245       140                   
+5550 +     2056   ////      2057  SAG  C   RSP  025-180   III/2                 
+
+5570       2122   ////      2122  CUL  C   RSP  030-057   III/1                 
+
+5580       2156   ////      2239  SAG  C   RSP  025-180   VI/2                  
+5580       2157   ////      2157  CUL  C   RSP  030-057   III/1                 
+
+5620       2204   ////      2204  CUL  C   RSP  023-090   III/2                 
+
+5630       2222   ////      2222  CUL  C   RSP  023-057   III/1                 
+
+5640       2231   ////      2234  CUL  C   RSP  023-057   III/1                 
+
+5650       2238   ////      2241  CUL  C   RSP  023-090   III/3                 
+
+5660       2248   ////      2248  CUL  C   RSP  023-057   III/1                 
+
+5600       2322   ////      2343  LEA  C   RSP  027-180   VI/2                  
+5600       2323   ////      2324  CUL  C   RSP  027-057   III/1                 
+
+5670       2330   ////      2332  CUL  C   RSP  023-057   III/1                 
+
+5680       2338   ////      2340  LEA  C   RSP  025-180   V/2                   
+5680       2338   2339      2339  LEA  G   RBR  245       1100                  
+5680 +     2339   ////      2341  CUL  C   RSP  018-150   III/3                 

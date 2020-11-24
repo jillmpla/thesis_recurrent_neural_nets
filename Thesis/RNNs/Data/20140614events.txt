@@ -1,0 +1,66 @@
+:Product: 20140614events.txt
+:Created: 2014 Jun 17 0332 UT
+:Date: 2014 06 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jun 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4140       0029   0030      0034  LEA  3   FLA  S15W74    SF                2080
+
+4190       0036   0059      0116  LEA  3   FLA  S19W72    SF      ERU       2085
+
+4200       0038   0044      0046  LEA  3   FLA  S15W74    SF                2080
+
+4150       0107   ////      0121  LEA  C   RSP  086-167   CTM/1             2080
+
+4160       0125   0128      0132  LEA  3   FLA  S19W72    SF                2085
+
+4170       0212   0220      0237  LEA  3   FLA  S19W73    SF                2085
+
+4180       0258   0259      0301  LEA  3   FLA  S12W79    SF                2080
+
+4210       0345   0348      0350  G15  5   XRA  1-8A      C2.4    3.8E-04   2085
+4210       0346   0348      0356  LEA  3   FLA  S20W70    SF                2085
+
+4220       0504   0506      0513  SVI  3   FLA  S17E48    SF      ERU       2092
+
+4230 +     0515   0517      0520  SVI  3   FLA  S20W74    SF                2085
+
+4260 +     0728   0737      0751  SVI  3   FLA  S17E47    SF                2092
+
+4270       0817   0819      0824  LEA  3   FLA  N14W71    SF                2082
+
+4280       0911   0946      1016  G15  5   XRA  1-8A      C3.6    1.1E-02   2087
+4280       0911   ////      0917  SVI  U   RSP  027-060   III/1             2087
+4280       0912  U1009     A1031  SVI  3   FLA  S17E30    SF      ERU       2087
+
+4290 +     1128   ////      1129  SAG  C   RSP  025-180   III/1                 
+
+4300       1415   1416      1420  SVI  3   FLA  N12W74    SF                2082
+
+4460      A1416   ////     A0719  SVI  3   DSF  S36W40    11                    
+
+4320       1729   ////      1729  SAG  C   RSP  025-035   III/2                 
+
+4310       1739   1747      1754  G15  5   XRA  1-8A      C3.3    2.1E-03   2089
+
+4330       1921   ////      1925  SAG  C   RSP  025-180   III/2                 
+4330       1923   1929      1934  G15  5   XRA  1-8A      M1.4    5.4E-03       
+4330 +     1926   1926      1929  SAG  G   RBR  8800      160                   
+4330 +     1926   1926      1929  SAG  G   RBR  15400     100                   
+4330 +     1926   1926      1928  SAG  G   RBR  4995      59                    
+
+4340       1948   ////      1956  SAG  U   RSP  027-042   II/1    396           
+
+4350       2049   2052      2057  HOL  2   FLA  N17W23    SF      ERU       2089
+
+4360       2143   ////      2143  SAG  C   RSP  025-060   III/1                 
+
+4370       2306   2310      2321  G15  5   XRA  1-8A      C2.1    1.5E-03   2080
+4370       2319   ////      2348  LEA  C   RSP  081-180   CTM/1                 

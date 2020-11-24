@@ -1,0 +1,41 @@
+:Product: 20140528events.txt
+:Created: 2014 May 31 0332 UT
+:Date: 2014 05 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 May 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  60 +     0041   ////      0041  LEA  C   RSP  034-106   III/1                 
+
+  80       0207   0221      0233  G15  5   XRA  1-8A      C1.7    2.0E-03   2065
+  80 +     0211   ////      0214  CUL  C   RSP  018-100   III/1                 
+
+  90 +     0258   ////      0300  CUL  C   RSP  018-150   III/2                 
+
+ 100       0331   0337      0357  G15  5   XRA  1-8A      B7.4    9.0E-04   2076
+ 100       0333   0334      0349  LEA  3   FLA  S20W01    SF      ERU           
+ 100 +     0334   ////      0335  CUL  C   RSP  018-180   III/2                 
+
+ 110       0539   ////      0539  SVI  C   RSP  027-078   III/1                 
+
+ 120       0638   0641      0650  G15  5   XRA  1-8A      B6.3    3.3E-04   2069
+
+ 130       0825   ////      0825  SVI  C   RSP  032-052   III/1                 
+
+ 190      A0916   ////     A2327  LEA  2   DSF  N23W47    12                    
+
+ 140       1340   ////      1340  SVI  C   RSP  030-049   III/1                 
+
+ 150 +     1542   ////      1542  SVI  C   RSP  025-058   III/1                 
+
+ 160       2135   ////      2136  SAG  C   RSP  025-075   III/1                 
+
+ 170       2319   ////      2320  LEA  C   RSP  047-108   III/1                 
+
+ 180       2333   ////      2338  LEA  U   RSP  075-135   CTM/1                 

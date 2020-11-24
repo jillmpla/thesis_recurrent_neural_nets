@@ -1,0 +1,90 @@
+:Product: 20140410events.txt
+:Created: 2014 Apr 13 0332 UT
+:Date: 2014 04 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Apr 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1060       0000   ////      0004  CUL  C   RSP  018-057   III/1             2030
+
+1050       0001   ////      0004  LEA  C   RSP  032-135   III/1                 
+
+1020       0002   0002      0002  LEA  G   RBR  245       130                   
+
+1030       0004   0006      0007  HOL  3   FLA  N10W37    SF                2030
+
+1120 +     0004   ////      0029  LEA  3   DSF  S14E27    9                     
+
+1060       0008   0010      0053  HOL  2   FLA  N10W37    SF                2030
+1060 +     0010   ////      0022  LEA  C   RSP  029-085   II/1    1109      2030
+
+1080 +     0122   0152      0211  G15  5   XRA  1-8A      C4.7    9.3E-03   2035
+
+1070 +     0306   ////      0308  CUL  C   RSP  018-075   III/3                 
+
+1090       0534   0534      0534  LEA  G   RBR  245       120                   
+
+1100       0542   0542      0542  LEA  G   RBR  245       160                   
+
+1110       0555   0555      0555  LEA  G   RBR  245       100                   
+
+1270 +     0622   ////      1400  SVI  3   DSF  S31W35    14                    
+
+1130       0651   ////      0652  SVI  C   RSP  027-180   V/2                   
+1130 +     0652   ////      0652  CUL  C   RSP  027-090   III/2                 
+
+1140 +     0744   ////      0749  LEA  C   RSP  035-114   III/1                 
+
+1150 +     0752   0752      0752  SVI  G   RBR  410       240                   
+
+1160       0757   0757      0757  SVI  G   RBR  245       140                   
+
+1220       0801   ////      1711  SVI  C   RSP  043-180   CTM/1                 
+
+1170       0804   0804      0804  LEA  G   RBR  245       160                   
+
+1190       0808   0808      0808  LEA  G   RBR  245       180                   
+
+1200       0809   ////      0945  LEA  C   RSP  126-180   CTM/1             2035
+1200 +     0846   1053      1121  G15  5   XRA  1-8A      C1.9    1.0E-02   2035
+1200 +     0854   0854      0854  LEA  G   RBR  245       100               2035
+1200 +     0933   ////      0933  SVI  C   RSP  030-121   III/1             2035
+
+1370      A0945   ////     A2312  LEA  3   DSF  S33E47    7                     
+
+1320       1040   ////      2216  SAG  C   RSP  103-180   CTM/1                 
+
+1210       1117   1117      1117  SAG  U   RBR  245       100                   
+
+1230 +     1423   ////      1428  SVI  C   RSP  027-081   III/1                 
+
+1280 +     1447   1517      1545  G15  5   XRA  1-8A      C1.4    4.4E-03   2035
+
+1240       1542   ////      1543  SVI  C   RSP  026-151   V/2                   
+1240       1542   ////      1542  SAG  C   RSP  025-180   III/2                 
+
+1250       1711   1711      1711  PAL  G   RBR  245       160                   
+
+1260       1720   1720      1720  PAL  G   RBR  245       120                   
+
+1180 +     1733   2135      2333  PAL  G   RNS  245       150                   
+
+1290 +     1749   1817      1856  G15  5   XRA  1-8A      C3.6    1.2E-02   2035
+
+1300       1945   1945      1948  HOL  3   FLA  N02E73    SF      DSD       2034
+
+1310       1959   ////      2012  SAG  C   RSP  025-133   VI/2                  
+
+1330 +     2156   ////      2157  SAG  C   RSP  025-077   III/1                 
+
+1340       2245   ////      2246  CUL  C   RSP  020-057   III/1                 
+
+1350       2251   ////      2359  LEA  C   RSP  076-180   CTM/1                 
+1350 +     2305   ////      2306  CUL  C   RSP  020-075   III/3                 
+1350       2305   ////      2359  LEA  C   RSP  025-180   VI/2                  

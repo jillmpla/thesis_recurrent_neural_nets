@@ -1,0 +1,38 @@
+:Product: 20140603events.txt
+:Created: 2014 Jun 06 0332 UT
+:Date: 2014 06 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jun 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 610 +     0038   ////      0039  CUL  C   RSP  018-120   III/2                 
+
+ 630 +     0231   ////      0232  CUL  C   RSP  018-120   III/1                 
+
+ 640       0322   ////      0323  CUL  C   RSP  018-060   III/1                 
+
+ 650       0358   0409      0417  G15  5   XRA  1-8A      M1.3    8.6E-03   2077
+ 650       0400   0407      0454  LEA  3   FLA  S05E30    2N      ERU       2077
+
+ 660      B0442  U0442     A0459  SVI  2   FLA  S06E29    SF      ERU       2077
+
+ 670       0612   0612      0618  LEA  3   FLA  S06E29    SF                2077
+
+ 680 +     1345   ////      1346  SAG  C   RSP  025-076   III/2                 
+
+ 690 +     1431   ////      1431  SAG  C   RSP  035-180   III/1                 
+ 690 +     1431   1431      1431  SAG  G   RBR  245       110                   
+
+ 820      A1736   ////     A0602  SVI  3   DSF  S30E54    12                    
+
+ 710       1755   1802      1807  G15  5   XRA  1-8A      B7.6    3.8E-04   2077
+
+ 720       2058   2103      2107  G15  5   XRA  1-8A      B5.7    2.2E-04   2077
+
+ 850      A2226   ////     A1234  HOL  3   DSF  S34E62    19                    

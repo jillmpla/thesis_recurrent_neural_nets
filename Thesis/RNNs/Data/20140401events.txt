@@ -1,0 +1,78 @@
+:Product: 20140401events.txt
+:Created: 2014 Apr 04 0332 UT
+:Date: 2014 04 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Apr 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9300      A0029   ////     A1345  HOL  3   DSF  S27W33    11                2021
+
+9230       0043   0050      0055  G15  5   XRA  1-8A      C3.3    1.5E-03   2022
+
+9240       0130   0130      0130  LEA  G   RBR  245       490                   
+
+9250 +     0146   0146      0146  LEA  G   RBR  245       100                   
+
+9490      A0216   ////     A2305  LEA  2   DSF  S31W66    12                    
+
+9260       0445   0448      0450  G15  5   XRA  1-8A      B9.4    1.5E-04   2014
+
+9270       1041   1046      1049  SVI  3   FLA  S13E05    SF                2021
+
+9280       1146   1158      1208  SVI  3   FLA  N18E22    SF      ERU       2022
+
+9300       1147   1203      1215  SVI  3   FLA  S12E05    SF      ERU       2021
+
+9290 +     1249   ////      1251  SVI  C   RSP  102-171   III/2                 
+9290 +     1250   1250      1250  SVI  G   RBR  245       200                   
+
+9630      A1252   ////     A0607  SVI  3   DSF  N01E15    16                    
+
+9310 +     1430   ////      2257  SAG  C   RSP  025-180   CTM/1                 
+
+9320 +     1623   1623      1624  SAG  G   RBR  245       220                   
+
+9330 +     1711   1711      1712  SAG  G   RBR  245       130                   
+9330       1712   1715      1717  G15  5   XRA  1-8A      C1.2    1.8E-04   2026
+
+9340       1733   1733      1733  SAG  G   RBR  245       100                   
+
+9350       1824   1825      1825  PAL  G   RBR  245       140                   
+
+9360       1836   1841      1845  G15  5   XRA  1-8A      C1.2    4.9E-04       
+
+9370 +     1926   1926      1926  SAG  G   RBR  245       110                   
+
+9380       1930   1938      1948  G15  5   XRA  1-8A      C2.7    2.1E-03   2022
+
+9390       2028   2032      2034  G15  5   XRA  1-8A      C2.9    4.6E-04   2029
+
+9400       2057   2057      2057  SAG  G   RBR  245       100                   
+
+9810      A2113   ////     A1744  HOL  3   DSF  S36E24    14                    
+
+9410 +     2117   2117      2118  PAL  G   RBR  245       290                   
+
+9420 +     2134   2134      2134  PAL  G   RBR  245       110                   
+
+9430       2200   2200      2200  PAL  G   RBR  245       100                   
+
+9440       2221   2221      2221  PAL  G   RBR  245       100                   
+
+9450       2222   2230      2240  G15  5   XRA  1-8A      C2.5    1.9E-03   2027
+
+9510       2248   2351      2359  LEA  G   RNS  245       570                   
+
+9500       2248   ////      2359  LEA  C   RSP  045-180   CTM/2                 
+
+9460       2256   ////      2318  LEA  C   RSP  025-100   VI/1                  
+
+9470 +     2324   2324      2324  PAL  G   RBR  245       360                   
+
+9480       2332   2335      2337  G15  5   XRA  1-8A      C1.0    1.8E-04   2026

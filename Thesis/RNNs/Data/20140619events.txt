@@ -1,0 +1,47 @@
+:Product: 20140619events.txt
+:Created: 2014 Jun 22 0332 UT
+:Date: 2014 06 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jun 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5120       0001   0007      0009  LEA  3   FLA  S21W31    SF                2087
+
+5130       0117   0124      0133  G15  5   XRA  1-8A      C1.5    1.0E-03   2095
+5130       0121   0124      0134  LEA  3   FLA  N05W71    SF      DSD       2095
+
+5140       0331   0332      0335  LEA  3   FLA  S15W40    SF      ERU       2087
+5140       0331   ////      0332  LEA  C   RSP  075-180   III/1             2087
+5140 +     0331   0331      0331  LEA  G   RBR  245       110               2087
+
+5230 +     0519   ////      1032  SVI  3   DSF  N18E01    14                    
+
+5160       0526   0529      0533  LEA  3   FLA  N06W73    SF                2095
+
+5170       0535   0538      0549  LEA  3   FLA  N06W73    SF      DSD       2095
+
+5180       0726   0728      0734  LEA  3   FLA  N06W75    SF      DSD       2095
+
+5190       0736   0743      0749  LEA  3   FLA  N06W75    SF      DSD       2095
+
+5270 +    A0915   ////     A2342  LEA  4   DSF  S01E15    26                2093
+
+5200 +     1039   ////      1039  SAG  C   RSP  025-087   III/2                 
+
+5250       1502   ////      1527  SVI  C   RSP  025-078   VI/1                  
+
+5240       1502   ////      1527  SAG  C   RSP  025-076   VI/1                  
+
+5220      B1522  U1522     A1524  SVI  3   FLA  S07E25    SF      ERU       2093
+
+5260       1836   1924      1946  G15  5   XRA  1-8A      C4.0    9.2E-03   2093
+5260       1907   1923      2003  HOL  3   FLA  S09E23    SF      ERU       2093
+5260       1912   ////      1933  SAG  C   RSP  025-074   VI/1              2093
+
+5280       2026   ////      2027  SAG  C   RSP  025-075   III/1                 

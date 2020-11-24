@@ -1,0 +1,56 @@
+:Product: 20140316events.txt
+:Created: 2014 Mar 19 0332 UT
+:Date: 2014 03 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Mar 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5530       0004   ////      0010  LEA  C   RSP  031-131   III/1                 
+
+5540       0058   ////      0059  LEA  C   RSP  033-163   III/1                 
+5540 +     0059   0059      0059  LEA  G   RBR  245       180                   
+
+5550       0131   ////      0132  LEA  C   RSP  031-171   III/1                 
+
+5560       0207   0207      0207  LEA  G   RBR  245       190                   
+5560       0207   ////      0327  LEA  C   RSP  029-171   VI/1                  
+
+5590      A0235   ////     A0323  LEA  3   DSF  S17E36    30                    
+
+5580       0407   ////      0407  LEA  C   RSP  025-114   III/1                 
+
+5600 +     0557   0604      0613  G15  5   XRA  1-8A      C1.9    1.4E-03   1998
+
+5610       0632   ////      0632  SVI  C   RSP  031-082   III/1                 
+
+5620       0637   0645      0652  G15  5   XRA  1-8A      C7.3    4.2E-03   2003
+5620      B0641  U0641      0650  LEA  3   FLA  N04W80    SF                2003
+
+5630       0806   0813      0831  G15  5   XRA  1-8A      C2.2    2.7E-03   2005
+5630       0808   0811      0817  LEA  3   FLA  N14E42    SF                2005
+
+5640 +     0846   ////      0849  SVI  C   RSP  028-132   III/1                 
+
+5650       1036   ////      1036  SVI  C   RSP  103-144   III/1                 
+
+5660       1215   ////      1215  SVI  C   RSP  102-152   III/1                 
+5660       1215   ////      1243  SAG  C   RSP  025-167   VI/1                  
+
+5670       1237   ////      1244  SVI  C   RSP  027-139   III/1                 
+
+5680       1335   1335      1335  SVI  G   RBR  245       100                   
+
+5690 +     1338   ////      1339  SAG  C   RSP  025-180   III/2                 
+
+5700       1904   ////      1905  SAG  C   RSP  025-075   III/1                 
+
+5720       2058   ////      2058  SAG  C   RSP  025-071   III/1                 
+
+5710       2116   2120      2122  G15  5   XRA  1-8A      C1.4    3.0E-04   2002
+5710       2118   2118      2119  SAG  G   RBR  610       570                   

@@ -1,0 +1,37 @@
+:Product: 20140423events.txt
+:Created: 2014 Apr 26 0332 UT
+:Date: 2014 04 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Apr 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4640       0048   0104      0119  G15  5   XRA  1-8A      C4.3    6.4E-03   2038
+4640       0058   0102      0106  LEA  3   FLA  S12W35    SF                2038
+
+4650       0837   0845      0859  G15  5   XRA  1-8A      C1.6    1.8E-03   2034
+
+4660       1205   1214      1238  G15  5   XRA  1-8A      C2.3    3.7E-03   2035
+4660 +     1225   ////      1230  SVI  C   RSP  025-180   III/2                 
+
+4670       1248   1306      1318  G15  5   XRA  1-8A      C5.1    7.3E-03   2035
+4670 +     1259   ////      1306  SVI  C   RSP  025-082   III/1                 
+4670 +     1303   1303      1303  SVI  G   RBR  410       180                   
+
+4680       1351   1351      1355  HOL  3   FLA  N07W14    SF      DSD           
+
+4720       1504   1518      1528  G15  5   XRA  1-8A      C1.5    1.9E-03   2035
+
+4690       1654   ////      1658  SAG  C   RSP  025-180   III/1                 
+
+4700       1853   ////      1856  SAG  C   RSP  025-141   III/2                 
+
+4730       2015   2043      2050  G15  5   XRA  1-8A      C1.7    2.7E-03   2035
+
+4710       2322   2353      0005  G15  5   XRA  1-8A      C3.3    6.2E-03   2044
+4710       2326   ////      2331  CUL  C   RSP  020-057   III/1                 
