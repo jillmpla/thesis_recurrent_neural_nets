@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Thesis/RNNs/LSTM_1.ipynb
+
+Thesis/RNNs/LSTM_2.ipynb
