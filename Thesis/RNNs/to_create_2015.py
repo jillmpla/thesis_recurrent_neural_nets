@@ -176,11 +176,6 @@ def get_2015_Features():
 	k = h.query('hmi.sharp_720s[][2015.12.31_TAI/1d]', key='T_REC, HARPNUM, NOAA_AR, TOTUSJH, TOTUSJZ, SAVNCPP, USFLUX, ABSNJZH, TOTPOT, SIZE_ACR, NACR, MEANPOT, SIZE, MEANJZH, SHRGT45, MEANSHR, MEANJZD, MEANALP, MEANGBT, MEANGAM, MEANGBZ, MEANGBH, NPIX')
 	f_dataframe = f_dataframe.append(k)
 
-	#tests
-	#print('The time series starts from: ', f_dataframe['T_REC'].min())
-	#print('The time series ends on: ', f_dataframe['T_REC'].max())
-	#print(f_dataframe.shape)
-
 	f_dataframe.to_csv('create_2015_features.csv')
 	
 	return()
