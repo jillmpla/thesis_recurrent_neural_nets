@@ -1,0 +1,58 @@
+:Product: 20140724events.txt
+:Created: 2014 Jul 27 0332 UT
+:Date: 2014 07 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jul 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2850       0024   ////      0048  LEA  C   RSP  028-105   VI/1                  
+2850       0025   ////      0025  CUL  C   RSP  020-060   III/1                 
+
+2870       0049   ////      0049  CUL  C   RSP  035-120   III/1                 
+
+2860       0140   0151      0201  G15  5   XRA  1-8A      C2.1    1.6E-03   2121
+2860       0143   0146      0229  LEA  3   FLA  N10E62    1F      ERU       2121
+2860 +     0147   ////      0150  CUL  C   RSP  030-180   III/1             2121
+2860       0147   ////      0222  LEA  C   RSP  029-136   VI/1              2121
+
+2880       0222   ////      0222  CUL  C   RSP  030-090   III/1                 
+
+3000       0522   ////      0523  CUL  C   RSP  030-180   III/1                 
+
+3010       0527   ////      0528  CUL  C   RSP  020-180   III/1                 
+
+2890       0551   ////      0553  SVI  C   RSP  029-171   III/1                 
+
+2900 +     0557   ////      0606  LEA  C   RSP  025-180   III/1                 
+
+2910 +     0611   ////      0615  CUL  C   RSP  035-180   III/1                 
+
+2920 +     0754   ////      0754  SVI  C   RSP  033-143   III/1                 
+
+2930 +     0823   ////      0824  SVI  C   RSP  033-082   III/1                 
+
+2940       0910   0913      0917  SVI  3   FLA  N08E56    SF                2121
+
+2950 +     0924   ////      0925  SVI  C   RSP  025-180   III/1                 
+
+2960       0945   ////      0946  SVI  C   RSP  025-038   III/1                 
+
+2970       1127   1132      1139  G15  5   XRA  1-8A      B3.7    2.1E-04   2123
+2970       1128   1130      1150  SVI  3   FLA  S11E48    SF      ERU       2123
+2970 +     1132   ////      1134  SVI  C   RSP  025-180   III/1             2123
+
+2980 +     1308   ////      1354  SVI  C   RSP  025-180   VI/1              2121
+2980       1324   1329      1335  SVI  3   FLA  N11E46    SF      ERU       2121
+
+2990       1846   ////      1847  SAG  C   RSP  025-180   III/1                 
+
+3020       2130   ////      0014  HOL  2   EPL  ////      0.16    B.5A          
+3020       2151   2202      2208  G15  5   XRA  1-8A      B7.2    7.2E-04   2121
+
+3030       2236   2248      2302  G15  5   XRA  1-8A      B6.0    8.9E-04   2121

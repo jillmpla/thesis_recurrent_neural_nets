@@ -1,0 +1,58 @@
+:Product: 20140902events.txt
+:Created: 2014 Sep 05 0357 UT
+:Date: 2014 09 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Sep 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3040       0005   ////      0957  LEA  C   RSP  065-180   IV/1                  
+3040       0009   0016      0024  G15  5   XRA  1-8A      C2.3    2.0E-03       
+
+2970       0050   0059      0105  G15  5   XRA  1-8A      C2.6    2.1E-03   2152
+
+3000       0052   ////      0850  LEA  C   RSP  025-180   VI/1                  
+
+2970 +     0053   0056      0113  LEA  3   FLA  S13W01    SF      ERU       2152
+
+2980       0400   0400      0400  PAL  G   RBR  1415      120                   
+
+3140       0429   ////      1708  SVI  C   RSP  042-180   IV/2                  
+
+2990       0433   0435      0441  LEA  3   FLA  S14W01    SF                2152
+
+3010       0557   ////      0815  SVI  C   RSP  025-058   VI/1                  
+
+3020       0706   0707      0710  LEA  3   FLA  S15W02    SF                2152
+
+3030       0726   0729      0741  LEA  3   FLA  S12W05    SF                2152
+
+3050       0936   0937     A1004  LEA  2   FLA  S14W04    SF                2152
+
+3130 +    A1000   ////     A1553  SVI  3   DSF  N15W31    44                    
+
+3160       1031   ////      1920  SAG  C   RSP  102-180   IV/1                  
+
+3060 +     1051   ////      1454  SAG  C   RSP  025-071   VI/1                  
+
+3070       1204   1209      1216  G15  5   XRA  1-8A      C2.2    1.2E-03       
+
+3080       1242   ////      1258  SVI  C   RSP  025-037   VI/1                  
+
+3090       1310   1315      1323  G15  5   XRA  1-8A      C3.7    2.2E-03   2152
+3090       1312   1313      1324  HOL  3   FLA  S13W07    SF      ERU       2152
+
+3150       1340   ////      1556  HOL  4   DSF  N40E06    44                    
+
+3100       1533   1537      1558  SVI  3   FLA  S15W08    SF                2152
+
+3110 +     1610   ////      1610  SAG  C   RSP  036-180   III/1                 
+
+3170       2056   2100      2104  G15  5   XRA  1-8A      C2.9    9.5E-04       
+
+3180       2249   ////      2359  LEA  C   RSP  075-180   IV/1                  

@@ -1,0 +1,71 @@
+:Product: 20140628events.txt
+:Created: 2014 Jul 01 0332 UT
+:Date: 2014 06 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jun 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6570       0000   ////      0150  LEA  C   RSP  075-180   CTM/1             2100
+6570       0000   ////      0104  LEA  C   RSP  025-180   VI/1              2100
+6570       0020   0044      0104  G15  5   XRA  1-8A      C1.4    3.1E-03   2100
+6570       0035   0037      0101  LEA  3   FLA  N08E51    SF                2100
+
+6610       0149   0203      0214  G15  5   XRA  1-8A      C1.5    1.9E-03   2100
+
+6620       0307   ////      0634  LEA  C   RSP  075-180   CTM/1                 
+
+6580       0333   ////      0337  LEA  C   RSP  025-105   III/1                 
+
+6590       0441   0441      0442  LEA  G   RBR  410       330                   
+
+6600       0450   ////      0451  SVI  C   RSP  101-134   III/1                 
+
+6630       0458   ////      0555  SVI  C   RSP  073-180   CTM/1                 
+
+6670       0616   0701      0715  G15  5   XRA  1-8A      C3.4    8.3E-03       
+
+6640 +     0631   ////      0631  SVI  C   RSP  025-064   III/1                 
+
+6650 +     0728   ////      0745  SVI  C   RSP  025-150   VI/2              2104
+6650 +     0736   0744      0749  G15  5   XRA  1-8A      C3.4    1.9E-03   2104
+6650       0746   ////      0752  LEA  C   RSP  067-097   II/1    813       2104
+
+6660       0822   0838      0919  G15  5   XRA  1-8A      C1.1    3.6E-03   2096
+6660 +     0826   0858      0919  LEA  3   FLA  N09E05    SF                2096
+6660 +     0906   0908      0910  SVI  G   RBR  245       750               2096
+6660 +     0907   ////      1434  SVI  C   RSP  025-180   CTM/1             2096
+6660 +     0907   0908      0909  LEA  G   RBR  410       1000              2096
+6660       0908   0908      0908  LEA  G   RBR  610       1900              2096
+6660       0915   ////      0915  SVI  C   RSP  105-166   III/1             2096
+
+6730       0931   ////      1435  SAG  C   RSP  040-180   CTM/1                 
+
+6680 +     1106   ////      1112  SVI  C   RSP  028-169   III/1                 
+
+6690 +     1136   ////      1139  SAG  C   RSP  025-067   III/1                 
+
+6700       1238   1246      1256  G15  5   XRA  1-8A      C1.2    1.0E-03       
+
+6710 +     1300   ////      1301  SAG  C   RSP  025-139   III/1                 
+
+6720 +     1333   ////      1334  SAG  C   RSP  025-061   III/1                 
+
+6740 +     1509   1514      1520  G15  5   XRA  1-8A      C1.0    5.1E-04   2104
+
+6750       1525   ////      1550  SVI  C   RSP  025-080   VI/1                  
+6750       1527   1536      1546  G15  5   XRA  1-8A      C1.0    1.1E-03   2104
+6750       1527   ////      1533  SAG  C   RSP  025-058   III/1                 
+
+6770       1851   ////      2036  SAG  C   RSP  025-180   VI/1                  
+
+6760       1900   1908      1915  G15  5   XRA  1-8A      C1.2    1.0E-03       
+
+6770       1950   2105      2124  G15  5   XRA  1-8A      C4.2    1.5E-02       
+
+6780       2325   2333      2342  G15  5   XRA  1-8A      C3.6    2.7E-03   2104

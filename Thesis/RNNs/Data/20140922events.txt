@@ -1,0 +1,26 @@
+:Product: 20140922events.txt
+:Created: 2014 Sep 25 0357 UT
+:Date: 2014 09 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Sep 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7150       0000   ////      0004  PAL  C   RSP  079-180   CTM/1                 
+
+7100       0205   ////      0206  CUL  C   RSP  027-060   III/1                 
+
+7110 +     0612   ////      0624  SVI  U   RSP  025-053   III/1                 
+
+7120       0849   0850      0853  SVI  3   FLA  S10E37    SF      ERU       2171
+
+7130       1044   1045      1046  SVI  3   FLA  N12W74    SF                    
+
+7140       1912   1951      2008  G15  5   XRA  1-8A      C1.6    4.0E-03   2172
+
+7160 +     2229   ////      2359  LEA  C   RSP  059-180   CTM/1                 

@@ -1,0 +1,27 @@
+:Product: 20140722events.txt
+:Created: 2014 Jul 25 0332 UT
+:Date: 2014 07 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jul 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2680      A0058   ////     A1258  HOL  2   DSF  N25E06    6                     
+
+2620 +     0716   ////      0716  SVI  C   RSP  025-065   III/1                 
+
+2630 +     1153   ////      1200  SAG  C   RSP  025-136   III/2                 
+
+2650 +     1532   ////      1536  SVI  C   RSP  025-050   III/1                 
+
+2660       1649   ////      1650  SVI  C   RSP  025-056   III/1                 
+2660       1649   ////      1757  SAG  C   RSP  025-064   VI/2                  
+
+2670       1653   ////      1741  HOL  3   EPL  ////      0.34                  
+
+2690       2314   2318      2324  G15  5   XRA  1-8A      B2.8    1.3E-04       

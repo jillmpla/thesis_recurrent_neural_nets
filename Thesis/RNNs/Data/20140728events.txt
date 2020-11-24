@@ -1,0 +1,36 @@
+:Product: 20140728events.txt
+:Created: 2014 Jul 31 0332 UT
+:Date: 2014 07 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jul 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3470       0257   0258      0301  LEA  3   FLA  S13E60    SF                2125
+
+3510       0258   ////      0335  LEA  3   DSF  N17E52    7                     
+
+3490       0303   0303      0314  LEA  3   FLA  N14E49    SF      PRB           
+
+3480       0310   0312      0315  LEA  3   FLA  S12E60    SF                2125
+
+3570       0511   ////      0513  CUL  C   RSP  018-060   III/1                 
+
+3500       0646   0647      0656  LEA  3   FLA  S13E58    SF                2125
+
+3520       1140   1145      1151  G15  5   XRA  1-8A      C1.2    6.3E-04   2125
+
+3530       1356   1410      1433  G15  5   XRA  1-8A      C2.4    4.0E-03   2125
+3530      B1358   1409      1428  SVI  3   FLA  S08E51    1F      ERU       2125
+3530       1358   ////      1407  SVI  C   RSP  025-079   III/1             2125
+
+3540       1447   1448      1452  SVI  3   FLA  S09W06    SF                2126
+
+3550 +     2036   2041      2045  G15  5   XRA  1-8A      B9.6    3.6E-04   2127
+
+3560 +     2304   2307      2310  G15  5   XRA  1-8A      B7.6    1.7E-04   2121

@@ -1,0 +1,61 @@
+:Product: 20140903events.txt
+:Created: 2014 Sep 06 0357 UT
+:Date: 2014 09 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Sep 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3270       0000   ////      0958  LEA  C   RSP  075-180   IV/1                  
+3270       0000   ////      0101  LEA  C   RSP  099-133   CTM/1                 
+
+3190       0039   ////      0039  CUL  C   RSP  020-060   III/1                 
+
+3200       0121   ////      0121  CUL  C   RSP  020-060   III/1                 
+
+3210       0128   ////      0128  CUL  C   RSP  018-120   III/2                 
+
+3220       0128   ////      0128  LEA  C   RSP  025-113   III/1                 
+
+3230       0131   0137      0140  G15  5   XRA  1-8A      C2.4    9.1E-04   2149
+
+3240       0244   0253      0300  G15  5   XRA  1-8A      C4.0    2.4E-03       
+3240       0249   ////      0346  LEA  C   RSP  028-052   VI/1                  
+3240       0254   ////      0254  CUL  C   RSP  020-060   III/1                 
+
+3250       0346   ////      0346  CUL  C   RSP  020-060   III/1                 
+
+3260       0636   ////      0636  SVI  C   RSP  025-050   III/1                 
+
+3280       0840   0920      0936  G15  5   XRA  1-8A      C1.3    1.4E-03       
+3280       0851   ////      0851  SVI  C   RSP  025-042   III/1                 
+
+3320 +     1126   ////      1938  SAG  C   RSP  025-180   VI/2                  
+
+3290       1244   1250      1255  G15  5   XRA  1-8A      C1.6    8.1E-04   2155
+
+3300       1320   1354      1423  G15  5   XRA  1-8A      M2.5    6.6E-02   2155
+3300 +     1334   1336      1341  SVI  G   RBR  4995      170               2152
+3300 +     1334   1336      1342  SVI  G   RBR  8800      190               2152
+3300 +     1335   1338      1342  SVI  G   RBR  15400     120               2152
+3300       1336   1336      1338  SVI  G   RBR  2695      60                2152
+3300       1407   1409      1420  HOL  3   FLA  S14W18    SF      ERU       2152
+
+3330 +     1426   ////      1706  SVI  C   RSP  054-162   CTM/1                 
+3330       1446   ////      1456  SVI  C   RSP  025-052   VI/1                  
+
+3340       1622   ////      1626  SVI  C   RSP  025-079   III/1                 
+
+3350 +     1709   1709      1710  SAG  G   RBR  245       180                   
+
+3360       1952   ////      1954  SAG  C   RSP  025-056   III/1                 
+
+3310       2113   2124      2149  G15  5   XRA  1-8A      C5.2    8.9E-03   2149
+
+3370 +     2248   ////      2359  LEA  C   RSP  029-086   VI/1                  
+3370       2248   ////      2359  LEA  C   RSP  075-170   CTM/1                 

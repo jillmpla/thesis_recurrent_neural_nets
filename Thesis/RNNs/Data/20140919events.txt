@@ -1,0 +1,47 @@
+:Product: 20140919events.txt
+:Created: 2014 Sep 22 0357 UT
+:Date: 2014 09 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Sep 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6790       0002   0007      0013  G15  5   XRA  1-8A      C1.2    5.9E-04   2166
+6790       0004   0009      0015  LEA  3   FLA  N13W09    SF      ERU       2166
+6790 +     0004   0004      0004  PAL  G   RBR  245       260               2166
+6790       0009   ////      0045  LEA  4   LPS  ////      0.04              2166
+
+6810       0441   ////      0441  LEA  C   RSP  034-091   III/1                 
+
+6820 +     0536   ////      0536  SVI  C   RSP  029-138   III/1                 
+
+6830 +     0600   ////      0600  SVI  C   RSP  025-151   III/2                 
+
+6840 +     0637   ////      0637  SVI  C   RSP  046-080   III/1                 
+
+6850       0917   0919      0926  LEA  3   FLA  S09E76    SF      ERU           
+
+6910 +    A0950   ////     A2252  LEA  2   DSF  S29E50    19                    
+
+6940      A0950   ////     A2252  LEA  2   DSF  N26W50    8                     
+
+6970      A1116   ////     A0751  SVI  3   DSF  N26W50    7                     
+
+6980      A1116   ////     A0751  SVI  3   DSF  N14W73    20                    
+
+6990      A1116   ////     A0751  SVI  3   DSF  N39E09    7                     
+
+6870       1349   1352      1356  G15  5   XRA  1-8A      C1.4    3.6E-04   2164
+
+6880 +     1458   1458      1458  SAG  G   RBR  4995      5000                  
+
+6890       1701   1706      1709  G15  5   XRA  1-8A      C1.0    3.5E-04   2164
+
+6900       1727   1832      1858  G15  5   XRA  1-8A      C3.3    9.0E-03   2171
+
+6920       2133   ////      2234  HOL  3   DSF  N26E11    5                     

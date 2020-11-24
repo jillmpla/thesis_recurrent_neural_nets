@@ -1,0 +1,57 @@
+:Product: 20140916events.txt
+:Created: 2014 Sep 19 0357 UT
+:Date: 2014 09 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Sep 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6190       0011   ////      0011  CUL  C   RSP  040-150   III/1                 
+
+6180       0012   0014      0018  LEA  3   FLA  N17W61    SF                2158
+
+6340       0448   ////      0448  CUL  C   RSP  018-057   III/1                 
+
+6200 +     0527   ////      0533  LEA  C   RSP  033-171   III/1                 
+
+6350       0533   ////      0533  CUL  C   RSP  075-250   III/1                 
+
+6360       0621   ////      0637  CUL  C   RSP  023-060   III/1                 
+
+6210 +     0623   ////      0634  LEA  C   RSP  025-115   VI/2                  
+6210       0624   ////      0624  CUL  C   RSP  018-150   III/3                 
+
+6220 +     0746   ////      0751  SVI  C   RSP  025-171   III/1                 
+
+6230 +     0839   ////      0839  LEA  C   RSP  054-180   III/1                 
+
+6260      B0853  U0853      0900  SVI  3   FLA  N15W68    SF                2158
+
+6240      B0858  U0859      0905  SVI  3   FLA  S19W45    SF                2163
+
+6250       0917   ////      0931  SVI  C   RSP  025-041   VI/1                  
+
+6270       1034   ////      1035  SVI  C   RSP  119-156   III/1                 
+
+6280       1538   1545      1547  G15  5   XRA  1-8A      C1.4    5.0E-04   2158
+
+6290       1657   1702      1707  G15  5   XRA  1-8A      C1.6    7.0E-04       
+
+6300 +     1844   ////      1846  PAL  C   RSP  025-082   III/1                 
+
+6310       1906   1927      1934  G15  5   XRA  1-8A      C2.1    2.5E-03   2158
+
+6320       2037   2043      2047  G15  5   XRA  1-8A      C2.0    7.7E-04   2158
+
+6370       2114   ////      2114  CUL  C   RSP  020-057   III/1                 
+
+6330 +     2141   ////      2141  CUL  C   RSP  018-070   III/1                 
+
+6380       2206   ////      2206  CUL  C   RSP  050-150   III/1                 
+
+6390       2351   2358      0008  G15  5   XRA  1-8A      C1.8    1.4E-03   2164

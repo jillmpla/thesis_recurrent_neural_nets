@@ -1,0 +1,38 @@
+:Product: 20140808events.txt
+:Created: 2014 Aug 11 0332 UT
+:Date: 2014 08 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Aug 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5750 +     0902   0904      0934  LEA  3   FLA  S20W35    SF      PRB       2132
+
+5760       0950  U0952      0958  SVI  3   FLA  S22W33    SF                2132
+
+5770       1127   1133      1135  G15  5   XRA  1-8A      C1.8    5.0E-04   2135
+5770       1130  U1132     A1137  SVI  3   FLA  N13E48    SF                2135
+
+5780       1251   1258      1313  G15  5   XRA  1-8A      C1.2    1.2E-03   2132
+5780       1254   1257      1312  SVI  3   FLA  S25W33    SF                2132
+5780       1258   ////      1259  SVI  C   RSP  025-052   III/1             2132
+
+5790       1359   1410      1418  G15  5   XRA  1-8A      C1.0    1.0E-03   2132
+5790       1402   1406      1423  SVI  3   FLA  S19W37    SF      ERU       2132
+
+5800       1423   1423      1423  SAG  G   RBR  245       160                   
+
+5810 +     1530   ////      1745  SVI  C   RSP  103-171   CTM/1                 
+
+5830       1651   1656      1702  SVI  3   FLA  S24W35    SF      ERU       2132
+
+5820       1657   1701      1703  G15  5   XRA  1-8A      C4.5    7.0E-04   2135
+5820       1658   1658      1659  SAG  G   RBR  610       200               2135
+5820       1659   1702      1707  SVI  3   FLA  N13E44    1N      BPT       2135
+
+6020      A1712   ////     A0534  SVI  3   DSF  S23W62    12                    

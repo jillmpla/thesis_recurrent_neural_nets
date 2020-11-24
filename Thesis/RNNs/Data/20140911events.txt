@@ -1,0 +1,68 @@
+:Product: 20140911events.txt
+:Created: 2014 Sep 14 0357 UT
+:Date: 2014 09 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Sep 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5190       0000   ////      1000  LEA  C   RSP  025-180   IV/2                  
+
+5090       0014   0015      0022  HOL  3   FLA  N12E01    SF                2158
+
+5100       0120   0122      0129  LEA  3   FLA  S16W06    SF                2157
+
+5110       0133   0133      0135  LEA  3   FLA  S16W06    SF                2157
+
+5120       0233   0233      0233  LEA  G   RBR  245       290                   
+
+5130       0335   0349      0402  G15  5   XRA  1-8A      C4.4    5.9E-03       
+
+5140       0449   ////      0532  LEA  C   RSP  036-173   VI/1              2155
+5140       0519   0521      0525  LEA  3   FLA  S08E76    SF                2155
+
+5150       0526   0527      0534  LEA  3   FLA  S18W15    SF                2155
+
+5160       0633   0636      0642  G15  5   XRA  1-8A      C1.9    7.7E-04       
+5160       0638   ////      0704  LEA  C   RSP  025-175   VI/2                  
+
+5270       0701   ////      0702  CUL  C   RSP  020-260   III/2                 
+
+5170       0714   0714      0720  LEA  3   FLA  S08E75    SF                    
+
+5230       0820   ////      1653  SVI  C   RSP  025-180   IV/1                  
+
+5180       0820   ////      0820  LEA  C   RSP  032-169   III/1                 
+
+5320      A0938   ////     A2313  LEA  3   DSF  S02E10    10                    
+
+5280       1054   ////      2248  SAG  C   RSP  102-180   IV/1                  
+
+5200 +     1154   1158      1201  G15  5   XRA  1-8A      C2.0    5.2E-04   2163
+
+5210       1430   1434      1450  G15  5   XRA  1-8A      C2.4    2.3E-03   2157
+
+5220       1520   1526      1531  G15  5   XRA  1-8A      M2.1    8.6E-03   2166
+5220 +     1523   1523      1524  SAG  G   RBR  2695      210                   
+5220 +     1523   1523      1524  SAG  G   RBR  4995      240                   
+5220 +     1523   1523      1523  SAG  G   RBR  8800      160                   
+5220       1523   1523      1523  SAG  G   RBR  15400     75                    
+
+5240       2007   ////      2008  SAG  C   RSP  036-180   III/2                 
+
+5250       2101   2126      2130  G15  5   XRA  1-8A      M1.4    7.0E-03   2166
+5250 +     2124   2124      2124  PAL  G   RBR  1415      180                   
+
+5260       2232   2233      2233  PAL  G   RBR  245       100                   
+
+5290       2259   ////      2259  CUL  C   RSP  030-130   III/1                 
+
+5300       2339   ////      2340  CUL  C   RSP  018-100   III/1                 
+5300       2339   ////      2354  LEA  C   RSP  025-180   VI/1                  
+
+5310       2348   ////      2350  CUL  C   RSP  018-120   III/1                 

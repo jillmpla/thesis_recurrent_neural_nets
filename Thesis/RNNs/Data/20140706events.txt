@@ -1,0 +1,89 @@
+:Product: 20140706events.txt
+:Created: 2014 Jul 09 0332 UT
+:Date: 2014 07 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jul 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9380       0018   0025      0031  G15  5   XRA  1-8A      C4.0    2.4E-03   2109
+9380       0019   0024      0056  LEA  3   FLA  S09E36    SF                2109
+9380       0019   ////      0111  LEA  C   RSP  028-163   VI/1              2109
+9380       0022   ////      0022  CUL  C   RSP  040-180   III/1             2109
+
+9670       0034   ////      0034  CUL  C   RSP  020-060   III/1                 
+
+9400       0108   0108      0108  LEA  G   RBR  610       100                   
+
+9410       0132   0134      0141  LEA  3   FLA  S05E31    SF                2109
+
+9420      B0459  U0517     A0533  SVI  3   FLA  S06E37    SF                2109
+9420       0506   ////      0640  SVI  C   RSP  077-180   CTM/1             2109
+
+9430      B0603   ////     B0613  LEA  3   BSL  ////      0.18                  
+
+9440       0623   0623      0623  SVI  G   RBR  245       110                   
+
+9450       0639   0639      0640  SVI  U   RBR  410       140                   
+
+9460       0655   0700      0703  G15  5   XRA  1-8A      C3.5    1.1E-03   2108
+9460 +     0657   0658      0706  LEA  3   FLA  S06E15    SF      ERU       2108
+
+9470 +     0703   ////      0707  SVI  C   RSP  025-050   III/1                 
+
+9480 +     0736   0736      0756  LEA  3   FLA  S07E34    SF      ERU       2109
+
+9490       0809   0816      0830  G15  5   XRA  1-8A      C2.9    3.1E-03   2109
+9490 +    B0810  U0811     A0847  SVI  3   FLA  S06E34    SF      ERU       2109
+
+9510 +     1010   ////      1011  SAG  C   RSP  025-076   III/1                 
+
+9520       1157   1158      1202  SVI  3   FLA  S05E16    SF                2108
+
+9530       1203   1203      1208  SVI  3   FLA  S06E32    SF                2109
+
+9540       1211   1212      1235  SVI  3   FLA  S08E09    SF      ERU       2108
+
+9560       1211   1217      1240  SVI  3   FLA  S16E16    SF                2110
+
+9550       1338   1347      1517  SVI  3   FLA  S08E09    SF      ERU       2108
+9550 +     1338   ////      1339  SAG  C   RSP  025-180   III/2             2108
+
+9570 +     1412   ////      1412  SAG  C   RSP  025-081   III/1                 
+
+9580       1456   1457      1501  SVI  3   FLA  N16W16    SF      ERU       2106
+
+9590       1511   ////      1539  SVI  C   RSP  025-080   VI/1                  
+9590       1511   ////      1516  SAG  C   RSP  025-080   III/2                 
+
+9600       1550   1556      1610  SVI  3   FLA  S10E08    SF      ERU       2108
+
+9610 +     1712   ////      1716  SAG  C   RSP  025-180   V/2                   
+9610       1713   1713      1713  PAL  G   RBR  410       130                   
+
+9620 +     1736   ////      1736  SVI  C   RSP  047-146   III/1                 
+
+9630       1811   ////      1812  SAG  C   RSP  025-148   III/1                 
+
+9640       1922   ////      1922  SAG  C   RSP  025-089   III/1                 
+
+9650       2003   2006      2011  G15  5   XRA  1-8A      C1.6    5.4E-04   2108
+
+9660       2048   2052      2056  G15  5   XRA  1-8A      C1.9    6.3E-04   2107
+
+9680       2136   ////      2136  CUL  C   RSP  023-060   III/1                 
+
+9700       2222   ////      2222  SAG  C   RSP  025-082   III/1                 
+
+9710       2223   ////      2223  CUL  C   RSP  020-090   III/1                 
+
+9720       2231   ////      2231  CUL  C   RSP  023-040   III/1                 
+
+9730       2330   ////      2330  LEA  C   RSP  028-033   III/1                 
+
+9740       2354   2354      2356  LEA  3   FLA  S22W13    SF                2107

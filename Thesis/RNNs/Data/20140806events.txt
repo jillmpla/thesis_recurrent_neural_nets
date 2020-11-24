@@ -1,0 +1,48 @@
+:Product: 20140806events.txt
+:Created: 2014 Aug 09 0332 UT
+:Date: 2014 08 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Aug 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5230       0139   ////      0217  LEA  C   RSP  025-042   VI/1                  
+
+5240       0251   0253      0320  LEA  3   FLA  S18W07    SF                2132
+
+5250       0330   0339      0350  G15  5   XRA  1-8A      C1.7    1.6E-03   2132
+5250       0334   0336      0437  LEA  3   FLA  S17W07    SF      ERU       2132
+
+5380       0353   ////      0358  CUL  C   RSP  020-060   III/1                 
+
+5260 +     0441   ////      0442  LEA  C   RSP  025-180   III/1                 
+
+5270 +     0542   ////      0543  LEA  C   RSP  025-180   III/1                 
+
+5280 +     0621   ////      0652  LEA  C   RSP  025-180   VI/1                  
+
+5290 +     0713   0714      0720  LEA  3   FLA  S18W08    SF                2132
+
+5300       0737   ////      0738  LEA  C   RSP  025-180   III/1                 
+
+5310       0913   ////      0913  SVI  C   RSP  025-080   III/1                 
+
+5320       1009   ////      1012  SVI  C   RSP  025-078   III/1                 
+
+5330       1038   ////      1038  SVI  C   RSP  025-051   III/1                 
+
+5340       1221   ////      1245  SAG  C   RSP  025-180   VI/1                  
+5340       1222   ////      1227  SVI  C   RSP  025-080   III/1                 
+
+5350 +     1407   ////      1407  SAG  C   RSP  025-064   III/1                 
+
+5360       1426   1431      1438  SVI  3   FLA  S22W08    SF                2132
+
+5370       1433   1435      1440  SVI  3   FLA  S14W50    SF                2127
+
+5510      A1719   ////     A0439  SVI  3   DSF  S27W40    7                     

@@ -1,0 +1,18 @@
+:Product: 20140716events.txt
+:Created: 2014 Jul 19 0332 UT
+:Date: 2014 07 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jul 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2310      A0636   ////     A0647  LEA  3   DSF  N13W46    8                     
+
+2270       0742   ////      0743  SVI  C   RSP  025-051   III/1                 
+
+2280       2224   2300      2324  G15  5   XRA  1-8A      B5.1    1.3E-03   2113

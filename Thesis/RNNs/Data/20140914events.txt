@@ -1,0 +1,42 @@
+:Product: 20140914events.txt
+:Created: 2014 Sep 17 0357 UT
+:Date: 2014 09 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Sep 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5810       0012   0017      0021  G15  5   XRA  1-8A      C1.9    7.5E-04       
+
+5830       0059   ////      0100  LEA  C   RSP  031-075   III/1                 
+
+5840 +     0128   0128      0128  LEA  G   RBR  410       620                   
+
+5850       0203   0216      0236  G15  5   XRA  1-8A      M1.5    2.2E-02   2157
+5850       0206   0212      0426  LEA  3   FLA  S13W49    2N      PRB       2157
+
+5880       0229   0229      0232  LEA  3   FLA  N14E61    SF                2166
+
+5850       0233   ////      0430  LEA  C   RSP  040-180   CTM/1             2157
+
+5860 +     0249   ////      0251  CUL  C   RSP  018-180   III/1                 
+
+5870       0315   ////      0426  PAL  C   RSP  076-180   CTM/1             2166
+5870 +     0335   ////      0335  CUL  C   RSP  020-060   III/1             2166
+5870       0401   0401      0404  LEA  3   FLA  N14E61    SF                2166
+
+5890 +     0430   ////      0554  LEA  C   RSP  040-180   IV/1                  
+
+5930       0644   ////      0644  CUL  C   RSP  030-090   III/1                 
+
+5910       1408   1412      1415  G15  5   XRA  1-8A      C1.6    4.3E-04   2157
+5910       1410   1411      1419  SVI  3   FLA  S16W52    SF                2157
+
+5990      A1625   ////     A0537  SVI  3   DSF  N25W44    8                     
+
+5920       2121   2121      2121  PAL  G   RBR  245       150                   

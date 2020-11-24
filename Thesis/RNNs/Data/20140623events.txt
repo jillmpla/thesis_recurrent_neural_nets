@@ -1,0 +1,41 @@
+:Product: 20140623events.txt
+:Created: 2014 Jun 26 0332 UT
+:Date: 2014 06 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jun 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5690       0019   0101      0118  G15  5   XRA  1-8A      B3.7    1.0E-03   2096
+
+5700       0441   ////      0447  SVI  C   RSP  104-152   III/1                 
+
+5790       0442   ////      0447  CUL  C   RSP  100-180   III/1                 
+
+5700       0444   0448      0455  G15  5   XRA  1-8A      B4.2    2.0E-04   2092
+
+5710 +     0649   ////      0649  CUL  C   RSP  075-180   III/1                 
+
+5730 +     0723   0733      0739  G15  5   XRA  1-8A      B4.6    3.4E-04   2087
+
+5720       0730   ////      0730  SVI  C   RSP  105-170   III/1                 
+5720 +     0730   0730      0730  LEA  G   RBR  245       150                   
+
+5740       1325   1330      1333  G15  5   XRA  1-8A      B5.3    1.6E-04       
+
+5750       1414   1444      1448  G15  5   XRA  1-8A      C1.0    9.7E-04   2093
+
+5760       1519   1522      1524  SVI  3   FLA  N17E72    SF                2097
+
+5770       1642   1645      1647  G15  5   XRA  1-8A      B4.5    6.9E-05   2096
+
+5820      A1654   ////     A0508  SVI  3   DSF  S04E71    9                     
+
+5780       1731   ////      1731  SAG  C   RSP  025-064   III/1                 
+
+5800       2206   ////      2206  CUL  C   RSP  060-180   III/1                 

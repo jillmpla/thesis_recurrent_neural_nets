@@ -1,0 +1,76 @@
+:Product: 20140803events.txt
+:Created: 2014 Aug 06 0332 UT
+:Date: 2014 08 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Aug 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4520       0140   0146      0153  G15  5   XRA  1-8A      C2.3    1.2E-03   2134
+4520       0141   0151      0155  LEA  3   FLA  N09E69    SF                2134
+
+4530       0235   0240      0244  G15  5   XRA  1-8A      C1.3    6.4E-04   2134
+4530       0235   0239      0247  LEA  3   FLA  N09E71    SN                2134
+
+4610 +     0301   ////      0334  LEA  4   DSF  S19E41    12                    
+
+4550       0301   ////      0308  LEA  C   RSP  025-180   III/1                 
+
+4540 +     0303   0312      0327  G15  5   XRA  1-8A      C2.5    2.8E-03   2132
+4540       0304   ////      0308  CUL  C   RSP  018-200   III/1             2132
+4540       0305   0307      0338  LEA  3   FLA  S21E43    1F      ERU       2132
+4540       0306   0306      0306  PAL  G   RBR  245       100               2132
+
+4740       0422   ////      0427  CUL  C   RSP  018-060   III/1                 
+
+4750       0525   ////      0525  CUL  C   RSP  020-040   III/1                 
+
+4560 +     0527   0541      0610  SVI  3   FLA  N13E69    SF                2134
+
+4620       0543   0545      0550  SVI  3   FLA  S19E34    SF                2132
+
+4570       0613   0616      0623  G15  5   XRA  1-8A      C1.1    4.9E-04   2132
+4570 +     0614   0614      0641  SVI  3   FLA  S19E33    SF      ERU       2132
+
+4580 +     0826   0827      0839  SVI  3   FLA  S04E12    SF                2130
+
+4590       0926   0928      0933  LEA  3   FLA  N09E63    SF                2134
+
+4790      A0937   ////     A2337  LEA  3   DSF  N05E25    15                    
+
+4630       1012   1013      1025  SVI  3   FLA  S19E32    SF                2132
+
+4640       1214   1219      1223  G15  5   XRA  1-8A      C1.0    4.0E-04       
+
+4650 +     1313   ////      1316  SAG  C   RSP  025-063   III/1                 
+
+4670       1324  U1330     A1342  SVI  3   FLA  N12E64    SF                2134
+
+4660       1330  U1330     A1334  SVI  3   FLA  S18E29    SF                2132
+
+4680       1408   1454      1540  SVI  3   FLA  S18E28    SF                2132
+
+4700       1450   1456      1514  SVI  3   FLA  S09W09    SF      ERU       2127
+
+4690       1622   1625      1627  SVI  3   FLA  S16E21    SF      ERU       2132
+
+4900 +    A1647   ////     A0507  SVI  3   DSF  N11E25    6                     
+
+4710       1759   1808      1836  G15  5   XRA  1-8A      C1.2    2.3E-03   2130
+
+4730       1923   1939      1955  G15  5   XRA  1-8A      C1.1    2.1E-03   2133
+
+4720       2008   ////      2100  SAG  C   RSP  025-052   VI/1                  
+
+4760       2154   ////      2154  CUL  C   RSP  020-060   III/1                 
+
+4770       2240   ////      2240  CUL  C   RSP  020-030   III/1                 
+
+4780       2320   ////      2322  LEA  C   RSP  025-180   V/2                   
+4780 +     2321   ////      2323  CUL  C   RSP  018-460   III/3                 
+4780       2321   2321      2321  PAL  G   RBR  245       370                   

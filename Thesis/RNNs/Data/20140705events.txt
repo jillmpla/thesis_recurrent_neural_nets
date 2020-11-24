@@ -1,0 +1,70 @@
+:Product: 20140705events.txt
+:Created: 2014 Jul 08 0332 UT
+:Date: 2014 07 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jul 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9120       0002   0002      0007  LEA  3   FLA  S09E28    SF                2108
+
+9320      A0040   ////     A1308  HOL  3   DSF  N36E24    16                    
+
+9130       0158   0158      0208  LEA  3   FLA  S09E51    SF                2109
+
+9140       0214   0215      0218  LEA  3   FLA  N10E07    SF                2106
+
+9150       0219   0220      0223  LEA  3   FLA  S09E31    SF                2108
+
+9160       0512   0517      0524  G15  5   XRA  1-8A      C1.4    1.0E-03   2104
+9160       0515   0518      0534  LEA  4   FLA  S09E01    SF      DSD       2104
+
+9170       0551   0554      0559  G15  5   XRA  1-8A      C1.9    6.2E-04   2108
+9170 +     0552   0553      0602  LEA  3   FLA  S07E29    SF                2108
+
+9340       0724   ////      1243  SVI  3   DSF  N38E33    19                    
+
+9180       0828   0837      0843  G15  5   XRA  1-8A      C1.6    1.3E-03   2107
+9180 +     0831   0833      0838  LEA  3   FLA  S19E03    SF                2107
+
+9190       0919   ////      0921  SVI  U   RSP  027-050   V/1                   
+
+9390      A0933   ////     A2342  LEA  3   DSF  S41E56    11                    
+
+9200 +     1142   ////      1143  SAG  C   RSP  048-132   III/1                 
+
+9210       1227   1228      1230  SVI  3   FLA  S08E26    SF                2108
+
+9220       1318   1318      1326  SVI  3   FLA  S05E24    SF      ERU       2108
+
+9230       1333   1334      1342  SVI  3   FLA  S18E10    SF      ERU       2107
+
+9240 +     1434   1434      1434  SAG  G   RBR  245       110                   
+
+9250 +     1525   1525      1525  SAG  G   RBR  245       120                   
+
+9260       1607   1607      1607  SAG  G   RBR  245       100                   
+
+9270       1607   1607      1607  SVI  G   RBR  245       96                    
+
+9280       1611   ////      1612  SVI  C   RSP  025-080   III/1                 
+
+9350       1619   ////      1844  SAG  C   RSP  123-180   CTM/1                 
+
+9330       1619   ////      1811  SVI  C   RSP  027-180   CTM/1                 
+
+9290 +     1631   1632      1632  SAG  G   RBR  245       310                   
+
+9300 +     1711   1711      1711  SAG  G   RBR  245       130                   
+
+9500      A1715   ////     A0505  SVI  3   DSF  S43E59    6                     
+
+9360       2053   ////      2054  SAG  C   RSP  047-082   III/1                 
+
+9370       2216   ////      2240  SAG  C   RSP  025-138   VI/2              2104
+9370       2238   2240      2247  HOL  3   FLA  S09W07    SF      ERU       2104

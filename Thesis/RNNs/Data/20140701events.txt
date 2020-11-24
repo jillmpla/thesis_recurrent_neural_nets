@@ -1,0 +1,112 @@
+:Product: 20140701events.txt
+:Created: 2014 Jul 04 0332 UT
+:Date: 2014 07 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jul 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7620 +     0000   ////      0508  PAL  C   RSP  025-180   VI/2                  
+7620       0000   ////      0508  PAL  C   RSP  025-180   CTM/1                 
+
+7600       0110   ////      0111  CUL  C   RSP  018-080   III/2                 
+
+7530       0122   0122      0122  PAL  G   RBR  245       110                   
+
+7540       0151   0151      0151  LEA  G   RBR  245       110                   
+
+7610       0308   ////      0311  CUL  C   RSP  018-090   III/2                 
+
+7550       0309   0310      0311  PAL  G   RBR  245       300                   
+
+7560 +     0335   0335      0335  SVI  G   RBR  245       110                   
+
+7570       0351   0355      0400  G15  5   XRA  1-8A      C1.5    5.6E-04   2104
+7570 +     0353   ////      0356  CUL  C   RSP  018-100   III/3             2104
+7570       0353   ////      1700  SVI  C   RSP  025-170   CTM/1             2104
+7570       0354   0354      0358  LEA  3   FLA  S07E52    SF                2104
+
+7670       0424   ////      0858  SVI  C   RSP  025-170   VI/1                  
+
+7660       0510   0608      0633  G15  5   XRA  1-8A      C4.8    1.6E-02   2106
+7660 +     0522   0523      0709  LEA  3   FLA  N15E64    SF      ERU       2106
+
+7640       0544   0544      0544  LEA  G   RBR  245       100                   
+
+7650       0551   0551      0551  LEA  G   RBR  245       620                   
+
+7860       0559  U0610      0641  SVI  3   FLA  N19E64    SF      ERU       2106
+
+7680       0650   ////      0816  LEA  C   RSP  028-035   VI/1              2107
+7680       0710   0711      0711  SVI  G   RBR  245       110               2107
+7680       0716   0737      0805  G15  5   XRA  1-8A      C6.6    1.3E-02   2107
+7680 +    B0728  U0730      0806  SVI  3   FLA  S19E64    SF      ERU       2107
+
+7690       0802   0802      0805  LEA  3   FLA  N12E61    SF                2106
+
+7700       0849   0849      0849  SVI  G   RBR  245       140                   
+
+7720       0857   0911      0931  G15  5   XRA  1-8A      C2.1    3.7E-03   2108
+7720       0924   ////      2246  SAG  C   RSP  025-180   CTM/1                 
+
+7710       0925   0927      0928  LEA  G   RBR  245       130                   
+
+7730       1004   1015      1029  G15  5   XRA  1-8A      C6.0    6.8E-03   2106
+7730       1005   1014      1329  SVI  3   FLA  N15E58    1N      PRB       2106
+
+7750       1105   1123      1159  G15  5   XRA  1-8A      M1.4    3.5E-02   2106
+
+7740       1126   1130      1135  SVI  3   FLA  S11E48    SF                2104
+
+7760      B1237  U1237     A1243  HOL  1   FLA  N15E57    SF      PRB       2106
+
+7770       1326   1336      1339  SVI  3   FLA  S09E47    SF                2104
+
+7780       1408   1411      1415  SVI  3   FLA  S09E47    SF                2104
+7780 +     1409   ////      1410  SAG  C   RSP  025-059   III/1             2104
+
+7790       1425   1425      1439  SVI  3   FLA  N18E60    SF                2106
+
+7870       1430   1433      1443  SVI  3   FLA  S08E46    SF                2104
+
+7880 +     1508   ////      2238  SAG  C   RSP  025-180   VI/2                  
+
+7800 +     1610   1610      1610  SAG  G   RBR  245       150                   
+
+7810 +     1611   ////      1614  SAG  C   RSP  025-180   III/2                 
+
+7820       1619   1621      1628  SVI  3   FLA  S04E74    SF                    
+
+7830       1635   1637      1643  SVI  3   FLA  S06E74    SF                    
+7830       1642   1642      1642  PAL  G   RBR  245       100                   
+
+7840       1655   1709      1714  SVI  3   FLA  S06E73    SF                    
+
+7850       1719   1719      1721  PAL  G   RBR  245       110                   
+
+7890       1806   1806      1806  PAL  G   RBR  245       100                   
+
+7900 +     1843   1843      1844  SAG  G   RBR  245       650                   
+
+7910       1906   ////      1906  SAG  C   RSP  025-180   III/2                 
+7910 +     1906   1906      1906  SAG  G   RBR  245       120                   
+
+7920 +     1934   1934      1934  SAG  G   RBR  245       100                   
+
+7930 +     1945   1945      1945  PAL  G   RBR  245       100                   
+
+7940       2002   2002      2002  PAL  G   RBR  245       100                   
+
+7950 +     2101   2101      2101  PAL  G   RBR  245       230                   
+
+7960       2211   2211      2211  PAL  G   RBR  245       160                   
+
+7580 +     2226   2226      2309  PAL  G   RNS  245       150                   
+
+7970       2322   ////      2359  LEA  C   RSP  075-180   CTM/1                 
+7970       2356   2356      2356  PAL  G   RBR  245       100                   

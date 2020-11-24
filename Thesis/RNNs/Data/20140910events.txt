@@ -1,0 +1,87 @@
+:Product: 20140910events.txt
+:Created: 2014 Sep 13 0357 UT
+:Date: 2014 09 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Sep 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4850       0000   ////      0344  LEA  C   RSP  084-180   IV/1                  
+4850       0044   ////      0129  LEA  3   EPL  ////      0.18                  
+
+4860       0244   0244      0244  LEA  G   RBR  245       470                   
+
+4870       0252   0257      0309  LEA  3   FLA  S12E04    SF                2157
+
+4910       0309   0311      0312  LEA  3   FLA  S12E04    SF                2157
+
+4880       0313   0316      0329  LEA  3   FLA  S14E02    SF                2157
+
+4920       0321   0321      0325  LEA  3   FLA  S18W60    SF                2154
+
+4960       0423   ////      1000  LEA  C   RSP  075-180   CTM/1                 
+
+4890       0503   0506      0508  LEA  3   FLA  S14E01    SF                2157
+
+4900       0512   0524      0532  G15  5   XRA  1-8A      C2.4    2.3E-03   2157
+4900 +     0513   0513      0513  LEA  G   RBR  245       440               2157
+4900 +     0514   0515      0519  LEA  3   FLA  S16E05    SF                2157
+
+4930       0522   0523      0524  LEA  3   FLA  S16E05    SF                2157
+
+4970       0541   ////      1037  SVI  C   RSP  075-171   CTM/1                 
+
+4940       0730   0731      0751  SVI  3   FLA  S14E03    SF      ERU       2157
+4940       0743   ////      0743  SVI  C   RSP  037-074   III/1             2157
+
+4950       0754  U0802      0805  SVI  3   FLA  S14E03    SF      ERU       2157
+
+4980       1142   ////      1143  SVI  C   RSP  106-143   III/1                 
+
+4990       1217   1217      1217  SAG  G   RBR  245       100                   
+
+5000       1227   ////      1309  SVI  C   RSP  074-171   CTM/1                 
+
+5010       1358   1402      1422  SVI  3   FLA  N15E05    SF                2158
+5010 +     1419   ////      1529  SVI  C   RSP  074-171   CTM/1             2158
+
+5020       1432   1434      1434  SAG  G   RBR  245       100                   
+5020 +     1432   ////      1432  SVI  C   RSP  074-156   III/1                 
+
+5030       1659   1733      2240  HOL  3   FLA  N14E02    2B      UMB       2158
+5030       1721   1745      1820  G15  5   XRA  1-8A      X1.6    3.8E-01   2158
+5030 +     1723   1747      1916  SAG  G   RBR  410       5600    CastelliU 2158
+5030 +     1723   1733      1827  SAG  G   RBR  4995      2700    CastelliU 2158
+5030 +     1723   1732      1842  SAG  G   RBR  8800      2400    CastelliU 2158
+5030 +     1723   1733      1855  SAG  G   RBR  2695      1300    CastelliU 2158
+5030 +     1724   1747      1910  SAG  G   RBR  610       6600    CastelliU 2158
+5030 +     1724   1746      1855  SAG  G   RBR  1415      640     CastelliU 2158
+5030 +     1724   1733      1847  SAG  G   RBR  15400     1300    CastelliU 2158
+5030 +     1726   1747      1922  SAG  G   RBR  245       3800    CastelliU 2158
+5030 +     1727   ////      1757  SAG  C   RSP  25-180    II/2    3750      2158
+5030       1728   ////      2359  COM  C   RSP  25-180    IV/2              2158
+5030      B1800   ////     A2230  SOH  4   CME  XUV,EUV,UV335-334/FS1209      2158
+
+5040       1826   1827      1901  HOL  3   FLA  S17W01    SF      ERU       2157
+5040       1848   1858      1858  PAL  G   RBR  15400     100               2157
+5040       1849   1908      1922  PAL  G   RBR  245       720               2157
+5040       1851   1854      1916  PAL  G   RBR  410       280               2157
+5040       1853   1855      1910  PAL  G   RBR  610       290               2157
+5040       1854   1854      1855  PAL  G   RBR  1415      130               2157
+5040       1854   1854      1855  PAL  G   RBR  2695      330               2157
+
+5050 +     1939   1945      2006  PAL  G   RBR  245       810                   
+5050 +     1941   1946      1957  PAL  G   RBR  410       200                   
+5050       1943   1943      1943  SAG  G   RBR  610       52                    
+
+5060       1945   1945      1951  PAL  G   RBR  610       59                    
+5060 +     1945   1948      1949  PAL  G   RBR  1415      73                    
+
+5070       2105   2105      2107  PAL  G   RBR  245       340                   
+
+5080       2341   2350      2351  HOL  3   FLA  N12E01    SF                2158

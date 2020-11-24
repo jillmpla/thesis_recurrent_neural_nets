@@ -1,0 +1,62 @@
+:Product: 20140829events.txt
+:Created: 2014 Sep 01 0357 UT
+:Date: 2014 08 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Aug 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2050      A0104   ////     A1306  HOL  2   DSF  N10W21    7                 2149
+
+1920       0220   0226      0231  G15  5   XRA  1-8A      C1.4    6.7E-04   2146
+1920       0226   ////      0241  LEA  3   EPL  ////      0.22              2146
+1920       0226   ////      0241  LEA  3   BSL  ////      0.22              2146
+
+1930       0237   0237      0253  LEA  3   FLA  S06E06    SF                2151
+1930 +     0237   ////      0238  CUL  C   RSP  130-260   III/1             2151
+1930 +     0237   0237      0237  LEA  G   RBR  245       410               2151
+
+1940 +     0456   0456      0456  LEA  G   RBR  245       100                   
+
+1960 +     0551   0553      0556  LEA  3   FLA  N07W67    SF                2148
+
+1970       0559   ////      0559  SVI  C   RSP  033-049   III/1                 
+
+1980       0638   ////      0642  LEA  4   BSL  ////      0.15              2146
+
+1990 +     1053   ////      1053  SVI  C   RSP  123-180   III/1                 
+
+2010 +     1123   ////      1124  SVI  C   RSP  117-180   III/1                 
+2010 +     1124   1124      1124  SVI  G   RBR  245       320                   
+2010       1124   1124      1124  SVI  G   RBR  410       150                   
+
+2020 +     1151   1151      1151  SVI  G   RBR  410       250                   
+
+2030 +     1202   1202      1202  SVI  G   RBR  245       160                   
+
+2040 +     1346   1347      1347  SAG  G   RBR  245       290                   
+2040 +     1347   ////      1347  SAG  C   RSP  122-180   III/1                 
+
+2060       1543   1552      1602  G15  5   XRA  1-8A      C4.3    3.3E-03   2146
+2060 +     1544   ////      1550  SAG  C   RSP  025-180   III/2             2146
+2060 +     1549   1549      1549  SAG  G   RBR  245       160               2146
+2060 +     1557   ////      1621  SVI  3   BSL  ////      0.19    B.9A      2146
+
+2070       1759   1808      1816  G15  5   XRA  1-8A      C1.9    1.4E-03   2148
+2070       1803   1803      1812  HOL  3   FLA  N09W76    SF                2148
+
+2080       2157   ////      2202  SAG  C   RSP  025-180   III/1                 
+
+2090       2235   2244      2257  G15  5   XRA  1-8A      C1.5    1.8E-03   2149
+
+2100      B2300   2318      2337  LEA  3   FLA  N08W35    SF                2149
+2100       2308   2320      2330  G15  5   XRA  1-8A      C1.5    1.8E-03   2149
+
+2120       2346   0012      0033  G15  5   XRA  1-8A      C3.0    5.4E-03   2149
+
+2110       2351   2351      2359  LEA  3   FLA  N08W35    SF                2149

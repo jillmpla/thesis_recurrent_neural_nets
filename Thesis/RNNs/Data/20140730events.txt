@@ -1,0 +1,39 @@
+:Product: 20140730events.txt
+:Created: 2014 Aug 02 0332 UT
+:Date: 2014 07 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jul 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3690 +     0042   0046      0049  G15  5   XRA  1-8A      C1.3    3.8E-04   2125
+
+3700 +     0243   0246      0250  G15  5   XRA  1-8A      C3.7    8.0E-04   2130
+
+4270       0422   ////      0649  COM  2   DSF  N13E21    31                    
+
+3710       0542   0548      0559  G15  5   XRA  1-8A      C1.9    1.4E-03   2127
+3710       0544   0550      0608  LEA  3   FLA  S09E48    SF                2127
+
+3730       1140   ////      1212  SAG  C   RSP  025-081   III/1                 
+3730 +     1140   ////      1215  SAG  C   RSP  025-081   VI/1                  
+
+3740       1304   ////      1307  SAG  C   RSP  027-075   III/1                 
+
+3760 +     1556   ////      1728  SAG  C   RSP  025-180   VI/2              2127
+3760       1559   1609      1656  HOL  2   FLA  S10E38    1F      UMB       2127
+3760       1600   1617      1635  G15  5   XRA  1-8A      C9.0    1.3E-02   2127
+
+3780       1831   ////      1957  SAG  C   RSP  025-070   VI/1                  
+
+3770       1842   1848      1853  G15  5   XRA  1-8A      C3.6    1.6E-03   2127
+3770       1844   1846      1854  HOL  3   FLA  S08E42    SF      ERU       2127
+
+3790       2104   ////      2108  SAG  C   RSP  025-090   III/1                 
+
+3800       2159   ////      2159  SAG  C   RSP  025-052   III/1                 

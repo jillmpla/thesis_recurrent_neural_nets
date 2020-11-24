@@ -1,0 +1,45 @@
+:Product: 20140726events.txt
+:Created: 2014 Jul 29 0332 UT
+:Date: 2014 07 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jul 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3160       0055   0055      0055  LEA  G   RBR  245       100                   
+
+3170       0500   0504      0508  G15  5   XRA  1-8A      C1.0    3.4E-04   2125
+
+3190       0824   0827      0829  G15  5   XRA  1-8A      B6.3    1.0E-04   2125
+3190 +     0826   0826      0828  SVI  3   FLA  S11E85    SF                2125
+
+3200       0836   ////      0837  SVI  C   RSP  025-081   III/1                 
+
+3300      A0934   ////     A2334  LEA  3   DSF  N10W53    11                    
+
+3210       1136   1143      1146  G15  5   XRA  1-8A      C1.0    4.6E-04   2123
+3210       1137   1143      1153  SVI  3   FLA  S09E25    SF      ERU       2123
+
+3220       1157   1206     A1213  SVI  3   FLA  S09E25    SF      ERU       2123
+3220       1206   1210      1215  G15  5   XRA  1-8A      C1.1    4.1E-04   2123
+
+3230       1316   1320      1324  G15  5   XRA  1-8A      C1.8    5.5E-04   2123
+
+3240       1401   1405      1412  HOL  2   FLA  S09E23    SF      ERU       2123
+
+3250       1507   1511      1514  G15  5   XRA  1-8A      B8.9    2.2E-04   2123
+3250       1510   1511      1514  HOL  3   FLA  S08E23    SF      ERU       2123
+
+3260 +     1541   ////      1543  SAG  C   RSP  025-180   III/2                 
+3260 +     1542   1542      1542  SAG  G   RBR  245       260                   
+
+3270       1549   ////      1550  SVI  C   RSP  025-133   III/1                 
+
+3280       1634   1635      1640  HOL  3   FLA  S08E22    SF      DSD       2123
+
+3290       2335   ////      2337  LEA  C   RSP  025-159   III/1                 

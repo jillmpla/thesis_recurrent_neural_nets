@@ -1,0 +1,54 @@
+:Product: 20140621events.txt
+:Created: 2014 Jun 24 0332 UT
+:Date: 2014 06 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jun 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5480 +     0233   ////      0514  LEA  2   DSF  N18W05    30                    
+
+5450       0239   0313      0332  G15  5   XRA  1-8A      B6.7    1.7E-03   2093
+5450       0311   0317      0322  LEA  3   FLA  S08E04    SF                2093
+
+5470       0451   0508      0516  SVI  3   FLA  S09E05    SF      ERU       2093
+
+5460       0452   0456      0503  G15  5   XRA  1-8A      B7.6    3.7E-04   2093
+5460       0453   0453      0458  LEA  3   FLA  S08E05    SF                2093
+
+5490 +     0632   ////      0633  SVI  C   RSP  034-075   III/1                 
+
+5500       1000   1019      1022  SVI  3   FLA  S09E03    SF      ERU       2093
+
+5510       1103   1117      1140  SVI  3   FLA  S09E01    1F      ERU       2093
+5510       1104   1119      1127  G15  5   XRA  1-8A      C2.1    1.9E-03   2093
+
+5520       1314   ////      1314  SVI  C   RSP  029-057   III/1                 
+
+5530       1334   1356      1409  G15  5   XRA  1-8A      B4.8    7.8E-04   2093
+5530 +     1336   1354      1421  SVI  3   FLA  S11E03    SF      ERU       2093
+
+5540       1519   1520      1532  SVI  3   FLA  S11E03    SF      ERU       2093
+
+5550       1540   1546      1552  G15  5   XRA  1-8A      B5.1    2.7E-04   2093
+5550       1542   1546      1608  SVI  3   FLA  S11E03    SF      ERU       2093
+
+5560       1616   1621      1629  SVI  3   FLA  S11E02    SF      ERU       2093
+
+5570       1639   1644      1701  SVI  3   FLA  S11E01    SF      ERU       2093
+
+5580       1907   1946      2015  G15  5   XRA  1-8A      C1.0    2.8E-03   2093
+
+5590       1914   ////      1956  HOL  3   EPL  ////      0.22    B.8A      2093
+
+5580 +     1922   1930      2004  HOL  3   FLA  S10W04    SF      ERU       2093
+5580       1923   ////      1925  SAG  C   RSP  025-072   III/2             2093
+
+5600       2024   ////      2024  SAG  C   RSP  025-067   III/1                 
+
+5610       2152   2157      2200  G15  5   XRA  1-8A      B3.6    1.1E-04   2093

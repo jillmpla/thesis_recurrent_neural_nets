@@ -1,0 +1,28 @@
+:Product: 20140920events.txt
+:Created: 2014 Sep 23 0357 UT
+:Date: 2014 09 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Sep 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7000 +     0342   ////      0537  LEA  4   DSF  N07W07    15                    
+
+6930 +     0448   ////      0452  LEA  C   RSP  025-150   III/2                 
+
+7040      A0943   ////     A2255  LEA  2   DSF  S17W15    11                    
+
+6960       1004   ////      1004  SVI  C   RSP  025-037   III/1                 
+
+7020       1243   1254      1306  G15  5   XRA  1-8A      C1.1    1.4E-03   2171
+
+7010       1708   1714      1723  G15  5   XRA  1-8A      C1.1    8.2E-04   2172
+
+7030 +     2233   ////      2234  PAL  C   RSP  031-147   III/1                 
+
+7060       2255   ////      0142  LEA  3   DSF  N25E12    13                    

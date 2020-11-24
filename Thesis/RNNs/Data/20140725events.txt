@@ -1,0 +1,42 @@
+:Product: 20140725events.txt
+:Created: 2014 Jul 28 0332 UT
+:Date: 2014 07 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jul 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3040 +     0421   ////      0422  CUL  C   RSP  018-150   III/1                 
+
+3050       0657   0702      0707  G15  5   XRA  1-8A      C2.2    8.0E-04   2121
+3050       0657   ////      0715  LEA  C   RSP  025-180   VI/2              2121
+3050       0658   ////      0703  SVI  C   RSP  025-180   V/2               2121
+3050 +     0659   0702      0719  LEA  3   FLA  N09E35    1N      ERU       2121
+3050 +     0700   0700      0700  LEA  G   RBR  245       2000              2121
+3050       0712   ////      0722  SVI  C   RSP  025-080   II/2    1090      2121
+
+3070       0725   0729      0734  LEA  3   FLA  N10E36    SF                2121
+
+3080       0919   ////      0920  SVI  C   RSP  025-055   III/1                 
+
+3150      A0933   ////     A2330  LEA  3   DSF  S28E17    9                     
+
+3090       1111   1115      1150  SVI  3   FLA  N12E42    SF                2121
+
+3180      A1714   ////     A0444  SVI  3   DSF  S08E20    11                    
+
+3100       1738   ////      1739  SVI  C   RSP  025-080   III/1                 
+3100       1739   ////      1806  SAG  C   RSP  025-076   VI/2                  
+
+3110 +     1918   1923      1926  G15  5   XRA  1-8A      B9.1    2.8E-04   2122
+
+3120 +     2020   2023      2028  G15  5   XRA  1-8A      B5.4    1.8E-04       
+
+3130       2206   2217      2230  G15  5   XRA  1-8A      B8.8    1.0E-03       
+
+3140       2351   2355      2359  G15  5   XRA  1-8A      B7.9    2.3E-04       

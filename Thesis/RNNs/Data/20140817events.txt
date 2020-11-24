@@ -1,0 +1,96 @@
+:Product: 20140817events.txt
+:Created: 2014 Aug 20 0332 UT
+:Date: 2014 08 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Aug 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7980       0000   ////      0013  LEA  C   RSP  120-162   CTM/1             2139
+7980 +     0007   0008      0008  PAL  G   RBR  245       300               2139
+7980       0010   0020      0032  G15  5   XRA  1-8A      B8.4    9.1E-04   2139
+7980       0011   0014      0030  LEA  3   FLA  N13E06    SF                2139
+
+8000       0136   ////      0237  LEA  C   RSP  067-180   CTM/1                 
+
+7990       0151   0156      0201  G15  5   XRA  1-8A      B7.3    3.1E-04   2144
+7990       0151   0151      0151  LEA  U   RBR  245       220                   
+
+8010       0250   ////      0250  LEA  C   RSP  028-136   III/1                 
+
+8020       0403   0404      0404  LEA  U   RBR  245       120                   
+
+8030 +     0450   ////      0450  LEA  C   RSP  028-135   III/1                 
+
+8040       0619   0619      0619  LEA  G   RBR  245       130                   
+
+8050       0637   0637      0638  LEA  G   RBR  245       160                   
+
+8060       0701   0704      0706  G15  5   XRA  1-8A      B8.0    1.2E-04   2144
+8060 +     0702   0702      0702  LEA  G   RBR  245       100               2144
+8060 +     0702   0704      0707  SVI  3   FLA  S22W56    SF      DSD       2144
+
+8070       0715   ////      0716  SVI  C   RSP  025-053   III/1                 
+
+8120 +     0726   ////      1145  SVI  C   RSP  025-180   CTM/1                 
+
+8090       0739   0739      0739  LEA  G   RBR  245       120                   
+
+8100 +     0752   ////      0752  LEA  C   RSP  088-171   III/1                 
+
+8110       0914   0915      0918  LEA  3   FLA  S06E25    SF                2143
+
+8130       0925   0926      0928  LEA  3   FLA  S15W52    SF                2144
+
+8140       0935   0935      0935  LEA  G   RBR  245       110                   
+
+8150       0945   0946      0947  LEA  G   RBR  245       110                   
+
+8160       0957   1001      1009  SVI  3   FLA  S04E24    SF                2143
+
+8170       1018   1019      1021  SVI  3   FLA  N12E73    SF                2146
+
+8180       1058   1058      1100  SVI  3   FLA  S05E23    SF                2143
+
+8290       1228   ////      1733  SVI  C   RSP  056-180   CTM/1                 
+
+8190       1251   1253      1254  SVI  3   FLA  S05E22    SF                2143
+
+8200 +     1332   1332      1332  SVI  G   RBR  410       300                   
+
+8210       1339  U1342      1353  SVI  3   FLA  S05E22    SF      ERU       2143
+
+8220 +     1404   1404      1404  SAG  G   RBR  245       170                   
+
+8300       1413   ////      1651  SAG  C   RSP  122-180   CTM/1                 
+
+8240       1429   1429      1434  SVI  3   FLA  S24W56    SF                2144
+
+8250       1514   ////      1516  SVI  C   RSP  025-172   III/1                 
+8250       1514   ////      1537  SAG  C   RSP  025-180   VI/2                  
+
+8260       1536   ////      1537  SVI  C   RSP  025-180   III/1                 
+
+8270 +     1558   1558      1558  SAG  G   RBR  245       110                   
+
+8280 +     1603   1603      1603  SAG  G   RBR  245       110                   
+
+8310       1758   ////      1807  SAG  C   RSP  025-180   V/2                   
+8310 +     1802   1802      1802  SAG  G   RBR  245       110                   
+
+8330       1845   ////      2026  SAG  C   RSP  025-114   VI/2                  
+8330       1940   ////      2117  SAG  C   RSP  025-131   CTM/1                 
+
+8320       1941   1948      2006  G15  5   XRA  1-8A      C1.8    2.0E-03   2146
+
+8340       2143   ////      2143  SAG  C   RSP  030-041   III/1                 
+
+8350       2205   2209      2215  G15  5   XRA  1-8A      B8.2    3.4E-04   2144
+
+8360       2303   ////      2359  LEA  C   RSP  075-177   CTM/1                 
+8360       2312   ////      2340  LEA  C   RSP  025-100   VI/1                  

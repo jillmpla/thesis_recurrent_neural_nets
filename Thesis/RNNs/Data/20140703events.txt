@@ -1,0 +1,86 @@
+:Product: 20140703events.txt
+:Created: 2014 Jul 06 0332 UT
+:Date: 2014 07 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jul 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8520       0000   ////      0900  LEA  C   RSP  083-180   CTM/1                 
+
+8400       0131   0138      0142  LEA  3   FLA  N12E18    SF                2102
+
+8410       0243   0244      0249  LEA  3   FLA  S09E79    SF                2109
+8410       0248   ////      0329  LEA  C   RSP  029-036   VI/1              2109
+
+8630       0332   0359      0424  G15  5   XRA  1-8A      C2.6    6.3E-03       
+
+8420       0358   0358      0400  LEA  3   FLA  S12E25    SF                2104
+
+8430       0421   0422      0426  SVI  3   FLA  N12W14    SF                2100
+
+8450       0430   0430      0433  SVI  3   FLA  S06E73    SF                2109
+
+8440       0433   0435      0439  SVI  3   FLA  S08E27    SF                2104
+
+8460 +     0445   0449      0455  LEA  3   FLA  S11E26    SF                2104
+
+8470 +     0455   0456      0459  SVI  3   FLA  S06E73    SF                2109
+
+8510       0457   0458      0500  LEA  3   FLA  S11E26    SF                2104
+
+8480       0502   0506      0509  SVI  3   FLA  S14E61    SF      ERU           
+
+8490       0534   0534      0537  LEA  3   FLA  S10E78    SF                2109
+
+8530 +     0647   0647      0649  SVI  3   FLA  S06E72    SF                2109
+
+8540       0655   0700      0708  G15  5   XRA  1-8A      C1.9    1.1E-03   2107
+8540 +     0657   0657      0708  SVI  3   FLA  S19E31    SF                2107
+
+8550       0712   0712      0715  SVI  3   FLA  S18E29    SF                2107
+
+8560 +     0727   0728      0743  SVI  3   FLA  S18E39    SF                2107
+
+8570 +     0825   0827      0833  SVI  3   FLA  S06E73    SF                2109
+
+8580       0912   0912      0913  LEA  2   FLA  S10E51    SF                2108
+
+8610 +     0922   ////      1134  SAG  C   RSP  054-180   CTM/1                 
+
+8730      A0925   ////     A2351  LEA  3   DSF  S01W66    15                    
+
+8590       0942  U0943      0950  SVI  3   FLA  S08E25    SF      ERU       2104
+
+8600       1029   1032      1035  SVI  3   FLA  S07E71    SF      ERU       2109
+
+8620       1155   1155      1159  SVI  3   FLA  S05E70    SF                2109
+
+8640       1232   1234      1242  SVI  3   FLA  N13E32    SF      ERU       2106
+8640       1233   ////      1517  SAG  C   RSP  025-067   VI/1              2106
+
+8650       1245   ////      1500  SVI  C   RSP  106-171   CTM/1                 
+8650       1321   ////      1530  SVI  C   RSP  025-073   VI/1                  
+
+8660       1650   1650      1700  SVI  3   FLA  S09E19    SF      ERU       2104
+
+8670       1942   1942      1942  SAG  G   RBR  245       120                   
+
+8680 +     2000   2000      2000  PAL  G   RBR  245       240                   
+
+8690 +     2038   2038      2038  PAL  G   RBR  245       180                   
+
+8700 +     2110   2110      2110  PAL  G   RBR  245       190                   
+
+8710       2131   2131      2136  HOL  3   FLA  S09E43    SF                2108
+
+8720       2141   2146      2149  SAG  G   RBR  245       200                   
+
+9040      A2204   ////     A1257  HOL  3   DSF  S42E45    22                    
+
+8740       2322   ////      2337  LEA  C   RSP  107-180   CTM/1                 

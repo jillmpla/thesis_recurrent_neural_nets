@@ -1,0 +1,63 @@
+:Product: 20140913events.txt
+:Created: 2014 Sep 16 0357 UT
+:Date: 2014 09 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Sep 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5580       0000   0009      0015  G15  5   XRA  1-8A      C2.3    1.5E-03   2161
+5580       0001   0004      0013  LEA  3   FLA  S11W79    SF      DSD       2161
+
+5590       0213   0215      0217  LEA  3   FLA  S12W78    SF                2161
+5590       0213   0213      0213  LEA  G   RBR  245       130               2161
+
+5600       0326   0329      0348  LEA  3   FLA  S14W78    SF                2161
+
+5610       0349   0349      0349  LEA  G   RBR  410       120                   
+
+5620       0427   0510      0546  LEA  3   FLA  S12W82    SF                2161
+
+5660       0429   0447      0458  G15  5   XRA  1-8A      C1.7    2.2E-03   2166
+
+5640       0627   0627      0627  LEA  G   RBR  245       290                   
+
+5670       0634   0641      0653  LEA  3   FLA  S13E10    SF                2164
+
+5700       0640   0642      0647  LEA  3   FLA  S11W80    SF                2161
+
+5680       0746   0755      0757  LEA  3   FLA  S11W80    SF                2161
+
+5690       0903   0905      0907  LEA  3   FLA  S11W82    SF                2161
+
+5820      A0940   ////     A2316  LEA  3   DSF  N33E27    6                     
+
+5710       1022   1031      1059  SVI  3   FLA  S15W42    SF                2155
+
+5720       1241   1244      1246  G15  5   XRA  1-8A      C1.2    2.0E-04   2161
+
+5730       1250   1254      1256  G15  5   XRA  1-8A      C3.7    7.3E-04   2157
+5730      B1254  U1254     A1259  SVI  3   FLA  S19W37    SF      ERU       2157
+5730 +     1255   1255      1255  SVI  G   RBR  245       140               2157
+5730 +     1256   ////      1257  SVI  C   RSP  025-180   III/2             2157
+
+5900      A1528   ////     A0529  SVI  3   DSF  N44E35    12                    
+
+5750       1610   1616      1619  G15  5   XRA  1-8A      C1.1    4.7E-04   2157
+
+5760       1711   1714      1716  G15  5   XRA  1-8A      C1.6    2.7E-04   2157
+
+5770       2228   2233      2236  G15  5   XRA  1-8A      C1.1    3.6E-04       
+
+5780       2310   2313      2315  G15  5   XRA  1-8A      C1.2    2.2E-04   2157
+5780       2313   2313      2315  LEA  3   FLA  S15W45    SF                2157
+
+5790       2315   2315      2315  LEA  G   RBR  410       160                   
+
+5800       2316   2318      2326  LEA  3   FLA  N20W39    SF                2158
+5800       2316   2319      2323  G15  5   XRA  1-8A      C1.5    4.3E-04   2158

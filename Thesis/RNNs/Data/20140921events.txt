@@ -1,0 +1,21 @@
+:Product: 20140921events.txt
+:Created: 2014 Sep 24 0357 UT
+:Date: 2014 09 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2014 Sep 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7090      A0005   ////     A1539  HOL  2   DSF  N39E22    17                    
+
+7050       0144   0151      0158  G15  5   XRA  1-8A      C1.2    7.9E-04   2172
+
+7070       0707   0714      0725  G15  5   XRA  1-8A      C2.0    1.6E-03   2172
+
+7080       1128   1145      1303  SVI  3   FLA  N11W40    1F      ERU       2166
+7080       1131   1153      1232  G15  5   XRA  1-8A      C5.2    1.5E-02   2166
