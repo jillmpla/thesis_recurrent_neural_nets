@@ -1,0 +1,63 @@
+:Product: 20120429events.txt
+:Created: 2012 May 02 0332 UT
+:Date: 2012 04 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Apr 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9510       0052   0055      0057  G15  5   XRA  1-8A      C1.7    2.3E-04   1466
+9510 +     0053   0055      0102  HOL  3   FLA  N12W53    SN      ERU       1466
+
+9680       0256   ////      0257  CUL  C   RSP  020-065   III/1                 
+
+9520       0341   0341      0344  LEA  3   FLA  S20E70    SF                1471
+
+9690       0518   ////      0518  CUL  C   RSP  023-060   III/1                 
+
+9700       0523   ////      0523  CUL  C   RSP  023-060   III/1                 
+
+9710       0528   ////      0530  CUL  C   RSP  020-080   III/1                 
+
+9530 +     0528   ////      0529  LEA  C   RSP  025-125   III/1                 
+
+9540       0549   0552      0554  G15  5   XRA  1-8A      B9.4    1.5E-04   1465
+9540       0552   0553      0555  SVI  3   FLA  S18W70    SF                1465
+
+9550       0744   ////      0744  SVI  C   RSP  025-054   III/1                 
+
+9560       0801   0801      0808  SVI  3   FLA  S28E52    SF                    
+
+9580 +     1107   ////      1110  SAG  C   RSP  042-114   III/1                 
+
+9670       1358   1408      1415  G15  5   XRA  1-8A      C1.0    1.0E-03   1471
+
+9590 +     1424   ////      1425  SAG  C   RSP  106-180   III/1             1469
+9590 +     1427   1432      1438  G15  5   XRA  1-8A      C1.1    7.9E-04   1469
+9590 +     1427   1431      1439  HOL  3   FLA  S19E06    SF      ERU       1469
+
+9600 +     1443   ////      1443  SVI  U   RSP  039-154   III/1                 
+
+9630       1509   1517      1524  G15  5   XRA  1-8A      C1.1    9.8E-04   1465
+
+9610 +     1514   ////      1515  SVI  C   RSP  057-169   III/1                 
+
+9620       1525   ////      1540  SVI  3   BSL  ////      0.19    B.9A      1465
+
+9640 +     1613   ////      1614  SAG  C   RSP  036-180   III/1                 
+
+9650       1629   1633      1639  G15  5   XRA  1-8A      C1.1    4.9E-04   1465
+9650       1629   1629      1635  HOL  3   FLA  S16W78    SF      ERU       1465
+
+9660       1654   1657      1700  G15  5   XRA  1-8A      B8.9    2.0E-04       
+
+9720 +     2131   ////      2131  PAL  C   RSP  025-049   III/2                 
+
+9730       2335   ////      2335  CUL  C   RSP  035-060   III/1                 
+
+9740       2342   ////      2342  CUL  C   RSP  035-060   III/1                 

@@ -1,0 +1,83 @@
+:Product: 20120615events.txt
+:Created: 2012 Jun 18 0332 UT
+:Date: 2012 06 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jun 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 510       0032   0052      0106  G15  5   XRA  1-8A      C3.0    5.3E-03   1504
+ 510       0045   0050      0104  HOL  3   FLA  S18E03    SF      ERU       1504
+
+ 660      A0142   ////     A1227  HOL  3   DSF  N23W67    14                    
+
+ 650 +     0554   ////      0738  SVI  3   DSF  N20W53    17                    
+
+ 530       0647   0648      0649  SVI  3   FLA  S11W03    SF                1505
+
+ 550       0943   0944      0947  SVI  3   FLA  S16W02    SF                1504
+ 550 +     0943  U0943      0943  SAG  G   RBR  410       100               1504
+
+ 560       1008   1009      1014  SVI  3   FLA  S15W04    SF                1504
+
+ 570      B1049  U1051      1106  SVI  3   FLA  S18E02    SF                1504
+
+ 580 +     1130   1130      1130  SVI  G   RBR  245       140                   
+
+ 630 +     1141   1148      1232  SVI  G   RNS  245       160                   
+
+ 590       1157  U1200      1202  SVI  3   FLA  S16W05    SF                1504
+
+ 600       1240   1241      1248  SVI  3   FLA  S16W06    SF      ERU       1504
+
+ 610       1307   1324      1333  G15  5   XRA  1-8A      C3.4    3.7E-03   1504
+ 610 +     1309   1313      1340  HOL  3   FLA  S17W06    SF                1504
+
+ 620 +     1342   1350      1358  HOL  3   FLA  S17W07    SF                1504
+
+ 670 +     1422   ////      1423  SVI  C   RSP  101-169   III/1                 
+
+ 680       1433   1433      1435  HOL  3   FLA  S16W05    SF                1504
+
+ 690       1452   ////      1453  SVI  C   RSP  025-079   III/1                 
+
+ 710       1539   1550      1554  G15  5   XRA  1-8A      C1.1    8.3E-04   1504
+ 710 +     1540   1550      1556  SVI  3   FLA  S14W08    SF                1504
+
+ 720       1612   1624      1713  SVI  3   FLA  S16W07    SF      ERU       1504
+ 720       1638   1638      1640  SAG  G   RBR  410       160               1504
+ 720 +     1658   ////      2111  SAG  C   RSP  075-180   CTM/1             1504
+
+ 730       1720   ////      1810  SVI  C   RSP  074-180   CTM/1             1504
+ 730       1727   1727      1727  SAG  G   RBR  410       140               1504
+
+ 750       1730   ////      2045  PAL  C   RSP  025-180   VI/2                  
+
+ 730 +     1739   1739      1739  SAG  G   RBR  245       100               1504
+ 730       1748   ////      1730  SVI  C   RSP  025-081   III/1             1504
+ 730       1805   1816      1827  G15  5   XRA  1-8A      C2.0    2.2E-03   1504
+ 730       1807   1808      1824  HOL  3   FLA  S20W05    SF                1504
+
+ 740       1830   1831      1837  HOL  3   FLA  S20W06    SF      DSD       1504
+
+ 760       2037   2037      2037  SAG  G   RBR  410       100                   
+
+ 770       2044   2044      2044  SAG  G   RBR  245       110                   
+
+ 780       2055   2055      2055  SAG  G   RBR  245       200                   
+
+ 790       2103   2103      2103  SAG  G   RBR  245       140                   
+
+ 800       2106   2106      2106  SAG  G   RBR  245       180                   
+
+ 810       2118   ////      2123  SAG  C   RSP  025-104   III/1                 
+ 810 +     2120   ////      2217  PAL  C   RSP  025-180   VI/1                  
+
+ 820 +     2301   ////      2305  PAL  C   RSP  025-180   III/2                 
+
+ 830 +     2330   ////      2330  PAL  C   RSP  025-132   III/1                 

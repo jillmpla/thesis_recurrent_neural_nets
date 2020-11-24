@@ -1,0 +1,53 @@
+:Product: 20120503events.txt
+:Created: 2012 May 06 0332 UT
+:Date: 2012 05 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 May 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 360       0028   0100      0118  G15  5   XRA  1-8A      B8.7    2.0E-03   1475
+
+ 320       0213   0213      0213  LEA  G   RBR  610       160                   
+
+ 330       0408   ////      0408  CUL  C   RSP  030-060   III/1                 
+
+ 470       0450   ////      0450  CUL  C   RSP  020-060   III/1                 
+
+ 340       0521   0526      0537  G15  5   XRA  1-8A      B7.6    7.1E-04   1471
+ 340       0523   0524      0536  SVI  3   FLA  S22E23    SF                1471
+
+ 370       1037   1037      1040  SVI  3   FLA  S28W41    SF                1469
+
+ 380       1042   1106      1123  G15  5   XRA  1-8A      C1.0    1.6E-03   1469
+ 380       1104   1106      1119  SVI  3   FLA  S28W41    SF                1469
+
+ 390       1135   1137      1219  SVI  3   FLA  S18E09    SF      ERU       1471
+ 390       1136   1137      1137  SAG  G   RBR  410       230               1471
+ 390 +     1137   1137      1137  SVI  G   RBR  1415      110               1471
+ 390 +     1137   1137      1137  SVI  G   RBR  2695      65                1471
+
+ 420       1324   1432      1511  G15  5   XRA  1-8A      C1.6    7.8E-03   1475
+
+ 400 +     1348   1354      1412  HOL  3   FLA  N07E74    SF      ERU       1475
+
+ 410 +     1415   1416      1418  HOL  3   FLA  S26W44    SF      ERU       1469
+
+ 420 +     1423   1423      1434  HOL  3   FLA  N07E74    SF      ERU       1475
+
+ 430       1529   1530      1542  SVI  3   FLA  S28W45    SF                1469
+
+ 440       1639   1656      1723  G15  5   XRA  1-8A      C2.3    4.8E-03   1475
+
+ 450 +     1657   1703      1712  HOL  3   FLA  S26W45    SF      ERU       1469
+
+ 460       1748   1749      1801  HOL  3   FLA  S26W45    SF      ERU       1469
+
+ 480       2340   ////      2340  CUL  C   RSP  020-060   III/1                 
+
+ 490       2349   2349      2351  HOL  3   FLA  S24E12    SF      ERU       1471

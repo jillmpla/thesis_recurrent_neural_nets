@@ -1,0 +1,36 @@
+:Product: 20120625events.txt
+:Created: 2012 Jun 28 0332 UT
+:Date: 2012 06 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jun 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2170       1145   1150      1158  G15  5   XRA  1-8A      B3.2    1.9E-04   1512
+2170       1146   1146      1200  SVI  3   FLA  S14E49    SF                1512
+
+2180       1641   1645      1653  G15  5   XRA  1-8A      B3.1    1.7E-04       
+
+2190       1803   1814      1822  G15  5   XRA  1-8A      B5.2    4.5E-04       
+
+2200       1826   1848      1945  G15  5   XRA  1-8A      B5.4    2.3E-03       
+2200       1835   ////      1836  PAL  C   RSP  056-075   III/1                 
+
+2210       2040   2044      2052  G15  5   XRA  1-8A      B7.5    3.9E-04       
+
+2220       2055   2059      2105  G15  5   XRA  1-8A      C1.4    5.7E-04   1512
+2220       2056   2057      2100  HOL  4   FLA  S16E42    SF      ERU       1512
+
+2240       2157   ////      2157  CUL  C   RSP  030-060   III/1                 
+
+2230       2215   2223      2229  G15  5   XRA  1-8A      B7.0    4.6E-04       
+2230 +     2217   ////      2217  CUL  C   RSP  030-060   III/1                 
+
+2250       2340   ////      2343  CUL  C   RSP  018-120   III/1                 
+2250 +     2340   ////      2358  LEA  C   RSP  025-119   VI/1                  
+2250       2341   0007      0029  G15  5   XRA  1-8A      C1.0    2.1E-03   1513

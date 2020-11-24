@@ -1,0 +1,29 @@
+:Product: 20120623events.txt
+:Created: 2012 Jun 26 0332 UT
+:Date: 2012 06 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jun 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2050       0702   0750      0844  G15  5   XRA  1-8A      C2.7    1.2E-02       
+2050       0737   ////      0737  SVI  C   RSP  025-051   III/1                 
+2050       0800   ////      0812  SVI  C   RSP  025-091   VI/1                  
+
+2060       0847   ////      0927  SVI  C   RSP  025-080   VI/1                  
+
+2070       1006   ////      1025  SVI  C   RSP  025-075   VI/1                  
+2070       1024   ////      1025  SAG  C   RSP  025-039   III/1                 
+
+2080       1125   ////      1125  SVI  U   RSP  079-085   III/1                 
+
+2090 +     1218   ////      1232  SVI  C   RSP  025-117   VI/1                  
+
+2100 +     1438   ////      1447  SVI  C   RSP  025-080   III/1                 
+
+2110 +     1558   ////      1558  SVI  C   RSP  025-048   III/1                 

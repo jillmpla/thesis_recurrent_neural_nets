@@ -1,0 +1,101 @@
+:Product: 20120605events.txt
+:Created: 2012 Jun 08 0332 UT
+:Date: 2012 06 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jun 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7780       0009   ////      0010  CUL  C   RSP  050-180   III/1                 
+
+7790       0114   ////      0115  CUL  C   RSP  018-200   III/2                 
+
+7770 +     0114   ////      0115  PAL  C   RSP  025-180   III/2                 
+
+7800       0323   0323      0323  LEA  G   RBR  245       100                   
+
+8140       0514   ////      0514  CUL  C   RSP  023-050   III/1                 
+
+7810       0531   ////      0637  SVI  C   RSP  025-180   VI/2                  
+7810       0532   ////      0916  SVI  C   RSP  025-180   CTM/1                 
+
+7820       0724   ////      0733  SVI  U   RSP  025-180   III/1                 
+
+7830       0746   0755      0808  G15  5   XRA  1-8A      C1.1    1.2E-03   1494
+7830       0746   ////      0750  SVI  C   RSP  025-180   III/1             1494
+7830       0749  U0753     A0811  SVI  3   FLA  S17E15    SF      ERU       1494
+
+7850       0841   ////      0845  SVI  C   RSP  025-081   III/1                 
+
+7860 +     0849   0850      0850  LEA  G   RBR  245       160                   
+
+7870 +     0858   0858      0858  LEA  G   RBR  245       180                   
+
+7880 +     1051   ////      1053  SVI  C   RSP  025-082   III/1                 
+
+7890 +     1124   ////      1448  SVI  C   RSP  025-180   VI/2              1499
+
+8050       1135   ////      2138  SAG  C   RSP  025-180   CTM/1                 
+
+7890       1136   ////      1532  SVI  C   RSP  025-180   CTM/1             1499
+7890       1153   1157      1159  G15  5   XRA  1-8A      C1.5    2.5E-04   1499
+7890       1156   1158      1203  SVI  3   FLA  N17E30    SF                1499
+7890 +     1156   1156      1156  SVI  G   RBR  245       3400              1499
+7890 +     1156   1156      1156  SVI  G   RBR  410       1000              1499
+
+7900       1210   1210      1211  SVI  G   RBR  410       130                   
+
+7910       1215   1215      1215  SVI  G   RBR  410       160                   
+
+7920 +     1223   1223      1223  SAG  G   RBR  245       150                   
+
+7930       1234   1234      1235  SVI  G   RBR  245       260                   
+
+7940       1559   1600      1600  SAG  G   RBR  610       170                   
+
+7950       1640   ////      1913  SAG  C   RSP  025-180   VI/1                  
+7950 +     1641   ////      2359  PAL  C   RSP  025-180   CTM/2                 
+
+7960       1756   1759      1802  G15  5   XRA  1-8A      B8.3    1.8E-04   1499
+7960       1756   ////      1758  PAL  C   RSP  025-045   III/1             1499
+7960       1758   1801      1803  HOL  3   FLA  N16E27    SF      DSD       1499
+
+7970       1809   ////      1815  PAL  C   RSP  025-059   III/1                 
+
+7980       1833   ////      1835  PAL  C   RSP  025-055   III/1                 
+
+7990       1843   ////      1843  PAL  C   RSP  037-074   III/1                 
+
+8000       1911   1916      1928  HOL  3   FLA  N15E26    SF      DSD       1499
+8000       1913   ////      1913  PAL  C   RSP  025-068   III/1             1499
+
+8060 +     2002   ////      2138  SAG  C   RSP  025-180   VI/2                  
+
+8020       2016   2016      2016  SAG  G   RBR  410       180                   
+8020       2016   2016      2016  SAG  G   RBR  245       100                   
+
+8030       2022   2023      2028  HOL  3   FLA  N16E23    SF      ERU       1499
+8030       2022   2023      2023  SAG  G   RBR  245       170               1499
+
+7840 +     2024   2037      2101  SAG  G   RNS  245       580                   
+
+8040       2049   2059      2109  G15  5   XRA  1-8A      C4.2    3.4E-03   1499
+8040       2050   2056      2127  HOL  3   FLA  N16E19    2F      ERU       1499
+
+8070       2145   2154      2157  G15  5   XRA  1-8A      C1.0    7.2E-04   1499
+8070       2146   2149      2200  HOL  3   FLA  N15E24    SF      DSD       1499
+
+8080       2306   2313      2326  G15  5   XRA  1-8A      C1.0    9.9E-04   1498
+8080       2310   2314      2316  HOL  3   FLA  N07E14    SF      DSD       1498
+8080       2316   ////      2359  LEA  C   RSP  073-180   CTM/1             1498
+
+8150       2334   ////      2334  CUL  C   RSP  020-120   III/1                 
+
+8100       2334   ////      2334  LEA  C   RSP  025-121   III/1                 
+
+8090 +     2334   ////      2334  PAL  C   RSP  025-049   III/1                 

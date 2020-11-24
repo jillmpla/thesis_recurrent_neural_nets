@@ -1,0 +1,14 @@
+:Product: 20120622events.txt
+:Created: 2012 Jun 25 0332 UT
+:Date: 2012 06 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jun 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2040       1532   ////      1532  SAG  C   RSP  025-090   III/1                 

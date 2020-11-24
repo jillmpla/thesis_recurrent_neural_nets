@@ -1,0 +1,62 @@
+:Product: 20120501events.txt
+:Created: 2012 May 04 0332 UT
+:Date: 2012 05 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 May 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9950       0045   0045      0045  LEA  G   RBR  245       160                   
+9950       0045   ////      0046  PAL  C   RSP  025-180   V/2                   
+9950 +     0046   ////      0047  CUL  C   RSP  018-100   III/3                 
+
+  90       0211   ////      0211  CUL  C   RSP  035-060   III/1                 
+
+ 100       0404   ////      0404  CUL  C   RSP  020-060   III/1                 
+
+9960       0418   0418      0420  SVI  G   RBR  245       140                   
+9960 +     0419   ////      0422  CUL  C   RSP  020-300   III/1                 
+
+9970       0435   0443      0447  G15  5   XRA  1-8A      C3.9    1.6E-03   1470
+9970 +     0439   0444      0454  LEA  3   FLA  S19E38    1F                1470
+
+ 110       0514   ////      0514  CUL  C   RSP  027-060   III/1                 
+
+9990       0515   0545      0552  G15  5   XRA  1-8A      C1.2    2.2E-03   1465
+
+  10 +     1348   ////      1349  SVI  C   RSP  025-082   III/1                 
+
+  20 +     1504   ////      1504  SVI  C   RSP  034-052   III/1                 
+
+  30 +     1520   1522      1529  HOL  3   FLA  S21W32    SF      ERU       1469
+
+  40       1708   1715      1718  HOL  3   FLA  S20E38    SF      ERU       1471
+  40       1711   1714      1717  G15  5   XRA  1-8A      B5.7    1.2E-04   1471
+
+  50       1732   ////      1732  SAG  C   RSP  025-038   III/1                 
+  50       1732   ////      1824  SAG  C   RSP  025-051   VI/1                  
+
+ 120       1757   ////      1824  PAL  C   RSP  025-054   VI/1                  
+
+  60       1759   1800      1808  HOL  3   FLA  S25W17    SF      ERU       1469
+
+  70       1812   1813      1817  HOL  3   FLA  S20E38    SF      ERU       1471
+
+  80       1826   1831      1836  G15  5   XRA  1-8A      B8.4    3.6E-04       
+  80       1828   1829      1833  HOL  3   FLA  S21W34    SF      ERU           
+
+ 130 +     1930   ////      1930  PAL  C   RSP  025-047   III/1                 
+
+ 140 +     2106   ////      2152  PAL  C   RSP  025-180   VI/1                  
+
+ 150       2233   ////      2256  SAG  C   RSP  025-180   VI/1              1473
+ 150       2234   2235      2243  HOL  3   FLA  S20W37    SF      ERU       1473
+ 150       2246   2250      2252  G15  5   XRA  1-8A      C1.2    2.8E-04   1473
+ 150 +     2247   ////      2250  CUL  C   RSP  020-065   III/2             1473
+
+ 350       2248   2248      2251  HOL  3   FLA  N10W78    SF      DSD       1468

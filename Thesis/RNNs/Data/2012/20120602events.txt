@@ -1,0 +1,48 @@
+:Product: 20120602events.txt
+:Created: 2012 Jun 05 0332 UT
+:Date: 2012 06 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jun 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7140       0101   0105      0108  G15  5   XRA  1-8A      C2.2    5.9E-04   1498
+
+7150 +     0309   ////      0309  LEA  C   RSP  025-168   III/2                 
+
+7160 +     0414   ////      0420  LEA  C   RSP  025-180   III/1                 
+7160       0415   0431      0455  G15  5   XRA  1-8A      C1.5    3.1E-03   1493
+7160 +     0443   0443      0443  LEA  G   RBR  245       130                   
+
+7170       0546   ////      0546  SVI  C   RSP  038-138   III/1                 
+
+7180 +     0751   ////      0753  SVI  C   RSP  025-087   III/2                 
+
+7190       0850   ////      0852  SVI  C   RSP  046-083   III/1                 
+
+7240       1352   1352      1409  HOL  3   FLA  S13W58    SF      ERU       1490
+
+7200       1353   1355      1418  HOL  3   FLA  S13W01    SF      ERU       1495
+7200 +     1405   ////      1408  SVI  C   RSP  025-089   V/2               1495
+
+7210       1442   1447      1450  HOL  3   FLA  N11E74    SF      ERU       1498
+
+7220 +     1502   ////      1504  SAG  C   RSP  025-180   III/1                 
+7220 +     1503   1503      1504  SAG  G   RBR  245       130                   
+
+7230       1536   ////      1536  SAG  C   RSP  025-047   III/1                 
+
+7250 +     1755   ////      1756  SAG  C   RSP  025-045   III/1                 
+
+7260 +     2000   ////      2000  PAL  C   RSP  025-050   III/1                 
+
+7270 +     2055   ////      2055  SAG  C   RSP  025-047   III/1                 
+
+7280       2245   ////      2246  PAL  C   RSP  025-180   III/1                 
+
+7290       2335   ////      2336  PAL  C   RSP  025-120   III/1                 

@@ -1,0 +1,52 @@
+:Product: 20120530events.txt
+:Created: 2012 Jun 02 0332 UT
+:Date: 2012 05 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 May 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6420       0000   ////      0209  PAL  C   RSP  075-180   CTM/1                 
+
+6410       0111   0111      0111  LEA  G   RBR  245       100                   
+
+6440       0143   0226      0254  G15  5   XRA  1-8A      B9.3    3.0E-03   1488
+
+6430 +     0410   ////      1212  SVI  C   RSP  075-180   CTM/1                 
+
+6450       0643   ////      0643  SVI  C   RSP  025-060   III/1                 
+
+6460 +     0836   0850      0907  G15  5   XRA  1-8A      C1.0    1.9E-03   1494
+6460       0859   ////      0900  SVI  C   RSP  074-180   III/1             1494
+
+6470       1047   ////      1048  SAG  C   RSP  025-046   III/1                 
+
+6480 +     1224   ////      1225  SVI  C   RSP  075-180   III/1                 
+6480 +     1224   1224      1224  SVI  G   RBR  245       130                   
+6480 +     1224   1225      1225  SVI  G   RBR  410       320                   
+
+6490       1250   ////      1250  SAG  C   RSP  025-051   III/1                 
+
+6500 +     1351   ////      1351  SAG  C   RSP  025-075   III/2                 
+
+6510 +     1703   ////      1703  SVI  C   RSP  025-082   III/1                 
+
+6530       1754   ////      2259  SAG  C   RSP  025-180   VI/1                  
+
+6520       1856   1907      1920  G15  5   XRA  1-8A      B8.7    1.1E-03       
+
+6540       1954   ////      2259  PAL  C   RSP  025-116   VI/1                  
+
+6550 +     2155   2159      2203  G15  5   XRA  1-8A      C1.0    3.4E-04   1494
+6550       2200   ////      2200  CUL  C   RSP  120-180   III/1             1494
+
+6570       2212   ////      2212  CUL  C   RSP  023-060   III/1                 
+
+6560       2248   2250      2257  HOL  3   FLA  N14E79    SF                    
+
+6580       2259   ////      2301  CUL  C   RSP  023-090   III/1                 

@@ -1,0 +1,62 @@
+:Product: 20120518events.txt
+:Created: 2012 May 21 0332 UT
+:Date: 2012 05 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 May 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4790       0049   0050     A0134  HOL  3   FLA  N16W09    SF      ERU       1479
+4790 +     0132   0132      0132  LEA  G   RBR  245       100               1479
+
+4800 +     0304   ////      0304  LEA  C   RSP  025-142   III/1                 
+
+4810       0305   ////      0305  CUL  C   RSP  018-180   III/1                 
+
+4820       0445   0451      0455  G15  5   XRA  1-8A      B7.7    4.3E-04   1482
+4820 +     0447   ////      0449  LEA  C   RSP  025-180   III/2                 
+4820       0447   ////      0449  SVI  C   RSP  025-180   V/2                   
+4820 +     0448   0448      0449  LEA  G   RBR  245       740                   
+
+4830       0506   ////      0506  SVI  C   RSP  025-126   III/1                 
+
+4840       0709   ////      0709  SVI  C   RSP  025-147   III/1                 
+
+4850       0753   0823      0839  G15  5   XRA  1-8A      C3.6    7.4E-03   1476
+4850       0814   ////      0843  SVI  C   RSP  025-143   VI/1                  
+
+4860       1109   ////      1816  SAG  C   RSP  025-180   VI/2                  
+4860 +     1130   ////      1130  SVI  C   RSP  025-180   III/2                 
+4860       1130   1130      1130  SAG  G   RBR  245       230                   
+4860       1131   1131      1131  SAG  G   RBR  410       93                    
+
+4870       1252   1315      1334  G15  5   XRA  1-8A      C2.0    4.1E-03       
+4870       1330   ////      1615  SVI  C   RSP  025-154   VI/1                  
+
+4930       1336   1347      1355  G15  5   XRA  1-8A      C2.1    2.3E-03       
+
+4940       1447   1457      1511  G15  5   XRA  1-8A      C1.3    1.6E-03       
+
+4880       1544   1556      1614  G15  5   XRA  1-8A      C1.9    2.8E-03       
+
+4890       1615   ////      1615  PAL  C   RSP  025-153   III/1                 
+
+4900       1755   1755      1759  HOL  3   FLA  N11E16    SF      ERU       1484
+4900       1755   ////      1815  PAL  C   RSP  025-059   VI/1              1484
+
+4950       1830   1859      1921  G15  5   XRA  1-8A      C1.9    4.1E-03       
+
+4920 +     1922   ////      2049  PAL  C   RSP  025-180   VI/2                  
+
+4910       1941   1942      1946  HOL  3   FLA  N10E15    SF                1484
+
+4970       2129   ////      2157  PAL  C   RSP  025-056   VI/1                  
+
+4980 +     2231   ////      2236  PAL  C   RSP  025-087   III/1                 
+
+4960       2341   2359      0022  G15  5   XRA  1-8A      C2.2    4.2E-03   1476

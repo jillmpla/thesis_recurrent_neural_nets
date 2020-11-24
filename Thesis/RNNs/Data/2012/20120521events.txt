@@ -1,0 +1,26 @@
+:Product: 20120521events.txt
+:Created: 2012 May 24 0332 UT
+:Date: 2012 05 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 May 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5310 +     0950   ////      0950  SVI  C   RSP  025-162   III/1                 
+
+5320 +     1144   ////      1145  SVI  C   RSP  025-080   III/2                 
+
+5330       1347   ////      1347  SVI  C   RSP  025-039   III/1                 
+
+5340       1442   1444      1457  HOL  3   FLA  N12W23    SF      ERU       1484
+
+5350 +     1520   ////      1520  SVI  C   RSP  025-076   III/1                 
+
+5360       1533   1533      1536  HOL  3   FLA  N19E32    SF                1486
+
+5370       1630   1633      1639  HOL  3   FLA  N12W23    SF                1484

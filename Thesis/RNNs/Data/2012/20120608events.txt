@@ -1,0 +1,61 @@
+:Product: 20120608events.txt
+:Created: 2012 Jun 11 0332 UT
+:Date: 2012 06 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jun 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8880 +     0003   ////      0350  PAL  C   RSP  025-115   VI/1                  
+8880       0045   ////      0046  CUL  C   RSP  018-180   III/3                 
+
+8890       0251   0307      0322  G15  5   XRA  1-8A      C7.7    8.5E-03   1494
+8890 +     0305   ////      0331  CUL  C   RSP  040-190   II/3                  
+8890 +     0307   ////      0307  CUL  C   RSP  018-180   III/3                 
+8890       0307   0307      0307  LEA  G   RBR  245       130                   
+8890 +     0308   ////      0319  LEA  C   RSP  025-180   IV/2                  
+8890       0310   0310      0310  LEA  G   RBR  410       150                   
+
+8900      B0330  U0330      0342  LEA  3   FLA  S19W21    SF                1494
+8900       0335   ////      0410  CUL  C   RSP  040-090   CTM/1             1494
+
+8910 +     0348   0348      0348  LEA  G   RBR  245       170                   
+
+8920       0349   ////      0351  CUL  C   RSP  018-180   III/1                 
+
+8930       0458   ////      0458  LEA  C   RSP  025-101   III/1                 
+
+8940       0558   ////      0614  LEA  C   RSP  025-180   VI/2                  
+
+8950       0711   0716      0718  G15  5   XRA  1-8A      C4.8    8.3E-04   1493
+8950       0713   ////      0716  LEA  C   RSP  025-180   III/2                 
+8950 +     0715   0715      0715  LEA  G   RBR  245       310                   
+8950       0715   0715      0715  SVI  U   RBR  410       100                   
+
+8960       0758   ////      0758  LEA  C   RSP  025-109   III/1                 
+
+8970       1020   ////      1208  SAG  C   RSP  025-141   CTM/1                 
+
+8980       1133   ////      1143  SAG  C   RSP  025-075   III/1                 
+
+8990       1213   ////      1332  SAG  C   RSP  025-080   VI/2                  
+
+9000       1430   ////      1547  SAG  C   RSP  025-070   VI/2                  
+
+9010 +     1623   ////      1628  SAG  C   RSP  025-180   III/2                 
+
+9020       1935   ////      1955  PAL  C   RSP  025-180   VI/1                  
+9020       1951   ////      1951  SAG  C   RSP  025-078   III/1                 
+
+9030       2029   2030      2038  HOL  3   FLA  N16W15    SF      ERU       1499
+
+9040 +     2046   ////      2047  PAL  C   RSP  025-084   III/1                 
+
+9050       2144   ////      2145  PAL  C   RSP  025-052   III/1                 
+
+9060       2318   ////      2319  PAL  C   RSP  025-083   III/1                 

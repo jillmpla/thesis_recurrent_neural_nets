@@ -1,0 +1,76 @@
+:Product: 20120504events.txt
+:Created: 2012 May 07 0332 UT
+:Date: 2012 05 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 May 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 500 +     0013   ////      0013  PAL  C   RSP  025-148   III/1                 
+
+ 510 +     0130   ////      0137  CUL  C   RSP  023-090   III/1                 
+
+ 520       0250   0255      0259  G15  5   XRA  1-8A      B7.6    2.9E-04   1469
+
+ 530       0411   ////      0414  CUL  C   RSP  035-060   III/1                 
+
+ 540       0448   0454      0458  G15  5   XRA  1-8A      C1.3    5.0E-04   1469
+ 540       0452   0453      0455  LEA  3   FLA  S22W50    SF                1469
+
+ 550       0523   ////      0523  SVI  C   RSP  025-126   III/2                 
+
+ 560       0559   ////      0603  SVI  C   RSP  025-082   III/1                 
+
+ 580       0722   ////      0741  SVI  C   RSP  025-059   VI/1                  
+
+ 570       0750   0754      0758  G15  5   XRA  1-8A      B7.4    2.4E-04       
+
+ 590       0822   ////      0830  SVI  C   RSP  025-146   III/1                 
+
+ 600       0922   ////      0922  SVI  C   RSP  029-180   III/1                 
+ 600 +     0922   0922      0922  SVI  G   RBR  245       120                   
+
+ 610 +     1026   1026      1026  SVI  G   RBR  245       160                   
+ 610 +     1026   ////      1035  SVI  C   RSP  025-180   III/2                 
+ 610       1026   ////      1050  SAG  C   RSP  025-180   VI/2                  
+
+ 620       1049   ////      1050  SVI  C   RSP  027-084   III/1                 
+
+ 630 +     1233   ////      1236  SAG  C   RSP  025-061   III/1                 
+
+ 640 +     1329   ////      1330  SVI  C   RSP  025-071   III/1                 
+
+ 650 +     1419   ////      1453  SVI  C   RSP  025-173   VI/2              1471
+ 650 +     1423   1431      1437  HOL  3   FLA  S18W05    SF                1471
+ 650       1446   1450      1457  G15  5   XRA  1-8A      C1.5    7.6E-04   1471
+ 650 +     1451   1451      1453  SAG  G   RBR  245       100               1471
+
+ 660       1546   ////      1557  SVI  C   RSP  025-083   VI/1                  
+
+ 670       1626   1629      1636  SVI  3   FLA  S29W54    SF                1469
+
+ 680 +     1638   1640      1654  SVI  3   FLA  S29W54    SF      ERU       1469
+
+ 690       1648   1652      1653  HOL  3   FLA  S27W55    SF      ERU       1469
+
+ 700 +     1659   ////      1704  SAG  C   RSP  025-082   III/1                 
+
+ 710       1721   ////      1721  SVI  C   RSP  041-075   III/1                 
+
+ 750       1740   ////      1814  HOL  3   DSF  N15E50    7                     
+
+ 760       1914   ////      2056  HOL  3   DSF  N15W32    5                     
+
+ 720       1922   1928      1932  G15  5   XRA  1-8A      C1.8    7.5E-04   1470
+
+ 730       1934   1937      1940  G15  5   XRA  1-8A      C2.3    4.7E-04       
+
+ 740       2055   2059      2145  HOL  3   FLA  N14E47    SF      ERU       1474
+ 740       2058   2102      2104  G15  5   XRA  1-8A      C1.6    5.9E-04   1474
+
+ 770       2350   2356      0002  G15  5   XRA  1-8A      C1.9    1.0E-03   1469

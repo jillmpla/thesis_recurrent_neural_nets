@@ -1,0 +1,98 @@
+:Product: 20120709events.txt
+:Created: 2012 Jul 12 0332 UT
+:Date: 2012 07 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jul 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8890       0003   0004      0041  LEA  3   FLA  S17E25    SF      ERU       1519
+
+8870       0037   0037      0053  LEA  3   FLA  S18W89    SF      ERU       1515
+
+8880       0124   0126      0136  LEA  3   FLA  S16E36    SF                1520
+
+9000       0152   ////      0943  LEA  3   EPL  ////      0.18              1515
+
+8900       0312   ////      0312  CUL  C   RSP  040-100   III/1                 
+
+8910       0429   ////      0430  CUL  C   RSP  023-060   III/1                 
+
+9230       0452   ////      0454  CUL  C   RSP  020-080   III/2                 
+
+8920 +     0455   ////      0457  CUL  C   RSP  045-200   III/1                 
+
+8930 +     0457   0457      0503  SVI  3   FLA  N18W62    SF                1517
+
+9040       0518   0527      0532  SVI  3   FLA  S19W73    SF                1515
+
+8940 +     0524   0527      0535  SVI  3   FLA  S22E36    SF      ERU       1520
+
+8950       0533   ////      0534  SVI  C   RSP  033-079   III/1                 
+
+8960       0612   ////      0614  SVI  C   RSP  025-080   III/1                 
+
+8970       0706   0713      0722  G15  5   XRA  1-8A      C4.5    3.4E-03   1516
+8970       0714   0714      0719  SVI  3   FLA  N16W63    SF                1516
+
+8980 +     0736   0807      0918  LEA  3   FLA  S18E39    SF                1520
+
+8990       0805   0830      0858  G15  5   XRA  1-8A      C7.9    2.2E-02   1515
+8990       0806   0806      0807  SVI  G   RBR  15400     100               1515
+8990       0806   0806      0806  SVI  G   RBR  4995      58                1515
+8990       0806   0806      0815  SVI  G   RBR  8800      92                1515
+8990 +     0819   0819      0820  SVI  G   RBR  245       180               1515
+8990       0821   ////      0825  SVI  C   RSP  025-079   III/1             1515
+8990 +     0822   0827      0834  LEA  3   FLA  S17W82    SF                1515
+
+9030       0850   0851      0909  LEA  3   FLA  S17W83    SF                1515
+
+9010       0902   ////      0903  SVI  C   RSP  025-051   III/1                 
+
+9150       0921   0932      1005  G15  5   XRA  1-8A      C6.5    1.9E-02   1515
+
+9020       0940   0946      1004  SVI  3   FLA  S20E30    SF                1520
+
+9060 +     1200   ////      1650  SVI  C   RSP  025-180   VI/1              1520
+9060       1208   1214      1255  SVI  3   FLA  S20E28    SF                1520
+
+9070       1314   1314      1315  SVI  3   FLA  S17E23    SF                1519
+
+9080       1318   1319      1334  SVI  3   FLA  S16E19    SF                1519
+
+9120       1320   1326      1338  SVI  3   FLA  S22E45    SF                1520
+
+9090       1356   1402      1404  SVI  3   FLA  S20E27    SF                1520
+
+9100       1408   1411      1419  SVI  3   FLA  S20E27    SF                1520
+
+9110       1531   1536      1545  SVI  3   FLA  S21E26    SF                1520
+
+9130       1626   ////      1626  SAG  C   RSP  104-180   III/1                 
+
+9140 +     1725   ////      1725  SAG  C   RSP  025-180   III/2                 
+9140 +     1725   1725      1725  SAG  G   RBR  245       350                   
+
+9160 +     1825   ////      1826  SAG  C   RSP  025-180   III/1                 
+
+9170       1917   1917      1922  HOL  3   FLA  S17E15    SF                1519
+
+9180       1925   1929      1936  HOL  3   FLA  S22E24    SF      ERU       1520
+
+9190 +     1946   1952      1956  G15  5   XRA  1-8A      C5.0    2.0E-03   1515
+
+9200       2047   2048      2053  HOL  3   FLA  S17E39    SF      ERU       1520
+
+9210 +     2207   2217      2228  G15  5   XRA  1-8A      C2.2    2.4E-03   1520
+
+9220 +     2303   2307      2311  G15  5   XRA  1-8A      M1.1    2.8E-03   1520
+9220       2306   2306      2307  PAL  G   RBR  8800      400               1520
+
+9240 +     2332   ////      2333  PAL  C   RSP  025-062   III/2                 
+
+9250       2339   0017      0057  LEA  3   FLA  S17E34    SF      ERU       1520

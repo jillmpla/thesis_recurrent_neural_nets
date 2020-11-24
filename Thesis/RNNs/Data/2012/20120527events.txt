@@ -1,0 +1,39 @@
+:Product: 20120527events.txt
+:Created: 2012 May 30 0332 UT
+:Date: 2012 05 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 May 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6080       0142   0142      0142  LEA  G   RBR  245       180                   
+
+6090       0250   0258      0305  G15  5   XRA  1-8A      B8.3    5.4E-04       
+
+6100       0442   0552      0632  G15  5   XRA  1-8A      C3.1    1.3E-02   1492
+6100       0551   0555      0600  LEA  3   FLA  S13E57    SF                1492
+
+6190       0556   ////      0642  CUL  C   RSP  025-160   CTM/1                 
+
+6110       0619   0624      0635  LEA  3   FLA  S13E57    SF                1492
+
+6120       0640   0640      0640  LEA  G   RBR  245       100                   
+
+6160       0730   ////      0930  LEA  G   RNS  245       60                    
+
+6130       0732   0733      0733  LEA  G   RBR  245       210                   
+
+6140       0739   0739      0739  LEA  G   RBR  245       130                   
+
+6150       0746   0746      0746  LEA  G   RBR  245       100                   
+
+6160       1255   1256      1326  SAG  G   RNS  610       130                   
+
+6170       1616   1616      1617  SAG  G   RBR  610       120                   
+
+6180       1940   1940      1940  SAG  G   RBR  245       130                   

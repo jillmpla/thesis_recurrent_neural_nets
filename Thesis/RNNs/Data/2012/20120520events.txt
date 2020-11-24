@@ -1,0 +1,46 @@
+:Product: 20120520events.txt
+:Created: 2012 May 23 0332 UT
+:Date: 2012 05 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 May 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5200       0030   ////      0030  CUL  C   RSP  018-170   III/1                 
+
+5140 +     0030   ////      0030  LEA  C   RSP  025-134   III/1                 
+
+5210       0252   ////      0252  CUL  C   RSP  020-060   III/1                 
+
+5220       0315   ////      0315  CUL  C   RSP  020-200   III/1                 
+
+5230       0406   ////      0406  CUL  C   RSP  018-180   III/1                 
+
+5240       0457   ////      0500  CUL  C   RSP  020-180   III/1                 
+
+5150       0457   ////      0457  SVI  C   RSP  025-058   III/1                 
+
+5250       0628   ////      0632  CUL  C   RSP  025-070   III/1                 
+
+5160       0631   ////      0711  SVI  C   RSP  025-123   VI/1                  
+
+5300      A1223   ////     A0623  SVI  3   DSF  S06E30    22                    
+
+5170       1319   1329      1337  HOL  3   FLA  N10E15    SF                1484
+
+5180 +     1342   ////      1342  SVI  C   RSP  025-054   III/1                 
+
+5190       1343   1343      1344  SAG  G   RBR  410       360                   
+
+5260       1800   1800      1808  HOL  4   FLA  N10W12    SF                1484
+
+5270       1831   ////      1831  PAL  C   RSP  025-086   III/1                 
+
+5280 +     2051   ////      2053  SAG  C   RSP  025-180   III/1                 
+
+5290       2230   ////      2233  CUL  C   RSP  023-060   III/1                 

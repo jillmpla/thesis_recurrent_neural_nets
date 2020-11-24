@@ -1,0 +1,58 @@
+:Product: 20120616events.txt
+:Created: 2012 Jun 19 0332 UT
+:Date: 2012 06 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jun 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 840 +     0000   ////      0430  LEA  C   RSP  025-180   VI/2              1504
+ 840       0043   0048      0050  G15  5   XRA  1-8A      C2.4    5.4E-04   1504
+ 840 +     0045   0047      0055  HOL  3   FLA  S17W07    1N      ERU       1504
+
+ 850       0120   0125      0134  G15  5   XRA  1-8A      B8.8    5.9E-04   1504
+ 850       0121   0123      0127  HOL  3   FLA  S16W14    SF                1504
+
+ 860 +     0345   ////      1810  SVI  C   RSP  025-169   CTM/2                 
+ 860       0352   ////      0430  SVI  C   RSP  025-169   VI/2                  
+
+ 870       0447   0448      0459  SVI  3   FLA  S18W14    SF      ERU       1504
+
+ 880       0620   0629      0635  G15  5   XRA  1-8A      C1.3    9.0E-04       
+
+ 890      B0703  U0703      0712  SVI  3   FLA  S18W15    SF                1504
+
+ 900       0726   0726      0727  SVI  G   RBR  245       160                   
+
+ 990 +     0751   0751      0751  SVI  G   RNS  245       110                   
+
+ 910 +     0817   ////      0842  LEA  C   RSP  025-180   VI/2              1504
+ 910       0822   0824      0827  SVI  3   FLA  S20W15    SF      ERU       1504
+
+ 920       1056   1056      1056  SAG  G   RBR  245       100                   
+
+ 930       1303   1303      1306  SVI  3   FLA  S18W19    SF                1504
+
+ 940       1324   1336      1357  SVI  3   FLA  S29W41    SF      ERU       1507
+
+ 950 +     1358   ////      1401  SVI  C   RSP  025-166   III/1                 
+
+ 960       1444   1453      1459  G15  5   XRA  1-8A      C1.8    1.3E-03   1504
+ 960 +     1446   1448      1450  HOL  3   FLA  S16W21    SF      ERU       1504
+
+ 970       1506   1510      1510  HOL  3   FLA  S15W24    SF      ERU       1504
+
+1000       1709   ////      2359  PAL  C   RSP  025-180   CTM/1                 
+
+ 980       1806   1807      1808  SVI  G   RBR  245       170                   
+
+1010       1831   1835      1840  G15  5   XRA  1-8A      C1.0    3.7E-04       
+
+1020       1940   ////      2359  PAL  C   RSP  025-086   VI/1                  
+
+ 990       2208   2231      2336  SAG  G   RNS  410       190                   
