@@ -1,0 +1,109 @@
+:Product: 20140708events.txt
+:Created: 2014 Jul 11 0332 UT
+:Date: 2014 07 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jul 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 320 +     0000   ////      1738  COM  C   RSP  30-180    VI/2                  
+
+ 260       0049   ////      0050  CUL  C   RSP  018-180   III/2                 
+
+ 200 +     0152   0152      0152  LEA  G   RBR  245       110                   
+
+ 210       0202   0202      0202  PAL  G   RBR  245       140                   
+
+ 220 +     0231   0233      0236  G15  5   XRA  1-8A      C1.2    4.2E-04   2114
+ 220       0231   ////      0234  CUL  C   RSP  018-200   III/3             2114
+ 220       0231   ////      0233  LEA  C   RSP  025-180   V/2               2114
+
+ 230       0253   0300      0303  LEA  3   FLA  N10E61    SF                2113
+
+ 250       0305   0410      0424  LEA  3   FLA  N10E61    SF      ERU       2113
+ 250       0342   0353      0357  G15  5   XRA  1-8A      C1.2    1.1E-03   2113
+
+ 380 +     0350   ////      1037  COM  C   RSP  30-180    CTM/1                 
+
+ 240       0352   0352      0402  LEA  3   FLA  N15W32    SF      ERU       2106
+
+ 270       0425   0444      0503  LEA  3   FLA  N10E61    SF      ERU       2113
+
+ 280       0505   0508      0515  LEA  3   FLA  N09E60    SF      ERU       2113
+
+ 290       0516   0519      0523  LEA  3   FLA  N09E60    SF      ERU       2113
+
+ 550 +     0522   0554      0749  LEA  G   RNS  245       270                   
+
+ 300       0531   0539      0618  LEA  2   FLA  N09E60    SF      ERU       2113
+
+ 330 +     0619   0650      0745  LEA  3   FLA  N09E58    1F      ERU       2113
+
+ 340       0849   0849      0850  LEA  G   RBR  245       120                   
+
+ 350       0852   0902      0922  G15  5   XRA  1-8A      C4.0    5.1E-03   2113
+
+ 370       0916   0916      0919  LEA  3   FLA  S07W17    SF      ERU       2108
+
+ 390 +     1106   1106      1106  SVI  G   RBR  245       160                   
+
+ 400 +     1113   1113      1113  SVI  G   RBR  245       120                   
+
+ 560 +     1121   1121      1126  SVI  G   RNS  245       140                   
+
+ 410       1145   1205      1220  SVI  3   FLA  N14E58    SF                2113
+
+ 470       1225   1229      1305  SVI  3   FLA  N12E56    SF      ERU       2113
+
+ 570 +     1232   1239      1254  SVI  G   RNS  245       180                   
+
+ 420       1239   1241      1247  SVI  3   FLA  S06E04    SF                2109
+
+ 460       1304   ////      1604  SAG  C   RSP  123-180   CTM/1             2113
+ 460       1304   ////      1621  SVI  C   RSP  103-172   CTM/1                 
+
+ 430       1317   1344      1421  SVI  3   FLA  N12E56    SF      DSD       2113
+
+ 580 +     1438   1438      1509  SAG  G   RNS  245       170                   
+
+ 320       1506   ////      1708  SVI  C   RSP  025-180   VI/2                  
+
+ 440       1539   1541      1542  SVI  3   FLA  S10W21    SF                2108
+
+ 450       1600   1601      1605  SAG  G   RNS  245       160               2113
+ 450 +     1604   1620      1716  SVI  3   FLA  N12E56    2B      ERU       2113
+
+ 480       1605   1618      1634  SVI  3   FLA  S08E01    SF      ERU       2109
+
+ 450       1606   1620      1630  G15  5   XRA  1-8A      M6.5    5.9E-02   2113
+ 450 +     1609   1610      1620  SAG  G   RBR  410       190               2113
+ 450 +     1611   1619      1622  SAG  G   RBR  8800      190               2113
+ 450       1612   1613      1622  SVI  G   RBR  1415      82                2113
+ 450 +     1612   1619      1622  SAG  G   RBR  4995      200               2113
+ 450 +     1612   1620      1623  SAG  G   RBR  15400     150               2113
+ 450 +     1614   ////      1648  SAG  C   RSP  025-180   II/2    949       2113
+ 450 +     1614   1615      1623  SAG  G   RBR  245       3100              2113
+ 450       1615   1615      1615  PAL  U   RBR  610       110               2113
+ 450 +     1619   1619      1620  SAG  G   RBR  2695      150               2113
+ 450 +     1621   ////      1810  SVI  C   RSP  025-171   IV/1              2113
+
+ 600       1809   ////      2359  SAG  C   RSP  025-180   VI/2                  
+
+ 510       1845   1846      1853  HOL  3   FLA  N10E52    SF      ERU       2113
+
+ 520       1853   1853      1853  SAG  G   RBR  245       100                   
+
+ 530       1959   ////      2001  SAG  C   RSP  025-180   V/2                   
+
+ 540       2132   2136      2139  G15  5   XRA  1-8A      C2.3    6.3E-04   2107
+ 540 +     2137   2137      2137  PAL  G   RBR  245       120                   
+
+ 590       2223   2223      2223  SAG  G   RBR  410       210                   
+
+ 610 +     2325   2325      2325  PAL  G   RBR  245       200                   
+ 610       2347   ////      2347  LEA  C   RSP  033-043   III/1                 

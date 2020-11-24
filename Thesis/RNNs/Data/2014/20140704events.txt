@@ -1,0 +1,94 @@
+:Product: 20140704events.txt
+:Created: 2014 Jul 07 0332 UT
+:Date: 2014 07 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jul 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8750       0013   ////      0100  LEA  C   RSP  136-180   CTM/1             2109
+8750       0042   0045      0048  LEA  3   FLA  S09E61    SF      ERU       2109
+
+8760       0151   ////      0223  LEA  3   EPL  ////      0.17                  
+
+8770       0306   0307      0308  LEA  3   FLA  S04E64    SF                2109
+
+8850       0306   0309      0322  LEA  3   FLA  S12E12    SF                2104
+
+8780       0322   0327      0331  LEA  3   FLA  S06E42    SF                2108
+
+8790      B0423  U0425      0438  SVI  3   FLA  N13E32    SF                2106
+
+8860       0426   0431      0438  LEA  3   FLA  S05E64    SF                2109
+
+8790       0435   ////      0436  LEA  C   RSP  055-115   III/1             2106
+
+8890       0438   ////      0659  SVI  U   RSP  103-180   IV/1                  
+
+8800       0438   ////      0440  LEA  U   RSP  110-141   II/1    325           
+
+8810      B0441  U0447      0459  SVI  3   FLA  S05E70    SF                2109
+
+8870      B0441  U0442      0459  SVI  3   FLA  S05E64    SF                2108
+
+8880       0528   0529      0537  SVI  3   FLA  S05E41    SF                2108
+
+8820       0534   0537      0542  G15  5   XRA  1-8A      C2.4    8.0E-04   2109
+8820 +     0535   0535      0548  LEA  3   FLA  S08E61    SF      ERU       2109
+
+8830 +     0543   ////      0543  LEA  C   RSP  025-081   III/1                 
+
+8900       0555   ////      0622  SVI  C   RSP  025-076   VI/1              2108
+8900 +     0617  U0637     A0645  SVI  3   FLA  S05E40    SF      ERU       2108
+
+8840 +     0634   0635      0639  LEA  3   FLA  N18E15    SF                2106
+
+8910 +     0700   0702      0711  LEA  3   FLA  S07E39    SF                2108
+
+8920       0730   0730      0730  LEA  G   RBR  245       220                   
+
+8930 +     0732   0733      0737  SVI  3   FLA  S02E54    SF      ERU       2109
+
+8940 +     0738   0739      0742  SVI  3   FLA  S03E55    SF                2109
+
+8950       0903   ////      0904  SVI  C   RSP  034-075   III/1             2106
+8950       0904   0905      0907  LEA  3   FLA  N16E13    SF                2106
+
+8960       0918   ////      0919  LEA  C   RSP  048-106   III/1             2106
+8960       0918   ////      1021  SVI  C   RSP  027-080   VI/1              2106
+8960       0919   0923      0937  SVI  3   FLA  N17E22    SF      ERU       2106
+
+8970       0924   0924      0936  SVI  3   FLA  S20E16    SF      ERU       2107
+
+8980       1044   1046      1051  SVI  3   FLA  S05E38    SF      ERU       2108
+
+8990       1052   1052      1057  SVI  3   FLA  S06E36    SF      ERU       2108
+
+9000       1224   1228      1232  SVI  3   FLA  S20E15    SF                2107
+
+9010 +     1318   1331      1354  SVI  3   FLA  S06E39    SF      ERU       2108
+
+9020       1357   1403      1407  SVI  3   FLA  S06E39    SF      ERU       2108
+
+9030 +     1411   1413      1418  SVI  3   FLA  S06E39    SF      ERU       2108
+
+9050 +     1430   1439      1448  G15  5   XRA  1-8A      C4.2    3.4E-03   2108
+
+9090       1433   1436      1446  SVI  3   FLA  N15E25    SF      ERU       2102
+
+9050 +     1433   1437      1503  SVI  3   FLA  S06E34    1F      ERU       2108
+
+9060       1519   1541      1608  SVI  3   FLA  S04E58    SF                2109
+
+9070       1611   1612      1619  SVI  3   FLA  S06E34    SF      ERU       2108
+
+9080 +     1649   1650      1650  SAG  G   RBR  245       140                   
+
+9100       2047   2047      2047  SAG  G   RBR  245       100                   
+
+9110       2223   2223      2223  SAG  G   RBR  245       220                   

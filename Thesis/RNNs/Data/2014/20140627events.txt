@@ -1,0 +1,56 @@
+:Product: 20140627events.txt
+:Created: 2014 Jun 30 0332 UT
+:Date: 2014 06 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jun 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6430      B0148   ////     B0912  LEA  3   LPS  ////      0.06                  
+
+6340       0213   ////      0213  CUL  C   RSP  018-060   III/2                 
+
+6350       0217   ////      0217  CUL  C   RSP  020-120   III/1                 
+
+6360       0226   ////      0226  CUL  C   RSP  020-075   III/1                 
+
+6370 +     0303   ////      0309  CUL  C   RSP  018-180   III/1                 
+
+6380       0356   0357      0359  LEA  3   FLA  N12E68    SF      DSD           
+
+6390 +     0429   ////      0429  LEA  C   RSP  072-138   III/1                 
+
+6400       0430   ////      0430  CUL  C   RSP  020-200   III/1                 
+
+6440      B0445   ////     B0935  SVI  3   LPS  ////      0.06    B.9A          
+
+6410       0517   0517      0517  LEA  G   RBR  245       110                   
+
+6450 +     0851   ////      1435  SVI  C   RSP  103-180   CTM/1                 
+
+6490       0944   ////      1437  SAG  C   RSP  109-180   CTM/1                 
+
+6460 +     1014   ////      1014  SVI  C   RSP  025-080   III/2                 
+
+6480       1334   ////      1337  SVI  C   RSP  025-180   V/2                   
+6480       1334   ////      1336  SAG  C   RSP  025-180   III/2                 
+
+6500       1451   1454      1504  SVI  3   FLA  N08E12    SF                2096
+
+6510 +     1540   ////      1540  SVI  C   RSP  077-180   III/1                 
+
+6520       1545   ////      1541  SVI  C   RSP  031-180   CTM/1                 
+6520       1545   ////      1651  SAG  C   RSP  113-180   III/1                 
+
+6530 +     1702   ////      1702  SAG  C   RSP  025-061   III/1                 
+
+6550       1929   ////      2159  SAG  C   RSP  025-091   VI/1                  
+
+6540       2033   2102      2123  G15  5   XRA  1-8A      B9.7    2.6E-03   2096
+
+6560       2322   ////      2359  LEA  C   RSP  075-180   CTM/1                 

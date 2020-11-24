@@ -1,0 +1,60 @@
+:Product: 20140512events.txt
+:Created: 2014 May 15 0332 UT
+:Date: 2014 05 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 May 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7770      B0001   0007      0019  LEA  3   FLA  S14E37    SF                2060
+
+7790       0020   0103      0302  LEA  1   FLA  S14E35    SF      ERU       2060
+
+7800       0133   0151      0209  G15  5   XRA  1-8A      C1.8    3.1E-03   2056
+7800       0143   0150      0237  LEA  3   FLA  N06E07    1F      ERU       2056
+
+7810       0315   0321      0332  G15  5   XRA  1-8A      C1.3    1.1E-03   2060
+7810       0316   0322      0329  LEA  3   FLA  S17E36    SF      ERU       2060
+
+7820       0434   0434      0436  LEA  3   FLA  S13E34    SF                2060
+
+7830       0625   0642      0655  G15  5   XRA  1-8A      C2.3    3.4E-03   2059
+
+7870       0626   0636      0704  LEA  3   FLA  N04W02    SF      ERU       2056
+
+7830 +     0626   0640      0707  LEA  3   FLA  S04E04    SF                2059
+
+7840       0723   0736      0744  G15  5   XRA  1-8A      C1.5    1.7E-03   2060
+7840       0729   0730      0745  LEA  3   FLA  S17E34    SF      ERU       2060
+
+7950      A0752   ////     A2325  LEA  3   DSF  S48E47    13                    
+
+7960      A0752   ////     A2325  LEA  3   DSF  N35E02    6                     
+
+7970      A0752   ////     A2325  LEA  3   DSF  N01W43    11                    
+
+7850      B0828  U0833     A0835  SVI  3   FLA  S15E34    SF      ERU       2060
+
+7860      B0849  U0853     A0906  SVI  2   FLA  S15E33    1F      ERU       2060
+
+7880       0925  U0933      1023  SVI  3   FLA  S17E33    SF                2060
+
+7910       1000   ////      1122  SVI  2   DSF  S53E35    23                    
+
+7890      B1100  U1106     A1110  SVI  2   FLA  S18E32    SF      ERU       2060
+
+7900      B1153  U1201     A1218  SVI  2   FLA  S18E32    SF      ERU       2060
+
+7920       1500   1502      1514  HOL  2   FLA  N06W01    SF      ERU       2056
+
+7930       1532   1532      1536  HOL  3   FLA  S18E26    SF      ERU       2060
+
+7940       1756   1805      1811  G15  5   XRA  1-8A      C1.1    8.8E-04   2060
+7940       1808   1809      1813  HOL  3   FLA  S19E28    SF      ERU       2060
+
+7990       2209   2216      2224  G15  5   XRA  1-8A      C1.0    8.5E-04   2060

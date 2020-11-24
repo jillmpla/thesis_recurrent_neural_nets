@@ -1,0 +1,51 @@
+:Product: 20140511events.txt
+:Created: 2014 May 14 0332 UT
+:Date: 2014 05 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 May 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7750       0043   ////      0043  CUL  C   RSP  020-057   III/1                 
+
+7590       0043   ////      0043  LEA  C   RSP  072-136   III/1                 
+
+7600       0433   0443      0449  G15  5   XRA  1-8A      C6.4    3.3E-03   2058
+7600 +     0438   0443      0525  LEA  3   FLA  S11E44    2N      ERU       2058
+
+7610       0521   0525      0528  G15  5   XRA  1-8A      C2.3    7.9E-04   2056
+7610 +     0524   0524      0536  LEA  3   FLA  N03E31    SF                2056
+
+7620 +     0631   0637      0650  LEA  3   FLA  N13E14    SF                2055
+
+7630 +     0807   0808      0825  SVI  3   FLA  N11W01    SF      ERU       2055
+7630       0807   0810      0814  G15  5   XRA  1-8A      C1.6    4.5E-04   2055
+
+7640       0916   0920      0922  G15  5   XRA  1-8A      C1.3    3.0E-04   2055
+7640       0918   0918      0928  SVI  3   FLA  N10W00    SF      ERU       2055
+
+7650       0947   0949      0950  SVI  3   FLA  N05E13    SF                2056
+
+7680       1039   1041      1048  SVI  3   FLA  N06E12    SF      ERU       2056
+
+7690       1108   1109      1113  SVI  3   FLA  S13E45    SF                2060
+
+7700       1301   1311      1318  G15  5   XRA  1-8A      C1.2    1.2E-03   2056
+7700 +     1308   1311      1319  HOL  3   FLA  N04E11    SF                2056
+
+7710       1707   1714      1719  G15  5   XRA  1-8A      C3.1    1.5E-03   2056
+7710       1709   1714      1727  HOL  3   FLA  N03E07    SF      DSD       2056
+
+7720       1740   1744      1749  G15  5   XRA  1-8A      C1.3    8.0E-04   2060
+
+7730       1840   1916      1949  G15  5   XRA  1-8A      C3.4    1.1E-02   2056
+7730       1847   1849      1903  HOL  3   FLA  N05E10    SF      ERU       2056
+
+7740       2152   2154      2155  HOL  2   FLA  S15E38    SF      DSD       2060
+
+7760       2237   ////      2237  CUL  C   RSP  020-057   III/2                 

@@ -1,0 +1,54 @@
+:Product: 20140615events.txt
+:Created: 2014 Jun 18 0332 UT
+:Date: 2014 06 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jun 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4410       0238   ////      0611  LEA  3   LPS  ////      0.06              2085
+
+4380       0400   0400      0405  LEA  3   FLA  N20W28    SF                2089
+
+4390       0453   0513      0528  G15  5   XRA  1-8A      C2.9    5.1E-03   2082
+
+4400       0600   0605      0609  G15  5   XRA  1-8A      C7.5    2.6E-03   2082
+
+4420       0632   0645      0649  LEA  3   FLA  N18W29    SF                2089
+
+4430       0650   0653      0705  LEA  3   FLA  N19W27    SF                2089
+
+4440       0707   0713      0714  LEA  3   FLA  N19W27    SF                2089
+4440       0712   ////      0747  LEA  3   EPL  ////      0.15              2089
+
+4450       0750   0809      0855  G15  5   XRA  1-8A      C7.0    2.3E-02   2085
+4450 +     0812   ////      0819  LEA  C   RSP  025-055   III/2             2085
+
+4470      B0834  U0840     A0840  SVI  3   FLA  S19E18    SF      ERU       2087
+
+4450       0836   ////      0936  LEA  3   LPS  ////      0.06              2085
+4450       0848   0903      0907  LEA  3   FLA  N18E86    SF                2085
+
+4480       1110   1139      1150  G15  5   XRA  1-8A      M1.1    1.8E-02   2085
+
+4490      B1227   ////     B1414  HOL  2   LPS  ////      0.05    B.5A      2085
+4490 +     1247   ////      1438  SAG  C   RSP  025-180   IV/2                  
+4490       1251   1321      1342  G15  5   XRA  1-8A      C5.4    1.5E-02   2092
+4490       1311   1316      1323  HOL  3   FLA  S18E27    SF                2092
+
+4500       1512   1524      1535  G15  5   XRA  1-8A      C2.6    3.4E-03   2087
+
+4510       1541   1559      1610  G15  5   XRA  1-8A      C3.5    5.2E-03   2087
+
+4520       1706   1725      1811  G15  5   XRA  1-8A      C3.2    1.0E-02       
+
+4530       1806   ////      1942  SAG  C   RSP  025-180   VI/2                  
+
+4540       2112   ////      2115  SAG  C   RSP  025-062   III/1                 
+
+4550       2350   0001      0017  G15  5   XRA  1-8A      M1.0    1.1E-02   2087

@@ -1,0 +1,65 @@
+:Product: 20140514events.txt
+:Created: 2014 May 17 0332 UT
+:Date: 2014 05 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 May 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8280      A0034   ////     A1242  HOL  3   DSF  S08E38    12                    
+
+8130       0049   0053      0056  G15  5   XRA  1-8A      C2.8    6.7E-04   2063
+8130       0051   0051      0108  LEA  3   FLA  N10E56    SF      DSD       2063
+
+8150       0325   0335      0351  G15  5   XRA  1-8A      C1.6    2.1E-03   2060
+8150       0327   0329      0414  LEA  3   FLA  S14E09    SF      ERU       2060
+8150       0328   0328      0328  LEA  G   RBR  245       130               2060
+
+8160 +    B0436  U0442      0536  SVI  3   FLA  N11E53    SF                2063
+8160       0437   0443      0446  G15  5   XRA  1-8A      C2.1    7.6E-04   2063
+
+8190      B0438   0457      0510  SVI  3   FLA  S15E08    SF      ERU       2060
+
+8220       0516   ////      0737  SVI  3   DSF  S21E40    14                2061
+
+8170       0537   0542      0552  SVI  3   FLA  N11E53    SF                2063
+
+8180      B0555  U0620     A0633  SVI  3   FLA  N11E53    SF                2063
+8180       0616   0620      0625  G15  5   XRA  1-8A      C1.6    6.0E-04   2063
+
+8200      B0737  U0804     A0820  SVI  3   FLA  N12E53    SF                2063
+
+8230      B0815  U0830     A0909  SVI  3   FLA  S13E06    SF      ERU       2060
+
+8210      B0829  U0850     A0929  SVI  3   FLA  N12E52    SF                2063
+8210       0849   0856      0905  G15  5   XRA  1-8A      C2.6    2.0E-03   2063
+
+8240 +     1147   ////      1152  SAG  C   RSP  047-180   III/1                 
+
+8250       1215   1220      1228  G15  5   XRA  1-8A      C1.5    8.9E-04   2063
+
+8260       1231   ////      1231  SAG  C   RSP  040-076   III/1                 
+
+8290       1259   1504      1528  G15  5   XRA  1-8A      C8.3    4.3E-02   2056
+8290       1300   1317      1508  HOL  3   FLA  N07W30    1F      ERU       2056
+
+8270       1357   1359      1359  HOL  3   FLA  N09E50    SF                2063
+
+8300       1501   1503      1517  HOL  3   FLA  N09E49    SF                2063
+
+8310       1545   1548      1554  HOL  3   FLA  S16W01    SF      ERU       2060
+
+8320      B1555  U1555     A1608  SVI  3   FLA  S16E01    SF      ERU       2060
+
+8400      A1629   ////     A0440  SVI  3   DSF  N26W01    16                    
+
+8330       1739   1739      1739  SAG  G   RBR  245       100                   
+
+8340       2022   ////      2022  SAG  C   RSP  025-081   III/1                 
+
+8350       2304   2304      2304  PAL  G   RBR  245       160                   

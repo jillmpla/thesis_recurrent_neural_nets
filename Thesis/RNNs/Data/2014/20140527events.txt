@@ -1,0 +1,36 @@
+:Product: 20140527events.txt
+:Created: 2014 May 30 0332 UT
+:Date: 2014 05 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 May 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9990 +    A0105   ////     A1228  HOL  4   DSF  N00E23    6                     
+
+9940       0407   0407      0420  LEA  3   FLA  S10W19    SF                2071
+
+9950       0530   0530      0530  LEA  G   RBR  245       140                   
+
+9960       1112   1112      1115  SVI  3   FLA  S12W02    SF                2073
+
+9970 +     1216   ////      1223  SAG  C   RSP  032-064   III/1                 
+
+9980       1325   1329      1331  SVI  3   FLA  S13W03    SF                2073
+
+  10       1407   1415      1423  G15  5   XRA  1-8A      C4.9    2.9E-03   2065
+  10       1417   ////      1510  SVI  3   BSL  ////      0.26    B.9A      2065
+
+  30       1423   1424      1436  SVI  3   FLA  S13W04    SF      ERU       2073
+
+  10 +     1435   ////      1441  SVI  U   RSP  036-075   II/1    624       2065
+  10       1440   ////      1440  SVI  C   RSP  025-042   III/1             2065
+  10 +     1441   ////      1517  SVI  C   RSP  035-137   IV/1              2065
+
+  50       1840   1851      1917  G15  5   XRA  1-8A      C1.1    1.9E-03   2071
+  50       1845   1850      1855  HOL  3   FLA  S14W27    SF      ERU       2071

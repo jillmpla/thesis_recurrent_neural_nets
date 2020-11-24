@@ -1,0 +1,69 @@
+:Product: 20140712events.txt
+:Created: 2014 Jul 15 0332 UT
+:Date: 2014 07 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jul 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1830       0019   0054      0100  LEA  3   FLA  S05W60    SF                2108
+
+1840       0102   0107      0109  LEA  3   FLA  S05W60    SF                2108
+
+1850       0118   0122      0146  LEA  3   FLA  S06W63    SF                2108
+
+1880       0146   0146      0212  LEA  3   FLA  S06W63    SF                2108
+
+1860       0213   0214      0216  LEA  3   FLA  S06W63    SF                2108
+
+1870       0218   0227      0231  LEA  3   FLA  S06W63    SF                2108
+
+1890       0259   0303      0308  LEA  3   FLA  S06W63    SF                2108
+
+1900       0314   0314      0320  LEA  3   FLA  S06W63    SF                2108
+
+1910       0322   0327      0341  LEA  3   FLA  S06W63    SF                2108
+
+1950       0341   0343      0346  LEA  3   FLA  S07W66    SF                2108
+
+1920 +     0343   0343      0343  LEA  G   RBR  245       260                   
+
+1930       0353   0353      0355  LEA  3   FLA  S07W66    SF                2108
+
+1940 +     0436   0439      0448  LEA  3   FLA  S07W66    SF                2108
+
+1960 +     0451   0502      0512  LEA  3   FLA  S07W66    SF                2108
+1960       0505   ////      0505  SVI  U   RSP  027-035   III/1             2108
+
+1970 +     0529   0532      0535  G15  5   XRA  1-8A      C1.2    2.8E-04   2109
+
+1980       0538   0538      0545  LEA  3   FLA  S07W47    SF                2109
+
+1990       0548   0548      0553  LEA  3   FLA  S23W80    SF                2107
+
+2000       0710   0714      0717  G15  5   XRA  1-8A      C2.5    6.1E-04   2109
+2000 +     0712   0714      0727  SVI  3   FLA  S09W47    SF      ERU       2109
+
+2010       0913   0913      0919  SVI  3   FLA  S16E26    SF                2114
+
+2020       1017   1017      1020  SVI  3   FLA  S10W48    SF                2109
+
+2030       1201   1203      1213  SVI  3   FLA  S10W50    SF                2109
+
+2060       1222   1237      1321  SVI  3   FLA  S10W50    SF      ERU       2109
+
+2110       1242   1244      1253  SVI  3   FLA  N10E01    SF                2113
+
+2040       1322   1325      1329  G15  5   XRA  1-8A      C1.7    4.8E-04       
+
+2050       1401   1408      1420  G15  5   XRA  1-8A      C4.6    3.9E-03   2108
+2050       1404   1410      1436  SVI  3   FLA  S09W72    SF      ERU       2108
+
+2070       1445   ////      1445  SVI  C   RSP  027-079   III/1                 
+
+2080       1635   ////      1636  SVI  C   RSP  025-052   III/1                 

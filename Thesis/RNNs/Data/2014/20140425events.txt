@@ -1,0 +1,45 @@
+:Product: 20140425events.txt
+:Created: 2014 Apr 28 0332 UT
+:Date: 2014 04 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Apr 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4870       0017   0027      0038  G15  5   XRA  1-8A      X1.3    1.1E-01   2035
+4870 +     0020   0020      0025  PAL  G   RBR  8800      640               2046
+4870 +     0020   0020      0023  PAL  G   RBR  245       43000             2046
+4870 +     0020   0020      0025  PAL  G   RBR  410       1200              2046
+4870 +     0020   0021      0025  PAL  G   RBR  2695      1100              2046
+4870 +     0020   0021      0024  PAL  G   RBR  4995      1000              2046
+4870 +     0020   0020      0024  PAL  G   RBR  15400     440               2046
+4870       0020   ////      0021  LEA  C   RSP  075-180   V/1                   
+4870 +     0020   0022      0027  PAL  G   RBR  1415      540               2046
+4870       0022   ////      0052  LEA  C   RSP  025-180   II/2    753           
+4870       0023   0023      0024  LEA  G   RBR  610       100                   
+
+4880       0033   0042     A0047  HOL  2   FLA  S15W90    SF                2046
+
+4890       0645   ////      0755  SVI  3   LPS  ////      0.16    B.9A      2035
+
+4900 +     0812   0812      0813  SVI  G   RBR  245       440                   
+4900 +     0812   ////      0813  LEA  C   RSP  025-180   III/1                 
+
+4930 +     0820   ////      0945  SVI  3   DSF  N14W37    11                2042
+
+4910       1035   1042      1049  G15  5   XRA  1-8A      C1.0    8.6E-04   2038
+
+4920       1155   1208      1238  G15  5   XRA  1-8A      C3.3    6.4E-03   2035
+
+4990      A1607   ////     A1219  SVI  3   DSF  N03W35    7                     
+
+4940       2219   2230      2238  G15  5   XRA  1-8A      C1.9    1.6E-03   2038
+
+4950       2302   2302      2302  LEA  G   RBR  245       140                   
+
+4960       2354   0042      0203  G15  5   XRA  1-8A      C1.6    9.6E-03   2045

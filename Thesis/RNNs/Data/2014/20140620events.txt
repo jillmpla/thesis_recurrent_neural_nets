@@ -1,0 +1,57 @@
+:Product: 20140620events.txt
+:Created: 2014 Jun 23 0332 UT
+:Date: 2014 06 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jun 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5290       0352   0427      0502  G15  5   XRA  1-8A      C1.6    4.9E-03   2093
+5290 +     0408   0419      0504  LEA  3   FLA  S09E17    SF      ERU       2093
+
+5300       0742   ////      0742  SVI  U   RSP  038-054   III/1                 
+
+5310       0842   ////      0842  SVI  C   RSP  030-048   III/1                 
+
+5320 +     0847   0851      0858  LEA  3   FLA  S12E18    SF      ERU       2093
+
+5330       0939   0939      0944  SVI  3   FLA  S10E18    SF      ERU       2093
+
+5340 +     0950   ////      0951  SVI  C   RSP  025-160   III/2                 
+
+5350       1027   ////      1027  SVI  C   RSP  074-171   III/1                 
+
+5360       1049   1120      1142  G15  5   XRA  1-8A      C5.0    1.0E-02   2093
+5360       1051   1116      1208  SVI  3   FLA  S09E15    1N      ERU       2093
+5360       1105   1107      1112  SAG  G   RBR  610       1000              2093
+5360 +     1105   1107      1114  SAG  G   RBR  410       3600              2093
+5360 +     1106   1111      1116  SVI  G   RBR  245       670               2093
+5360       1107   1112      1115  SAG  G   RBR  1415      83                2093
+5360       1108   ////      1114  SVI  C   RSP  025-180   III/2             2093
+5360       1111   1112      1115  SAG  G   RBR  4995      40                2093
+5360       1111   1112      1116  SAG  G   RBR  8800      27                2093
+5360       1111   1111      1112  SAG  G   RBR  2695      59                2093
+
+5370       1147   1149      1155  SVI  3   FLA  S20E29    SF      ERU       2094
+
+5380 +     1252   ////      1256  SAG  C   RSP  025-089   III/1                 
+
+5390 +     1300   ////      1305  SAG  C   RSP  025-180   III/2                 
+
+5400 +     1352   ////      1352  SAG  C   RSP  025-048   III/1                 
+
+5410 +     1442   ////      1446  SAG  C   RSP  025-180   III/2                 
+
+5420       1457   ////      1457  SAG  C   RSP  025-082   III/1                 
+5420       1457   ////      1552  SVI  C   RSP  025-080   VI/1                  
+
+5430 +     1634   ////      1641  SAG  C   RSP  025-180   III/2             2093
+5430       1639   1648      1658  G15  5   XRA  1-8A      C1.0    8.8E-04   2093
+5430 +     1643   1645      1652  HOL  3   FLA  S10E11    SF      ERU       2093
+
+5440       1823   1833      1846  G15  5   XRA  1-8A      C1.6    1.8E-03   2087

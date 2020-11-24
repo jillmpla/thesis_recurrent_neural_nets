@@ -1,0 +1,25 @@
+:Product: 20140517events.txt
+:Created: 2014 May 20 0332 UT
+:Date: 2014 05 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 May 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8620       0101   0118      0131  LEA  3   FLA  N11E18    SF                2063
+
+8630       0234   0239      0248  G15  5   XRA  1-8A      C3.3    1.8E-03   2066
+8630       0236   0240      0256  LEA  3   FLA  S15E01    SF      ERU       2066
+8630       0238   ////      0245  LEA  C   RSP  025-163   III/1             2066
+8630 +     0241   0241      0241  LEA  G   RBR  245       150               2066
+
+8640       0256   0257      0257  LEA  G   RBR  245       170                   
+
+8650       0319   0327      0331  LEA  3   FLA  N12W73    SF                2055
+
+8670      A1320   ////     A0459  SVI  3   DSF  S37E24    16                    

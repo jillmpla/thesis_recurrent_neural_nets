@@ -1,0 +1,46 @@
+:Product: 20140516events.txt
+:Created: 2014 May 19 0332 UT
+:Date: 2014 05 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 May 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8450       0004   0009      0016  G15  5   XRA  1-8A      C1.8    9.2E-04   2056
+8450       0006   0007      0013  HOL  3   FLA  N05W51    SF      DSD       2056
+
+8580      A0108   ////     A1259  HOL  2   DSF  N01E22    6                     
+
+8460       0326   0332      0337  G15  5   XRA  1-8A      C1.3    6.4E-04   2053
+
+8470       0541   0548      0559  G15  5   XRA  1-8A      C1.3    1.2E-03   2056
+
+8480       0658   0704      0709  G15  5   XRA  1-8A      C5.7    2.2E-03   2056
+8480       0703   0703      0745  LEA  3   FLA  N05W55    1F                2056
+
+8570       0712   0716      0718  G15  5   XRA  1-8A      C2.9    1.2E-03   2056
+
+8490       0803   0803      0812  LEA  3   FLA  N10E28    SF                2063
+
+8500       0857   0903      0914  G15  5   XRA  1-8A      B9.4    7.8E-04   2063
+8500       0859   0900      0916  LEA  3   FLA  N11E26    SF                2063
+
+8510 +     1028   ////      1030  SAG  C   RSP  043-180   III/1                 
+
+8520 +     1135   ////      1135  SAG  C   RSP  102-180   III/1                 
+
+8530       1201   ////      1202  SVI  C   RSP  103-123   III/1                 
+
+8540 +     1326   1331      1337  G15  5   XRA  1-8A      C1.5    7.4E-04   2056
+
+8590       1602   ////      1603  SVI  C   RSP  102-141   III/1                 
+
+8600       1756   ////      1804  SAG  C   RSP  025-180   III/1                 
+
+8610 +     2011   2016      2024  G15  5   XRA  1-8A      C2.5    1.3E-03   2063
+8610       2014   2015      2031  HOL  3   FLA  N09E20    SF      DSD       2063

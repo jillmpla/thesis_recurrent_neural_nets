@@ -1,0 +1,16 @@
+:Product: 20140715events.txt
+:Created: 2014 Jul 18 0332 UT
+:Date: 2014 07 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jul 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2250       0259   0305      0310  G15  5   XRA  1-8A      C1.2    5.1E-04   2109
+
+2260 +     1234   ////      1234  SAG  C   RSP  035-180   III/1                 

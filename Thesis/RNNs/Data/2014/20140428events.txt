@@ -1,0 +1,51 @@
+:Product: 20140428events.txt
+:Created: 2014 May 01 0332 UT
+:Date: 2014 04 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Apr 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5060       0114   ////      0144  LEA  3   EPL  ////      0.38                  
+
+5070 +     0407   0415      0422  G15  5   XRA  1-8A      B7.3    5.4E-04   2048
+
+5080 +     0707   ////      0707  SVI  C   RSP  025-133   III/1                 
+
+5090 +     0811   ////      0839  SVI  C   RSP  083-149   CTM/1                 
+
+5110 +     1148   1148      1148  SVI  G   RBR  410       230                   
+
+5120       1220   1226      1236  G15  5   XRA  1-8A      B7.3    5.1E-04   2048
+5120       1223   1227      1245  SVI  3   FLA  N18W44    SF      DSD       2048
+
+5130      B1317  U1333     A1335  SVI  3   FLA  N17W45    SF                2048
+5130 +     1323   ////      1323  SVI  C   RSP  025-113   III/1             2048
+
+5140 +     1345   1346      1349  HOL  3   FLA  N20W44    SF                2048
+
+5150      B1436  U1448     A1513  SVI  3   FLA  N17W46    SF                2048
+
+5160 +     1516   1516      1531  HOL  3   FLA  N21W47    SF      ERU       2048
+5160       1517   1526      1532  G15  5   XRA  1-8A      C3.4    7.0E-04   2048
+
+5170      B1552  U1553     A1602  SVI  3   FLA  S05E65    SF                2049
+
+5180      B1604  U1608     A1659  SVI  3   FLA  N18W46    SF                2048
+
+5200      B1614  U1620     A1659  SVI  3   FLA  S05E65    SF                2049
+
+5260      A1630   ////     A0849  SVI  3   DSF  S53E48    7                     
+
+5190       1718   1720      1725  HOL  3   FLA  S08E64    SF                2049
+
+5220       2228   2234      2247  G15  5   XRA  1-8A      B7.8    6.9E-04   2044
+5220       2231   2235      2242  HOL  3   FLA  S19W61    SF      ERU       2044
+
+5230       2255   2259      2304  G15  5   XRA  1-8A      B7.6    3.0E-04   2048
+5230       2257   2257      2307  HOL  3   FLA  N20W48    SF      DSD       2048

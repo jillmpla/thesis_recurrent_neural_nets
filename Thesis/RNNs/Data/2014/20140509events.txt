@@ -1,0 +1,79 @@
+:Product: 20140509events.txt
+:Created: 2014 May 12 0332 UT
+:Date: 2014 05 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 May 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7010 +     0031   0031      0031  LEA  G   RBR  15400     110                   
+7010 +     0031   0031      0031  LEA  G   RBR  8800      110                   
+
+7020       0048   0055      0103  G15  5   XRA  1-8A      C1.4    9.7E-04   2056
+7020       0051   0052      0057  HOL  1   FLA  N04E42    SF      ERU       2056
+
+7030 +     0220   0220      0220  LEA  G   RBR  245       240                   
+
+7040       0221   ////      0233  LEA  C   RSP  056-180   II/1    960           
+7040 +     0221   ////      0223  LEA  C   RSP  025-180   III/1                 
+
+7050       0225   ////      0227  CUL  C   RSP  045-057   III/1                 
+
+7060      B0231   ////     B0316  LEA  2   EPL  ////      0.18                  
+7060       0236   ////      0244  CUL  C   RSP  020-057   III/1                 
+7060       0236   ////      0243  LEA  C   RSP  025-039   IV/1                  
+7060       0237   ////      0246  CUL  C   RSP  018-057   II/1                  
+
+7070       0353   0353      0353  LEA  G   RBR  15400     100                   
+
+7080       0445   ////      0445  SVI  C   RSP  132-180   III/1                 
+
+7090       0514   0521      0527  G15  5   XRA  1-8A      C2.4    1.3E-03   2058
+7090 +     0517   0520      0533  LEA  3   FLA  S16E74    SF      ERU       2058
+
+7100 +     0632  U0633      0742  SVI  3   FLA  N07E42    SF                2056
+7100 +     0641   ////      0646  SVI  C   RSP  025-082   III/2             2056
+
+7110       0814   0819      0828  G15  5   XRA  1-8A      C3.3    1.8E-03   2058
+7110 +     0816   0819      0836  SVI  3   FLA  S11E75    SF      DSD       2058
+
+7120 +     0906   0906      0914  SVI  3   FLA  N07E40    SF                2056
+
+7130       1114   1119      1128  G15  5   XRA  1-8A      C1.6    9.4E-04   2058
+7130       1117   1118      1125  SVI  3   FLA  S12E72    SF                2058
+
+7140       1145   1148      1151  G15  5   XRA  1-8A      C1.2    2.7E-04   2055
+7140       1146   1146      1205  SVI  3   FLA  N14E25    SF      ERU       2055
+
+7150 +     1248   1258      1309  SVI  3   FLA  S12E74    SF      ERU       2058
+7150       1253   1259      1309  G15  5   XRA  1-8A      C1.9    1.4E-03   2058
+
+7230       1304   ////      1441  HOL  4   DSF  S35E60    6                     
+
+7160       1325   1326      1332  SVI  3   FLA  N07E37    SF      ERU       2056
+
+7170       1413   1419      1438  G15  5   XRA  1-8A      C3.6    3.7E-03   2058
+7170 +     1415   1419      1426  SVI  3   FLA  S11E72    SF      ERU       2058
+7170       1428   ////      1443  SVI  C   RSP  025-109   VI/1              2058
+
+7180       1450   1501      1522  G15  5   XRA  1-8A      C7.8    1.2E-02   2058
+7180 +     1451   1457      1539  HOL  3   FLA  S15E66    1F      ERU       2058
+
+7190 +     1531   ////      1531  SVI  C   RSP  028-080   III/1                 
+
+7200 +     1631   ////      1635  SAG  C   RSP  025-180   III/2                 
+
+7210       1651   1653      1656  SVI  3   FLA  S11E69    SF      ERU       2058
+
+7220       1745   ////      1746  SAG  C   RSP  025-052   III/1                 
+
+7240       2222   ////      2227  SAG  C   RSP  025-089   III/1                 
+
+7250       2331   2339      2344  LEA  3   FLA  N12E18    SF                2055
+
+7260       2347   ////      2350  LEA  C   RSP  025-180   III/1                 

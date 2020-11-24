@@ -1,0 +1,22 @@
+:Product: 20140531events.txt
+:Created: 2014 Jun 03 0332 UT
+:Date: 2014 05 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 May 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 350 +     0657   0705      0716  G15  5   XRA  1-8A      C1.1    1.1E-03   2079
+
+ 360       1320   1323      1326  G15  5   XRA  1-8A      B6.0    1.3E-04   2076
+ 360       1322   1323      1325  HOL  3   FLA  S21W57    SF      ERU       2076
+
+ 370       1454   1518      1538  G15  5   XRA  1-8A      B9.2    1.9E-03       
+
+ 380       1545   1556      1603  G15  5   XRA  1-8A      C1.3    1.1E-03   2076
+ 380       1547   1549      1602  HOL  3   FLA  S20W47    SF      ERU       2076

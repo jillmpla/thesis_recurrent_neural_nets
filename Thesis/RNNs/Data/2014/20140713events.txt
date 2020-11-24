@@ -1,0 +1,33 @@
+:Product: 20140713events.txt
+:Created: 2014 Jul 16 0332 UT
+:Date: 2014 07 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jul 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2090 +     0702   0707      0724  SVI  3   FLA  N07W09    SF      ERU       2113
+
+2100       0742   ////      0743  SVI  C   RSP  025-042   III/1                 
+
+2120       0816   0820      0822  G15  5   XRA  1-8A      C1.7    3.7E-04   2108
+2120 +     0817   0820      0827  LEA  3   FLA  S05W83    SF      BPT       2108
+2120       0820   ////      0821  SVI  C   RSP  027-061   III/1             2108
+
+2130 +     0842   0858      0933  LEA  3   FLA  S08W61    1F      ERU       2109
+2130 +     0843   0903      0918  G15  5   XRA  1-8A      C6.4    9.9E-03   2109
+2130 +     0858   0858      0858  SVI  G   RBR  245       110               2109
+
+2140       0950   0951      0952  G15  5   XRA  1-8A      C1.8    3.1E-04   2113
+2140      B0955  U1006     A1042  SVI  3   FLA  N09W06    SF      ERU       2113
+
+2150 +     1036   ////      1037  SVI  C   RSP  025-082   III/2             2113
+
+2160       1431   1438      1442  G15  5   XRA  1-8A      C1.2    6.1E-04   2108
+
+2170       2049   2052      2055  G15  5   XRA  1-8A      C1.3    2.9E-04   2109

@@ -1,0 +1,60 @@
+:Product: 20140521events.txt
+:Created: 2014 May 24 0332 UT
+:Date: 2014 05 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 May 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8970       0059   0138      0206  G15  5   XRA  1-8A      C2.3    7.4E-03   2071
+8970       0102   0113      0129  LEA  3   FLA  S12E64    SF                2071
+
+8980 +     0216   0216      0218  LEA  G   RBR  610       410                   
+8980 +     0219   0219      0219  LEA  G   RBR  245       180                   
+8980 +     0227   0227      0228  LEA  G   RBR  410       110                   
+
+8990 +     0245   0254      0258  LEA  G   RBR  610       180                   
+8990 +     0249   0254      0259  LEA  G   RBR  410       110                   
+
+9000       0309   0309      0309  PAL  G   RBR  610       110                   
+
+9010 +     0315   0318      0333  LEA  G   RBR  410       170                   
+9010 +     0316   0318      0321  LEA  G   RBR  610       110                   
+
+9020       0418   0418      0418  SVI  G   RBR  410       130                   
+9020 +     0418   0418      0418  LEA  G   RBR  245       100                   
+
+9030 +     0429   0434      0442  SVI  3   FLA  S17E24    SF                2069
+
+9040 +     0508   0516      0538  SVI  3   FLA  S10E63    SF                2071
+
+9050       0632   0632      0632  LEA  G   RBR  245       140                   
+
+9060       0709   0723      0731  G15  5   XRA  1-8A      C1.6    1.7E-03   2066
+9060       0722   0723      0727  SVI  3   FLA  S22W63    SF      ERU       2066
+
+9070       0825   0829      0832  G15  5   XRA  1-8A      B7.8    2.0E-04   2066
+9070 +     0828   0829      0833  SVI  3   FLA  S20W61    SF      ERU       2066
+
+9140       0901   ////      1453  SVI  3   DSF  S23E33    13                    
+
+9080       1056   1056      1059  SVI  3   FLA  S07E70    SF                2073
+
+9090       1104   1107      1110  SVI  3   FLA  S10E60    SF                2071
+
+9100       1211   1217      1219  SVI  3   FLA  S10E60    SF                2071
+
+9110       1251   1251      1251  SAG  G   RBR  245       100                   
+
+9120       1404   1405      1407  SVI  3   FLA  S10E59    SF                2071
+
+9130       1457   1502      1505  SVI  3   FLA  S10E58    SF                2071
+
+9150       1928   1934      1939  G15  5   XRA  1-8A      B7.7    3.6E-04   2069
+
+9160 +     2119   ////      2120  SAG  C   RSP  025-080   III/1                 

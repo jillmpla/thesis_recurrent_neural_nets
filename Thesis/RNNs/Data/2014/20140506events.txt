@@ -1,0 +1,50 @@
+:Product: 20140506events.txt
+:Created: 2014 May 09 0332 UT
+:Date: 2014 05 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 May 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6640       0244   ////      0244  CUL  C   RSP  018-057   III/1                 
+
+6650 +     0355   ////      0358  LEA  C   RSP  025-180   III/2                 
+
+6660       0402   ////      0402  CUL  C   RSP  020-057   III/1                 
+
+6670       0419   0432      0450  G15  5   XRA  1-8A      C7.1    8.3E-03   2051
+6670       0428   0431      0442  SVI  3   FLA  S13W86    1F                2051
+
+6680       0456   0456      0456  SVI  G   RBR  245       100                   
+
+6690       0841   0903      0921  G15  5   XRA  1-8A      M1.8    3.3E-02   2051
+6690 +     0849   ////      0852  SVI  C   RSP  025-080   III/2             2051
+6690       0850  U0904      0937  SVI  3   FLA  S15W84    SF                2051
+
+6700       1041   1043      1045  SVI  3   FLA  N14E58    SF                2055
+6700 +     1041   ////      1042  SAG  C   RSP  038-180   III/2             2055
+
+6710       1142   ////      1200  SVI  C   RSP  073-180   VI/1                  
+6710       1151   ////      1151  SAG  C   RSP  071-180   III/1                 
+
+6720       1257   1300      1302  G15  5   XRA  1-8A      C1.3    1.9E-04       
+
+6730       1448   ////      1448  SVI  C   RSP  029-080   III/1                 
+
+6750       1710   1735      1820  SDO  5   XRA  1-8A      C4.7              2051
+
+6740       1744   ////      1745  SAG  C   RSP  025-040   III/1                 
+
+6760       1858   ////      1943  HOL  3   LPS  ////      0.05              2051
+
+6770       2201   2209      2220  G15  5   XRA  1-8A      M1.0    7.7E-03   2051
+6770       2206   2210      2212  HOL  3   FLA  S10W57    SF      DSD       2051
+6770 +     2208   ////      2208  CUL  C   RSP  020-045   III/2             2051
+6770       2213   ////      2241  HOL  3   BSL  ////      0.25              2051
+
+6780       2245   2253      2300  G15  5   XRA  1-8A      C6.2    3.9E-03   2051

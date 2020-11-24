@@ -1,0 +1,51 @@
+:Product: 20140608events.txt
+:Created: 2014 Jun 11 0332 UT
+:Date: 2014 06 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jun 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1830       0135   0146      0200  G15  5   XRA  1-8A      B9.9    1.4E-03   2080
+1830       0138   0140     A0201  HOL  3   FLA  S12E04    SF                2080
+
+1850 +     0703   ////      0703  LEA  C   RSP  119-180   III/1                 
+
+1860       0743   ////      0744  LEA  C   RSP  028-037   III/1                 
+
+1870       0834   1002      1049  G15  5   XRA  1-8A      C1.9    1.2E-02       
+
+1880       1017   ////      1030  SVI  C   RSP  025-109   III/2                 
+1880 +     1017   ////      1030  SVI  C   RSP  025-109   VI/2                  
+
+1890 +     1123   ////      1123  SAG  C   RSP  112-180   III/1                 
+
+1900       1209   ////      1509  SVI  3   DSF  N25E32    7                     
+
+1920       1526   ////      1623  HOL  3   DSF  N05E29    14                    
+
+1930       1529   ////      1640  SVI  3   DSF  S04E17    17                    
+
+1910       1652   1655      1657  G15  5   XRA  1-8A      C1.4    1.8E-04   2080
+1910       1653   1655      1658  SVI  3   FLA  S13W01    SF                2080
+1910 +     1655   1655      1655  SAG  G   RBR  610       200               2080
+
+1940 +     1738   ////      1744  SAG  C   RSP  025-180   III/2                 
+1940 +     1743   1743      1743  SAG  G   RBR  245       500                   
+
+1950       2123   ////      2124  SAG  C   RSP  025-076   III/1                 
+
+1960       2302   2318      2331  G15  5   XRA  1-8A      C1.6    2.3E-03   2085
+
+1980       2307   2311      2315  HOL  3   FLA  N13W26    SF      ERU       2079
+
+1960       2315   2316      2355  HOL  3   FLA  S19E02    SF      ERU       2085
+
+1970       2346   2354      0001  G15  5   XRA  1-8A      C5.2    3.3E-03       
+1970 +     2353   ////      2359  LEA  C   RSP  074-163   II/2    890           
+1970       2356   ////      0036  HOL  3   BSL  ////      0.35    B.9A          

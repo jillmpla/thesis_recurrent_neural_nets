@@ -1,0 +1,53 @@
+:Product: 20140626events.txt
+:Created: 2014 Jun 29 0332 UT
+:Date: 2014 06 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jun 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6210       0214   ////      0215  CUL  C   RSP  020-090   III/1                 
+
+6190       0215   ////      0215  LEA  C   RSP  029-089   III/1                 
+
+6200       0237   0242      0249  G15  5   XRA  1-8A      B5.2    2.5E-04   2096
+6200       0240   0241      0255  LEA  3   FLA  N09E33    SF      DSD       2096
+
+6220       0527   ////      0541  LEA  C   RSP  028-098   VI/1                  
+
+6230       0621   ////      0632  SVI  C   RSP  025-080   VI/1                  
+6230       0631   ////      0632  LEA  C   RSP  025-125   III/1                 
+
+6240       0728   0736      0741  G15  5   XRA  1-8A      B3.1    1.9E-04   2096
+6240 +    B0730  U0730     A0742  SVI  3   FLA  N10E29    SF                2096
+
+6250       0744   ////      0744  SVI  C   RSP  027-039   III/1                 
+
+6260       0910   0918      0930  G15  5   XRA  1-8A      C2.2    1.9E-03   2096
+6260       0924   ////      0929  SVI  U   RSP  032-081   III/1                 
+
+6270       1402   ////      1442  SVI  C   RSP  032-171   VI/1                  
+6270       1402   ////      1402  SAG  C   RSP  025-180   III/1                 
+
+6470      A1538   ////     A0449  SVI  3   DSF  S40W48    6                     
+
+6280       1811   ////      1811  SAG  C   RSP  025-046   III/1                 
+
+6290       1849   ////      1918  SAG  C   RSP  025-180   VI/1                  
+
+6300       2028   ////      2029  SAG  C   RSP  025-180   III/2                 
+
+6420       2145   0114      0322  G15  5   XRA  1-8A      C1.6    2.5E-02       
+
+6310       2320   ////      2321  CUL  C   RSP  020-260   III/2                 
+6310       2320   2320      2320  PAL  G   RBR  245       140                   
+
+6320       2320   ////      2320  SAG  C   RSP  025-180   III/1                 
+
+6330       2322   ////      2350  LEA  C   RSP  099-180   CTM/1                 
+6330 +     2338   ////      2338  CUL  C   RSP  018-070   III/2                 

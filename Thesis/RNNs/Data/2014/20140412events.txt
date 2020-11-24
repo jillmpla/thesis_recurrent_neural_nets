@@ -1,0 +1,57 @@
+:Product: 20140412events.txt
+:Created: 2014 Apr 15 0332 UT
+:Date: 2014 04 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Apr 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1640       0036   ////      0037  LEA  C   RSP  039-163   III/1                 
+
+1650       0140   ////      0141  LEA  C   RSP  025-107   III/1                 
+
+1660       0203   0203      0203  LEA  G   RBR  245       200                   
+
+1670 +     0214   0214      0216  LEA  G   RBR  245       180                   
+
+1680       0221   0221      0221  PAL  G   RBR  245       120                   
+
+1690       0227   0228      0228  LEA  G   RBR  245       250                   
+
+1700       0229   ////      0230  LEA  C   RSP  025-180   III/1                 
+
+1710       0352   ////      0353  LEA  C   RSP  025-152   III/1                 
+
+1720       0456   0512      0533  G15  5   XRA  1-8A      C1.0    2.0E-03   2035
+
+1730 +     0715   0727      0807  G15  5   XRA  1-8A      C5.0    1.2E-02   2035
+1730 +     0721   ////      0808  LEA  3   EPL  ////      0.23    B.9A      2035
+
+1740       1049   ////      1049  SVI  C   RSP  027-125   III/1                 
+
+1750 +     1418   ////      1418  SAG  C   RSP  075-180   III/1                 
+
+1760       1438   1441      1444  G15  5   XRA  1-8A      B8.5    1.9E-04       
+
+1770       1539   1620      1634  G15  5   XRA  1-8A      B8.1    2.5E-03   2032
+1770       1617   ////      1621  SVI  C   RSP  033-171   III/1                 
+
+1780       1701   1728      1740  G15  5   XRA  1-8A      B8.3    1.8E-03   2027
+
+1790       1747   1751      1754  G15  5   XRA  1-8A      B8.2    3.7E-04   2035
+
+1800       1913   1932      1945  G15  5   XRA  1-8A      B9.0    1.6E-03   2035
+
+1810       2014   ////      2015  SAG  C   RSP  025-115   III/2                 
+
+1820       2045   2045      2045  SAG  U   RBR  245       350                   
+
+1830       2149   ////      2150  SAG  C   RSP  025-180   III/2                 
+1830       2150   2150      2150  SAG  G   RBR  245       710                   
+
+1840       2352   ////      2353  LEA  C   RSP  025-143   III/1                 

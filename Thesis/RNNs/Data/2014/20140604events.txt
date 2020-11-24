@@ -1,0 +1,53 @@
+:Product: 20140604events.txt
+:Created: 2014 Jun 07 0332 UT
+:Date: 2014 06 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2014 Jun 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 740       0025   ////      0026  CUL  C   RSP  020-035   III/1                 
+
+ 730       0127   0136      0141  G15  5   XRA  1-8A      C2.1    1.0E-03   2077
+
+ 910       0438   ////      0438  CUL  C   RSP  023-060   III/1                 
+
+ 920      A0456   ////     A2333  LEA  2   DSF  N15W66    12                    
+
+ 750       0511   0514      0523  SVI  3   FLA  N16E35    SF      ERU       2079
+
+ 760       0539   0544      0553  SVI  3   FLA  S07E18    SF      ERU       2077
+
+ 770       0603   0606      0610  G15  5   XRA  1-8A      B8.5    2.1E-04   2080
+
+ 780       0629   0636      0641  G15  5   XRA  1-8A      C1.3    6.7E-04   2077
+ 780       0631   0633      0655  SVI  3   FLA  S08E16    1F      DSD       2077
+
+ 790       0707   0710      0716  G15  5   XRA  1-8A      B3.9    1.5E-04   2080
+
+ 800 +     0720   ////      0721  SVI  C   RSP  025-080   III/2                 
+
+ 810       0740   0744      0750  G15  5   XRA  1-8A      B4.0    1.8E-04   2080
+
+1220       0900   ////      1400  COM  3   DSF  S24E63    22                    
+
+ 830 +     1214   ////      1220  SAG  C   RSP  025-075   III/1                 
+
+ 840 +     1308   ////      1310  SAG  C   RSP  025-180   III/2                 
+
+ 860 +     1505   ////      1600  SAG  C   RSP  025-077   VI/2              2077
+ 860       1518   1522      1531  SVI  3   FLA  S06E13    SF                2077
+
+ 870       1652   1656      1702  SVI  3   FLA  S11E51    SF                2080
+ 870       1652   1656      1700  G15  5   XRA  1-8A      B4.3    1.4E-04   2080
+
+ 880       2033   ////      2035  SAG  C   RSP  025-077   III/1                 
+
+ 890       2044   2048      2055  G15  5   XRA  1-8A      B6.9    3.3E-04   2080
+
+ 900 +     2154   ////      2158  CUL  C   RSP  020-180   III/1                 
