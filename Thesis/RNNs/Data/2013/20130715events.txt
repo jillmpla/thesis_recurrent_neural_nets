@@ -1,0 +1,46 @@
+:Product: 20130715events.txt
+:Created: 2013 Jul 18 0332 UT
+:Date: 2013 07 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jul 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6780       0117   ////      0117  LEA  C   RSP  025-093   III/1                 
+
+6790 +     0233   0257      0303  G15  5   XRA  1-8A      C1.1    1.6E-03   1792
+
+6800       0311   0344      0408  G15  5   XRA  1-8A      C3.0    7.4E-03   1791
+6800 +     0318   0322      0326  LEA  G   RBR  410       510               1791
+6800       0322   0335      0418  LEA  3   FLA  S13E19    SF      ERU       1791
+
+6810       0329   0329      0329  LEA  G   RBR  410       100                   
+
+6840       0419   0421      0423  LEA  3   FLA  S13E16    SF                1791
+
+6850       0424   0424      0441  LEA  3   FLA  S13E16    SF                1791
+
+6860       0622   0633      0654  SVI  3   FLA  S12E18    SF      ERU       1791
+6860 +     0630   ////      0630  SVI  C   RSP  025-147   III/1             1791
+
+6870       0708   0716      0718  SVI  3   FLA  N11W62    SF      ERU       1794
+
+6880       0726   0733      0740  G15  5   XRA  1-8A      C1.7    1.1E-03   1793
+
+6890       0806   0808      0812  SVI  3   FLA  S12E18    SF                1791
+
+6900       0828   0830      0832  SVI  3   FLA  N12W63    SF                1794
+
+6910 +     1028   1055      1115  G15  5   XRA  1-8A      C3.6    5.9E-03   1791
+6910       1028  U1033     A1154  SVI  3   FLA  S12E16    SF      ERU       1791
+6910       1050   ////      1050  SVI  C   RSP  025-049   III/1             1791
+
+6920      B1201  U1208     A1217  SVI  3   FLA  S12E15    SF                1791
+
+6930       1655   1700      1703  G15  5   XRA  1-8A      C1.0    3.2E-04   1791
+6930       1657   1657      1708  SVI  3   FLA  S12E15    SF      ERU       1791

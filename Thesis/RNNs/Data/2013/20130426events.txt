@@ -1,0 +1,74 @@
+:Product: 20130426events.txt
+:Created: 2013 Apr 29 0332 UT
+:Date: 2013 04 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Apr 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9580 +     0000   ////      0809  LEA  C   RSP  075-180   CTM/1                 
+9580       0035   0035      0035  LEA  G   RBR  245       200                   
+9580 +     0050   ////      0051  CUL  C   RSP  018-070   III/1                 
+
+9590       0208   0208      0208  LEA  G   RBR  245       110                   
+
+9600       0344   0344      0344  LEA  G   RBR  245       150                   
+
+9610       0422   0427      0430  G15  5   XRA  1-8A      C2.5    6.9E-04       
+
+9630       0440   ////      0631  SVI  C   RSP  090-180   CTM/1                 
+
+9640 +     0547   0547      0547  LEA  G   RBR  245       100                   
+
+9650       0605   0605      0605  SVI  G   RBR  245       110                   
+
+9660       0620   0627      0631  G15  5   XRA  1-8A      C7.0    2.5E-03   1726
+9660       0621   0624      0633  SVI  3   FLA  N09W88    SF                1726
+
+9670       0703   0705      0712  SVI  3   FLA  N09W86    SF                1726
+
+9680       0824   0827      0830  G15  5   XRA  1-8A      C1.5    3.4E-04   1726
+
+9690       0851   0857      0901  G15  5   XRA  1-8A      C3.4    1.4E-03   1726
+
+9830      A0925   ////     A2324  LEA  3   DSF  S38W05    9                     
+
+9620 +     0955   1004      1030  SVI  G   RNS  245       140                   
+
+9710 +     1202   ////      1202  SVI  C   RSP  036-180   III/2                 
+9710 +     1202   1202      1202  SVI  U   RBR  245       110                   
+
+9720 +     1222   ////      1223  SVI  C   RSP  025-082   III/1                 
+
+9730       1241   1257      1300  G15  5   XRA  1-8A      C3.5    1.7E-03   1726
+9730 +     1252   ////      1253  SAG  C   RSP  025-166   III/1                 
+
+9740 +     1333   ////      1334  SVI  C   RSP  025-152   III/1                 
+
+9750 +     1422   ////      1446  SAG  C   RSP  025-180   VI/1                  
+
+9760 +     1526   ////      1548  SAG  C   RSP  025-180   VI/1                  
+9760       1534   1543      1614  G15  5   XRA  1-8A      C4.4    7.3E-03   1726
+
+9770       1622   ////      1728  SVI  C   RSP  025-180   VI/1                  
+
+9780 +     1624   ////      1853  SAG  C   RSP  025-180   VI/2                  
+
+9770       1705   1710      1713  G15  5   XRA  1-8A      C1.7    5.5E-04   1726
+9770       1705   1707      1713  HOL  3   FLA  S16W09    SF      ERU           
+
+9790       1823   1828      1836  G15  5   XRA  1-8A      C2.3    1.2E-03   1726
+
+9800       2059   2117      2134  G15  5   XRA  1-8A      C2.7    3.7E-03   1726
+9800       2124   2124      2124  SAG  G   RBR  245       140                   
+
+9810       2209   2225      2234  G15  5   XRA  1-8A      C5.7    5.9E-03   1726
+9810       2212   2213      2219  HOL  3   FLA  N11W87    SF      DSD       1726
+9810       2218   2219      2219  SAG  U   RBR  410       1000              1726
+
+9820       2252   2252      2252  PAL  G   RBR  610       100                   

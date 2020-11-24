@@ -1,0 +1,32 @@
+:Product: 20130414events.txt
+:Created: 2013 Apr 17 0332 UT
+:Date: 2013 04 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Apr 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6060       0212   0217      0220  LEA  3   FLA  N20W59    SF                1718
+
+6080       0520   0524      0527  G15  5   XRA  1-8A      B6.8    1.9E-04   1718
+
+6110       0611   ////      1715  SVI  C   RSP  025-075   VI/2                  
+
+6090       0708   ////      0709  LEA  C   RSP  025-096   III/1                 
+
+6100       0829   ////      0832  LEA  C   RSP  025-055   III/1                 
+
+6230 +    A0927   ////     A2331  LEA  3   DSF  S31E37    6                     
+
+6140       1029   ////      2210  SAG  C   RSP  025-059   VI/1                  
+
+6120       1903   ////      1903  PAL  C   RSP  025-075   III/1                 
+
+6130 +     2057   2101      2106  G15  5   XRA  1-8A      B7.0    2.6E-04   1718
+
+6150 +     2253   ////      2325  LEA  C   RSP  029-175   VI/1                  

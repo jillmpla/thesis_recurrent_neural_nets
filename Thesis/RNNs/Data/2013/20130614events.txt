@@ -1,0 +1,46 @@
+:Product: 20130614events.txt
+:Created: 2013 Jun 17 0332 UT
+:Date: 2013 06 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jun 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9800       0007   0007      0009  HOL  3   FLA  S21E72    SF      ERU       1769
+9800 +     0012   ////      0016  LEA  C   RSP  025-099   II/1    431       1769
+9800       0013   ////      0017  CUL  C   RSP  023-060   III/1             1769
+
+9810 +     0151   0155      0158  G15  5   XRA  1-8A      B7.2    2.0E-04   1768
+
+9820       0438   0438      0459  SVI  3   FLA  S11W33    SF                1768
+
+9830       0533   0535      0539  SVI  3   FLA  S11W34    SF                1768
+
+9840       0724   0725      0727  SVI  3   FLA  S19E66    SF                1769
+
+9850 +     0749   ////      0749  LEA  C   RSP  025-180   III/1                 
+
+9890       0851   ////      0851  SVI  C   RSP  026-051   III/1                 
+
+9940 +     1015   1020      1027  G15  5   XRA  1-8A      B6.1    3.2E-04   1772
+
+9910 +     1106   ////      1106  SVI  C   RSP  025-136   III/1                 
+
+9920 +     1338   ////      1351  SVI  C   RSP  025-077   VI/1                  
+
+9930       1615   ////      1626  SAG  C   RSP  025-137   VI/1                  
+
+9950       1927   ////      1928  SAG  C   RSP  025-073   III/1                 
+
+9960       2054   ////      2131  SAG  C   RSP  025-087   VI/2                  
+
+9970       2245   2245      2245  PAL  G   RBR  245       110                   
+
+9980       2319   ////      2348  LEA  C   RSP  091-180   CTM/1                 
+
+9990       2355   ////      2356  LEA  C   RSP  025-107   III/1                 

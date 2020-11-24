@@ -1,0 +1,48 @@
+:Product: 20130622events.txt
+:Created: 2013 Jun 25 0332 UT
+:Date: 2013 06 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jun 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1460       0041   0045      0050  G15  5   XRA  1-8A      B9.9    3.8E-04   1772
+1460       0043   0044      0053  LEA  3   FLA  S21W39    SF                1772
+
+1470       0142   ////      0143  LEA  C   RSP  054-180   III/1                 
+
+1480 +     0500   0506      0516  G15  5   XRA  1-8A      C1.3    1.0E-03   1775
+
+1490       0548   0549      0608  SVI  3   FLA  S24W42    SF                1772
+
+1500 +     0627   ////      0628  SVI  C   RSP  025-080   III/2                 
+
+1510 +     0646   0648      0730  SVI  3   FLA  S24W43    SF                1772
+
+1520 +     0748   ////      0752  LEA  C   RSP  025-180   III/1                 
+
+1530       0902   0910      0917  G15  5   XRA  1-8A      C1.1    7.5E-04   1772
+1530       0904   0905      0933  SVI  3   FLA  S24W44    SF                1772
+
+1540 +     0926   ////      0928  SVI  C   RSP  025-171   III/2                 
+
+1550       1030   1033      1035  G15  5   XRA  1-8A      B7.6    1.2E-04   1772
+1550       1032   1033      1035  SVI  3   FLA  S24W43    SF                1772
+
+1560       1220   1223      1226  SVI  3   FLA  S24W46    SF                1772
+
+1570       1346   1348      1354  SVI  3   FLA  S24W47    SF                1772
+
+1580       1418   1422      1423  SVI  3   FLA  S24W47    SF                1772
+
+1590 +     1731   1736      1746  G15  5   XRA  1-8A      C1.5    1.1E-03   1773
+1590       1732   1734      1749  HOL  3   FLA  N05W27    SF      ERU       1773
+
+1600       1902   ////      1903  SAG  C   RSP  025-080   III/1                 
+
+1610       2119   ////      2119  SAG  C   RSP  025-076   III/1                 

@@ -1,0 +1,46 @@
+:Product: 20130613events.txt
+:Created: 2013 Jun 16 0332 UT
+:Date: 2013 06 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jun 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9650       0044   0048      0056  G15  5   XRA  1-8A      B3.2    1.8E-04       
+
+9660 +     0149   0149      0149  LEA  G   RBR  245       220                   
+
+9670       0317   0322      0328  G15  5   XRA  1-8A      B3.5    1.6E-04       
+
+9680       0428   0432      0438  G15  5   XRA  1-8A      B4.5    1.8E-04       
+
+9690       0821   0825      0828  G15  5   XRA  1-8A      B4.1    1.1E-04       
+
+9700       0920   0927      0933  G15  5   XRA  1-8A      B7.2    3.9E-04   1768
+9700       0923  U0925      0940  SVI  3   FLA  S12W23    SF                1768
+
+9710       0941   ////      0942  SVI  C   RSP  025-082   III/1                 
+
+9720       0955   1006      1011  G15  5   XRA  1-8A      B9.3    5.5E-04   1768
+
+9730       1124   1128      1139  SVI  3   FLA  S12W24    SF                1768
+
+9740       1308   ////      1346  HOL  3   SPY  ////      22      B.6A          
+9740       1309   ////      1348  SVI  2   EPL  ////      0.22    B.6A          
+
+9760       1436   1452      1456  G15  5   XRA  1-8A      B9.7    7.7E-04   1770
+9760       1452   1454      1457  SVI  3   FLA  S19E73    SF      ERU           
+
+9860      A1733   ////     A0433  SVI  3   DSF  S02W11    6                     
+
+9870      A1733   ////     A0433  SVI  3   DSF  N15E24    8                     
+
+9770       2106   2110      2113  G15  5   XRA  1-8A      B3.6    1.0E-04   1768
+9770       2108   2109      2119  HOL  3   FLA  S10W30    SF      ERU       1768
+
+9800       2353   0031      0115  G15  5   XRA  1-8A      C1.2    4.7E-03   1769

@@ -1,0 +1,39 @@
+:Product: 20130625events.txt
+:Created: 2013 Jun 28 0332 UT
+:Date: 2013 06 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jun 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1880 +    A0027   ////     A1323  HOL  3   DSF  N34E44    23                    
+
+1870       0323   ////      0605  LEA  2   DSF  N32E24    7                     
+
+1890      B0432   ////     B0733  SVI  3   DSF  N35E46    23                    
+
+1840       0503   0504      0508  SVI  3   FLA  S28W50    SF                1775
+
+1850       0523   0524      0527  SVI  3   FLA  S18W68    SF                1770
+
+1950       0617   ////      0617  CUL  C   RSP  030-060   III/1                 
+
+1860 +     0617   ////      0617  SVI  C   RSP  031-080   III/1                 
+
+1900       1150   1154      1158  G15  5   XRA  1-8A      B6.6    2.2E-04   1775
+1900       1152   1155      1159  SVI  3   FLA  S28W52    SF                1775
+
+1910       1226   1235      1252  SVI  3   FLA  S28W53    SF                1775
+
+1920       1722   1727      1729  G15  5   XRA  1-8A      B9.4    2.4E-04   1774
+
+1930       2122   2129      2135  G15  5   XRA  1-8A      B6.8    4.9E-04   1776
+1930       2125   2127      2135  HOL  3   FLA  N05W70    SF      ERU       1776
+
+1940       2353   2357      0001  G15  5   XRA  1-8A      C1.0    3.6E-04   1775
+1940       2355   2355      2359  LEA  3   FLA  S25W59    SF      ERU       1775

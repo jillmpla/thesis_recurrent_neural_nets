@@ -1,0 +1,64 @@
+:Product: 20130630events.txt
+:Created: 2013 Jul 03 0332 UT
+:Date: 2013 06 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jun 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2270 +     0012   0012      0012  LEA  G   RBR  245       250                   
+
+2290       0101   ////      0101  LEA  C   RSP  048-123   III/1                 
+
+2300 +     0250   0255      0258  G15  5   XRA  1-8A      B6.2    2.0E-04   1781
+
+2310       0509   0509      0509  LEA  G   RBR  245       120                   
+
+2320       0515   0520      0531  G15  5   XRA  1-8A      B4.1    3.8E-04   1778
+2320       0519   0520      0522  SVI  3   FLA  S16W20    SF                1778
+
+2330 +     0539   0541      0543  LEA  3   FLA  S16W21    SF      DSD       1778
+
+2340       0624   ////      0624  SVI  C   RSP  034-049   III/1                 
+
+2350 +     0735   ////      0737  SVI  C   RSP  025-076   III/1                 
+
+2360 +     0813   ////      0813  SVI  C   RSP  029-169   III/1                 
+
+2370 +     0837   ////      0838  LEA  C   RSP  025-180   III/1                 
+
+2380 +     0844   0845      0856  SVI  3   FLA  S16W21    SF      ERU       1778
+
+2390       0911   0918      0927  G15  5   XRA  1-8A      C1.5    1.1E-03   1778
+2390 +     0914   0916      0921  LEA  3   FLA  S16W19    SF                1778
+
+2420 +     1138   ////      1141  SVI  C   RSP  025-146   III/2                 
+
+2430       1242   1244      1246  SVI  3   FLA  S14W38    SF                1780
+
+2440 +     1320   1321      1329  HOL  3   FLA  S16W23    SF      ERU       1778
+
+2450       1512   1517      1520  G15  5   XRA  1-8A      C2.7    6.7E-04   1780
+2450 +     1515   1515      1522  HOL  3   FLA  S12W41    SF      ERU       1780
+
+2460       1617   1633      1643  G15  5   XRA  1-8A      C1.3    1.6E-03   1780
+2460 +     1618   1632      1712  HOL  3   FLA  S12W41    SF      ERU       1780
+
+2470       1644   1647      1650  G15  5   XRA  1-8A      C2.0    4.2E-04   1780
+
+2480       1722   1723      1728  HOL  3   FLA  S12W42    SF      ERU       1780
+
+2490       1804   1812      1818  G15  5   XRA  1-8A      B8.2    4.9E-04   1780
+2490       1804   1810      1816  HOL  3   FLA  S12W43    SF      ERU       1780
+
+2500       2050   2055      2109  G15  5   XRA  1-8A      C1.3    1.2E-03   1778
+2500       2052   2057      2108  HOL  3   FLA  S15W26    SF      ERU       1778
+
+2510       2112   2117      2121  HOL  3   FLA  S15W27    SF      ERU       1778
+
+2520       2322   ////      2359  LEA  C   RSP  083-180   CTM/1                 

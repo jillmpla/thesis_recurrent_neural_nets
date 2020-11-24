@@ -1,0 +1,73 @@
+:Product: 20130430events.txt
+:Created: 2013 May 03 0332 UT
+:Date: 2013 04 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Apr 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 690       0008   0012      0016  G15  5   XRA  1-8A      C1.3    4.4E-04   1731
+
+ 700       0153   0159      0206  G15  5   XRA  1-8A      C2.2    1.2E-03   1730
+ 700       0155   0157      0203  LEA  3   FLA  S17W25    SF                1730
+
+ 720       0238   ////      0354  LEA  C   RSP  086-144   CTM/1                 
+
+ 710       0314   0317      0319  G15  5   XRA  1-8A      C1.0    1.6E-04   1731
+ 710       0316   0316      0318  LEA  3   FLA  N10E13    SF                1731
+
+ 730 +     0406   ////      0406  LEA  C   RSP  025-147   III/1                 
+
+ 740       0839   0845      0855  G15  5   XRA  1-8A      C1.8    1.3E-03   1730
+ 740 +     0841   0841      0848  LEA  3   FLA  S18W25    SF                1730
+
+ 750 +     1110   ////      1155  SVI  C   RSP  116-161   CTM/1                 
+
+ 760 +     1206   ////      1206  SAG  C   RSP  025-083   III/2                 
+
+ 770 +     1229   ////      1231  SAG  C   RSP  025-057   III/1                 
+
+ 780       1309   1313      1319  HOL  3   FLA  S17W29    SF      ERU       1730
+
+ 790       1359   1400      1401  HOL  3   FLA  S17W30    SF      ERU       1730
+
+ 800       1403   1403      1413  HOL  3   FLA  N10E06    SF      ERU       1731
+
+ 810       1559   1603      1608  HOL  3   FLA  S17W32    SF      ERU       1730
+
+ 820       1704   ////      1705  SAG  C   RSP  025-045   III/1                 
+
+ 830       1745   1753      1802  G15  5   XRA  1-8A      C1.3    1.1E-03   1730
+
+ 840       1856   1856      1858  HOL  3   FLA  S19W64    SF      DSD       1733
+ 840       1856   ////      1858  PAL  C   RSP  025-180   V/2               1733
+ 840 +     1856   ////      1858  SAG  C   RSP  025-180   III/3             1733
+
+ 860       1929   1959      2017  G15  5   XRA  1-8A      C3.6    7.7E-03   1730
+
+ 880       1932   1933      1947  HOL  3   FLA  N11E01    SF      ERU       1731
+
+ 850       1937   1944      2010  HOL  3   FLA  S17W33    SF      ERU       1730
+
+ 860       2011   2012      2013  HOL  3   FLA  S17W34    SF                1730
+
+ 870       2043   2048      2054  G15  5   XRA  1-8A      C2.6    1.2E-03   1730
+ 870       2046   2046      2055  HOL  3   FLA  S16W35    SF      ERU       1730
+
+ 890 +     2109   ////      2109  SAG  C   RSP  025-052   III/1                 
+
+ 900       2110   ////      2310  PAL  C   RSP  079-180   CTM/1                 
+ 900       2127   ////      2128  SAG  C   RSP  075-180   III/2                 
+
+ 910       2228   2228      2228  SAG  G   RBR  410       170                   
+
+ 920 +     2254   2300      2319  HOL  3   FLA  S17W36    SF      ERU       1730
+ 920       2300   ////      2359  LEA  C   RSP  084-180   CTM/1             1730
+ 920 +     2307   2307      2307  PAL  G   RBR  610       800               1730
+
+ 930       2320   2321      2325  HOL  3   FLA  N10E00    SF      ERU       1731

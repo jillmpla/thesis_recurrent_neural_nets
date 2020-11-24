@@ -1,0 +1,47 @@
+:Product: 20130516events.txt
+:Created: 2013 May 19 0332 UT
+:Date: 2013 05 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 May 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5300 +     0542   ////      0549  SVI  C   RSP  025-144   III/2                 
+
+5310 +     0625   ////      0837  SVI  C   RSP  025-146   VI/2                  
+
+5320 +     1104   ////      1104  SVI  C   RSP  025-046   III/1                 
+
+5330 +     1201   ////      1202  SAG  C   RSP  025-069   III/1                 
+
+5340       1214   1217      1226  G15  5   XRA  1-8A      C1.2    6.9E-04   1744
+
+5360       1247   ////      1247  SAG  C   RSP  027-065   III/1                 
+
+5350       1247   ////      1247  SVI  C   RSP  025-063   III/1                 
+
+5370 +     1321   ////      1501  SVI  C   RSP  025-080   VI/1                  
+
+5430       1537   1549      1600  G15  5   XRA  1-8A      C1.1    1.3E-03   1752
+
+5380 +     1601   ////      1601  SVI  C   RSP  031-079   III/1                 
+
+5390       1830   1835      1840  G15  5   XRA  1-8A      C1.1    4.9E-04   1748
+
+5400       1910   ////      1910  SAG  C   RSP  025-049   III/1                 
+
+5410       1917   1924      1930  G15  5   XRA  1-8A      C4.8    2.3E-03   1748
+5410       1919   1926      1940  HOL  3   FLA  N13E41    SF                1748
+
+5420       2136   2153      2203  G15  5   XRA  1-8A      M1.3    1.2E-02   1748
+5420       2138   2150      2252  HOL  3   FLA  N13E41    1N      ERU       1748
+5420       2149   ////      2149  SAG  C   RSP  025-060   III/1             1748
+
+5440       2343   ////      2344  SAG  C   RSP  025-071   III/1                 
+
+5450       2348   ////      2344  LEA  C   RSP  025-180   III/1                 

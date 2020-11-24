@@ -1,0 +1,43 @@
+:Product: 20130701events.txt
+:Created: 2013 Jul 04 0332 UT
+:Date: 2013 07 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jul 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2530       0000   ////      0155  LEA  C   RSP  083-180   CTM/1                 
+
+2540       0657   0700      0703  G15  5   XRA  1-8A      B6.9    1.5E-04   1785
+
+2550       1003   1006      1010  G15  5   XRA  1-8A      B5.5    1.5E-04   1785
+
+2560       1226   ////      1227  SVI  C   RSP  025-087   III/1                 
+2560       1226   ////      1426  SAG  C   RSP  025-062   VI/1                  
+
+2570       1233   1239      1243  G15  5   XRA  1-8A      C1.2    4.4E-04   1785
+2570       1242   ////      1243  SVI  C   RSP  025-046   III/1                 
+
+2580       1333   ////      1333  SVI  C   RSP  025-078   III/1                 
+
+2590       1425   ////      1426  SVI  C   RSP  025-063   III/1                 
+
+2600       1446   1457      1502  G15  5   XRA  1-8A      C1.1    6.7E-04   1785
+
+2610       1510   1516      1519  G15  5   XRA  1-8A      C1.8    5.9E-04   1785
+
+2620       1600   1605      1609  G15  5   XRA  1-8A      B9.7    3.5E-04   1785
+
+2720      A1720   ////     A0459  SVI  3   DSF  N16E15    10                    
+
+2630       1915   ////      2033  HOL  3   EPL  ////      0.17    B.7A          
+2630       2006   2018      2029  G15  5   XRA  1-8A      B7.1    8.0E-04   1785
+
+2640       2101   2150      2259  G15  5   XRA  1-8A      B7.6    5.0E-03   1785
+
+2930      A2354   ////     A1441  HOL  3   DSF  N17E08    8                     

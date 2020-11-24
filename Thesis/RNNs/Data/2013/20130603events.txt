@@ -1,0 +1,59 @@
+:Product: 20130603events.txt
+:Created: 2013 Jun 06 0332 UT
+:Date: 2013 06 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jun 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8710       0000   ////      0929  LEA  C   RSP  049-180   IV/1                  
+
+8700       0000   ////      0003  SAG  C   RSP  025-180   II/1    875           
+
+8810       0155   ////      1236  HOL  3   DSF  S43W25    6                     
+
+8720 +     0207   0207      0207  LEA  G   RBR  245       600                   
+
+8730       0207   ////      0211  LEA  C   RSP  025-152   III/1                 
+
+8740       0322   ////      0344  LEA  C   RSP  025-180   VI/1                  
+8740       0339   ////      0339  SVI  C   RSP  025-114   III/1                 
+
+8800       0350   ////      1356  SVI  C   RSP  043-171   IV/1                  
+
+8780       0445   ////      0711  SVI  3   DSF  S47W22    11                    
+
+8850       0507   ////      0507  CUL  C   RSP  027-045   III/1                 
+
+8860       0615   ////      0633  CUL  C   RSP  023-060   III/1                 
+
+8750 +     0621   ////      0621  CUL  C   RSP  018-080   III/3             1761
+8750       0621   0625      0636  G15  5   XRA  1-8A      B5.1    3.7E-04   1761
+8750       0622   0625      0634  SVI  3   FLA  S15W02    SF                1761
+8750       0631   ////      0801  SVI  C   RSP  025-171   VI/1              1761
+
+8760       0703   0725      0742  G15  5   XRA  1-8A      C9.5    1.4E-02   1762
+8760 +     0705   0712      0757  SVI  3   FLA  S27W21    SF      ERU       1762
+8760       0716   0716      0716  LEA  G   RBR  245       120               1762
+8760       0726   0727      0727  SVI  G   RBR  4995      56                1762
+8760       0726   0726      0727  SVI  G   RBR  8800      53                1762
+8760 +     0727   0727      0727  LEA  G   RBR  1415      120               1762
+
+8840       0952   ////      1911  SAG  C   RSP  102-180   IV/1                  
+
+8790       1145   1149      1151  G15  5   XRA  1-8A      B4.4    9.6E-05       
+
+8820 +     1529   ////      1529  SVI  C   RSP  025-074   III/1                 
+
+8830       1647   1744      1801  G15  5   XRA  1-8A      C1.8    3.8E-03   1762
+8830       1702   ////      1803  SVI  C   RSP  040-171   IV/2                  
+8830 +     1738   ////      1742  SAG  C   RSP  025-164   III/1                 
+
+8870 +     2315   ////      2359  LEA  C   RSP  067-180   IV/1                  
+8870       2344   0052      0141  G15  5   XRA  1-8A      B8.8    4.7E-03   1762
+8870       2348   ////      2350  CUL  C   RSP  027-060   III/1                 

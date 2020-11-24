@@ -1,0 +1,44 @@
+:Product: 20130605events.txt
+:Created: 2013 Jun 08 0332 UT
+:Date: 2013 06 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jun 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9010       0024   ////      0138  LEA  3   DSF  N34E17    7                     
+
+8980       0244   ////      0244  CUL  C   RSP  018-060   III/1                 
+
+8990       0244   ////      0244  LEA  C   RSP  025-041   III/1                 
+
+9000       0415   ////      0415  CUL  C   RSP  020-057   III/1                 
+
+9070       0641   ////      0641  CUL  C   RSP  030-057   III/1                 
+
+9020       0814   0857      0926  G15  5   XRA  1-8A      M1.3    3.4E-02   1762
+9020 +     0820   0837      1012  SVI  3   FLA  S32W51    1F      PRB       1762
+9020 +     0833   0833      0834  SVI  G   RBR  1415      200               1762
+9020 +     0833   0834      0842  SVI  G   RBR  4995      180               1762
+9020 +     0833   0834      0841  SVI  G   RBR  8800      160               1762
+9020       0833   0834      0835  SVI  G   RBR  15400     110               1762
+9020       0834   ////      0840  LEA  C   RSP  025-180   III/1             1762
+9020       0835   0835      0840  SVI  G   RBR  2695      79                1762
+9020       0842   0843      0843  LEA  G   RBR  610       100               1762
+9020 +     0844   ////      0822  SVI  C   RSP  025-180   IV/1              1762
+9020 +     0857   0858      0908  LEA  G   RBR  245       460               1762
+
+9030       1002   ////      1327  SAG  C   RSP  025-120   IV/1                  
+
+9040 +     1105   ////      1212  SVI  C   RSP  025-082   VI/1                  
+
+9050       1546   1548      1555  SVI  3   FLA  N10E22    SF                1765
+
+9060       2031   2031      2035  HOL  3   FLA  N09E20    SF      DSD       1765
+
+9080       2236   ////      2236  CUL  C   RSP  020-060   III/1                 
