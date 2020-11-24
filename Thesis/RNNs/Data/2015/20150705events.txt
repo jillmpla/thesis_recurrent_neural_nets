@@ -1,0 +1,35 @@
+:Product: 20150705events.txt
+:Created: 2015 Jul 08 0357 UT
+:Date: 2015 07 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jul 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8510       0633   0638      0644  G15  5   XRA  1-8A      B5.1    3.3E-04   2378
+8510       0635   0637      0640  SVI  3   FLA  S14E46    SF      ERU       2378
+
+8520       0652   0700      0708  G15  5   XRA  1-8A      B6.7    6.0E-04   2378
+8520 +     0658   0659      0705  LEA  3   FLA  S17E45    SF                2378
+
+8530 +     0852   0915      0939  G15  5   XRA  1-8A      B7.4    1.8E-03   2381
+8530       0912   0913      0922  SVI  3   FLA  N17E56    SF      DSD       2381
+
+8540       0929   0930      0939  SVI  3   FLA  N17E56    SF      DSD       2381
+
+8550       1000   1007      1016  SVI  3   FLA  N17E55    SF      DSD       2381
+
+8560       1228   1230      1231  SVI  3   FLA  N17E53    SF                2381
+
+8570       1300   1304      1308  HOL  3   FLA  N13W02    SF      ERU       2376
+
+8580       1306   1320      1335  G15  5   XRA  1-8A      B9.4    1.4E-03   2377
+
+8590       1356   1515      1531  SVI  3   FLA  N16E52    SF      DSD       2381
+
+8600 +     1534   1544      1633  SVI  3   FLA  N16E52    SF      ERU       2381

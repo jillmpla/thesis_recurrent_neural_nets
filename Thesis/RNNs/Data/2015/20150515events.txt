@@ -1,0 +1,97 @@
+:Product: 20150515events.txt
+:Created: 2015 May 18 0357 UT
+:Date: 2015 05 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 May 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9650 +     0102   0103      0110  LEA  3   FLA  N08W43    SF      ERU       2339
+9650       0102   ////      0141  LEA  C   RSP  075-180   VI/1              2339
+
+9660       0118   ////      0135  PAL  C   RSP  025-133   VI/2                  
+9660 +     0128   ////      0130  CUL  C   RSP  018-180   III/2                 
+
+9670       0142   0142      0146  LEA  3   FLA  N18W07    SF      ERU       2342
+
+9680       0158   0202      0204  G15  5   XRA  1-8A      C1.1    2.5E-04   2339
+9680       0200   0207      0209  LEA  3   FLA  N17W43    SF      ERU       2339
+
+9710       0254   ////      0301  CUL  C   RSP  020-180   III/1                 
+
+9690       0254   ////      0301  PAL  C   RSP  025-180   III/1                 
+
+9700 +     0317   0321      0325  G15  5   XRA  1-8A      B9.5    3.1E-04   2339
+9700 +     0323   ////      0326  CUL  C   RSP  020-180   III/1                 
+
+9720       0355   ////      0355  CUL  C   RSP  070-180   III/1                 
+
+9730       0453   0455      0502  LEA  3   FLA  N16W43    SF                2339
+
+9740 +     0522   0525      0528  G15  5   XRA  1-8A      C1.1    2.4E-04   2339
+9740 +     0523   0523      0524  LEA  G   RBR  410       330               2339
+9740 +     0523   0524      0524  LEA  G   RBR  245       1400              2339
+9740       0524   0525      0533  LEA  3   FLA  N09W53    SF      DSD       2339
+9740       0524   ////      0526  SVI  C   RSP  025-180   V/2               2339
+9740       0524   ////      0526  LEA  U   RSP  075-180   III/2             2339
+
+9750       0605   ////      0624  SVI  C   RSP  025-079   VI/1                  
+
+9760 +     0644   0650      0653  G15  5   XRA  1-8A      C1.8    6.2E-04       
+
+9770       0656   0707      0717  LEA  3   FLA  N13W43    SF      ERU       2339
+9770       0708   ////      0842  SVI  C   RSP  025-080   VI/1              2339
+
+9780       0756   0756      0759  SVI  2   FLA  N08W49    SF      ERU       2339
+
+9790 +     0838   0843      0848  G15  5   XRA  1-8A      C1.1    4.9E-04   2339
+9790 +    B0843  U0847      0901  SVI  3   FLA  N09W50    SF                2339
+
+9800       0845   0845      0853  SVI  3   FLA  S09E26    SF                2346
+
+9810       0855   0855      0857  SVI  U   RBR  245       130                   
+
+9820 +     0905   0912      0920  G15  5   XRA  1-8A      C1.2    8.9E-04   2339
+9820       0906   0908      0919  SVI  3   FLA  N10W53    SF                2339
+
+9830 +     1042   1042      1042  SAG  G   RBR  245       460                   
+9830 +     1042   ////      1042  SAG  C   RSP  025-081   III/1                 
+
+9840      B1048  U1049     A1100  SVI  3   FLA  N08W56    SF                2339
+9840 +     1049   1049      1049  SAG  G   RBR  245       120               2339
+
+9850 +     1135   ////      1135  SVI  C   RSP  027-157   III/2                 
+
+9860 +     1204   ////      1206  SVI  C   RSP  027-154   III/2                 
+
+9870 +     1332   ////      1338  SAG  C   RSP  025-076   III/2                 
+
+9880 +     1503   ////      1508  SVI  C   RSP  025-161   III/2                 
+
+9890 +     1601   ////      1603  SVI  C   RSP  027-148   III/1                 
+
+9900 +     1644   ////      1645  SAG  C   RSP  025-073   III/1                 
+
+9910       1722   ////      1722  SAG  C   RSP  025-050   III/1                 
+
+9920 +     1903   ////      1903  SAG  C   RSP  025-089   III/1                 
+
+9930       2124   2124      2129  HOL  3   FLA  N10W52    SF      ERU       2339
+
+9940 +     2218   2230      2239  G15  5   XRA  1-8A      C2.0    2.0E-03   2342
+9940       2221   2222      2246  HOL  3   FLA  N18W15    SF      ERU       2342
+
+ 120      B2309   ////     B1407  HOL  2   DSF  N41E31    11                    
+
+9980      B2322   ////     B0334  LEA  2   EPL  ////      0.26                  
+
+9950 +     2322   2329      2333  G15  5   XRA  1-8A      C2.5    1.1E-03   2339
+9950       2323   2324      2324  LEA  G   RBR  245       270                   
+9950       2323   ////      2326  SAG  C   RSP  025-180   III/1                 
+9950 +     2323   ////      2327  PAL  C   RSP  025-180   V/2                   
+9950       2325   2325      2325  LEA  G   RBR  410       200                   

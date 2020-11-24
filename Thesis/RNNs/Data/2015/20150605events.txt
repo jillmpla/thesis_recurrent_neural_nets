@@ -1,0 +1,34 @@
+:Product: 20150605events.txt
+:Created: 2015 Jun 08 0357 UT
+:Date: 2015 06 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jun 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1510 +     0431   0431      0431  LEA  G   RBR  245       220                   
+1510 +     0431   ////      0431  LEA  C   RSP  103-180   III/1                 
+
+1520 +     0442   0506      0518  G14  5   XRA  1-8A      C1.3    2.5E-03   2361
+1520 +     0444   ////      0444  LEA  C   RSP  076-173   III/1                 
+
+1530 +     0530   0536      0541  G14  5   XRA  1-8A      C1.6    7.7E-04   2361
+1530       0532   0532      0542  LEA  3   FLA  N15E63    SF                2361
+
+1540 +     0700   0717      0739  G14  5   XRA  1-8A      C1.6    3.1E-03   2361
+1540       0703   0703      0716  LEA  3   FLA  N13E62    SF      ERU       2361
+
+1550 +     0819   0820      0840  SVI  3   FLA  N18E59    SF                2361
+
+1560       0925   0938      0948  G14  5   XRA  1-8A      C2.1    2.2E-03   2361
+1560       0932   0950      1003  SVI  3   FLA  N17E57    SF      ERU       2361
+
+1570       1101   ////      1147  SVI  3   DSF  S28W67    9                     
+
+1580 +     1724   1734      1745  G14  5   XRA  1-8A      C3.5    3.2E-03   2361
+1580       1726   1730      1818  HOL  3   FLA  N15E55    SF      ERU       2361

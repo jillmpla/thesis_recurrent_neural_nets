@@ -1,0 +1,83 @@
+:Product: 20150613events.txt
+:Created: 2015 Jun 16 0357 UT
+:Date: 2015 06 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jun 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2880 +     0000   ////      0001  PAL  C   RSP  025-180   III/2             2360
+
+2890       0024   0031      0045  HOL  3   FLA  N14W74    SF      ERU       2360
+2890 +     0029   0033      0037  G15  5   XRA  1-8A      C5.9    2.0E-03   2360
+
+2900       0031   0032      0041  HOL  3   FLA  S20E64    SF      ERU       2367
+
+2910 +     0134   0142      0149  G15  5   XRA  1-8A      C3.5    2.1E-03   2360
+
+2920       0134   ////      0134  PAL  C   RSP  025-060   III/1                 
+
+2930       0138   0139      0141  HOL  2   FLA  S20E61    SF      ERU       2367
+
+2910 +     0139   0141      0149  LEA  3   FLA  N15W72    SF                2360
+
+2940 +     0225   0237      0243  G15  5   XRA  1-8A      C5.9    3.8E-03   2360
+2940       0230   0236      0249  LEA  3   FLA  N15W72    SF                2360
+
+2950       0310   ////      0318  LEA  C   RSP  029-116   III/1                 
+
+2960       0347   ////      0347  LEA  C   RSP  025-077   III/1                 
+
+2970       0450   0452      0454  SVI  3   FLA  N11W74    SF                2360
+
+2990 +     0458   0538      0601  G15  5   XRA  1-8A      C3.8    1.2E-02   2360
+
+2980       0500   0501      0504  LEA  2   FLA  S21E62    SF                2367
+
+2990 +     0535   0535      0548  LEA  3   FLA  N14W73    SF      DSD       2360
+
+3000 +     0619   0625      0631  G15  5   XRA  1-8A      C4.3    2.3E-03   2360
+3000       0622   0623      0632  LEA  3   FLA  N14W73    SF                2360
+
+3010 +     0711   0723      0755  SVI  3   FLA  N11W78    SF      DSD       2360
+3010 +     0720   0729      0747  G15  5   XRA  1-8A      M1.3    1.7E-02   2360
+3010       0723   0723      0724  SVI  G   RBR  4995      100               2360
+3010       0723   0723      0724  SVI  G   RBR  8800      84                2360
+
+3020 +     0938   0945      0949  G15  5   XRA  1-8A      C5.8    2.3E-03   2360
+3020       0941   0943      0954  SVI  3   FLA  N11W77    SF      DSD       2360
+
+3030       1018   1019      1022  SVI  3   FLA  S19E57    SF                2367
+
+3040 +     1024   1029      1034  G15  5   XRA  1-8A      C2.4    1.0E-03   2360
+3040       1028   1030      1032  SVI  3   FLA  N11W77    SF                2360
+
+3050       1124   1125      1127  SVI  3   FLA  N13W77    SF      ERU       2360
+
+3060 +     1157   1201      1206  G15  5   XRA  1-8A      C1.3    5.0E-04   2360
+3060       1159   1200      1208  SVI  3   FLA  N10W78    SF      ERU       2360
+
+3070 +     1231   1250      1310  G15  5   XRA  1-8A      C2.2    4.3E-03   2360
+3070 +     1235   1239      1241  SVI  3   FLA  N11W80    SF                2360
+
+3080 +     1425   1437      1445  G15  5   XRA  1-8A      C4.9    3.8E-03   2360
+3080 +     1432   1432      1439  SVI  3   FLA  N11W80    SF                2360
+
+3090 +     1727   1731      1739  G15  5   XRA  1-8A      C1.3    7.3E-04   2360
+
+3100 +     1913   1927      1938  G15  5   XRA  1-8A      C2.6    3.0E-03   2360
+3100       1929   1929      1931  HOL  3   FLA  N14W84    SF      ERU       2360
+
+3110       2031   ////      2031  PAL  C   RSP  025-077   III/1                 
+
+3120 +     2112   2125      2132  G15  5   XRA  1-8A      C2.5    2.3E-03   2360
+3120       2118   2120      2130  HOL  2   FLA  N14W84    SF      ERU       2360
+
+3130 +     2309   2314      2321  G15  5   XRA  1-8A      C2.2    1.2E-03   2360
+
+3240      A2339   ////     A1233  HOL  4   DSF  N31E42    47                    

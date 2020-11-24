@@ -1,0 +1,56 @@
+:Product: 20150626events.txt
+:Created: 2015 Jun 29 0357 UT
+:Date: 2015 06 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jun 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7190       0019   ////      0019  LEA  U   RSP  025-080   III/1                 
+
+7200       0034   0034      0034  LEA  U   RBR  245       210                   
+
+7210       0432   0436      0439  G15  5   XRA  1-8A      B6.1    1.7E-04   2371
+
+7220 +     0511   0514      0520  G15  5   XRA  1-8A      B7.9    2.8E-04   2371
+
+7230       0513   0527      0537  LEA  3   FLA  N10W53    SF      DSD       2371
+7230 +     0523   0527      0529  G15  5   XRA  1-8A      C1.5    3.0E-04   2371
+
+7240       0542   0606      0659  LEA  3   FLA  N10W53    SF      DSD       2371
+7240 +     0543   0547      0555  G15  5   XRA  1-8A      B7.4    3.9E-04   2371
+
+7250       0549   0605      0628  SVI  3   FLA  N09W55    SF      ERU       2371
+7250       0601   0606      0608  G15  5   XRA  1-8A      C1.7    3.3E-04   2371
+
+7260       0617   0620      0622  G13  5   XRA  1-8A      B8.7    1.4E-04       
+
+7270      B0636  U0642      0651  SVI  3   FLA  N09W55    SF      ERU       2371
+7270 +     0638   0642      0645  G15  5   XRA  1-8A      C1.2    2.8E-04   2371
+
+7280       0835   0836      0839  LEA  3   FLA  N10W55    SF                2371
+
+7300       0842   0849      0915  LEA  3   FLA  N10W55    SF      DSD       2371
+
+7290 +     0842   0845      0847  G15  5   XRA  1-8A      B5.9    9.8E-05   2371
+7290       0844   0849      0914  SVI  3   FLA  N09W56    SF      ERU       2371
+
+7300 +     0858   0903      0905  G15  5   XRA  1-8A      B8.6    2.2E-04   2371
+
+7310       1247   1255      1307  HOL  3   FLA  N09W45    SF      ERU       2371
+
+7320       1321   1322      1328  HOL  3   FLA  N14W57    SF      ERU       2371
+
+7330 +     1559   1604      1608  G15  5   XRA  1-8A      B7.9    3.0E-04   2371
+7330       1601   1606      1611  HOL  3   FLA  N13W57    SF      DSD       2371
+
+7340 +     2007   2010      2013  G15  5   XRA  1-8A      B6.1    1.3E-04   2371
+
+7350       2032   2035      2038  G15  5   XRA  1-8A      B5.3    1.2E-04   2371
+
+7360 +     2039   2039      2039  PAL  G   RBR  245       120                   

@@ -1,0 +1,16 @@
+:Product: 20150715events.txt
+:Created: 2015 Jul 18 0357 UT
+:Date: 2015 07 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jul 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1320       1141   ////      1141  SAG  C   RSP  025-146   III/1                 
+
+1330       2000   2000      2000  PAL  G   RBR  245       150                   

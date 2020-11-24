@@ -1,0 +1,55 @@
+:Product: 20150623events.txt
+:Created: 2015 Jun 26 0357 UT
+:Date: 2015 06 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jun 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6280 +     0048   0049      0051  LEA  G   RBR  245       2900                  
+6280       0050   ////      0050  CUL  C   RSP  200-300   III/1                 
+
+6290       0052   0052      0052  PAL  G   RBR  245       100                   
+
+6300 +     0316   0330      0342  G15  5   XRA  1-8A      C1.3    1.7E-03   2371
+6300       0318   0318      0332  LEA  3   FLA  N14W10    SF      ERU       2371
+6300       0331   ////      1812  SVI  C   RSP  025-172   IV/2              2371
+
+6310 +     0453   0454      0454  LEA  G   RBR  245       600                   
+
+6320       0607   0607      0607  SVI  U   RBR  410       140                   
+
+6340       0758   0759      0812  LEA  3   FLA  N15W10    SF      DSD       2371
+
+6350 +     0850   0850      0850  SVI  G   RBR  245       670                   
+
+6360       0918   ////      1223  SAG  C   RSP  025-180   IV/1                  
+
+6370 +     1209   1219      1238  G15  5   XRA  1-8A      C1.9    2.5E-03   2371
+6370       1211   1215      1242  SVI  3   FLA  N13W19    SF      ERU       2371
+
+6440 +     1321   1404      1411  SAG  G   RNS  245       670                   
+
+6380       1421   ////      1506  SVI  C   RSP  025-049   VI/2                  
+
+6390 +     1515   1519      1523  G15  5   XRA  1-8A      B8.2    2.7E-04   2371
+6390 +     1518   1518      1525  HOL  3   FLA  N10W19    SF                2371
+
+6450       1604   ////      2359  PAL  C   RSP  025-180   IV/1                  
+
+6400       1716   1719      1735  SVI  3   FLA  N13W20    SF      ERU       2371
+
+6720      A1742   ////     A0540  SVI  3   DSF  S27E21    10                    
+
+6410       1759   1759      1759  SAG  G   RBR  245       100                   
+
+6420       1825   1825      1826  SAG  G   RBR  245       220                   
+
+6430       1848   1848      1848  SAG  G   RBR  245       100                   
+
+6460       2307   ////      2307  CUL  C   RSP  130-300   III/1                 

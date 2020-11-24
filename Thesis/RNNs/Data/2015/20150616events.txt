@@ -1,0 +1,82 @@
+:Product: 20150616events.txt
+:Created: 2015 Jun 19 0357 UT
+:Date: 2015 06 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jun 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3610       0232   0327      0331  G15  5   XRA  1-8A      C2.2    6.5E-03   2360
+
+3620       0332   0342      0350  G15  5   XRA  1-8A      C2.4    2.7E-03   2360
+
+3630       0358   0406      0412  G15  5   XRA  1-8A      C2.7    2.3E-03   2371
+
+3640      B0452  U0649      0656  SVI  3   FLA  N15E79    SF      DSD       2371
+3640 +     0537   ////      0537  CUL  C   RSP  070-150   III/1                 
+
+3650       1000   1003      1006  SVI  3   FLA  N16E81    SF      ERU       2371
+
+3670       1106   ////      1138  SAG  C   RSP  034-075   VI/1                  
+
+3660       1109   1112      1114  SVI  3   FLA  N14E78    SF      ERU       2371
+
+3680       1226   1239      1249  HOL  2   FLA  N13E78    SF                2371
+
+3690 +     1302   1303      1307  SVI  3   FLA  N16E80    SF                2371
+
+3700       1326   1333      1337  SVI  3   FLA  N16E80    SF                2371
+
+3710 +     1549   1551      1553  HOL  4   FLA  N13E75    SF      DSD       2371
+3710       1620   ////      2331  SAG  C   RSP  102-180   CTM/1             2371
+
+3720       1633   1633      1637  SVI  3   FLA  N14E75    SF                2371
+
+3890       1634   2236      2308  PAL  G   RNS  245       240                   
+
+3730       1706   1707      1711  HOL  3   FLA  N13E73    SF                2371
+
+3740       1808   1808      1808  PAL  G   RBR  245       230                   
+
+3750       1813   1816      1842  HOL  3   FLA  N13E73    SF      ERU       2371
+3750       1836   ////      1836  SAG  C   RSP  025-041   III/1             2371
+
+3760       1849   1852      1855  HOL  3   FLA  N13E73    SF                2371
+3760       1852   1854      1854  PAL  G   RBR  245       300               2371
+
+3770       1919   1919      1923  HOL  3   FLA  N12E71    SF                2371
+
+3780       1927   1930      1936  HOL  3   FLA  N12E72    SF                2371
+3780       1934   1934      1934  PAL  G   RBR  245       270               2371
+
+3840       1935   ////      2252  PAL  C   RSP  129-180   CTM/1                 
+
+3780       1936   1949      2003  G15  5   XRA  1-8A      C1.3    2.1E-03   2371
+
+3790 +     2011   2016      2021  G15  5   XRA  1-8A      C1.9    8.4E-04   2371
+3790       2014   2015      2015  PAL  G   RBR  245       220                   
+
+3830       2024   2032      2048  G15  5   XRA  1-8A      C1.7    2.7E-03   2371
+
+3800       2024   2024      2024  PAL  G   RBR  245       330                   
+
+3810       2026   ////      2028  PAL  U   RSP  025-180   III/1                 
+
+3820       2051   ////      2053  PAL  C   RSP  025-036   III/1                 
+
+3920       2057   2117      2127  G15  5   XRA  1-8A      C2.2    3.9E-03   2371
+
+3850       2122   ////      2124  CUL  C   RSP  140-320   III/1                 
+
+3860       2159   ////      2159  CUL  C   RSP  140-250   III/1                 
+
+3870       2251   ////      2251  CUL  C   RSP  020-030   III/1                 
+
+3900       2331   0001      0023  G15  5   XRA  1-8A      C3.2    8.9E-03   2371
+
+3880       2335   ////      2335  CUL  C   RSP  023-040   III/1                 

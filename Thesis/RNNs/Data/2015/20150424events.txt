@@ -1,0 +1,68 @@
+:Product: 20150424events.txt
+:Created: 2015 Apr 27 0357 UT
+:Date: 2015 04 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Apr 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4300       0102   0109      0122  LEA  3   FLA  N20W81    SF                2326
+
+4310 +     0135   0138      0144  G15  5   XRA  1-8A      C1.2    4.9E-04   2326
+4310       0136   0144      0151  LEA  3   FLA  N19W85    SF                2326
+
+4320       0207   0208      0210  LEA  3   FLA  N19W85    SF                2326
+
+4330 +     0239   0251      0301  G15  5   XRA  1-8A      C1.4    1.6E-03   2326
+4330       0254   0257      0300  LEA  3   FLA  N19W85    SF                2326
+
+4340       0409   0410      0412  LEA  3   FLA  N19W87    SF                2326
+
+4360       0501   0528      0541  G15  5   XRA  1-8A      C1.4    3.2E-03       
+
+4370       0510   ////      0555  LEA  3   DSF  N22E51    8                 2333
+
+4350       0545  U0546      0556  SVI  3   FLA  S12W23    SF                2331
+
+4380 +    B0557  U0643      0714  SVI  3   FLA  S11W25    SF      DSD       2331
+4380 +     0630   0630      0630  LEA  G   RBR  245       100               2331
+
+4390      B0733  U0743     A0746  SVI  3   FLA  S11W25    SF      DSD       2331
+
+4400      B0748  U0759     A0827  SVI  3   FLA  S11W25    SF      DSD       2331
+
+4410 +     0839   0843      0847  G15  5   XRA  1-8A      C2.1    6.3E-04   2326
+
+4420       0851   ////      0930  LEA  C   RSP  117-180   CTM/1             2333
+4420       0928   0933      0934  LEA  3   FLA  N21E49    SF      DSD       2333
+
+4560      A0932   ////     A0100  LEA  3   DSF  N32W30    23                    
+
+4430       0940   ////      1004  SVI  C   RSP  115-180   CTM/1                 
+
+4440 +     1356   1424      1528  HOL  3   FLA  S11W27    SF      DSD       2331
+
+4610      A1554   ////     A0601  SVI  3   DSF  S29E33    14                    
+
+4460 +     1802   1811      1835  G15  5   XRA  1-8A      C1.0    1.7E-03   2331
+4460       1804   1805      1811  HOL  3   FLA  S10W29    SF                2331
+
+4470 +     1905   1927      1940  G15  5   XRA  1-8A      C1.7    2.7E-03   2324
+4470       1907   1925      1948  HOL  2   FLA  N20W68    SF      ERU       2324
+
+4480       2004   2023      2037  G15  5   XRA  1-8A      C1.6    2.6E-03       
+4480       2015   2021      2033  HOL  2   FLA  N08E27    SF      ERU           
+
+4490 +     2104   ////      2106  PAL  C   RSP  025-063   III/1                 
+
+4500       2125   2145      2205  G15  5   XRA  1-8A      C1.5    3.1E-03       
+
+4510 +     2252   2259      2304  G15  5   XRA  1-8A      C1.3    7.5E-04   2331
+4510       2303   ////      2303  PAL  C   RSP  025-044   III/1                 
+
+4520 +     2328   2331      2338  G15  5   XRA  1-8A      C1.2    5.3E-04   2326

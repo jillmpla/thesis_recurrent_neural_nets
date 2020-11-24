@@ -1,0 +1,32 @@
+:Product: 20150717events.txt
+:Created: 2015 Jul 20 0357 UT
+:Date: 2015 07 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jul 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1410       0142   ////      0142  LEA  U   RSP  028-074   III/1                 
+
+1420       0450   0450      0503  SVI  3   FLA  S18W38    SF      ERU       2384
+
+1440 +     0831   ////      0832  SVI  C   RSP  025-080   III/2                 
+
+1450 +     1036   ////      1040  SAG  C   RSP  025-082   III/1                 
+
+1460 +     1426   ////      1426  SVI  C   RSP  025-055   III/1                 
+
+1470 +     1453   ////      1453  SAG  C   RSP  106-180   III/1                 
+1470 +     1453   1453      1453  SAG  G   RBR  245       110                   
+
+1480 +     1553   1559      1605  G15  5   XRA  1-8A      B5.1    2.6E-04   2387
+1480       1555   1558      1615  SVI  3   FLA  N19E54    SF                2387
+
+1490 +     2108   ////      2111  PAL  C   RSP  025-180   V/2                   
+
+1500       2318   ////      2326  PAL  C   RSP  025-173   III/1                 

@@ -1,0 +1,68 @@
+:Product: 20150711events.txt
+:Created: 2015 Jul 14 0357 UT
+:Date: 2015 07 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jul 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 490 +     0000   ////      0444  PAL  C   RSP  025-180   VI/1                  
+ 490 +     0000   ////      0937  LEA  C   RSP  084-180   CTM/1                 
+
+ 500       0210   ////      0211  LEA  C   RSP  038-172   III/1                 
+ 500       0210   0211      0211  LEA  G   RBR  245       470                   
+
+ 510       0335   ////      0336  LEA  C   RSP  025-170   III/1                 
+
+ 600       0406   ////      1450  SVI  C   RSP  074-169   CTM/1                 
+
+ 520 +     0424   ////      0428  LEA  C   RSP  025-180   III/1                 
+ 520       0427   0428      0428  LEA  G   RBR  245       210                   
+
+ 540       0511   0513      0516  LEA  3   FLA  N06W59    SF      DSD       2385
+
+ 550       0606   0606      0606  LEA  G   RBR  245       170                   
+
+ 590       0627   ////      0950  SVI  C   RSP  026-079   VI/1                  
+
+ 560       0643   0643      0643  LEA  G   RBR  245       130                   
+
+ 570       0702   0702      0703  LEA  G   RBR  245       150                   
+
+ 580       0721   0721      0721  LEA  G   RBR  245       200                   
+
+ 610       1118   ////      1328  SAG  C   RSP  103-180   CTM/1                 
+ 610 +     1202   1202      1202  SAG  G   RBR  410       140                   
+ 610 +     1203   ////      2221  SAG  C   RSP  025-180   VI/2                  
+
+ 620      B1305   1344      1350  HOL  3   FLA  N08W51    SF      ERU       2385
+
+ 630       1354   1400      1421  HOL  3   FLA  N08W51    SF      ERU       2385
+ 630       1400   1400      1400  SAG  G   RBR  245       140               2385
+
+ 640 +     1430   1432      1441  HOL  3   FLA  N08W62    SF      ERU       2385
+
+ 650       1440   1440      1440  SAG  G   RBR  245       110                   
+
+ 660 +     1444   1444      1444  SAG  G   RBR  245       180                   
+
+ 670 +     1554   1609      1631  HOL  3   FLA  N08W62    SF      ERU       2385
+ 670 +     1606   ////      1844  SAG  C   RSP  103-180   CTM/1             2385
+ 670       1618   ////      1618  SVI  C   RSP  027-078   III/1             2385
+
+ 680 +     1827   1836      1841  G15  5   XRA  1-8A      C1.0    6.8E-04   2385
+ 680 +     1829   1832      1843  HOL  3   FLA  N08W63    SF      ERU       2385
+
+ 700       1941   ////      2321  PAL  C   RSP  025-059   VI/1                  
+ 700       2028   ////      2359  PAL  C   RSP  103-180   CTM/1                 
+
+ 690       2032   2034      2036  HOL  3   FLA  N08W65    SF                2385
+
+ 710       2311   2317      2325  G15  5   XRA  1-8A      B9.2    5.7E-04   2385
+ 710       2312   2316      2329  HOL  3   FLA  N08W67    SF      ERU       2385
+ 710       2321   ////      2359  LEA  C   RSP  080-180   CTM/1             2385

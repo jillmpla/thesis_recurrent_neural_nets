@@ -1,0 +1,23 @@
+:Product: 20150429events.txt
+:Created: 2015 May 02 0357 UT
+:Date: 2015 04 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Apr 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5000       0244   0244      0244  LEA  G   RBR  245       110                   
+
+5010       0256   0258      0258  LEA  G   RBR  245       200                   
+5010       0256   ////      0256  LEA  C   RSP  099-180   III/1                 
+
+5020       0723   ////      0724  SVI  C   RSP  025-058   III/1                 
+
+5030 +     1620   1634      1652  G15  5   XRA  1-8A      C1.0    1.6E-03   2327
+
+5050 +     2022   2028      2032  G15  5   XRA  1-8A      B7.0    3.0E-04       

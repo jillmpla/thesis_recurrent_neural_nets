@@ -1,0 +1,55 @@
+:Product: 20150420events.txt
+:Created: 2015 Apr 23 0357 UT
+:Date: 2015 04 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Apr 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3000       0033   0052      0105  G15  5   XRA  1-8A      C1.0    1.8E-03       
+
+2990 +     0053   ////      0053  PAL  C   RSP  042-180   III/1                 
+
+3010       0351   0400      0522  LEA  3   FLA  N11W59    1F      DSD       2322
+
+3020       0526   0550      0646  LEA  3   FLA  N11W60    SF      DSD       2322
+3020       0626   ////      0626  SVI  C   RSP  025-043   III/1             2322
+
+3030       0643   0644      0647  LEA  3   FLA  N22W06    SF      ERU       2324
+
+3040       0652   0657      0707  LEA  3   FLA  N10W61    SF                2322
+
+3210      A0804   ////     A0048  LEA  3   DSF  S32E44    12                    
+
+3060       1140  U1141      1145  SVI  3   FLA  N20W09    SF                2324
+
+3070       1303   1310      1349  HOL  2   FLA  N14W70    SF      DSD       2322
+
+3080 +     1408   1429      1524  SVI  3   FLA  N09W71    SF      DSD       2322
+
+3090       1528  U1541      1548  SVI  3   FLA  N09W71    SF      DSD       2322
+
+3100 +     1627   1639      1642  HOL  3   FLA  N12W69    SF      DSD       2322
+
+3110       1907   ////      1909  SAG  C   RSP  025-086   III/1                 
+
+3130 +     1947   ////      2230  PAL  C   RSP  025-180   VI/2                  
+
+3120 +     1951   1954      1958  G15  5   XRA  1-8A      C1.2    3.2E-04       
+
+3130       2040   2116      2215  G15  5   XRA  1-8A      C2.4    8.3E-03   2321
+
+3140       2111   2111      2121  HOL  3   FLA  N09W44    SF      ERU       2321
+
+3150 +     2149   ////      2150  CUL  C   RSP  020-180   III/2                 
+
+3160       2207   ////      2208  CUL  C   RSP  020-180   III/3                 
+
+3170       2211   ////      2211  CUL  C   RSP  050-180   III/2                 
+
+3180 +     2304   ////      2359  PAL  C   RSP  025-150   VI/1                  

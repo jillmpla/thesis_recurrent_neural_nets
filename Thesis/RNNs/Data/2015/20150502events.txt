@@ -1,0 +1,50 @@
+:Product: 20150502events.txt
+:Created: 2015 May 05 0357 UT
+:Date: 2015 05 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 May 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5180 +     0104   0107      0110  G15  5   XRA  1-8A      B5.7    1.2E-04       
+
+5190       0128   0131      0144  LEA  3   FLA  S17E64    SF      DSD       2335
+
+5200       0153   0153      0210  LEA  3   FLA  S16E65    SF      DSD       2335
+5200 +     0155   0202      0208  G15  5   XRA  1-8A      B7.2    4.2E-04   2335
+
+5210 +     0405   ////      0406  SVI  C   RSP  025-064   III/2                 
+
+5220       0441   ////      0442  LEA  C   RSP  075-096   III/1                 
+
+5230 +     0729   0734      0740  G15  5   XRA  1-8A      B6.4    2.8E-04   2335
+
+5240 +     0740   ////      0800  SVI  C   RSP  025-080   VI/1                  
+
+5250 +     1501   ////      1809  HOL  3   DSF  S42E02    18                    
+
+5260       1636   1649      1700  G15  5   XRA  1-8A      B5.6    7.2E-04   2335
+
+5410      A1659   ////     A0615  SVI  3   DSF  S43E09    13                    
+
+5270       1844   1850      1852  HOL  3   FLA  S16E56    SF                2335
+
+5280 +     1938   ////      1938  SAG  C   RSP  025-082   III/1                 
+
+5290       2200   2209      2242  HOL  3   FLA  S16E54    SF                2335
+5290 +     2201   2208      2212  G15  5   XRA  1-8A      B8.8    4.4E-04   2335
+5290       2204   ////      2205  SAG  C   RSP  105-180   III/1             2335
+5290 +     2207   2207      2207  SAG  G   RBR  410       150               2335
+5290 +     2207   2207      2207  PAL  G   RBR  245       160               2335
+5290       2208   ////      2240  PAL  C   RSP  025-180   VI/1              2335
+
+5300       2233   ////      2234  SAG  C   RSP  025-055   III/1                 
+
+5310 +     2243   2247      2308  HOL  3   FLA  S16E52    SF                2335
+
+5320       2327   2335      2348  HOL  3   FLA  S16E52    SF                2335

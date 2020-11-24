@@ -1,0 +1,49 @@
+:Product: 20150516events.txt
+:Created: 2015 May 19 0357 UT
+:Date: 2015 05 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 May 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9960       0012   0014      0020  LEA  3   FLA  N12W56    SF                2339
+
+9970 +     0201   ////      0204  PAL  C   RSP  025-180   III/2                 
+
+9990 +     0318   ////      0318  PAL  C   RSP  025-180   III/1                 
+9990       0318   0318      0319  LEA  G   RBR  245       130                   
+
+  10       0426   0426      0426  LEA  G   RBR  245       100                   
+
+  20 +     0437   ////      0438  LEA  C   RSP  082-180   III/1                 
+  20 +     0437   0438      0438  LEA  G   RBR  245       270                   
+
+  30 +     0458   0458      0458  LEA  G   RBR  245       110                   
+  30 +     0458   ////      0458  LEA  C   RSP  080-166   III/1                 
+
+  40 +     0519   ////      0520  SVI  C   RSP  025-114   III/1                 
+
+  50 +     0711   ////      0714  SVI  C   RSP  037-171   III/2                 
+  50 +     0712   0713      0713  LEA  G   RBR  245       220                   
+
+  60 +     0721   0721      0721  LEA  G   RBR  245       230                   
+  60       0721   ////      0721  LEA  C   RSP  075-084   III/1                 
+
+  70       1116   1116      1116  SAG  G   RBR  245       100                   
+
+  80 +     1118   ////      1118  SVI  C   RSP  025-080   III/1                 
+
+  90       1127   ////      1128  SVI  C   RSP  035-060   III/1                 
+
+ 100       1214   1214      1214  SAG  G   RBR  245       100                   
+
+ 110       1415   1416      1418  SVI  3   FLA  N05W64    SF                2339
+
+ 150       1649   1700      1709  G15  5   XRA  1-8A      B8.6    9.0E-04   2339
+
+ 130       1749   1749      1749  PAL  U   RBR  410       120                   

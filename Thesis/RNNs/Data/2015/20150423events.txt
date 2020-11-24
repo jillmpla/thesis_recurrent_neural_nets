@@ -1,0 +1,95 @@
+:Product: 20150423events.txt
+:Created: 2015 Apr 26 0357 UT
+:Date: 2015 04 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Apr 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3940       0000   ////      0010  LEA  2   FLA  N15W59    SF      DSD       2326
+
+3900 +     0023   ////      0024  PAL  C   RSP  025-166   III/2                 
+
+3920       0043   0058      0100  HOL  3   FLA  N20W67    SF                2326
+
+3950 +     0113   ////      0113  PAL  C   RSP  035-166   III/1                 
+
+3930 +     0114   0118      0120  G15  5   XRA  1-8A      C1.7    3.7E-04   2321
+
+3960       0139   0140      0143  LEA  3   FLA  N07E53    SF      DSD           
+
+3990       0139   0140      0148  LEA  3   FLA  S10E07    SF      PRB       2327
+
+4220 +     0140   ////      0140  CUL  C   RSP  035-150   III/1                 
+
+3970 +     0205   0209      0220  G15  5   XRA  1-8A      C2.2    1.6E-03   2326
+
+3980       0207   0207      0213  LEA  3   FLA  N21E70    SF      DSD       2333
+
+4010       0233   ////      0233  CUL  C   RSP  020-060   III/1                 
+
+4020       0248   0255      0305  LEA  3   FLA  N20W66    SF      BPT       2326
+4020 +     0258   ////      0259  LEA  C   RSP  075-154   III/1             2326
+
+4030 +     0325   0329      0331  G15  5   XRA  1-8A      C1.5    3.4E-04   2326
+
+4040       0333   ////      0333  CUL  C   RSP  100-180   III/1                 
+
+4050       0401   ////      0622  LEA  C   RSP  075-132   VI/1                  
+4050 +     0426   ////      0426  CUL  C   RSP  023-160   III/1                 
+
+4060 +     0506   0518      0523  G15  5   XRA  1-8A      C1.6    1.4E-03   2324
+4060 +     0507   0508      0539  LEA  3   FLA  N20W46    SF      ERU       2324
+
+4180       0509   0510      0516  LEA  3   FLA  N19E65    SF      ERU       2333
+
+4070       0524   ////      0524  SVI  C   RSP  025-146   III/2                 
+
+4080       0541   0544      0546  LEA  3   FLA  N19W67    SF      DSD       2326
+
+4090       0547   0555      0604  LEA  3   FLA  N19W67    SF      BPT       2326
+
+4100       0620   ////      0622  SVI  C   RSP  025-180   V/2                   
+
+4110 +     0627   0632      0637  G15  5   XRA  1-8A      C1.5    6.6E-04   2326
+4110       0629   0630      0638  LEA  3   FLA  N19W67    SF      BPT       2326
+
+4120 +     0731   0743      0752  G15  5   XRA  1-8A      C1.4    1.6E-03   2326
+4120       0733   0735      0755  LEA  3   FLA  N19W67    SF      DSD       2326
+
+4130       0754   ////      0755  SVI  C   RSP  025-070   III/1                 
+
+4140       0758   0804      0826  LEA  3   FLA  N19W68    SF      DSD       2326
+4140 +     0820   ////      0834  SVI  C   RSP  025-131   VI/2              2326
+
+4150       0846   0846      0851  LEA  3   FLA  N21E63    SF      DSD       2333
+
+4160       0852   0858      0906  LEA  3   FLA  N20W70    SF      DSD       2326
+
+4190 +     0918   1007      1110  G15  5   XRA  1-8A      M1.1    5.7E-02   2322
+4190       0922   ////      0935  SVI  C   RSP  025-078   II/1    664           
+
+4200       1046   ////      1047  SVI  C   RSP  025-040   III/1                 
+
+4210 +     1158   1203      1208  G15  5   XRA  1-8A      C7.3    3.1E-03   2326
+
+4230 +     1257   ////      1306  SVI  C   RSP  025-058   III/2                 
+
+4250       1456   1520      1529  G15  5   XRA  1-8A      C3.1    4.3E-03   2325
+
+4240 +     1513   ////      1513  SVI  C   RSP  025-079   III/1                 
+
+4250 +    B1516  U1522      1531  SVI  3   FLA  S02W39    SF      ERU       2325
+
+4260 +     1722   1722      1722  SAG  G   RBR  245       110                   
+
+4270 +     1742   1746      1748  G15  5   XRA  1-8A      C2.6    5.8E-04   2326
+
+4280       1956   1959      2005  G13  5   XRA  1-8A      C3.0    1.1E-03   2333
+
+4290 +     2310   2318      2326  LEA  3   FLA  N20W53    SF                2324

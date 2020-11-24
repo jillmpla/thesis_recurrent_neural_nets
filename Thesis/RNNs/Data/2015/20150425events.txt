@@ -1,0 +1,54 @@
+:Product: 20150425events.txt
+:Created: 2015 Apr 28 0357 UT
+:Date: 2015 04 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Apr 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4570 +    A0006   ////     A1307  HOL  3   DSF  S26E23    14                    
+
+4530       0017   0020      0020  LEA  U   RBR  245       240                   
+
+4540      B0203   0212      0224  LEA  1   FLA  S10W35    SF                2331
+
+4550      B0230   0301      0321  LEA  2   FLA  S10W35    SF      ERU       2331
+
+4620       0359   ////      0557  LEA  3   DSF  S20W32    12                2331
+
+4580       0605   ////      0606  SVI  C   RSP  025-080   III/1                 
+
+4590 +     0622   0624      0628  LEA  3   FLA  S10W36    SF      ERU       2331
+
+4600       0651   0659      0710  LEA  2   FLA  S09W37    SF      DSD       2331
+
+4700       0706   0707      0718  LEA  3   FLA  N22E34    SF      ERU       2333
+
+4630       1057   ////      1103  SVI  C   RSP  027-080   III/1                 
+
+4640 +     1136   ////      1136  SAG  C   RSP  033-098   III/1                 
+
+4650 +     1232   1235      1237  G15  5   XRA  1-8A      B8.4    1.3E-04   2324
+
+4660 +     1407   ////      1408  SAG  C   RSP  025-057   III/1                 
+
+4670       1441   1441      1441  SVI  G   RBR  245       110                   
+
+4680 +     1645   ////      1646  SVI  C   RSP  030-079   III/1                 
+
+4710 +     1803   1849      1930  G15  5   XRA  1-8A      C1.9    8.6E-03       
+
+4690       1807   ////      1833  HOL  4   BSL  ////      0.41                  
+
+4710       1842   ////      1843  PAL  C   RSP  025-059   III/1                 
+
+4720 +     2005   ////      2009  PAL  C   RSP  025-078   III/1                 
+
+4730 +     2145   ////      2145  SAG  C   RSP  025-055   III/1                 
+
+4740 +     2320   ////      2355  LEA  C   RSP  100-180   CTM/1                 

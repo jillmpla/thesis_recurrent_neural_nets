@@ -1,0 +1,78 @@
+:Product: 20150510events.txt
+:Created: 2015 May 13 0357 UT
+:Date: 2015 05 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 May 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7770 +     0000   ////      0450  PAL  C   RSP  025-180   CTM/1                 
+
+7780       0313   0328      0354  LEA  3   FLA  N14E22    SF                2339
+7780       0321   0329      0332  G15  5   XRA  1-8A      C1.1    7.1E-04   2339
+
+7820       0408   ////      1055  SVI  C   RSP  075-170   CTM/1                 
+7820       0438   ////      1055  SVI  C   RSP  027-080   VI/1                  
+
+7790 +     0505   0526      0544  LEA  3   FLA  N14E23    SF                2339
+
+7800       0800   0829      0900  G15  5   XRA  1-8A      C1.9    5.3E-03   2339
+7800 +     0820   0820      0849  SVI  3   FLA  N14E19    SF      ERU       2339
+
+7810       0901   0901      0908  SVI  3   FLA  N14E17    SF      ERU       2339
+
+8080 +    A0926   ////     A2318  LEA  2   DSF  S49E01    14                    
+
+7970       0943   ////      2341  SAG  C   RSP  102-180   CTM/1                 
+
+7830       1025   1025      1030  SVI  3   FLA  N14E17    SF                2339
+
+7840       1105   ////      1105  SAG  C   RSP  025-108   III/1                 
+
+7850 +     1245   1303      1323  G15  5   XRA  1-8A      C2.2    4.2E-03   2339
+7850 +     1246   1252      1335  SVI  3   FLA  N12E15    SF      ERU       2339
+
+7860       1335   ////      1630  SVI  C   RSP  027-080   VI/1                  
+7860       1335   ////      1742  SVI  C   RSP  075-172   CTM/1                 
+
+7870       1456   1456      1501  SVI  3   FLA  N14E17    SF                2339
+
+7880       1557   ////      1700  SAG  C   RSP  025-069   VI/1              2339
+7880       1609   ////      2359  PAL  C   RSP  025-180   CTM/1             2339
+7880 +     1638   1642      1646  SVI  3   FLA  N15E15    SF                2339
+
+7890 +     1704   1711      1719  G15  5   XRA  1-8A      C2.4    1.6E-03   2339
+7890 +     1706   1707      1735  HOL  2   FLA  N14E14    SF      ERU       2339
+
+7900       1806   1806      1806  SAG  G   RBR  245       220                   
+
+7910       1857   1858      1858  SAG  G   RBR  245       160                   
+
+7920       2018   2018      2018  SAG  G   RBR  245       130                   
+
+7960       2038   2057      2057  SAG  G   RNS  245       300                   
+
+7930 +     2048   ////      2058  PAL  C   RSP  025-180   III/2                 
+
+7940 +     2135   2155      2203  G15  5   XRA  1-8A      C2.4    3.0E-03   2339
+7940 +     2154   2156      2201  HOL  3   FLA  N12E09    SF                2339
+7940       2201   2201      2201  SAG  G   RBR  245       110               2339
+
+7950       2205   2205      2205  SAG  G   RBR  245       130                   
+
+7980       2303   ////      2359  LEA  C   RSP  075-180   CTM/1             2344
+7980 +     2314   ////      2320  PAL  C   RSP  025-180   III/2             2344
+7980       2317   2318      2320  HOL  3   FLA  S09E71    SF                2344
+7980 +     2320   2323      2325  G15  5   XRA  1-8A      C1.7    2.8E-04   2344
+
+7990       2320   ////      2325  PAL  C   RSP  025-180   III/3                 
+
+7980       2322   2322      2323  LEA  G   RBR  245       340               2344
+
+8000 +     2337   2343      2351  G15  5   XRA  1-8A      C2.1    1.5E-03   2339
+8000       2340   ////      2351  LEA  C   RSP  075-180   VI/1                  

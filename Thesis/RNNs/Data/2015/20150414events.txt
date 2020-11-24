@@ -1,0 +1,26 @@
+:Product: 20150414events.txt
+:Created: 2015 Apr 17 0357 UT
+:Date: 2015 04 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Apr 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2210       0024   ////      0025  LEA  C   RSP  075-088   III/1                 
+
+2220       0208   ////      0310  PAL  C   RSP  025-079   VI/1                  
+
+2230 +     0914   ////      0915  SVI  C   RSP  025-135   III/1                 
+
+2240       1501   ////      1533  HOL  3   EPL  ////      0.22                  
+
+2250       2154   2154      2154  PAL  G   RBR  245       110                   
+
+2260       2235   2235      2246  HOL  3   FLA  N11E41    SF      ERU       2321
+
+2270       2301   ////      2359  LEA  C   RSP  085-176   CTM/1                 

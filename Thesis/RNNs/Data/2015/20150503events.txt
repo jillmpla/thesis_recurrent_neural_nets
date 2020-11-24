@@ -1,0 +1,64 @@
+:Product: 20150503events.txt
+:Created: 2015 May 06 0357 UT
+:Date: 2015 05 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 May 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5330 +     0053   0058      0110  G15  5   XRA  1-8A      C1.0    8.5E-04   2335
+5330 +     0054   0057      0106  LEA  3   FLA  S16E53    SF      ERU       2335
+
+5340       0218   0228      0235  G15  5   XRA  1-8A      C1.2    1.1E-03   2335
+
+5350       0407   0419      0438  G15  5   XRA  1-8A      B9.8    1.6E-03   2335
+
+5360 +     0447   ////      0448  SVI  C   RSP  025-081   III/1                 
+
+5370 +     0556   0605      0613  G15  5   XRA  1-8A      C1.8    1.5E-03   2335
+5370 +     0557   0602      0618  LEA  3   FLA  S15E51    SF                2335
+
+5380 +     0615   ////      0616  SVI  C   RSP  025-080   III/1                 
+
+5390      B0723  U0728     A0743  SVI  3   FLA  S14E49    SF                2335
+
+5420      B0749  U0933     A0956  SVI  3   FLA  S14E49    SF                2335
+
+5450       0846   0904      0925  G15  5   XRA  1-8A      C1.4    3.0E-03       
+
+5400       0901   ////      0901  SVI  C   RSP  025-040   III/1                 
+
+5440       0928   0934      0944  G15  5   XRA  1-8A      C1.8    1.6E-03   2335
+
+5430      B1022  U1022     A1031  SVI  3   FLA  S15E48    SF                2335
+
+5460       1048   1051      1053  SVI  3   FLA  S14E48    SF                2335
+
+5470       1107   1107      1113  SVI  3   FLA  S15E48    SF                2335
+
+5480       1120   1124      1125  SVI  3   FLA  S15E48    SF                2335
+
+5490       1144   1145      1148  SVI  3   FLA  S15E47    SF                2335
+
+5500       1215   1216      1219  SVI  3   FLA  S14E46    SF                2335
+
+5510 +     1248   ////      1249  SVI  C   RSP  025-080   III/1                 
+
+5520 +     1343   ////      1344  SVI  C   RSP  025-079   III/1                 
+
+5530 +     1413   1416      1418  G15  5   XRA  1-8A      B7.5    1.3E-04   2335
+
+5540       1644   ////      1645  SVI  C   RSP  037-080   III/1                 
+
+5550       1847   1847      1850  HOL  3   FLA  S17E41    SF      DSD       2335
+
+5560       2005   ////      2005  SAG  C   RSP  041-129   III/1                 
+
+5570 +     2304   2347      0007  G15  5   XRA  1-8A      C2.2    4.6E-03   2335
+5570       2314   ////      2316  LEA  C   RSP  075-180   III/1             2335
+5570 +     2324   2347     A2359  LEA  3   FLA  S18E42    SF                2335

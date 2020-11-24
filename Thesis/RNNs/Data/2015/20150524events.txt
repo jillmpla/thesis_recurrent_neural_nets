@@ -1,0 +1,15 @@
+:Product: 20150524events.txt
+:Created: 2015 May 27 0357 UT
+:Date: 2015 05 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 May 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 850       2119   ////      2119  PAL  C   RSP  025-180   III/1                 
+ 850       2119   2119      2119  PAL  G   RBR  245       170                   

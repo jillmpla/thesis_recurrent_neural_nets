@@ -1,0 +1,46 @@
+:Product: 20150702events.txt
+:Created: 2015 Jul 05 0357 UT
+:Date: 2015 07 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jul 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8050       0007   ////      0007  CUL  C   RSP  023-060   III/1                 
+
+7980       0113   0143      0205  G15  5   XRA  1-8A      C1.0    3.3E-03   2376
+
+7960 +     0132   ////      0133  PAL  C   RSP  025-180   III/1                 
+
+7970 +     0133   0134      0134  LEA  G   RBR  245       360                   
+
+7990       0555   0618      0633  G15  5   XRA  1-8A      C1.4    2.5E-03   2373
+7990 +     0612   0620      0630  LEA  3   FLA  N16E31    SF      PRB       2373
+
+8000 +     1244   ////      1245  SVI  C   RSP  025-180   III/2                 
+
+8010 +     1352   1358      1401  G15  5   XRA  1-8A      C1.1    4.0E-04   2373
+8010       1352   1356      1407  SVI  3   FLA  N14E19    1F      ERU       2373
+8010 +     1353   ////      1353  SVI  C   RSP  044-166   III/1             2373
+8010 +     1354   1354      1354  SAG  G   RBR  245       170               2373
+
+8020 +     1523   1530      1539  G15  5   XRA  1-8A      C3.7    2.3E-03   2376
+8020 +     1525   1529      1612  SVI  3   FLA  N15E40    1N      ERU       2376
+8020 +     1525   1526      1527  SAG  G   RBR  245       260               2376
+8020 +     1525   ////      1527  SVI  C   RSP  041-180   III/1             2376
+8020       1526   1526      1526  SVI  U   RBR  410       140               2376
+8020       1526   1526      1526  SVI  G   RBR  2695      87                2376
+
+8030 +     1540   ////      1558  SVI  C   RSP  025-141   VI/2                  
+
+8140      A1739   ////     A0421  SVI  3   DSF  S23W44    13                    
+
+8040       1756   1926      2026  G15  5   XRA  1-8A      C1.2    8.0E-03   2376
+8040       1924   1934      1934  HOL  3   FLA  N09E30    SF      ERU       2376
+
+8060 +     2344   ////      2344  CUL  C   RSP  023-090   III/1                 

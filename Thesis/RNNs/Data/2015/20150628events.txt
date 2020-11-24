@@ -1,0 +1,41 @@
+:Product: 20150628events.txt
+:Created: 2015 Jul 01 0357 UT
+:Date: 2015 06 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jun 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7460 +     0221   0225      0228  G15  5   XRA  1-8A      B7.9    2.1E-04   2371
+7460       0223   0223      0223  LEA  G   RBR  245       120                   
+7460 +     0224   ////      0224  CUL  C   RSP  020-180   III/1                 
+
+7560       0341   ////      0341  CUL  C   RSP  020-200   III/1                 
+
+7470       0458   0458      0502  SVI  3   FLA  N10W77    SF      DSD       2371
+
+7480       0530   0530      0532  SVI  3   FLA  N10W77    SF                2371
+
+7570       0605   ////      0611  CUL  C   RSP  020-180   III/1                 
+
+7490 +     0605   ////      0611  SVI  C   RSP  025-106   III/1                 
+7490 +     0607   0612      0616  G15  5   XRA  1-8A      C1.1    4.1E-04   2371
+
+7500 +     0717   ////      0718  LEA  C   RSP  029-124   III/1                 
+
+7510       0758   ////      0819  SVI  C   RSP  025-065   VI/1              2371
+7510       0812   0815      0817  G15  5   XRA  1-8A      B5.8    9.1E-05   2371
+7510       0813   0815      0818  LEA  3   FLA  N13W78    SF      DSD       2371
+
+7520 +     1116   ////      1117  SAG  C   RSP  025-086   III/2                 
+
+7530 +     1216   ////      1219  SVI  C   RSP  025-180   III/2                 
+
+7540       1504   1508      1511  G15  5   XRA  1-8A      B6.8    1.9E-04   2373
+
+7550 +     1707   1714      1718  G15  5   XRA  1-8A      C1.9    8.3E-04   2376

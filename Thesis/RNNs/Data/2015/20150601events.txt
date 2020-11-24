@@ -1,0 +1,24 @@
+:Product: 20150601events.txt
+:Created: 2015 Jun 04 0357 UT
+:Date: 2015 06 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jun 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1170 +     0333   0340      0346  G14  5   XRA  1-8A      B6.9    3.7E-04       
+
+1200       0604   ////      0604  CUL  C   RSP  035-060   III/1                 
+
+1180 +     1326   ////      1334  SAG  C   RSP  025-180   III/2                 
+1180       1332   1333      1333  SVI  G   RBR  245       260                   
+1180 +     1333   ////      1403  SVI  C   RSP  025-160   II/2    1026          
+
+1190       1336   ////      1352  HOL  2   EPL  ////      0.29    B.9A          
+
+1220      A1724   ////     A0420  SVI  3   DSF  S21W57    28                    

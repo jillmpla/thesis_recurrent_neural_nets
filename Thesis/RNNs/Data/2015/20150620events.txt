@@ -1,0 +1,68 @@
+:Product: 20150620events.txt
+:Created: 2015 Jun 23 0357 UT
+:Date: 2015 06 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jun 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5170       0000   ////      0104  LEA  C   RSP  102-180   CTM/1                 
+
+5180       0236   ////      0236  PAL  C   RSP  025-077   III/1             2371
+5180 +     0236   0242      0244  G15  5   XRA  1-8A      C2.3    5.2E-04   2371
+5180       0238   0242      0255  LEA  3   FLA  N14E27    SN      BPT       2371
+5180 +     0238   0238      0238  LEA  G   RBR  610       130               2371
+
+5200       0255   ////      0523  LEA  C   RSP  148-180   CTM/1                 
+
+5210       0310   0415      0439  G15  5   XRA  1-8A      C1.4    5.6E-03   2371
+5210       0415   0415      0422  SVI  3   FLA  N16E24    SF      ERU       2371
+
+5220 +     0450   0451      0454  LEA  3   FLA  S19W41    SF                2367
+
+5230 +     0628   0648      0709  G15  5   XRA  1-8A      M1.0    1.8E-02   2371
+5230 +    B0630  U0635     A0734  SVI  3   FLA  N13E25    1F      ERU       2371
+5230 +     0640   ////      0930  LEA  C   RSP  027-180   CTM/1             2371
+
+5240      B0738  U0740     A0756  SVI  3   FLA  N13E22    SF      ERU       2371
+
+5250       0800   0800      0800  LEA  G   RBR  245       120                   
+
+5330      B0811  U0813     A0828  SVI  3   FLA  S21W44    SF      ERU       2367
+
+5260 +     0817   0824      0831  LEA  3   FLA  N16E23    SF                2371
+5260 +     0818   0818      0818  LEA  G   RBR  245       100               2371
+
+5270       0903   0904      0910  SVI  3   FLA  S21W44    SF                2367
+
+5280       1008   1009      1017  SVI  3   FLA  N14E22    SF      ERU       2371
+
+5290       1104   1121      1142  SVI  3   FLA  S20W46    SF      ERU       2367
+
+5300       1219   1219      1221  SAG  G   RBR  245       160                   
+
+5310 +     1250   1250      1250  SVI  G   RBR  245       190                   
+
+5340       1447   1447      1455  HOL  3   FLA  S24W47    SF                2367
+
+5380       1619   ////      2149  SAG  C   RSP  025-180   VI/1                  
+5380 +     1623   ////      2243  SAG  C   RSP  025-180   CTM/1                 
+
+5350       1743   1743      1743  PAL  G   RBR  245       120                   
+
+5390       1855   ////      2359  PAL  C   RSP  099-181   CTM/1                 
+
+5370 +     1907   1912      1919  G15  5   XRA  1-8A      C1.2    7.1E-04   2367
+5370       1917   ////      2321  PAL  C   RSP  025-091   VI/1                  
+
+5390 +     1926   1926      1926  SAG  G   RBR  410       120                   
+5390       1949   1949      1950  PAL  U   RBR  245       570                   
+
+5400       2320   ////      2359  LEA  C   RSP  074-180   CTM/1             2371
+5400       2325   2326      2327  HOL  3   FLA  N11E15    SF      DSD       2371
+5400       2329   2329      2329  LEA  G   RBR  245       240               2371

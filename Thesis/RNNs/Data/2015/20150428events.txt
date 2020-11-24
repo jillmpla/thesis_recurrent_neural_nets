@@ -1,0 +1,27 @@
+:Product: 20150428events.txt
+:Created: 2015 May 01 0357 UT
+:Date: 2015 04 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Apr 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4950 +     0250   ////      0330  LEA  4   DSF  N06E47    17                    
+
+4930 +     0513   0519      0522  G15  5   XRA  1-8A      C1.9    5.4E-04   2331
+4930       0516   0518      0530  LEA  3   FLA  S09W77    1F      DSD       2331
+
+4960 +     0617   ////      0908  LEA  3   DSF  N10E20    15                    
+
+4970      A0907   ////     A2316  LEA  3   DSF  N29E37    38                    
+
+4980      A0907   ////     A2316  LEA  2   DSF  N09W50    9                     
+
+5040 +    A1431   ////     A0928  SVI  2   DSF  N22W39    9                     
+
+4990       2113   ////      2316  HOL  3   DSF  N27E52    14                    

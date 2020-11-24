@@ -1,0 +1,45 @@
+:Product: 20150415events.txt
+:Created: 2015 Apr 18 0357 UT
+:Date: 2015 04 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Apr 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2280 +     0335   ////      0335  CUL  C   RSP  035-180   III/1                 
+
+2290 +     1132   ////      1135  SVI  C   RSP  025-147   III/1             2321
+2290 +     1135   1142      1153  G15  5   XRA  1-8A      C1.5    1.3E-03   2321
+2290       1137   1141      1152  SVI  3   FLA  N14E22    SF      ERU       2321
+
+2300 +     1210   ////      1210  SVI  C   RSP  025-148   III/1                 
+
+2310       1232   1232      1242  SVI  3   FLA  N13E20    SF                2321
+
+2320 +     1254   1302      1317  SVI  3   FLA  N24E56    SF                2324
+2320 +     1254   ////      1531  SAG  C   RSP  025-180   VI/2              2324
+
+2330 +     1523   1528      1543  HOL  3   FLA  N15W04    SF      ERU       2322
+2330       1524   1524      1524  SAG  G   RBR  245       100               2322
+
+2340       1618   ////      1716  SVI  C   RSP  029-077   VI/1                  
+
+2350 +     1846   ////      2015  SAG  C   RSP  025-180   VI/2                  
+
+2360 +     2013   2023      2045  G15  5   XRA  1-8A      C7.8    9.7E-03   2321
+2360       2013   2021      2135  HOL  3   FLA  N10E15    2N      ERU       2321
+
+2400       2052   ////      2052  CUL  C   RSP  057-180   III/1                 
+
+2370 +     2117   ////      2119  CUL  C   RSP  045-180   III/1                 
+
+2380       2158   2158      2158  PAL  G   RBR  245       120                   
+
+2390 +     2209   ////      2210  SAG  C   RSP  025-180   III/1                 
+
+2600      A2247   ////     A1334  HOL  3   DSF  S39W66    25                    

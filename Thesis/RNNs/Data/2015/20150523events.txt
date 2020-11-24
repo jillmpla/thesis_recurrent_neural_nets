@@ -1,0 +1,41 @@
+:Product: 20150523events.txt
+:Created: 2015 May 26 0357 UT
+:Date: 2015 05 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 May 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 720 +     0115   0122      0132  G14  5   XRA  1-8A      B4.0    3.4E-04   2349
+
+ 730 +     0327   0333      0336  G14  5   XRA  1-8A      C1.0    3.4E-04   2353
+
+ 740 +     0428   ////      0428  LEA  C   RSP  075-180   III/1                 
+
+ 840      A0651   ////     A2343  LEA  2   DSF  S04W24    6                     
+
+ 750 +     0718   0722      0725  G14  5   XRA  1-8A      C1.1    2.5E-04   2353
+
+ 760 +     1339   1343      1348  G14  5   XRA  1-8A      B4.9    1.8E-04   2349
+
+ 770 +     1504   ////      1504  SAG  C   RSP  025-075   III/1                 
+
+ 780 +     1624   1630      1633  G14  5   XRA  1-8A      B3.9    1.5E-04   2353
+
+ 790 +    B1639  U1709     A1722  SVI  3   FLA  S21W32    SF                2349
+ 790 +     1650   1653      1655  G14  5   XRA  1-8A      B6.0    9.0E-05   2349
+
+ 800 +    B1700  U1703     A1718  SVI  3   FLA  N07W15    SF      ERU       2353
+
+ 810 +     1730   1739      1741  G14  5   XRA  1-8A      C2.3    6.1E-04   2353
+ 810 +     1732   1740      1743  HOL  2   FLA  N08W13    SF      ERU       2353
+
+ 820       1745   1745      1749  HOL  3   FLA  N08W13    SF      ERU       2353
+
+ 830 +     2351   2356      0001  G14  5   XRA  1-8A      B6.4    2.7E-04   2349
+ 830       2353   2355      2359  LEA  3   FLA  S23W30    SF      DSD       2349

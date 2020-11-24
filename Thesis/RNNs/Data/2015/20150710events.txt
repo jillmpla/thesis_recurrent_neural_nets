@@ -1,0 +1,87 @@
+:Product: 20150710events.txt
+:Created: 2015 Jul 13 0357 UT
+:Date: 2015 07 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jul 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 190       0000   ////      0248  LEA  C   RSP  026-180   VI/1                  
+ 190       0000   ////      0936  LEA  C   RSP  075-180   CTM/1                 
+
+ 200 +     0121   0126      0130  G15  5   XRA  1-8A      B7.3    2.7E-04   2384
+ 200       0124   0126      0128  LEA  3   FLA  S22E54    SF      DSD       2384
+
+ 240       0328   ////      0505  LEA  C   RSP  075-180   VI/1                  
+ 240       0403   ////      1810  SVI  C   RSP  075-172   CTM/1                 
+
+ 210       0416   ////      0430  SVI  C   RSP  025-172   VI/2                  
+ 210 +     0416   ////      0420  PAL  C   RSP  025-141   III/2                 
+
+ 220       0429   ////      0431  PAL  C   RSP  025-169   III/1                 
+ 220       0429   0429      0429  LEA  G   RBR  245       100                   
+
+ 230       0454   0454      0454  SVI  G   RBR  245       140                   
+
+ 250       0505   ////      0506  SVI  C   RSP  025-127   III/1                 
+
+ 260 +     0558   0558      0559  LEA  G   RBR  245       460                   
+ 260 +     0558   ////      0601  LEA  C   RSP  025-180   III/2                 
+
+ 270       0735   ////      0736  LEA  C   RSP  075-108   III/1                 
+
+ 280       0821   ////      0826  LEA  C   RSP  027-132   III/1                 
+
+ 290       0853  U0901     A0903  SVI  3   FLA  N05W45    SF                2385
+
+ 300       1107   1107      1107  SAG  G   RBR  410       110                   
+ 300 +     1108   ////      1109  SVI  C   RSP  025-138   III/2                 
+
+ 310 +     1126   1126      1126  SVI  G   RBR  245       150                   
+
+ 320      B1127  U1127      1130  SVI  3   FLA  N05W46    SF                2385
+
+ 330 +     1143   ////      1145  SAG  C   RSP  025-084   III/1                 
+
+ 340       1159   1202      1205  SVI  3   FLA  N05W48    SF                2385
+
+ 410 +     1206   1219      1219  SVI  G   RNS  245       110                   
+
+ 350       1209   1210      1217  SVI  3   FLA  N05W47    SF                2385
+ 350       1211   ////      2208  SAG  C   RSP  025-180   VI/2              2385
+
+ 360       1219   1219      1219  SAG  G   RBR  245       100                   
+
+ 370       1222   ////      1251  SVI  C   RSP  025-158   VI/1                  
+
+ 380      B1459  U1515     A1554  HOL  2   FLA  N08W48    SF      DSD       2385
+ 380 +     1516   ////      1521  SVI  C   RSP  025-080   III/2             2385
+ 380 +     1525   1525      1526  SAG  G   RBR  245       120               2385
+ 380       1542   ////      1644  SVI  C   RSP  025-172   VI/2              2385
+
+ 390      B1601   1606     A1623  HOL  2   FLA  N08W48    SF                2385
+ 390 +     1607   1613      1619  G15  5   XRA  1-8A      C1.1    6.4E-04   2385
+ 390 +     1616   1616      1616  SAG  G   RBR  245       120               2385
+
+ 400 +     1620   1620      1620  SAG  G   RBR  245       150                   
+
+ 480       1638   ////      1644  PAL  C   RSP  025-180   III/1                 
+
+ 430 +     1731   1731      1731  SAG  G   RBR  245       120                   
+
+ 440       1746   1746      1746  SVI  G   RBR  245       100                   
+
+ 450 +     1750   1750      1750  SAG  G   RBR  245       180                   
+
+ 460       1930   1930     A1939  HOL  3   FLA  N08W51    SF                2385
+
+ 530       1932   1940      2251  SAG  G   RNS  245       610                   
+
+ 470       2322   ////      2359  LEA  C   RSP  084-180   CTM/1                 
+ 470 +     2342   2345      2349  G15  5   XRA  1-8A      B7.1    2.0E-04   2385
+ 470       2348   2348      2348  LEA  G   RBR  245       530                   

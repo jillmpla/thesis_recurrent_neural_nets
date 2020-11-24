@@ -1,0 +1,37 @@
+:Product: 20150501events.txt
+:Created: 2015 May 04 0357 UT
+:Date: 2015 05 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 May 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5070 +     0248   0257      0307  G15  5   XRA  1-8A      C2.3    1.9E-03   2335
+
+5080       0503   ////      0503  SVI  C   RSP  034-080   III/1                 
+
+5090       0531   ////      0532  SVI  C   RSP  029-080   III/1                 
+
+5100       0712   ////      0712  SVI  U   RSP  028-046   III/1                 
+
+5110       0842   ////      0843  SVI  C   RSP  025-053   III/1                 
+
+5120       1019   ////      1024  SVI  C   RSP  025-051   III/1                 
+
+5130 +     1225   ////      1226  SVI  C   RSP  025-149   III/2                 
+
+5140       1509   ////      1521  SAG  C   RSP  025-133   VII/1             2335
+5140       1509   ////      1542  SVI  C   RSP  025-080   VI/1              2335
+5140       1522   1524      1534  SVI  3   FLA  S13E71    SF                2335
+
+5150 +     1921   ////      1952  SAG  C   RSP  025-180   VI/2                  
+
+5160       2142   2145      2153  G15  5   XRA  1-8A      B3.3    1.6E-04       
+
+5170       2254   2257      2300  G15  5   XRA  1-8A      B3.9    8.9E-05   2335
+5170       2259   ////      2300  PAL  C   RSP  025-081   III/1                 

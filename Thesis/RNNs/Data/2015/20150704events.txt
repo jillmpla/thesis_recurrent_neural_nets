@@ -1,0 +1,36 @@
+:Product: 20150704events.txt
+:Created: 2015 Jul 07 0357 UT
+:Date: 2015 07 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 Jul 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8400 +     0001   0008      0017  G15  5   XRA  1-8A      C1.0    7.8E-04   2378
+
+8440      A0022   ////     A1541  HOL  2   DSF  S10W34    4                     
+
+8410 +     0438   ////      0439  LEA  C   RSP  025-168   III/1                 
+
+8500      A0926   ////     A2336  LEA  2   DSF  N48E01    20                    
+
+8420 +     1310   ////      1312  SAG  C   RSP  025-180   V/2                   
+
+8430       1501   1505      1508  G15  5   XRA  1-8A      B5.5    1.5E-04   2376
+8430       1503   1506      1511  SVI  3   FLA  N14E09    SF      ERU       2376
+
+8480       1847   ////      2210  HOL  3   DSF  N55W26    33                    
+
+8450       1920   ////      1954  HOL  4   EPL  ////      0.43                  
+
+8490       2000   ////      2141  HOL  3   DSF  N30W01    9                     
+
+8460 +     2015   ////      2024  SAG  C   RSP  025-051   III/1                 
+
+8470       2033   2045      2055  G15  5   XRA  1-8A      B6.4    7.1E-04   2378
+8470       2041   2044      2055  HOL  3   FLA  S19E50    SF      ERU       2378

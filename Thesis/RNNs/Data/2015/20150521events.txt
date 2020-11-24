@@ -1,0 +1,41 @@
+:Product: 20150521events.txt
+:Created: 2015 May 24 0357 UT
+:Date: 2015 05 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 May 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 520 +     0333   0343      0352  G14  5   XRA  1-8A      B6.1    5.6E-04       
+
+ 530       0522   0537      0553  G15  5   XRA  1-8A      B6.3    9.9E-04   2346
+ 530       0531   0533      0538  LEA  3   FLA  S05W55    SF      DSD       2346
+
+ 540       0556   0557      0559  LEA  3   FLA  N23E29    SF      DSD       2351
+
+ 550       0559   ////      0600  SVI  C   RSP  026-075   III/1                 
+
+ 560       0601   0611      0617  G15  5   XRA  1-8A      B9.8    7.9E-04   2346
+ 560       0605   0608      0618  LEA  3   FLA  S05W56    SF                2346
+
+ 570 +     0657   0706      0717  G14  5   XRA  1-8A      C1.1    1.1E-03   2349
+ 570       0658   0701      0723  LEA  3   FLA  S21E05    SF      DSD       2349
+
+ 580       0734   0740      0748  LEA  3   FLA  S09W55    SF      DSD       2346
+
+ 590       0839   0839      0843  LEA  3   FLA  S21E03    SF                2349
+
+ 600       1028   1029      1031  SVI  3   FLA  S09W61    SF                2344
+
+ 610      B1046  U1046      1052  SVI  3   FLA  S08W61    SF                2344
+
+ 630       2024   2024      2024  PAL  G   RBR  245       130                   
+
+ 640       2039   2047      2056  G14  5   XRA  1-8A      B4.2    3.5E-04       
+
+ 650       2333   ////      2333  PAL  C   RSP  025-096   III/1                 

@@ -1,0 +1,61 @@
+:Product: 20150504events.txt
+:Created: 2015 May 07 0357 UT
+:Date: 2015 05 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 May 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5580 +    B0000   0051      0143  LEA  3   FLA  S18E42    1F                2335
+5580 +     0043   0052      0106  G15  5   XRA  1-8A      C8.0    6.9E-03   2335
+
+5590 +     0249   0303      0312  G15  5   XRA  1-8A      C3.0    3.1E-03   2338
+5590       0252   ////      0256  LEA  C   RSP  075-163   III/1             2338
+5590       0302   0303      0307  LEA  3   FLA  N05E58    SF                2338
+
+5600       0406   0407      0411  LEA  3   FLA  N04E57    SF                2338
+
+5610 +     0418   0421      0428  G15  5   XRA  1-8A      C1.5    6.2E-04   2335
+5610 +     0420   0421      0432  LEA  3   FLA  S18E35    SF      DSD       2335
+5610 +     0420   0420      0420  LEA  G   RBR  610       350               2335
+5610 +     0420   0421      0421  LEA  G   RBR  410       2900              2335
+
+5620       0452   0457      0524  SVI  3   FLA  S15E38    SF                2335
+5620 +     0457   0500      0502  G15  5   XRA  1-8A      C1.0    1.6E-04   2335
+
+5630       0557   0600      0602  G15  5   XRA  1-8A      B8.0    1.3E-04   2338
+
+5640 +     0634   0639      0642  G15  5   XRA  1-8A      B9.7    3.1E-04   2335
+5640       0635   0639      0641  SVI  3   FLA  S15E35    SF      ERU       2335
+
+5650 +     0822   ////      0823  LEA  C   RSP  075-097   III/1                 
+
+5660 +     0838   0852      0901  G15  5   XRA  1-8A      C1.4    1.6E-03   2335
+5660       0840   0841      0844  LEA  3   FLA  S15E33    SF                2335
+
+5670       0901   0905      0912  LEA  3   FLA  S15E33    SF                2335
+
+5680       0939   0940      0944  SVI  3   FLA  S16E32    SF      ERU       2335
+
+5690 +     1023   1032      1038  G15  5   XRA  1-8A      C2.0    1.3E-03       
+
+5700       1108   1108      1113  SVI  3   FLA  S16E34    SF                2335
+
+5710       1128   1128      1133  SVI  3   FLA  S16E34    SF                2335
+
+5720       1213   1214      1228  SVI  3   FLA  S15E31    SF      ERU       2335
+
+5730 +     1506   ////      1507  SAG  C   RSP  025-083   III/1                 
+
+5740 +     1657   1705      1712  G15  5   XRA  1-8A      C5.1    3.1E-03       
+
+5910      A1703   ////     A0441  SVI  3   DSF  N13E58    9                     
+
+5750 +     1909   1909      1910  SAG  G   RBR  245       140                   
+
+5760 +     2240   2250      2253  G15  5   XRA  1-8A      C1.7    1.1E-03       

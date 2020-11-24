@@ -1,0 +1,46 @@
+:Product: 20150518events.txt
+:Created: 2015 May 21 0357 UT
+:Date: 2015 05 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 May 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 300      A0127   ////     A1240  HOL  3   DSF  N40W50    7                     
+
+ 330       0242   ////      0248  CUL  C   RSP  030-090   III/1                 
+
+ 210 +     0245   ////      0249  PAL  C   RSP  025-180   III/1                 
+
+ 220       0727   0753      0808  G15  5   XRA  1-8A      C1.0    2.3E-03   2349
+ 220       0735  U0749     A0812  SVI  3   FLA  S22E45    SF      PRB       2349
+
+ 230       0816   0821      0823  G15  5   XRA  1-8A      C1.1    4.8E-04   2349
+
+ 320      A0828   ////     A1248  SVI  3   DSF  N37W47    8                     
+
+ 240       0954   ////      0954  SVI  C   RSP  025-080   III/1                 
+
+ 250       1311   1315      1318  G15  5   XRA  1-8A      B6.7    1.9E-04   2342
+ 250 +     1312   1314      1318  HOL  3   FLA  N19W50    SF                2342
+
+ 260 +     1411   ////      1414  SAG  C   RSP  025-083   III/1                 
+
+ 270 +     1427   ////      1437  SVI  C   RSP  025-053   II/1    794           
+
+ 280 +     1452   ////      1452  SVI  C   RSP  025-077   III/1                 
+
+ 410      A1637   ////     A0700  SVI  3   DSF  N20W54    8                 2342
+
+ 290 +     1815   1818      1820  G15  5   XRA  1-8A      B9.1    1.5E-04   2345
+
+ 340       2322   ////      2322  CUL  C   RSP  025-050   III/1                 
+
+ 310       2322   ////      2343  LEA  C   RSP  075-180   VI/1                  
+ 310 +     2341   ////      2343  PAL  C   RSP  025-180   III/2                 
+ 310       2341   2341      2341  PAL  G   RBR  245       110                   

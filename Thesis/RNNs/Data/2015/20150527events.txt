@@ -1,0 +1,30 @@
+:Product: 20150527events.txt
+:Created: 2015 May 30 0357 UT
+:Date: 2015 05 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2015 May 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 940 +     0441   ////      0442  CUL  C   RSP  060-150   III/1                 
+
+ 950 +     0717   0722      0729  G14  5   XRA  1-8A      B3.9    2.2E-04       
+
+ 960 +     1038   1042      1047  G14  5   XRA  1-8A      B4.0    1.5E-04   2351
+ 960       1040  U1041      1047  SVI  3   FLA  N21W52    SF                2351
+
+ 970 +     1234   ////      1247  SAG  C   RSP  025-090   II/1    468           
+
+ 980       2104   ////      2106  PAL  C   RSP  025-074   III/1                 
+
+1010       2108   ////      2110  CUL  C   RSP  020-180   III/2                 
+
+ 990 +     2108   ////      2110  PAL  C   RSP  025-180   V/2                   
+
+1000 +     2122   2131      2137  G14  5   XRA  1-8A      C1.3    7.4E-04   2356
+1000       2134   2134      2135  PAL  G   RBR  245       110                   
