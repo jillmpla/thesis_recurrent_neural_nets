@@ -1,0 +1,58 @@
+:Product: 20120804events.txt
+:Created: 2012 Aug 07 0332 UT
+:Date: 2012 08 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Aug 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5310       0125   0130      0134  G15  5   XRA  1-8A      C1.3    4.8E-04   1535
+5310       0128   0129      0139  LEA  3   FLA  N18E12    SF                1535
+
+5320       0208   0208      0211  LEA  3   FLA  S22W50    SF                    
+
+5330       0354   0357      0401  LEA  3   FLA  N18E10    SF                1535
+
+5340       0413   0418      0422  G15  5   XRA  1-8A      C2.7    9.1E-04   1535
+5340       0416   0419      0432  LEA  3   FLA  N19E11    1F      ERU       1535
+
+5350       0603   0608      0611  G15  5   XRA  1-8A      C1.3    4.1E-04   1535
+5350 +     0605   0607      0622  SVI  3   FLA  N20E12    SF      ERU       1535
+
+5360 +     0701   0713      0723  SVI  3   FLA  N19E09    SF                1535
+
+5370       0800   0800      0800  LEA  G   RBR  245       120                   
+
+5380       0802   0802      0802  LEA  G   RBR  245       100                   
+
+5390       0817   0817      0817  LEA  G   RBR  245       110                   
+
+5400 +     0931   ////      0932  SVI  C   RSP  025-180   III/2                 
+
+5460       1104   1500      1649  G15  5   XRA  1-8A      C3.5    5.4E-02   1539
+
+5410 +     1133   1133      1133  SVI  G   RBR  245       160                   
+5410 +     1133   ////      1134  SVI  C   RSP  025-166   III/2                 
+
+5420 +     1151   1152      1206  SVI  3   FLA  S19E41    SF      ERU       1539
+
+5430       1217   1219      1222  SVI  3   FLA  S24E53    SF                1540
+
+5440 +     1234   ////      1526  SVI  C   RSP  025-071   VI/1              1540
+5440       1259   1313      1324  SVI  3   FLA  S24E52    SF                1540
+
+5450 +     1417   1418      1424  HOL  3   FLA  S19E38    SF                1539
+
+5460       1459   1503      1514  SVI  3   FLA  S19E39    SF                1539
+
+5510      A1702   ////     A0525  SVI  2   DSF  N43W01    10                    
+
+5480       2201   2251      2307  SAG  G   RNS  245       820                   
+5480       2210   2256      2307  SAG  G   RNS  410       430                   
+
+5470       2239   ////      2239  PAL  C   RSP  025-087   III/1                 

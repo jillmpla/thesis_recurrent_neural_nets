@@ -1,0 +1,61 @@
+:Product: 20120810events.txt
+:Created: 2012 Aug 13 0332 UT
+:Date: 2012 08 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Aug 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6950       0124   0125      0131  LEA  3   FLA  N19W68    SF                1535
+
+6980       0243   ////      0246  CUL  C   RSP  020-180   III/1                 
+6980       0245   ////      0320  LEA  C   RSP  025-180   VI/2                  
+
+6960       0245   ////      0245  PAL  C   RSP  025-086   III/1                 
+
+6990       0303   ////      0303  CUL  C   RSP  020-090   III/1                 
+
+6970 +     0319   ////      0320  CUL  C   RSP  018-200   III/3                 
+
+7000 +     0407   0416      0445  G15  5   XRA  1-8A      C4.2    6.9E-03   1542
+7000 +     0411   0500      0513  LEA  3   FLA  S16E36    SF      ERU       1542
+
+7010 +     0458   0502      0505  G15  5   XRA  1-8A      C2.4    6.5E-04   1542
+
+7020 +     0506   ////      0522  LEA  C   RSP  025-180   VI/2                  
+
+7030       0635   0640      0654  G15  5   XRA  1-8A      B8.2    7.7E-04   1542
+7030 +     0636   ////      0721  LEA  C   RSP  025-180   VI/2              1542
+7030 +     0639   0639      0648  LEA  3   FLA  S15E36    SF                1542
+
+7040       0715   0715      0715  LEA  G   RBR  245       180                   
+
+7050       0718   0718      0718  LEA  G   RBR  245       110                   
+
+7060 +     0803   0813      0829  SVI  3   FLA  S11E32    SF                1542
+
+7070       0938   ////      0938  SVI  C   RSP  025-047   III/1                 
+
+7080       1127   1144      1213  SVI  3   FLA  S12E31    SF                1542
+
+7090       1544   1547      1550  G15  5   XRA  1-8A      B8.8    1.8E-04   1543
+7090       1546   1546      1556  SVI  3   FLA  N21E39    SF                1543
+
+7100       1557   ////      1558  SVI  C   RSP  025-081   III/1                 
+
+7110 +     1656   ////      1658  SVI  C   RSP  054-180   III/1                 
+
+7130       1732   1740      1746  G15  5   XRA  1-8A      C2.7    1.4E-03   1544
+7130       1735   1738      1746  HOL  3   FLA  S29W12    SF      ERU       1544
+
+7120 +     1735   ////      1736  PAL  C   RSP  025-180   III/1                 
+
+7140       1838   1913      2004  G15  5   XRA  1-8A      C1.4    5.7E-03   1542
+7140       1904   1906      1931  HOL  3   FLA  S14E27    SF      ERU       1542
+
+7150       1933   1936      1946  HOL  3   FLA  S14E28    SF      ERU       1542

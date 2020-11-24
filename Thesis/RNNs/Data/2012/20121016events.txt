@@ -1,0 +1,45 @@
+:Product: 20121016events.txt
+:Created: 2012 Oct 19 0332 UT
+:Date: 2012 10 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Oct 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8430       0000   ////      0844  LEA  C   RSP  025-082   VI/1                  
+8430 +     0000   ////      1011  LEA  C   RSP  025-180   CTM/1                 
+
+8440       0024   0024      0024  LEA  G   RBR  245       110                   
+
+8450 +     0144   0148      0151  G15  5   XRA  1-8A      B8.4    2.4E-04       
+
+8460       0214   0214      0214  LEA  G   RBR  410       130                   
+
+8510       0524   ////      1555  SVI  C   RSP  050-180   CTM/1                 
+
+8470 +     0613   0617      0621  G15  5   XRA  1-8A      B8.2    2.8E-04       
+
+8480 +     0646   0653      0658  G15  5   XRA  1-8A      C1.8    8.3E-04   1591
+8480       0649   0652      0702  LEA  3   FLA  N09E32    SF                1591
+
+8490       0700   0700      0700  LEA  G   RBR  245       120                   
+
+8500       0849   0849      0852  LEA  3   FLA  N09E31    SF                1591
+8500       0849   0849      0849  SVI  G   RBR  245       250               1591
+
+8530       1110   ////      2146  SAG  C   RSP  119-180   CTM/1                 
+
+8520 +     1612   1627      1639  G15  5   XRA  1-8A      C3.3    3.7E-03   1589
+8520       1613   1626      1651  HOL  3   FLA  N13W11    1F      ERU       1589
+
+8540       1642   ////      1946  PAL  C   RSP  109-180   CTM/1                 
+
+8550       2207   ////      2359  LEA  C   RSP  119-180   CTM/1                 
+8550 +     2306   2310      2313  G15  5   XRA  1-8A      C1.0    2.7E-04   1594
+
+8560       2323   2323      2323  LEA  G   RBR  245       110                   

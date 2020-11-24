@@ -1,0 +1,66 @@
+:Product: 20120728events.txt
+:Created: 2012 Jul 31 0332 UT
+:Date: 2012 07 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jul 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2970 +     0122   ////      0126  LEA  C   RSP  025-180   III/2                 
+
+2980 +     0207   ////      0213  LEA  C   RSP  025-180   III/2                 
+
+2990 +     0342   ////      0343  LEA  C   RSP  025-115   III/1                 
+
+3000       0431   0432      0434  LEA  3   FLA  S22E56    SF                1532
+
+3010       0539   0539      0548  SVI  3   FLA  S18E56    SF                1532
+
+3020 +     0631   ////      0634  LEA  C   RSP  025-166   III/2                 
+
+3030 +     0721   0729      0742  G15  5   XRA  1-8A      C1.7    1.7E-03   1530
+
+3040 +     0818   ////      0944  SVI  C   RSP  025-180   VI/2                  
+3040       0916   ////      0918  SVI  C   RSP  025-180   III/2                 
+3040       0917   0917      0918  SVI  G   RBR  410       130                   
+
+3050       0939   0939      0939  SVI  U   RBR  410       140                   
+
+3060      B1105   ////     B1525  SVI  3   EPL  ////      0.17    B.4A          
+
+3070       1310   1319      1326  G15  5   XRA  1-8A      C1.1    8.7E-04       
+3070 +     1325   ////      1327  SVI  C   RSP  025-180   III/2                 
+
+3080 +     1503   ////      1544  SAG  C   RSP  025-047   VI/2                  
+
+3090       1552   1553      1559  SVI  3   FLA  S20E23    SF                1530
+
+3100 +     1638   1644      1720  HOL  3   FLA  S20E22    SF      ERU       1530
+
+3110       1702   1708      1722  HOL  3   FLA  S23E56    SF      ERU       1532
+3110       1720   1720      1720  SAG  G   RBR  410       120               1532
+
+3120       1740   1740      1740  SAG  U   RBR  410       120                   
+
+3130       1824   1831      1840  G15  5   XRA  1-8A      C1.7    1.3E-03       
+
+3150       2044   2056      2104  G15  5   XRA  1-8A      M6.1    4.0E-02   1532
+3150       2046   2058      2115  HOL  3   FLA  S25E54    2N      ERU       1532
+3150       2048   2049      2058  SAG  G   RBR  410       870               1532
+3150       2049   2049      2051  SAG  G   RBR  610       1500              1532
+3150 +     2049   2050      2055  PAL  G   RBR  2695      370               1532
+3150 +     2049   2050      2054  PAL  G   RBR  4995      420               1532
+3150 +     2049   2050      2054  PAL  G   RBR  8800      530               1532
+3150       2049   2050      2055  SAG  G   RBR  15400     430               1532
+3150 +     2049   2051      2052  PAL  G   RBR  1415      240               1532
+3150 +     2052   2052      2100  SAG  G   RBR  245       56000             1532
+3150 +     2052   ////      2110  SAG  C   RSP  025-180   II/2    1250      1532
+3150 +     2053   ////      2056  PAL  C   RSP  025-180   III/1             1532
+3150 +     2104   ////      2359  PAL  C   RSP  025-180   IV/2              1532
+
+3160       2139   2140      2145  HOL  3   FLA  S21E49    SF      ERU       1532

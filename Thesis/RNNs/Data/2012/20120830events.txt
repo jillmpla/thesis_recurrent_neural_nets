@@ -1,0 +1,84 @@
+:Product: 20120830events.txt
+:Created: 2012 Sep 02 0332 UT
+:Date: 2012 08 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Aug 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 390 +     0137   0152      0158  G15  5   XRA  1-8A      C3.4    2.7E-03   1554
+
+ 400 +     0216   0234      0245  G15  5   XRA  1-8A      C4.0    4.2E-03       
+
+ 410       0326   0327      0336  LEA  3   FLA  N16W55    SF                1554
+
+ 420       0347   0404      0421  LEA  3   FLA  N16W55    SF      BPT       1554
+
+ 430       0427   0427      0427  LEA  G   RBR  245       240                   
+
+ 440       0431   0432      0449  LEA  3   FLA  N16W55    SF                1554
+ 440 +     0442   0445      0447  G15  5   XRA  1-8A      B9.8    1.6E-04   1554
+
+ 450 +     0448   0453      0459  G15  5   XRA  1-8A      C1.5    7.3E-04   1563
+
+ 460       0505   0507      0512  LEA  3   FLA  N16W56    SF                1554
+
+ 470       0514   0518      0523  LEA  3   FLA  N16W56    SF                1554
+
+ 480       0530   0531      0533  LEA  3   FLA  N16W56    SF                1554
+
+ 490 +     0603   0610      0636  G15  5   XRA  1-8A      C1.3    2.3E-03       
+ 490       0605   0608      0612  LEA  3   FLA  S25E67    SF                    
+
+ 500       0702   0702      0706  LEA  3   FLA  N16W57    SF                1554
+
+ 510       0812   0823      0830  SVI  3   FLA  S23E81    SF                    
+ 510 +     0818   0823      0827  G15  5   XRA  1-8A      C1.6    5.7E-04   1563
+
+ 520 +     0831   0912      0916  G15  5   XRA  1-8A      C7.6    7.3E-03   1554
+ 520 +     0849   0854      0911  SVI  3   FLA  N14W58    SF                1554
+
+ 540 +     0909   0910      0914  SVI  3   FLA  S24E84    SF                1554
+
+ 530       0951   0951      0951  LEA  G   RBR  245       120                   
+
+ 560 +     1202   1211      1214  G15  5   XRA  1-8A      M1.3    3.9E-03   1563
+
+ 570       1314   1315      1318  HOL  3   FLA  S25E72    SF                    
+
+ 580       1359   1400      1406  SVI  3   FLA  N12W60    SF                1554
+
+ 590 +     1416   ////      1417  SVI  C   RSP  025-138   III/1                 
+
+ 600       1424   1424      1429  SVI  3   FLA  S23E77    SF                    
+
+ 610 +     1546   1549      1559  HOL  3   FLA  N12E09    SF      ERU       1555
+
+ 620       1749   1749      1751  HOL  3   FLA  S25E77    SF      DSD           
+
+ 630 +     1859   1903      1906  G15  5   XRA  1-8A      C1.6    4.1E-04       
+ 630       1901   1903      1907  HOL  3   FLA  S26E78    SF      DSD           
+
+ 640 +     1914   1920      1927  G15  5   XRA  1-8A      C2.0    1.2E-03       
+
+ 650       1943   1945      1946  HOL  3   FLA  S26E77    SF      DSD           
+
+ 660       1949   1958      2011  G14  5   XRA  1-8A      C2.6    2.8E-03       
+
+ 670       2016   2016      2016  SAG  G   RBR  245       130                   
+
+ 680 +     2035   2039      2045  G15  5   XRA  1-8A      C1.6    7.2E-04       
+
+ 690       2130   2131      2146  HOL  3   FLA  S25E74    SF      DSD       1563
+ 690 +     2134   2144      2149  G15  5   XRA  1-8A      C3.8    2.4E-03   1563
+
+ 700       2254   2254      2254  LEA  G   RBR  245       140                   
+
+ 710       2314   2314      2317  HOL  3   FLA  N03E25    SF      ERU       1560
+
+ 720       2339   2339      2339  LEA  G   RBR  245       110                   

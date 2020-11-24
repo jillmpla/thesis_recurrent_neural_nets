@@ -1,0 +1,39 @@
+:Product: 20120909events.txt
+:Created: 2012 Sep 12 0332 UT
+:Date: 2012 09 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Sep 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2750       0652   0700      0708  G15  5   XRA  1-8A      C3.7    2.4E-03   1564
+2750       0655   0656      0715  SVI  3   FLA  S15W47    SF      ERU       1564
+
+2780       0949   ////      0950  SVI  C   RSP  025-039   III/1                 
+
+2790       1451   1458      1505  G15  5   XRA  1-8A      C1.7    1.0E-03   1568
+2790       1453   1456      1513  SVI  3   FLA  S11W20    SF      ERU       1568
+2790       1457   1458      1458  SAG  G   RBR  610       130               1568
+2790       1458   1458      1458  SAG  G   RBR  410       34                1568
+
+2800       1507   1507      1507  SVI  G   RBR  245       210                   
+
+2810       1507   1507      1507  SAG  G   RBR  245       190                   
+
+2910      A1516   ////     A0556  SVI  3   DSF  N12W10    9                     
+
+2920      A1516   ////     A0556  SVI  3   DSF  S32W01    8                     
+
+2820 +     1914   1920      1928  G15  5   XRA  1-8A      B8.9    5.8E-04   1564
+
+2830 +     2044   ////      2044  PAL  C   RSP  025-086   III/1                 
+
+2840 +     2124   2128      2134  G15  5   XRA  1-8A      B8.9    3.8E-04   1564
+
+2850 +     2150   2236      2256  G15  5   XRA  1-8A      M1.2    3.6E-02   1564
+2850       2201   2230      2322  HOL  3   FLA  S15W52    1F      ERU       1564

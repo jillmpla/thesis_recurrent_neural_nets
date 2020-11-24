@@ -1,0 +1,24 @@
+:Product: 20120928events.txt
+:Created: 2012 Oct 01 0332 UT
+:Date: 2012 09 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Sep 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5930 +     0000   ////      0018  LEA  C   RSP  025-180   VI/2              1577
+5930       0000   ////      0013  PAL  C   RSP  025-120   CTM/1             1577
+5930      B0000   ////     A0630  SOH  3   CME  XUV,EUV,UV300-299/FS1035      1577
+5930       0006   ////      0007  CUL  C   RSP  018-060   III/3             1577
+
+5960       0926   0927      0948  SVI  3   FLA  N08W30    SF                1577
+
+5970       2115   2118      2120  G14  5   XRA  1-8A      B8.5    1.3E-04   1576
+5970 +     2117   ////      2122  PAL  C   RSP  025-180   III/1                 
+
+5980       2234   2234      2234  LEA  G   RBR  245       120                   

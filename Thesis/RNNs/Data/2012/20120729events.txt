@@ -1,0 +1,83 @@
+:Product: 20120729events.txt
+:Created: 2012 Aug 01 0332 UT
+:Date: 2012 07 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jul 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3170 +     0000   ////      0547  LEA  C   RSP  025-180   IV/1                  
+3170       0011   ////      0156  HOL  2   EPL  ////      0.24                  
+
+3180       0100   0100      0100  PAL  G   RBR  1415      110                   
+
+3190       0100   0100      0100  LEA  G   RBR  1415      110                   
+
+3200       0120   0120      0127  LEA  3   FLA  S18E11    SF                1530
+
+3420       0132   ////      0134  CUL  C   RSP  550-800   III/1                 
+
+3210       0312   0318      0330  G15  5   XRA  1-8A      C2.3    2.0E-03   1532
+3210 +     0318   ////      0318  CUL  C   RSP  025-200   III/2             1532
+3210       0321   0321      0328  LEA  3   FLA  S25E51    SF                1532
+
+3220       0423   ////      0551  SVI  C   RSP  048-180   IV/1              1532
+3220       0506   0510      0514  LEA  3   FLA  S22E40    SF                1532
+
+3230       0556   0600      0605  G15  5   XRA  1-8A      C1.4    5.6E-04   1532
+3230 +     0558   0601      0609  LEA  3   FLA  S26E48    SF                1532
+
+3240       0615   0622      0629  G15  5   XRA  1-8A      M2.3    1.2E-02   1532
+3240       0618   0619      0744  SVI  3   FLA  S22E49    1N      ERU       1532
+3240       0619   0619      0620  SVI  G   RBR  8800      83                1532
+3240 +     0619   0619      0620  LEA  G   RBR  4995      120               1532
+3240       0619   0620      0620  SVI  G   RBR  1415      79                1532
+3240 +     0619   0620      0620  LEA  G   RBR  2695      110               1532
+3240 +     0623   ////      0945  LEA  C   RSP  025-180   IV/2              1532
+
+3250       0643   0643      0644  SVI  G   RBR  245       120                   
+
+3310       0712   0712      0714  SVI  G   RNS  245       120                   
+
+3260       0732   0740      0746  LEA  3   FLA  S24E47    SF                1532
+
+3270       0828   0841      0845  SVI  3   FLA  S22E49    SF                1532
+
+3280       0929   0929      0929  SVI  G   RBR  245       230                   
+
+3290       0958   1000      1009  SVI  3   FLA  S20E13    SF                1530
+
+3300       1010   1010      1013  SVI  3   FLA  S22E47    SF                1532
+
+3320       1156   1203      1207  G15  5   XRA  1-8A      C3.1    1.4E-03   1532
+3320       1156   1206      1214  SVI  3   FLA  S25E48    SF                1532
+
+3330       1218   ////      1219  SAG  C   RSP  035-180   III/1                 
+3330       1219   1219      1219  SAG  G   RBR  245       640                   
+
+3340 +     1322   1325      1327  SVI  3   FLA  S24E45    SF                1532
+
+3350       1413   1422      1433  SVI  3   FLA  S20E11    SF                1530
+
+3400       1418   1422      1439  SVI  3   FLA  S23E47    SF                1532
+
+3410       1424   1427      1432  HOL  3   FLA  S21E37    SF      ERU       1532
+
+3360 +     1442   1507      1523  SVI  3   FLA  S23E47    1F      ERU       1532
+3360 +     1454   ////      1458  SVI  C   RSP  025-132   III/2             1532
+3360       1504   1508      1511  G15  5   XRA  1-8A      C2.2    5.4E-04   1532
+
+3370       1514   1517      1519  G15  5   XRA  1-8A      C1.9    3.2E-04       
+
+3380       1900   1903      1908  HOL  3   FLA  S20E38    SF      ERU       1532
+
+3390       2004   2005      2012  HOL  3   FLA  S23E39    SF                1532
+
+3430       2151   2157      2203  G15  5   XRA  1-8A      C1.9    1.0E-03       
+
+3440       2234   2239      2247  HOL  3   FLA  S21E37    SF                1532

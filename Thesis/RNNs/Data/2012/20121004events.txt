@@ -1,0 +1,24 @@
+:Product: 20121004events.txt
+:Created: 2012 Oct 07 0332 UT
+:Date: 2012 10 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Oct 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6800 +     0048   0053      0058  G15  5   XRA  1-8A      B6.0    2.7E-04       
+
+6810       0619   0620      0623  SVI  3   FLA  N05W16    SF                    
+
+6820       1010   ////      1052  SVI  C   RSP  025-172   VI/1                  
+
+6840       1349   1354      1359  G15  5   XRA  1-8A      B3.0    1.8E-04       
+
+6850       1507   1509      1512  G15  5   XRA  1-8A      B3.3    1.1E-04       
+
+6830       1631   1637      1642  G15  5   XRA  1-8A      B3.5    1.7E-04       

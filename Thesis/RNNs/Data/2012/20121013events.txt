@@ -1,0 +1,30 @@
+:Product: 20121013events.txt
+:Created: 2012 Oct 16 0332 UT
+:Date: 2012 10 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Oct 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8020       0428   ////      0428  LEA  C   RSP  025-146   III/1                 
+
+8030       0811   ////      0812  SVI  C   RSP  025-135   III/1                 
+
+8040 +     0859   ////      0900  LEA  C   RSP  025-142   III/1                 
+
+8060       1211   1258      1331  G15  5   XRA  1-8A      B8.2    3.5E-03       
+8060       1258   ////      1409  SAG  C   RSP  025-082   VI/2                  
+
+8070       1703   ////      1708  SAG  C   RSP  025-180   III/1                 
+
+8080       2121   ////      2124  PAL  C   RSP  025-180   III/1                 
+
+8090       2227   ////      2238  LEA  C   RSP  025-092   VI/1                  
+
+8100 +     2346   ////      0018  G15  5   XRA  1-8A      C1.5    2.4E-03   1589
+8100       2348   2349      0011  HOL  3   FLA  N11E25    SF      ERU       1589

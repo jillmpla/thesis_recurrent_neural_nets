@@ -1,0 +1,50 @@
+:Product: 20120906events.txt
+:Created: 2012 Sep 09 0332 UT
+:Date: 2012 09 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Sep 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2390 +     0020   ////      0112  LEA  C   RSP  031-129   VI/1                  
+2390 +     0108   0114      0119  G15  5   XRA  1-8A      C1.2    5.4E-04   1560
+
+2400 +     0151   0206      0215  G15  5   XRA  1-8A      C1.9    2.2E-03   1560
+
+2410 +     0232   0241      0244  G15  5   XRA  1-8A      C2.4    1.2E-03   1564
+2410       0235   0241      0246  LEA  3   FLA  S13E01    SF                1564
+
+2420 +     0311   0316      0320  G15  5   XRA  1-8A      C1.8    6.2E-04   1560
+2420 +     0313   ////      0315  CUL  C   RSP  023-180   III/1             1560
+2420       0314   0315      0320  LEA  3   FLA  N03W60    SN                1560
+
+2430 +     0406   0413      0420  G15  5   XRA  1-8A      M1.6    7.5E-03   1560
+
+2470       0616   ////      1005  LEA  2   EPL  ////      0.15    B.6A          
+
+2440       0652   0653      0655  SVI  3   FLA  S12E01    SF                1564
+
+2450 +     0740   0751      0800  G15  5   XRA  1-8A      C3.0    2.3E-03   1564
+
+2480       0743   0749      0845  LEA  3   FLA  S13W02    SN      BPT       1564
+
+2450       0749   0749      0749  SVI  G   RBR  4995      100                   
+2450       0749   0749      0749  SVI  G   RBR  8800      57                    
+
+2490 +     0951   0956      1008  G15  5   XRA  1-8A      C1.3    9.9E-04   1560
+
+2500 +     1154   1158      1200  G15  5   XRA  1-8A      C1.0    2.1E-04   1560
+
+2600      A1337   ////     A0624  SVI  3   DSF  N13W52    6                     
+
+2510 +     1513   1521      1530  G15  5   XRA  1-8A      C8.0    4.9E-03   1560
+
+2520 +     1727   1731      1734  G15  5   XRA  1-8A      C1.4    3.6E-04   1564
+2520       1730   1731      1734  HOL  3   FLA  S17W08    SF      ERU       1564
+
+2530 +     2141   2145      2148  G15  5   XRA  1-8A      B8.4    2.2E-04   1560

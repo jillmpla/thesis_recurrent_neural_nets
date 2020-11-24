@@ -1,0 +1,37 @@
+:Product: 20121012events.txt
+:Created: 2012 Oct 15 0332 UT
+:Date: 2012 10 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Oct 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7930       0252   0303      0316  G15  5   XRA  1-8A      C1.0    1.4E-03   1590
+7930       0300   0302      0307  LEA  3   FLA  S28E63    SF      ERU       1590
+
+7940       0352   ////      0352  CUL  C   RSP  020-050   III/1                 
+
+7950       0548   0637      0645  G14  5   XRA  1-8A      C1.0    5.3E-04   1589
+7950       0635   0636      0639  LEA  3   FLA  N13E51    SF                1589
+
+7960 +     0744   0754      0800  G15  5   XRA  1-8A      C1.6    1.2E-03   1589
+7960 +     0746   0749      0758  LEA  3   FLA  N13E51    SF                1589
+
+7970       0808   0820      0843  LEA  3   FLA  N14E47    1F                1589
+7970 +     0808   0820      0829  G14  5   XRA  1-8A      C9.0    7.4E-03   1589
+
+7980       0900   0904      0907  G14  5   XRA  1-8A      B9.9    2.7E-04   1589
+7980      B0903  U0904     A0919  SVI  2   FLA  N13E45    SF                1589
+
+8050      A0949   ////     A0729  SVI  3   DSF  N17W28    13                    
+
+8010       1252   1254      1257  G15  5   XRA  1-8A      B7.9    2.7E-04       
+
+7990 +     1847   1851      1857  G15  5   XRA  1-8A      B7.5    3.2E-04   1590
+
+8000 +     1945   1949      1952  G15  5   XRA  1-8A      C1.0    3.0E-04   1589

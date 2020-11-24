@@ -1,0 +1,83 @@
+:Product: 20120901events.txt
+:Created: 2012 Sep 04 0332 UT
+:Date: 2012 09 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Sep 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 970 +     0028   0039      0049  G15  5   XRA  1-8A      C3.4    3.5E-03   1554
+ 970 +     0029   0031      0041  LEA  3   FLA  N15W82    SF                1554
+
+ 980       0051   0051      0100  LEA  3   FLA  N03E09    SF                1560
+
+ 990       0339   0339      0343  LEA  3   FLA  S13E71    SF                    
+
+1000       0403   0403      0410  LEA  3   FLA  N03E08    SF                1560
+
+1010       0507   0509      0514  LEA  3   FLA  S16E67    SF                    
+
+1020       0515   0516      0524  LEA  3   FLA  N03E07    SF                1560
+
+1030       0621   0621      0624  LEA  3   FLA  S16E66    SF                    
+
+1040       0706   0707      0715  LEA  3   FLA  S16E66    SF                    
+
+1050 +     0719   ////      0722  LEA  C   RSP  025-140   III/2                 
+1050 +     0721   0721      0722  LEA  G   RBR  245       180                   
+1050       0722   0723      0724  LEA  3   FLA  S16E65    SF                    
+
+1060 +     0914   0914      0919  SVI  3   FLA  N07W03    SF                1560
+
+1070       1039   1040      1042  SVI  3   FLA  S23W47    SF                1553
+
+1080       1107   1108      1109  SVI  3   FLA  S23W47    SF                1553
+
+1090       1115   1116      1126  SVI  3   FLA  S12E64    SF                    
+
+1110       1132   1135      1203  SVI  3   FLA  N04E02    SF      ERU       1560
+
+1120       1223   1230      1241  SVI  3   FLA  N11W02    SF                1558
+
+1130       1244   1244      1247  SVI  3   FLA  S23W48    SF                1553
+
+1140       1316   1318      1320  SVI  3   FLA  S22W49    SF                1553
+
+1150       1337   1338      1344  SVI  3   FLA  S23W49    SF                1553
+
+1180       1406   ////      1606  SAG  C   RSP  025-078   VI/1                  
+
+1160       1424   1441      1518  HOL  3   FLA  N03W01    SF                1560
+1160 +     1507   1509      1510  SAG  G   RBR  245       230               1560
+
+1170       1611   1612      1614  HOL  3   FLA  S22W52    SF                1553
+
+1190 +     1733   1737      1748  G15  5   XRA  1-8A      C1.5    1.1E-03   1553
+1190       1737   1737      1743  HOL  3   FLA  S21W52    SF                1553
+1190       1744   1744      1744  SAG  G   RBR  245       100               1553
+
+1200 +     1823   1828      1834  G15  5   XRA  1-8A      C2.9    1.4E-03   1554
+
+1210       1845   1845      1845  SAG  G   RBR  410       170                   
+
+1220 +     1854   1902      1912  G15  5   XRA  1-8A      C2.2    1.9E-03   1564
+1220       1855   1857      1919  HOL  3   FLA  S13E59    SF      ERU       1564
+
+1230       1923   1931      1942  HOL  3   FLA  S21W54    SF      DSD       1553
+1230 +     1939   1945      2029  G15  5   XRA  1-8A      C1.9    5.3E-03   1553
+
+1240       1943   1945      1947  HOL  3   FLA  S21W54    SF      ERU       1553
+
+1230       1955   1955      1955  SAG  G   RBR  245       1200              1553
+1230 +     1955   ////      1955  SAG  C   RSP  104-180   III/1             1553
+
+1250 +     2209   ////      2209  SAG  C   RSP  025-134   III/1                 
+
+1260       2306   2306      2306  LEA  G   RBR  245       110                   
+
+1270 +     2343   2349      0021  LEA  3   FLA  N03W04    1F                1560

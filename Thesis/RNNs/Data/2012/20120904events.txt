@@ -1,0 +1,53 @@
+:Product: 20120904events.txt
+:Created: 2012 Sep 07 0332 UT
+:Date: 2012 09 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Sep 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2120      A0034   ////     A1333  HOL  3   DSF  S13E63    14                    
+
+2050       0236   ////      0958  LEA  C   RSP  046-154   CTM/1                 
+
+1990 +     0455   ////      0458  LEA  C   RSP  033-180   III/2                 
+1990 +     0457   0507      0514  G15  5   XRA  1-8A      C2.7    2.0E-03   1564
+
+2070       0517   ////      1111  SVI  C   RSP  074-180   CTM/1                 
+
+2000       0541  U0557      0607  SVI  3   FLA  S16E31    SF                1564
+
+2010       0611  U0638      0650  SVI  3   FLA  S14E28    SF                1564
+2010       0635   0642      0651  G15  5   XRA  1-8A      C1.7    1.3E-03   1564
+
+2020       0709   0715      0720  G15  5   XRA  1-8A      C2.3    1.0E-03   1565
+2020 +     0711   ////      0722  LEA  C   RSP  025-180   VI/2              1565
+2020 +     0712   0714      0732  LEA  3   FLA  N10E20    SF                1565
+2020 +     0712   ////      0714  CUL  C   RSP  020-080   III/1             1565
+
+2030 +     0731   0734      0738  G15  5   XRA  1-8A      C1.2    3.5E-04   1565
+
+2040 +     0801   ////      0803  SVI  C   RSP  025-082   III/1                 
+
+2060       0942   0947      0954  G15  5   XRA  1-8A      C1.5    8.0E-04   1564
+2060      B0944  U0948     A1037  SVI  3   FLA  S15E25    SF                1564
+
+2080       1153   1153      1153  SAG  G   RBR  245       520                   
+2080       1153   ////      1153  SAG  C   RSP  063-180   III/1                 
+
+2090       1240   ////      1240  SVI  C   RSP  050-112   III/1                 
+
+2100       1400  U1401      1406  SVI  3   FLA  S13E22    SF                1564
+
+2110       1537   1540      1550  SVI  3   FLA  S14W50    SF                1561
+
+2200      A1615   ////     A0515  SVI  2   DSF  N27E61    7                     
+
+2130       2310   0004      0022  G15  5   XRA  1-8A      C1.3    4.4E-03   1553
+2130       2314   2314      2314  LEA  G   RBR  245       490                   
+2130       2314   ////      2314  LEA  C   RSP  025-180   III/2                 

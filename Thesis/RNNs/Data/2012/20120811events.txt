@@ -1,0 +1,61 @@
+:Product: 20120811events.txt
+:Created: 2012 Aug 14 0332 UT
+:Date: 2012 08 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Aug 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7160       0113   0119      0130  G15  5   XRA  1-8A      C1.1    8.6E-04   1544
+7160       0117   0119      0123  LEA  3   FLA  S29W20    SF                1544
+
+7170       0225   0225      0225  LEA  G   RBR  245       100                   
+
+7250       0330   ////      0917  LEA  C   RSP  075-180   CTM/1                 
+
+7180 +     0340   ////      0453  PAL  C   RSP  075-180   CTM/1                 
+
+7190       0450   0454      0457  LEA  3   FLA  S15E23    SF                1542
+
+7200       0500   0500      0500  SVI  G   RBR  245       130                   
+
+7210       0635   0638      0641  G15  5   XRA  1-8A      B5.5    1.2E-04   1542
+7210       0637   0637      0651  SVI  3   FLA  S13E23    SF                1542
+
+7220       0700   0720      0733  SVI  3   FLA  S13E23    1F      ERU       1542
+
+7230       0702   0703      0722  SVI  3   FLA  N24E32    SF                1543
+
+7240       0718   0722      0728  G15  5   XRA  1-8A      B7.2    3.2E-04   1542
+7240       0721   0721      0728  LEA  3   FLA  S15E21    SF                1542
+
+7260       0902   0908      0914  G15  5   XRA  1-8A      B6.7    3.8E-04       
+
+7270       1028   ////      1202  SAG  C   RSP  103-180   CTM/1             1542
+7270       1125   1127      1134  SVI  3   FLA  S16E21    SF                1542
+
+7280 +     1130   1130      1130  SVI  G   RBR  245       110                   
+
+7290       1155   1220      1257  G15  5   XRA  1-8A      M1.0    2.5E-02   1540
+7290       1156   1217      1336  SVI  3   FLA  S28W38    2N      ERU       1540
+
+7300       1252   1252      1304  SVI  3   FLA  S25W30    SF                1544
+
+7310 +     1533   1533      1533  SAG  G   RBR  245       150                   
+
+7330       1554   ////      1740  SVI  C   RSP  102-144   CTM/1                 
+
+7320       1628   1642      1703  G15  5   XRA  1-8A      C2.0    3.4E-03   1542
+7320 +     1629   1642      1711  HOL  3   FLA  S19E18    1F      ERU       1542
+7320       1642   ////      1826  PAL  C   RSP  109-152   CTM/1             1542
+
+7340       1942   ////      1942  PAL  C   RSP  025-068   III/1                 
+
+7350       2253   ////      2302  PAL  C   RSP  025-048   III/1                 
+
+7360       2307   ////      2359  LEA  C   RSP  073-180   CTM/1                 

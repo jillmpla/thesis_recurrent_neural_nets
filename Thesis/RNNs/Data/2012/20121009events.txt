@@ -1,0 +1,58 @@
+:Product: 20121009events.txt
+:Created: 2012 Oct 12 0332 UT
+:Date: 2012 10 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Oct 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7280       0000   ////      0402  PAL  C   RSP  075-180   CTM/1                 
+7280       0016   ////      0016  LEA  C   RSP  025-062   III/1                 
+
+7290       0147   ////      0147  CUL  C   RSP  018-120   III/2                 
+
+7300 +     0147   ////      0147  LEA  C   RSP  025-089   III/2                 
+
+7310       0318   ////      0318  LEA  C   RSP  025-146   III/1                 
+
+7320       0323   0324      0329  LEA  3   FLA  S08W63    SF                    
+7320       0325   0335      0347  G15  5   XRA  1-8A      C1.7    1.9E-03       
+
+7330 +     0417   0423      0433  G15  5   XRA  1-8A      C1.0    8.0E-04       
+7330       0422   0422      0428  LEA  3   FLA  S08W64    SF                    
+
+7360       0545   ////      1421  SVI  C   RSP  025-169   CTM/1                 
+
+7340       0613   0637      0648  G15  5   XRA  1-8A      C1.2    2.2E-03       
+7340       0633   0638      0642  LEA  3   FLA  N08W48    SF                    
+
+7350       0845   0851      0903  G14  5   XRA  1-8A      C1.2    1.1E-03       
+
+7370 +     1134   1151      1207  G15  5   XRA  1-8A      C1.0    1.6E-03       
+
+7380 +     1306   ////      1307  SVI  C   RSP  027-064   III/2                 
+
+7390       1331   ////      1351  SVI  C   RSP  032-147   VI/1                  
+
+7400 +     1448   1501      1511  G15  5   XRA  1-8A      C1.9    2.1E-03       
+
+7410 +     1517   1525      1533  G15  5   XRA  1-8A      C5.9    3.7E-03       
+
+7420 +     1712   ////      1715  SAG  C   RSP  025-070   III/2                 
+
+7450       2029   ////      2031  CUL  C   RSP  018-060   III/1                 
+
+7430 +     2029   ////      2029  PAL  C   RSP  025-045   III/1                 
+
+7440       2043   2050      2055  G15  5   XRA  1-8A      C3.4    1.5E-03       
+
+7460       2132   2151      2203  G15  5   XRA  1-8A      C3.6    4.1E-03       
+
+7470       2214   2219      2229  G15  5   XRA  1-8A      C3.0    2.2E-03       
+
+7480 +     2322   2331      2335  G15  5   XRA  1-8A      M1.7    6.4E-03       

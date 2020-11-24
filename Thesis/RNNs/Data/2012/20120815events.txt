@@ -1,0 +1,54 @@
+:Product: 20120815events.txt
+:Created: 2012 Aug 18 0332 UT
+:Date: 2012 08 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Aug 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8140 +     0000   ////      0951  LEA  C   RSP  025-180   CTM/2                 
+
+8130       0004   ////      0011  LEA  C   RSP  025-180   VI/2                  
+
+8140       0059   ////      0306  LEA  C   RSP  025-180   VI/2                  
+
+8160 +     0337   0346      0354  G15  5   XRA  1-8A      B8.5    5.8E-04   1543
+8160       0338   ////      0452  PAL  C   RSP  025-180   VI/2              1543
+8160       0341   0345      0419  LEA  3   FLA  N23W25    SF      ERU       1543
+
+8230       0412   ////      1735  SVI  C   RSP  048-169   CTM/2                 
+8230       0428   ////      1618  SVI  C   RSP  025-143   VI/2                  
+
+8170       0523   0523      0523  SVI  G   RBR  245       160                   
+
+8180       0557   0558      0558  SVI  G   RBR  245       110                   
+
+8200       0603   0604      0643  SVI  G   RNS  245       210                   
+
+8190 +     0746   0746      0749  LEA  3   FLA  N26W21    SF                1543
+
+8210       1107   ////      1240  SAG  C   RSP  102-180   CTM/1                 
+
+8290       1138   ////      1140  SAG  C   RSP  025-141   III/1                 
+
+8270       1421   ////      1926  SAG  C   RSP  102-180   CTM/1                 
+
+8240       1426   ////      1618  SAG  C   RSP  025-051   VI/1                  
+
+8220 +     1448   1454      1512  G15  5   XRA  1-8A      B6.8    7.3E-04   1542
+8220 +     1450   1453      1519  SVI  3   FLA  S12W40    SF                1542
+
+8250       1546   1546      1555  SVI  3   FLA  N25W25    SF                1543
+
+8280       1642   ////      1916  PAL  C   RSP  080-180   CTM/1                 
+
+8260 +     1706   ////      1706  SVI  C   RSP  032-113   III/1                 
+
+8320       1842   ////      2359  PAL  C   RSP  025-180   VI/1                  
+
+8300       1842   ////      2204  SAG  C   RSP  025-052   VI/1                  

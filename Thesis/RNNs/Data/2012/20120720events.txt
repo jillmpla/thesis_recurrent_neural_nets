@@ -1,0 +1,59 @@
+:Product: 20120720events.txt
+:Created: 2012 Jul 23 0332 UT
+:Date: 2012 07 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jul 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1830 +     0012   ////      0042  LEA  C   RSP  025-180   VI/2                  
+1830 +     0025   ////      0028  CUL  C   RSP  018-200   III/3                 
+
+1840 +     0130   ////      0132  LEA  C   RSP  025-180   III/1                 
+
+1850 +     0247   ////      0328  LEA  C   RSP  025-180   VI/2                  
+1850       0251   0251      0251  LEA  G   RBR  245       110                   
+1850 +     0252   ////      0252  CUL  C   RSP  018-180   III/2                 
+
+1860 +     0332   ////      0334  CUL  C   RSP  018-200   III/2                 
+1860       0332   0332      0332  LEA  G   RBR  245       440                   
+
+1880       0405   ////      0430  LEA  C   RSP  025-180   VI/1                  
+
+1870       0405   ////      0405  SVI  C   RSP  025-040   III/1                 
+1870       0405   ////      0430  PAL  C   RSP  025-180   VI/1                  
+
+1880 +     0430   ////      0430  CUL  C   RSP  018-200   III/2                 
+
+1890 +     0559   ////      0707  LEA  C   RSP  025-180   VI/1                  
+
+1900 +     0826   ////      0832  LEA  C   RSP  025-180   III/2                 
+
+1910       0946   ////      0946  SVI  C   RSP  025-079   III/1                 
+
+1920 +     1008   ////      1008  SVI  C   RSP  025-143   III/2                 
+
+1930 +     1212   ////      1213  SVI  C   RSP  025-080   III/1                 
+
+1940 +     1254   ////      1541  SAG  C   RSP  025-180   VI/1                  
+
+1950       1444   ////      1540  SVI  C   RSP  025-079   VI/1                  
+
+1960 +     1634   ////      1634  SVI  C   RSP  025-075   III/1                 
+
+1970 +     1909   ////      1914  SAG  C   RSP  025-180   III/1                 
+
+1990 +     2032   ////      2048  SAG  C   RSP  025-075   VI/1                  
+
+2000 +     2131   2137      2145  G15  5   XRA  1-8A      B5.0    3.3E-04   1525
+
+2030 +     2218   2222      2226  G15  5   XRA  1-8A      B4.2    1.4E-04   1525
+
+2010 +     2220   ////      2221  PAL  C   RSP  025-058   III/1                 
+
+2020       2230   2230      2230  SAG  G   RBR  410       500                   

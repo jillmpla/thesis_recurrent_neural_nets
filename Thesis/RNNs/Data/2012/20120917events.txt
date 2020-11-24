@@ -1,0 +1,41 @@
+:Product: 20120917events.txt
+:Created: 2012 Sep 20 0332 UT
+:Date: 2012 09 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Sep 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4790 +     0345   0345      0345  LEA  G   RBR  245       100                   
+
+4800       0423   ////      0423  CUL  C   RSP  020-090   III/1                 
+
+4810       0614   0649      0813  G15  5   XRA  1-8A      B5.6    3.4E-03   1567
+
+4820       0904   0908      0910  G14  5   XRA  1-8A      C1.1    2.2E-04   1567
+4820       0906   ////      0913  SVI  C   RSP  025-114   III/1                 
+
+4840       1115   ////      1118  SVI  C   RSP  025-038   III/1                 
+4840       1116   1116      1116  SVI  G   RBR  245       110                   
+
+4850 +     1135   1146      1201  G15  5   XRA  1-8A      C1.5    1.8E-03   1575
+
+4860       1226   ////      1226  SVI  C   RSP  025-073   III/1                 
+
+4870       1248   ////      1321  SVI  C   RSP  025-045   VI/1                  
+4870       1309   ////      1309  SAG  C   RSP  025-061   III/1                 
+
+4880 +     1350   1406      1413  G15  5   XRA  1-8A      C2.1    2.1E-03   1575
+
+4900       1422   1422      1426  SVI  G   RNS  245       160                   
+
+4890       1423   1423      1426  SAG  G   RBR  245       150                   
+
+4910       2110   2110      2110  SAG  G   RBR  245       100                   
+
+4920 +     2206   2212      2222  G15  5   XRA  1-8A      B9.4    6.8E-04   1575

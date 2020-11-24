@@ -1,0 +1,41 @@
+:Product: 20121017events.txt
+:Created: 2012 Oct 20 0332 UT
+:Date: 2012 10 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Oct 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8640       0000   ////      1011  LEA  C   RSP  078-180   CTM/1                 
+
+8570       0033   ////      0034  LEA  C   RSP  036-064   III/1                 
+
+8580 +     0044   0049      0102  G15  5   XRA  1-8A      C1.1    1.0E-03   1589
+8580       0050   0050      0109  LEA  3   FLA  N12W17    SF                1589
+
+8590       0328   ////      0355  LEA  C   RSP  033-058   VI/1                  
+
+8600       0443   ////      0443  LEA  C   RSP  043-180   III/1                 
+
+8650       0545   ////      1001  SVI  C   RSP  103-169   CTM/1                 
+
+8610 +     0556   0605      0615  G15  5   XRA  1-8A      C1.2    1.1E-03       
+
+8620       0736   0738      0746  LEA  3   FLA  N11W21    SF      ERU       1589
+
+8630 +     0752   0802      0816  G15  5   XRA  1-8A      C7.4    7.9E-03   1596
+
+8660 +     1216   1221      1226  G15  5   XRA  1-8A      C1.3    5.6E-04   1594
+
+8670       1238   1239      1241  SVI  3   FLA  S25E39    SF                1594
+
+8680 +     1427   1434      1440  G15  5   XRA  1-8A      C2.0    1.1E-03   1596
+
+8690       1550   1556      1603  G15  5   XRA  1-8A      C1.0    6.6E-04       
+
+8720      A2225   ////     A1516  HOL  3   DSF  S15W19    9                     

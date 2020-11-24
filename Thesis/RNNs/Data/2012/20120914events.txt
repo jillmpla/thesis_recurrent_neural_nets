@@ -1,0 +1,89 @@
+:Product: 20120914events.txt
+:Created: 2012 Sep 17 0332 UT
+:Date: 2012 09 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Sep 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4070 +     0034   ////      0037  LEA  C   RSP  025-126   III/1                 
+
+4080 +     0140   0146      0151  G15  5   XRA  1-8A      B3.8    1.9E-04       
+4080 +     0142   ////      0145  CUL  C   RSP  018-070   III/1                 
+
+4090       0309   ////      0310  CUL  C   RSP  027-050   III/1                 
+
+4100 +     0359   ////      0402  CUL  C   RSP  018-180   III/1                 
+
+4110       0507   ////      0507  LEA  C   RSP  025-075   III/1                 
+
+4120       0508   0508      0508  LEA  G   RBR  245       110                   
+
+4130       0629   ////      0629  SVI  C   RSP  025-081   III/1                 
+
+4140       0732   ////      0732  SVI  C   RSP  025-117   III/1                 
+
+4150       0815   0817      0822  LEA  3   FLA  N21W54    SF                1566
+
+4160       0834   ////      0836  LEA  C   RSP  025-180   III/2                 
+
+4190       0914   ////      1000  SVI  C   RSP  025-180   VI/1                  
+
+4170       0914   ////      0922  LEA  C   RSP  025-180   III/2                 
+
+4180 +     0958   1000      1000  SVI  G   RBR  245       260                   
+
+4200       1057   ////      1057  SAG  C   RSP  025-070   III/1                 
+4200 +     1057   ////      1126  SVI  C   RSP  025-149   VI/2                  
+
+4210       1125   1125      1126  SAG  U   RBR  245       130                   
+
+4220 +     1211   ////      1233  SAG  C   RSP  025-180   VI/2                  
+
+4230 +     1254   1254      1254  SVI  G   RBR  245       100                   
+
+4240 +     1309   ////      1316  SVI  C   RSP  025-180   III/2                 
+4240       1312   1312      1315  SAG  G   RBR  410       59                    
+4240 +     1313   1314      1315  SVI  G   RBR  245       380                   
+4240       1314   1323      1328  G15  5   XRA  1-8A      B3.9    3.0E-04   1569
+
+4250       1317  U1323      1332  SVI  3   FLA  S13E15    SF                1569
+4250 +     1320   1320      1320  SVI  G   RBR  245       240               1569
+4250 +     1320   ////      1324  SVI  C   RSP  025-180   III/2             1569
+
+4270       1423   ////      1512  SAG  C   RSP  025-083   VI/2                  
+
+4260       1423   ////      1427  SVI  C   RSP  025-144   III/1                 
+
+4270       1510   ////      1512  SVI  C   RSP  025-135   III/1                 
+
+4280 +     1556   ////      1831  SAG  C   RSP  025-180   VI/1                  
+
+4290       1737   ////      1739  PAL  C   RSP  025-180   III/1                 
+
+4300       1815   ////      1818  PAL  C   RSP  025-153   III/1                 
+
+4310       1831   ////      1831  PAL  C   RSP  025-068   III/1                 
+
+4320       1920   ////      1924  PAL  C   RSP  025-155   III/2                 
+4320       1920   ////      2006  SAG  C   RSP  025-180   VI/2                  
+
+4330       1936   ////      1936  PAL  C   RSP  025-125   III/1                 
+4330       1936   ////      2006  PAL  C   RSP  025-180   VI/2                  
+
+4340       2107   ////      2107  PAL  C   RSP  025-058   III/1                 
+4340 +     2107   ////      2149  PAL  C   RSP  025-180   VI/1                  
+
+4350       2131   ////      2131  PAL  C   RSP  025-180   III/2                 
+
+4360       2142   ////      2146  PAL  C   RSP  025-180   III/2                 
+
+4370       2221   ////      2255  PAL  C   RSP  025-180   III/1                 
+4370 +     2231   ////      2259  LEA  C   RSP  025-180   VI/2                  
+
+4420       2324   2341      2351  G15  5   XRA  1-8A      B3.0    4.1E-04   1566

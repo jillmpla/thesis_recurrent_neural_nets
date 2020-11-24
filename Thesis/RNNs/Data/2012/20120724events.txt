@@ -1,0 +1,29 @@
+:Product: 20120724events.txt
+:Created: 2012 Jul 27 0332 UT
+:Date: 2012 07 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Jul 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2290       0533   0556      0627  G15  5   XRA  1-8A      C1.4    3.4E-03   1530
+
+2350       0854   0913      0932  G15  5   XRA  1-8A      B4.4    9.3E-04   1530
+
+2300       1022   1031      1046  G15  5   XRA  1-8A      B8.0    8.9E-04   1530
+
+2310       1128   1149      1221  G15  5   XRA  1-8A      C1.6    4.0E-03   1530
+
+2320       1343   1355      1415  G15  5   XRA  1-8A      C1.1    1.8E-03   1530
+2320 +     1343   1345      1348  SAG  G   RBR  2695      240                   
+2320       1413   ////      1437  SVI  C   RSP  026-116   VI/1                  
+
+2330       1616   1621      1627  G15  5   XRA  1-8A      B6.2    3.1E-04       
+
+2340       1856   1905      1917  G15  5   XRA  1-8A      C4.2    3.9E-03   1530
+2340       1915   1915      1921  HOL  3   FLA  S19E75    SF      ERU           

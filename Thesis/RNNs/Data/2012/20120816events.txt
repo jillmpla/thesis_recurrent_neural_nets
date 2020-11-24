@@ -1,0 +1,60 @@
+:Product: 20120816events.txt
+:Created: 2012 Aug 19 0332 UT
+:Date: 2012 08 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Aug 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8340 +     0000   ////      0212  PAL  C   RSP  025-180   VI/1                  
+
+8310      B0005   ////     B0025  LEA  3   EPL  ////      0.28                  
+
+8350       0129   ////      0234  LEA  C   RSP  126-180   CTM/1                 
+
+8330       0151   0207      0222  G15  5   XRA  1-8A      B6.0    9.2E-04   1542
+8330       0158   0158      0203  LEA  3   FLA  S20W41    SF                1542
+
+8350       0225   ////      0228  LEA  C   RSP  032-046   III/1                 
+
+8380       0334   ////      0603  LEA  C   RSP  086-180   CTM/1                 
+
+8360 +     0455   ////      0456  LEA  C   RSP  025-130   III/1                 
+
+8390       0511   ////      0554  SVI  C   RSP  075-180   CTM/1                 
+
+8370       0556   0556      0556  LEA  G   RBR  245       100                   
+
+8400 +     0606   0611      0617  G15  5   XRA  1-8A      B3.2    1.6E-04   1543
+8400       0609   0612      0622  SVI  3   FLA  N18W35    SF                1543
+
+8410       0855   ////      0856  SVI  C   RSP  025-041   III/1                 
+
+8420       0943   ////      1139  SVI  C   RSP  025-042   VI/1                  
+
+8430       1105   ////      1354  SAG  C   RSP  025-047   VI/1                  
+
+8440       1213   ////      1355  SVI  C   RSP  025-038   VI/1              1543
+8440 +     1241   1316      1348  G15  5   XRA  1-8A      C3.6    9.8E-03   1543
+8440       1245   1306      1542  SVI  3   FLA  N19W36    1F                1543
+8440 +     1251   1303      1303  SVI  G   RNS  245       140               1543
+8440 +     1254   ////      1525  SVI  C   RSP  025-180   IV/1              1543
+8440 +     1308   ////      1308  SVI  C   RSP  025-055   II/1    704       1543
+
+8460       1452   ////      1452  SVI  C   RSP  025-040   III/1                 
+8460       1452   ////      1516  SAG  C   RSP  025-039   VI/1                  
+
+8600      A1616   ////     A0528  SVI  3   DSF  S32W51    8                 1542
+
+8470 +     1741   ////      1741  PAL  C   RSP  025-053   III/1                 
+
+8480 +     1944   ////      1945  SAG  C   RSP  079-180   III/1                 
+
+8490       2051   ////      2051  PAL  C   RSP  025-044   III/1                 
+
+8500 +     2157   ////      2157  PAL  C   RSP  025-053   III/1                 

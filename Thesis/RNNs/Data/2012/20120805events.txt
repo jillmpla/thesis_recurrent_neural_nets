@@ -1,0 +1,27 @@
+:Product: 20120805events.txt
+:Created: 2012 Aug 08 0332 UT
+:Date: 2012 08 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Aug 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5490       0220   0230      0233  G15  5   XRA  1-8A      C1.8    9.6E-04   1532
+5490       0223   0231      0237  LEA  3   FLA  S19W51    SF                1532
+
+5500       0257   0257      0304  LEA  3   FLA  N18W02    SF                1535
+
+5520       0546   0625      0803  G15  5   XRA  1-8A      C1.1    8.6E-03   1539
+
+5530 +     1927   ////      1927  PAL  C   RSP  109-180   III/1                 
+
+5540       2304   ////      2305  CUL  C   RSP  060-180   III/1                 
+
+5550 +     2339   ////      2340  LEA  C   RSP  052-131   III/1                 
+
+5560       2355   ////      2355  LEA  C   RSP  044-100   III/1                 

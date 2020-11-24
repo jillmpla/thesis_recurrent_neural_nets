@@ -1,0 +1,29 @@
+:Product: 20121005events.txt
+:Created: 2012 Oct 08 0332 UT
+:Date: 2012 10 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Oct 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6860       0119   ////      0118  PAL  C   RSP  025-054   III/1                 
+
+7020      B0248   ////     A1230  SOH  4   CME  XUV,EUV,UV124-325/FS452       32030
+
+6870       0313   ////      1007  LEA  C   RSP  025-180   CTM/2             1584
+6870 +     0317   0730      1046  G15  5   XRA  1-8A      B7.8    1.4E-02   1584
+
+6900 +     0359   0404      0551  LEA  G   RNS  245       130                   
+
+6880       0502   ////      1019  SVI  C   RSP  025-169   CTM/1                 
+
+6920 +     1123   ////      1154  SVI  C   RSP  119-171   CTM/1                 
+
+6910       1135   1135      1135  SAG  G   RBR  245       180                   
+
+6940      A1540   ////     A0616  SVI  3   DSF  S12W26    6                     

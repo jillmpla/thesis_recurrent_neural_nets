@@ -1,0 +1,45 @@
+:Product: 20121014events.txt
+:Created: 2012 Oct 17 0332 UT
+:Date: 2012 10 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Oct 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8240       0032   ////      0033  CUL  C   RSP  018-100   III/1                 
+
+8110 +     0032   ////      0033  LEA  C   RSP  025-140   III/1                 
+
+8160      B0048   ////     A0642  SOH  3   CME  XUV,EUV,UV063-062/BS1120          
+
+8120       0115   0116      0122  LEA  3   FLA  N06E63    SF                1591
+
+8250       0159   ////      0159  CUL  C   RSP  020-060   III/1                 
+
+8130 +     0215   0230      0309  G15  5   XRA  1-8A      C4.8    1.2E-02       
+
+8200       0627   0632      0637  G15  5   XRA  1-8A      C1.1    7.2E-04   1591
+
+8210       0753   0759      0806  G15  5   XRA  1-8A      C1.0    8.4E-04   1591
+
+8140       0835   ////      0836  SVI  U   RSP  025-036   III/1                 
+
+8220       1230   1232      1236  G15  5   XRA  1-8A      B9.6    3.8E-04   1591
+
+8150 +     1248   1252      1255  G15  5   XRA  1-8A      C1.0    2.8E-04   1591
+8150       1251   1251      1255  SVI  3   FLA  N10E56    SF                1591
+
+8230       1635   1639      1646  G15  5   XRA  1-8A      B7.2    5.0E-04   1590
+
+8170 +     1845   1850      1859  G15  5   XRA  1-8A      B9.8    6.6E-04       
+
+8180 +     2028   2034      2038  G15  5   XRA  1-8A      C1.5    6.7E-04   1591
+8180       2030   2033      2042  HOL  3   FLA  N10E52    SF      ERU       1591
+
+8190 +     2154   2159      2206  G15  5   XRA  1-8A      C3.0    1.3E-03   1591
+8190       2158   2201      2204  HOL  3   FLA  N10E51    SF                1591

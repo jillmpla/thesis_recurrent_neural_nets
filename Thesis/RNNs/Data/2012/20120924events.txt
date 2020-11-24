@@ -1,0 +1,31 @@
+:Product: 20120924events.txt
+:Created: 2012 Sep 27 0332 UT
+:Date: 2012 09 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2012 Sep 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5630       0725  U0726     A0731  SVI  3   FLA  N09E10    SF                1575
+
+5640 +     0944   0949      0954  G15  5   XRA  1-8A      B9.6    4.1E-04   1575
+5640       0946   0947      0958  SVI  3   FLA  N09E09    SF                1575
+
+5650 +     1119   ////      1119  SVI  C   RSP  027-079   III/1                 
+
+5770      A1504   ////     A0613  SVI  3   DSF  N14E49    10                    
+
+5780      A1504   ////     A0613  SVI  3   DSF  N15W18    12                    
+
+5660 +     1539   1542      1545  G15  5   XRA  1-8A      C1.6    3.4E-04   1578
+5660 +     1540   1541      1542  SAG  G   RBR  245       540                   
+5660       1540   ////      1542  SAG  C   RSP  025-180   V/2                   
+5660       1540   ////      1542  SVI  C   RSP  030-171   III/2                 
+5660       1541   1541      1541  SAG  G   RBR  410       56                    
+
+5670 +     1923   1931      1939  G15  5   XRA  1-8A      C1.9    1.3E-03   1580
