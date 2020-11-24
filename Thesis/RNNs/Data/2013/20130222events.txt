@@ -1,0 +1,55 @@
+:Product: 20130222events.txt
+:Created: 2013 Feb 25 0332 UT
+:Date: 2013 02 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Feb 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7790       0000   ////      1021  LEA  C   RSP  067-180   CTM/1                 
+
+7570       0016   0028      0036  G15  5   XRA  1-8A      B5.6    6.1E-04   1678
+
+7540 +     0215   ////      0215  LEA  C   RSP  025-084   III/1                 
+
+7560 +     0348   ////      0428  LEA  3   DSF  N34E69    17                    
+
+7580 +     0932   ////      0933  SVI  C   RSP  031-171   III/2                 
+
+7590       1147   ////      1148  SVI  C   RSP  068-171   III/1                 
+
+7600       1152   1152      1153  SVI  G   RBR  245       140                   
+
+7610 +     1214   1222      1233  G15  5   XRA  1-8A      C1.0    8.1E-04   1678
+
+7830      A1332   ////     A0639  SVI  3   DSF  N41E32    6                     
+
+7620 +     1405   ////      1407  SVI  C   RSP  027-155   III/1                 
+
+7630 +     1437   ////      1438  SAG  C   RSP  025-125   III/2                 
+
+7640       1650   1650      1650  SAG  G   RBR  245       110                   
+
+7650       1719   1719      1719  SAG  G   RBR  245       100                   
+
+7660       1722   1722      1722  SAG  G   RBR  245       100                   
+
+7670       1751   1755      1759  G15  5   XRA  1-8A      B8.3    2.8E-04   1678
+
+7680       1851   1852      1852  SAG  G   RBR  245       140                   
+
+7550 +     1857   1910      1910  SAG  G   RNS  245       150                   
+
+7690 +     1908   ////      1912  PAL  C   RSP  025-086   III/1                 
+
+7700       2053   2059      2109  G15  5   XRA  1-8A      B9.0    6.5E-04   1678
+7700       2106   2106      2106  SAG  G   RBR  245       100                   
+
+7710       2249   2249      2249  LEA  G   RBR  245       110                   
+
+7720       2323   ////      2359  LEA  C   RSP  067-119   CTM/1                 

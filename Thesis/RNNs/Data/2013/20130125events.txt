@@ -1,0 +1,22 @@
+:Product: 20130125events.txt
+:Created: 2013 Jan 28 0332 UT
+:Date: 2013 01 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jan 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4530       0112   0127      0132  G15  5   XRA  1-8A      B3.4    3.2E-04   1658
+
+4540       0825   0828      0833  G15  5   XRA  1-8A      B2.3    7.5E-05   1660
+
+4550 +     1759   1803      1806  G15  5   XRA  1-8A      B2.3    6.3E-05   1661
+
+4560       1938   1941      1945  G15  5   XRA  1-8A      B2.4    6.7E-05   1661
+
+4570       2004   2031      2101  G15  5   XRA  1-8A      B5.9    1.6E-03   1661

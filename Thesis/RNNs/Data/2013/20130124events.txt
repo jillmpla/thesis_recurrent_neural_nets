@@ -1,0 +1,14 @@
+:Product: 20130124events.txt
+:Created: 2013 Jan 27 0332 UT
+:Date: 2013 01 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jan 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4510       1616   1621      1625  G15  5   XRA  1-8A      B6.6    2.1E-04   1661

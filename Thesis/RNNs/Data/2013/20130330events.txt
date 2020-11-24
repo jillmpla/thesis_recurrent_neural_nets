@@ -1,0 +1,89 @@
+:Product: 20130330events.txt
+:Created: 2013 Apr 02 0332 UT
+:Date: 2013 03 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Mar 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2370       0007   0007      0007  LEA  G   RBR  245       100                   
+
+2380 +     0153   ////      0154  LEA  C   RSP  025-180   III/2                 
+
+2390 +     0530   ////      0535  LEA  C   RSP  025-180   III/2                 
+2390 +     0530   0530      0530  LEA  G   RBR  245       140                   
+
+2400 +     0548   ////      0548  LEA  C   RSP  025-180   III/2                 
+
+2410 +     0718   ////      0718  LEA  C   RSP  025-127   III/2                 
+2410       0718   0718      0718  LEA  G   RBR  245       150                   
+
+2420 +     0830   ////      0833  LEA  C   RSP  025-180   III/2                 
+
+2430       0918   ////      0918  SVI  C   RSP  025-037   III/1                 
+
+2440       1016   1024      1032  G15  5   XRA  1-8A      B8.8    6.4E-04   1710
+
+2450 +     1111   1111      1112  SVI  G   RBR  245       370                   
+2450 +     1111   ////      1113  SVI  C   RSP  025-180   III/2                 
+
+2460       1200   ////      1200  SVI  C   RSP  025-044   III/1                 
+
+2470 +     1223   ////      1230  SAG  C   RSP  025-180   III/1                 
+
+2490       1306   1322      1331  G15  5   XRA  1-8A      B4.8    6.7E-04       
+
+2480 +     1309   ////      1310  SVI  C   RSP  025-143   III/1                 
+
+2490 +     1322   ////      1333  SAG  C   RSP  031-082   II/2    814           
+2490 +     1332   ////      1332  SAG  C   RSP  025-180   III/1                 
+
+2510       1357   ////      1431  SVI  C   RSP  025-125   VI/2                  
+
+2500 +     1423   1424      1424  SAG  G   RBR  245       220                   
+
+2520 +     1527   ////      1527  SVI  C   RSP  025-077   III/1                 
+
+2530       1613   ////      1622  SVI  C   RSP  025-143   III/1                 
+2530       1613   ////      1714  SAG  C   RSP  025-180   VI/2                  
+
+2540       1626   ////      1700  SVI  C   RSP  025-120   VI/1                  
+2540 +     1643   1643      1646  SAG  G   RBR  245       350                   
+
+2590 +     1647   1647      1648  SAG  G   RBR  245       130                   
+
+2610       1656   1656      1656  SVI  G   RBR  245       110                   
+
+2550       1804   1805      1805  SAG  G   RBR  245       250                   
+2550 +     1805   ////      1810  SAG  C   RSP  025-180   III/2                 
+
+2560       1808   1808      1809  SAG  G   RBR  245       2300                  
+2560       1808   1808      1808  SAG  G   RBR  410       58                    
+
+2580       1840   1843      1845  SAG  G   RBR  245       180                   
+
+2590 +     1847   ////      1856  SAG  C   RSP  025-180   III/2                 
+
+2600 +     1916   ////      1919  SAG  C   RSP  025-180   III/2                 
+2600       1918   1918      1918  SAG  G   RBR  245       220                   
+
+2620 +     2008   ////      2008  PAL  C   RSP  025-180   VI/1                  
+
+2630       2042   2042      2043  SAG  G   RBR  245       120                   
+
+2640       2103   2115      2118  SAG  G   RBR  245       540                   
+2640       2103   2129      2157  SAG  G   RNS  245       580                   
+
+2650 +     2125   ////      2125  PAL  C   RSP  025-180   III/1                 
+
+2660       2153   ////      2204  SAG  C   RSP  025-180   VI/2                  
+2660 +     2201   ////      2202  PAL  C   RSP  025-180   III/2                 
+
+2670       2238   ////      2238  PAL  C   RSP  025-160   III/1                 
+
+2680       2248   ////      2359  LEA  C   RSP  080-180   CTM/1                 

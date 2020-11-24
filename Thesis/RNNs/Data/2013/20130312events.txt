@@ -1,0 +1,40 @@
+:Product: 20130312events.txt
+:Created: 2013 Mar 15 0332 UT
+:Date: 2013 03 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Mar 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9370 +     0040   0040      0040  LEA  G   RBR  410       260                   
+
+9420      A0052   ////     A1347  HOL  3   DSF  N29E07    15                1690
+
+9430      A0052   ////     A1347  HOL  3   DSF  S35E31    10                    
+
+9380       0825   0825      0826  LEA  G   RBR  245       180                   
+
+9390       0828   0828      0829  LEA  G   RBR  245       170                   
+
+9530      A1001   ////     A2318  LEA  3   DSF  N17W01    8                     
+
+9440       1015   ////      1253  SVI  3   DSF  N05E30    14                1690
+
+9400       1017   1107      1225  G15  5   XRA  1-8A      C2.0    1.3E-02   1690
+9400      B1021  U1029     A1245  SVI  3   FLA  N25E01    1F      PRB       1690
+
+9410       1410   1416      1424  G15  5   XRA  1-8A      C1.0    7.2E-04   1695
+
+9460       2108   ////      2108  CUL  C   RSP  020-060   III/1                 
+
+9450       2242   2246      2249  G15  5   XRA  1-8A      C3.6    7.7E-04   1692
+9450 +     2245   2246      2251  HOL  3   FLA  S21W41    SF                1689
+
+9480       2316   0017      0127  G15  5   XRA  1-8A      C1.8    1.1E-02   1692
+
+9470       2338   2338      2339  PAL  G   RBR  410       110                   

@@ -1,0 +1,24 @@
+:Product: 20130218events.txt
+:Created: 2013 Feb 21 0332 UT
+:Date: 2013 02 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Feb 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7080       0236   0241      0244  G15  5   XRA  1-8A      C1.0    2.6E-04   1675
+7080       0240   0242      0249  LEA  3   FLA  N12E15    SF      BPT       1675
+
+7090       0423   0427      0429  G15  5   XRA  1-8A      B4.0    8.5E-05   1673
+7090       0426   0426      0427  LEA  3   FLA  S08E44    SF      ERU       1673
+
+7100       0920   ////      0921  SVI  U   RSP  025-158   III/1                 
+
+7110 +     1703   ////      1939  HOL  3   DSF  S38W10    29                    
+
+7120       2059   2059      2105  HOL  3   FLA  S11E35    SF      DSD       1673

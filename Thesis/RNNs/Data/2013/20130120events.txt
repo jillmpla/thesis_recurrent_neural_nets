@@ -1,0 +1,25 @@
+:Product: 20130120events.txt
+:Created: 2013 Jan 23 0332 UT
+:Date: 2013 01 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jan 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4320       1423   1432      1443  G15  5   XRA  1-8A      C1.1    9.9E-04   1654
+
+4330       1705   1737      1753  G15  5   XRA  1-8A      B7.0    1.3E-03   1654
+
+4340       1917   1920      1923  G15  5   XRA  1-8A      B4.5    9.3E-05   1654
+4340       1919   1919      1919  SAG  G   RBR  410       190                   
+
+4350 +     2130   2133      2135  G15  5   XRA  1-8A      B3.8    5.7E-05   1654
+
+4360 +     2253   2256      2259  G15  5   XRA  1-8A      B3.6    8.0E-05   1654
+
+4370       2336   ////      2336  CUL  C   RSP  020-050   III/1                 

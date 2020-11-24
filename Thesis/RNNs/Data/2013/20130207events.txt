@@ -1,0 +1,31 @@
+:Product: 20130207events.txt
+:Created: 2013 Feb 10 0332 UT
+:Date: 2013 02 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Feb 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6270       0024   ////      0024  CUL  C   RSP  020-065   III/1                 
+
+6280 +     0101   ////      0103  CUL  C   RSP  020-090   III/1                 
+
+6300       0139   ////      0141  CUL  C   RSP  025-075   III/1                 
+
+6310       0239   0248      0306  G15  5   XRA  1-8A      B6.6    7.7E-04   1667
+6310       0245   ////      0258  LEA  C   RSP  025-093   VI/1                  
+6310 +     0253   ////      0254  CUL  C   RSP  018-100   III/1                 
+
+6320 +     0544   ////      0617  LEA  C   RSP  025-172   VI/1                  
+
+6330 +     1016   ////      1019  LEA  C   RSP  025-180   III/1                 
+
+6340 +     1234   ////      1243  SVI  C   RSP  025-180   III/1                 
+6340       1234   1234      1234  SAG  G   RBR  245       570                   
+
+6350       1342   ////      1342  SAG  C   RSP  025-064   III/1                 

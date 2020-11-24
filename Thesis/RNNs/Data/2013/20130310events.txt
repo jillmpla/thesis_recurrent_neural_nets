@@ -1,0 +1,31 @@
+:Product: 20130310events.txt
+:Created: 2013 Mar 13 0332 UT
+:Date: 2013 03 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Mar 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9110 +     0021   ////      0021  LEA  C   RSP  025-083   III/1                 
+
+9160       0219   0331      0353  G15  5   XRA  1-8A      B6.7    2.9E-03   1691
+
+9120       0316   ////      0316  LEA  C   RSP  025-047   III/1                 
+
+9160       0317   ////      0317  CUL  C   RSP  018-060   III/1                 
+
+9190       0530   0538      0552  G15  5   XRA  1-8A      B4.9    6.0E-04   1691
+
+9170       0720   ////      0722  CUL  C   RSP  027-057   III/1                 
+
+9130 +     0751   0751      0751  SVI  G   RBR  245       140                   
+9130 +     0751   ////      0751  SVI  C   RSP  025-170   III/2                 
+
+9180       0752   ////      0752  CUL  C   RSP  023-070   III/1                 
+
+9200       1122   1140      1200  G15  5   XRA  1-8A      B5.1    1.0E-03       

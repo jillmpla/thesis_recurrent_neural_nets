@@ -1,0 +1,53 @@
+:Product: 20130305events.txt
+:Created: 2013 Mar 08 0332 UT
+:Date: 2013 03 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Mar 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8720 +     0001   ////      0001  LEA  C   RSP  025-086   III/1                 
+
+8730       0002   ////      0002  CUL  C   RSP  035-070   III/1                 
+
+8740       0103   ////      0104  PAL  C   RSP  025-086   III/1                 
+
+8780       0135   ////      0414  LEA  2   DSF  S25W66    5                     
+
+8750       0151   0154      0200  G15  5   XRA  1-8A      B5.2    2.0E-04   1686
+
+8760 +     0335   ////      0420  LEA  C   RSP  025-094   VI/1                  
+8760 +     0343   ////      0344  CUL  C   RSP  020-040   III/2                 
+
+8860       0404   ////      0959  LEA  2   DSF  S32E33    11                    
+
+8770       0518   0523      0530  G15  5   XRA  1-8A      B6.8    3.6E-04   1686
+
+8790 +     0552   0559      0613  G15  5   XRA  1-8A      B9.8    9.5E-04   1686
+
+8920       0618   ////      0619  CUL  C   RSP  018-060   III/1                 
+
+8930       0711   ////      0711  CUL  C   RSP  020-060   III/1                 
+
+8800       0747   0754      0759  G15  5   XRA  1-8A      M1.2    4.3E-03   1686
+8800 +     0750   0750      0756  SVI  G   RBR  410       110               1686
+8800       0750   0750      0750  SVI  G   RBR  245       100               1686
+8800       0752   0755      0801  LEA  3   FLA  S15W54    SF      DSD       1686
+8800       0752   ////      0756  CUL  C   RSP  500-830   III/1             1686
+8800       0752   0752      0753  SVI  G   RBR  4995      72                1686
+8800       0752   0752      0752  SVI  G   RBR  8800      64                1686
+8800       0752   0754      0754  LEA  G   RBR  610       180               1686
+8800 +     0756   ////      0805  LEA  C   RSP  036-180   II/1    1011      1686
+
+8890       1550   1555      1604  G15  5   XRA  1-8A      B8.3    4.9E-04   1686
+8890       1553   1554      1557  HOL  3   FLA  S12W57    SF      ERU       1686
+8890       1555   1555      1556  SAG  U   RBR  8800      150               1686
+
+8910       2038   2044      2048  G15  5   XRA  1-8A      C1.1    4.6E-04   1686
+
+8940      B2321   ////     B2342  LEA  3   EPL  ////      0.16    B.5A          

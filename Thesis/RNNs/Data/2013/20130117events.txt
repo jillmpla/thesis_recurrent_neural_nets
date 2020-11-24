@@ -1,0 +1,49 @@
+:Product: 20130117events.txt
+:Created: 2013 Jan 20 0332 UT
+:Date: 2013 01 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jan 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3870       0246   ////      0246  CUL  C   RSP  020-090   III/1                 
+
+3930       0537   ////      0537  CUL  C   RSP  020-090   III/1                 
+
+3880       0633   0633      0633  SVI  G   RBR  245       110                   
+
+3940       0643   ////      0646  CUL  C   RSP  020-040   III/1                 
+
+3950       0729   ////      0729  CUL  C   RSP  020-090   III/1                 
+
+3960       0748   ////      0750  CUL  C   RSP  020-060   III/1                 
+
+3890 +     0829   ////      0830  LEA  C   RSP  025-136   III/2                 
+3890       0832   0838      0840  G15  5   XRA  1-8A      B5.1    1.6E-04       
+
+3900       0904   ////      0904  SVI  C   RSP  027-049   III/1                 
+
+3910       1157   ////      1203  SVI  C   RSP  039-081   III/1                 
+
+3920 +     1909   ////      1912  SAG  C   RSP  025-146   III/2                 
+
+3970       2011   ////      2015  CUL  C   RSP  020-080   III/1                 
+
+3980 +     2121   ////      2122  CUL  C   RSP  018-150   III/3                 
+
+3990 +     2123   ////      2126  CUL  C   RSP  020-090   III/1                 
+
+4000       2149   ////      2149  CUL  C   RSP  020-070   III/1                 
+
+4010 +     2150   ////      2152  CUL  C   RSP  018-100   III/3                 
+
+4020 +     2240   ////      2359  LEA  C   RSP  025-180   VI/1                  
+4020 +     2303   ////      2304  PAL  C   RSP  025-180   III/2                 
+4020       2324   2327      2329  G15  5   XRA  1-8A      B5.2    8.7E-05       
+
+4030       2339   2340      2340  LEA  G   RBR  245       510                   

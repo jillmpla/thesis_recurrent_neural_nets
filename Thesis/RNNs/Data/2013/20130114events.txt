@@ -1,0 +1,68 @@
+:Product: 20130114events.txt
+:Created: 2013 Jan 17 0332 UT
+:Date: 2013 01 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jan 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3370       0000   ////      0359  PAL  C   RSP  075-180   IV/1                  
+
+3350       0056   ////      0056  LEA  C   RSP  025-062   III/1                 
+
+3360       0115   0122      0125  G15  5   XRA  1-8A      C6.5    2.4E-03   1652
+3360       0116   0119      0131  LEA  2   FLA  N14W31    SF                1652
+
+3510       0413   0417      0421  G15  5   XRA  1-8A      C1.5    7.7E-04   1657
+
+3580       0438   ////      0439  CUL  C   RSP  020-480   III/1                 
+
+3380       0438   ////      0438  LEA  C   RSP  025-105   III/1                 
+
+3520       0450   0454      0456  G15  5   XRA  1-8A      C1.8    4.3E-04   1657
+
+3590       0620   ////      0620  CUL  C   RSP  100-400   III/1                 
+
+3480       0623   ////      1534  SVI  C   RSP  025-180   IV/1                  
+
+3390       0627   0632      0636  G15  5   XRA  1-8A      C1.3    4.9E-04   1652
+
+3400       0638   0638      0638  SVI  U   RBR  245       150                   
+
+3410       0739   0743      0747  G15  5   XRA  1-8A      B8.7    2.8E-04   1654
+
+3420 +     0804   ////      0806  SVI  C   RSP  025-125   III/1                 
+
+3430       0857   0857      0857  SVI  U   RBR  245       120                   
+
+3440       0944   0948      0951  G15  5   XRA  1-8A      B8.1    2.3E-04       
+
+3450       1003   1003      1003  SVI  U   RBR  245       110                   
+
+3460       1208   ////      1213  SVI  C   RSP  043-166   III/1                 
+3460       1213   1213      1213  SVI  U   RBR  245       120                   
+
+3470 +     1354   1715      1935  SAG  G   RNS  245       510                   
+
+3490       1538   1546      1556  G15  5   XRA  1-8A      C3.4    2.5E-03   1654
+3490       1541   1552      1611  HOL  3   FLA  N06E02    SF      ERU       1654
+
+3500       1713   1720      1729  G15  5   XRA  1-8A      C1.3    9.8E-04   1654
+3500       1715   1718      1730  HOL  3   FLA  N03W09    SF      ERU       1654
+3500       1715   ////      1716  SAG  C   RSP  036-180   III/2             1654
+3500       1726   ////      2359  PAL  C   RSP  075-180   IV/1              1654
+
+3530       1845   1850      1853  G15  5   XRA  1-8A      B8.0    3.7E-04   1650
+
+3540       2014   2017      2017  SAG  G   RBR  245       150                   
+
+3550       2108   ////      2109  PAL  C   RSP  025-180   III/1                 
+
+3560       2213   2213      2213  LEA  G   RBR  245       150                   
+
+3570       2340   ////      2351  LEA  C   RSP  025-085   VI/1                  

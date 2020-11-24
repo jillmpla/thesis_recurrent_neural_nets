@@ -1,0 +1,49 @@
+:Product: 20130311events.txt
+:Created: 2013 Mar 14 0332 UT
+:Date: 2013 03 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Mar 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9210 +     0317   ////      0318  LEA  C   RSP  025-136   III/1                 
+
+9310       0437   ////      0439  CUL  C   RSP  018-150   III/2                 
+
+9220       0437   ////      0438  LEA  C   RSP  025-180   III/1                 
+
+9230       0531   ////      0531  SVI  C   RSP  025-079   III/1                 
+9230       0531   ////      0559  LEA  C   RSP  025-165   VI/1                  
+
+9320       0532   ////      0532  CUL  C   RSP  018-090   III/1                 
+
+9240       0559   ////      0559  SVI  C   RSP  025-079   III/1                 
+
+9330       0600   ////      0600  CUL  C   RSP  020-075   III/1                 
+
+9340       0603   ////      0606  CUL  C   RSP  020-060   III/1                 
+
+9250 +     0705   ////      0706  CUL  C   RSP  025-100   III/1                 
+
+9350       0709   ////      0709  CUL  C   RSP  030-057   III/1                 
+
+9260 +     0758   ////      0758  LEA  C   RSP  025-115   III/1                 
+
+9270       1032   1035      1037  G15  5   XRA  1-8A      B3.9    6.6E-05       
+
+9280       1621   1625      1627  G15  5   XRA  1-8A      B9.9    2.0E-04   1689
+9280 +     1624   1624      1624  SAG  G   RBR  410       680               1689
+9280       1624   1625      1626  HOL  3   FLA  S20W24    SF      DSD       1689
+
+9290       1640   1655      1707  G15  5   XRA  1-8A      C1.6    1.9E-03   1695
+
+9300       1753   1757      1759  G15  5   XRA  1-8A      B6.8    1.5E-04       
+
+9360       2349   2353      2355  G15  5   XRA  1-8A      B6.7    1.3E-04   1689
+9360 +     2351   2351      2351  PAL  G   RBR  410       1500                  
+9360 +     2353   ////      2353  PAL  C   RSP  025-132   III/1                 

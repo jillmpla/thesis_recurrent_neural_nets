@@ -1,0 +1,87 @@
+:Product: 20130315events.txt
+:Created: 2013 Mar 18 0332 UT
+:Date: 2013 03 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Mar 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9950      A0040   ////     A1345  HOL  3   DSF  S41W22    7                     
+
+9840       0429   0432      0435  G15  5   XRA  1-8A      B5.0    1.1E-04   1691
+9840 +     0431   0431      0431  LEA  G   RBR  410       270                   
+
+9850       0546   0658      0835  G15  5   XRA  1-8A      M1.1    7.3E-02   1692
+9850       0613   0637      0833  LEA  3   FLA  N11E12    1F      ERU       1692
+9850 +     0620   0647      0732  LEA  G   RBR  245       410               1692
+9850       0620   0641      0744  LEA  G   RBR  610       23000             1692
+9850 +     0620   ////      1023  LEA  C   RSP  025-180   IV/2              1692
+9850 +     0622   0644      0743  LEA  G   RBR  410       22000             1692
+9850 +     0627   0652      0704  LEA  G   RBR  1415      320               1692
+9850 +     0631   0649      0651  SVI  G   RBR  2695      150               1692
+9850       0644   0647      0651  SVI  G   RBR  4995      52                1692
+9850       0646   0647      0651  SVI  G   RBR  8800      53                1692
+9850       0658   0704      0705  SVI  G   RBR  15400     51                1692
+
+9860       0742   0742      0743  SVI  G   RBR  410       190                   
+
+9870       0745   0749      0750  SVI  G   RBR  410       500                   
+
+9900 +     0746   0807      0819  LEA  G   RNS  410       740                   
+9900       0747   0755      0819  LEA  G   RNS  610       370                   
+
+9870       0748   0748      0748  SVI  G   RBR  245       100                   
+
+9880      B0758  U0803     A0804  SVI  3   FLA  N07E07    1F      ERU       1692
+
+9890       0953   0953      0953  LEA  G   RBR  245       120                   
+
+9990       1039   1044      1046  G15  5   XRA  1-8A      C2.2    9.1E-04   1696
+
+  40       1146   ////      2153  SAG  C   RSP  106-180   IV/1                  
+
+9970 +     1147   ////      1622  SAG  C   RSP  025-180   VI/1                  
+
+9910       1311   1311      1311  SVI  G   RBR  245       110                   
+
+9920       1312   ////      1315  SVI  C   RSP  025-171   III/2                 
+
+9930       1405   1405      1405  SVI  U   RBR  245       250                   
+9930 +     1405   ////      1405  SAG  C   RSP  025-124   III/2                 
+
+9940       1509   1517      1522  G15  5   XRA  1-8A      C1.0    7.4E-04   1696
+9940       1514   1517      1519  HOL  3   FLA  N07W20    SF      ERU       1696
+
+9960       1603   1603      1603  SVI  U   RBR  245       210                   
+
+ 290      A1611   ////     A1128  SVI  2   DSF  N23E07    7                     
+
+ 300      A1611   ////     A1128  SVI  2   DSF  N19E49    9                     
+
+  50       1653   ////      2359  PAL  C   RSP  025-180   IV/1                  
+
+9980 +     1730   ////      1731  SAG  C   RSP  025-128   III/2                 
+
+  10       1937   ////      1945  PAL  C   RSP  025-068   III/1                 
+
+  20       1955   1955      2006  HOL  3   FLA  N11W50    SF      ERU       1691
+
+  30       2009   2016      2020  G15  5   XRA  1-8A      B9.2    4.6E-04       
+  30       2010   ////      2359  PAL  C   RSP  025-180   VI/2                  
+
+  60       2133   2133      2133  PAL  G   RBR  245       120                   
+
+  70       2140   2144      2148  G15  5   XRA  1-8A      B6.5    2.2E-04       
+  70       2141   ////      2141  SAG  C   RSP  025-074   III/1                 
+  70       2142   2143      2145  HOL  3   FLA  N15W09    SF      DSD           
+
+  80       2221   2221      2222  PAL  G   RBR  245       240                   
+
+9900 +     2231   2231      2238  PAL  G   RNS  245       120                   
+
+  90       2242   ////      2359  LEA  C   RSP  025-180   IV/1                  

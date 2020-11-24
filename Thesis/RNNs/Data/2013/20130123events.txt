@@ -1,0 +1,26 @@
+:Product: 20130123events.txt
+:Created: 2013 Jan 26 0332 UT
+:Date: 2013 01 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Jan 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4470      A0009   ////     A1442  HOL  3   DSF  N12E33    27                    
+
+4450       0031   0036      0041  G15  5   XRA  1-8A      B5.4    2.2E-04   1660
+
+4460       0120   0127      0133  G15  5   XRA  1-8A      B6.5    3.7E-04   1661
+
+4480      A0755   ////     A2313  LEA  3   DSF  N30E47    25                    
+
+4500      B1312   ////     B1504  SVI  2   DSF  N25E39    15                    
+
+4520      B1400   ////     A2230  SOH  4   CME  XUV,EUV,UV259-145/FS566           
+
+4490      A1504   ////     A0850  SVI  2   DSF  S13E38    5                     

@@ -1,0 +1,67 @@
+:Product: 20130204events.txt
+:Created: 2013 Feb 07 0332 UT
+:Date: 2013 02 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Feb 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5370       0029   ////      0029  CUL  C   RSP  020-040   III/1                 
+
+5380 +     0115   ////      0115  CUL  C   RSP  020-080   III/1                 
+
+5400 +     0230   ////      0327  PAL  C   RSP  025-133   VI/1                  
+
+5410 +     0327   ////      0328  CUL  C   RSP  018-140   III/1                 
+
+5420       0454   ////      0511  LEA  C   RSP  025-180   VI/2                  
+
+5590       0456   ////      0458  CUL  C   RSP  018-160   III/2                 
+
+5420       0506   0510      0513  G15  5   XRA  1-8A      B4.7    1.2E-04       
+5420       0507   ////      0512  CUL  C   RSP  020-250   III/1                 
+5420       0509   0509      0509  LEA  G   RBR  245       290                   
+
+5440 +     0808   ////      0816  LEA  C   RSP  025-170   III/1                 
+
+5460       0854   ////      0939  SVI  C   RSP  025-081   VI/1                  
+
+5450       0854   ////      0906  LEA  C   RSP  025-180   VI/1                  
+
+5470       1122   1126      1137  G15  5   XRA  1-8A      B3.4    2.4E-04   1669
+
+5480       1226   ////      1226  SVI  C   RSP  025-169   III/2                 
+
+5500       1341   1342      1342  SAG  G   RBR  410       64                    
+
+5510       1349   1349      1349  SAG  G   RBR  410       72                    
+
+5520       1453   1459      1503  G15  5   XRA  1-8A      C2.0    6.8E-04   1669
+5520 +     1456   1456      1456  SAG  G   RBR  245       2100                  
+5520 +     1456   ////      1457  SAG  C   RSP  025-180   III/2                 
+5520       1457   1458      1502  SVI  3   FLA  N09E71    SF                    
+5520       1502   ////      1504  SVI  U   RSP  071-180   II/1    849           
+
+5530       1547   ////      1547  SVI  C   RSP  025-040   III/1                 
+
+5540       1746   ////      1747  PAL  C   RSP  025-086   III/1                 
+5540       1746   ////      1747  SAG  C   RSP  025-081   V/2                   
+
+5550 +     1905   ////      1905  PAL  C   RSP  025-132   III/1                 
+
+5560       1933   ////      1934  SAG  C   RSP  025-035   III/1                 
+
+5570       2035   2042      2047  G15  5   XRA  1-8A      C1.9    8.9E-04   1669
+5570       2036   ////      2041  PAL  C   RSP  025-180   V/3                   
+5570       2037   2039      2043  HOL  3   FLA  N07E71    SF      DSD           
+5570 +     2037   ////      2042  CUL  C   RSP  018-180   III/3                 
+5570       2038   2038      2039  SAG  G   RBR  245       310                   
+
+5580       2059   ////      2122  PAL  C   RSP  025-080   VI/1                  
+
+5600 +     2251   ////      2251  LEA  C   RSP  025-081   III/1                 

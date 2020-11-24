@@ -1,0 +1,48 @@
+:Product: 20130404events.txt
+:Created: 2013 Apr 07 0332 UT
+:Date: 2013 04 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Apr 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3820 +     0016   ////      0822  LEA  C   RSP  080-161   CTM/1                 
+
+3810       0057   ////      0136  LEA  C   RSP  025-099   VI/1                  
+3810 +     0102   ////      0103  PAL  C   RSP  025-124   III/1                 
+
+3850       0500   ////      0811  SVI  C   RSP  075-170   CTM/1                 
+
+3870 +     0534   ////      0856  LEA  4   DSF  N19W41    53                    
+
+3850       0558   ////      1705  SVI  C   RSP  025-171   VI/2                  
+
+3830       0641   ////      0743  LEA  C   RSP  025-085   VI/1                  
+
+3840       0810   0814      0819  G15  5   XRA  1-8A      B5.5    2.2E-04   1713
+
+3900       0947   ////      1705  SVI  C   RSP  103-171   CTM/1                 
+
+3860       0949   0957      1003  G15  5   XRA  1-8A      C1.2    7.6E-04   1713
+
+3930       1109   ////      2012  SAG  C   RSP  025-180   VI/2                  
+3930       1112   ////      1943  SAG  C   RSP  103-180   CTM/1                 
+
+3880       1303   1306      1308  G15  5   XRA  1-8A      B6.2    1.0E-04   1704
+
+3890 +     1420   1420      1423  SAG  G   RNS  245       180                   
+
+3910       1645   1645      1645  SVI  G   RBR  245       100                   
+
+3940       1703   ////      2359  PAL  C   RSP  109-180   CTM/1                 
+
+3920       1743   1743      1743  SAG  G   RBR  245       120                   
+
+3940       1753   ////      2359  PAL  C   RSP  025-075   VI/1                  
+
+3950       2249   ////      2359  LEA  C   RSP  074-180   CTM/1                 

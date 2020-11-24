@@ -1,0 +1,51 @@
+:Product: 20130407events.txt
+:Created: 2013 Apr 10 0332 UT
+:Date: 2013 04 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Apr 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4440       0000   ////      0016  LEA  C   RSP  084-180   CTM/1                 
+
+4450       0039   0106      0140  G15  5   XRA  1-8A      C1.6    4.3E-03   1719
+4450       0051   0051     A0118  HOL  3   FLA  N05E66    SF                1719
+
+4520      A0059   ////     A1306  HOL  3   DSF  S14W54    12                1710
+
+4490 +     0252   0404      0514  LEA  G   RNS  245       180                   
+
+4550       0459   ////      1708  SVI  C   RSP  025-180   CTM/1                 
+
+4600       0647   ////      0647  CUL  C   RSP  030-060   III/1                 
+
+4460       0730   0744      0757  G15  5   XRA  1-8A      C1.4    1.9E-03       
+
+4470       0805   0805      0805  LEA  G   RBR  245       230                   
+
+4480       0805   0805      0805  SVI  U   RBR  245       110                   
+
+4570       1112   ////      1903  SAG  C   RSP  103-180   CTM/1                 
+
+4500 +     1209   ////      1314  SVI  U   RSP  025-164   VI/2                  
+
+4510 +     1352   ////      1419  SVI  C   RSP  025-171   VI/1              1718
+4510       1407   1407      1417  HOL  3   FLA  N20E28    SF      ERU       1718
+
+4540 +     1545   ////      1545  SVI  C   RSP  025-059   III/1                 
+
+4530 +     1555   1600      1604  G15  5   XRA  1-8A      C3.1    9.0E-04   1718
+4530       1558   1600      1612  HOL  3   FLA  N20E26    SB      ERU       1718
+
+4560       1649   1658      1709  G15  5   XRA  1-8A      C1.6    1.6E-03   1713
+4560       1651   1653      1701  HOL  3   FLA  N12W44    SF      ERU       1713
+
+4580       1857   1906      1926  G15  5   XRA  1-8A      B8.3    1.2E-03   1718
+4580       1900   1901      1907  HOL  3   FLA  N19E23    SF                1718
+
+4590       2137   2138      2140  HOL  3   FLA  N19E21    SF                1718

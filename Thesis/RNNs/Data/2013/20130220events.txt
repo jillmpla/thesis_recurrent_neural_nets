@@ -1,0 +1,43 @@
+:Product: 20130220events.txt
+:Created: 2013 Feb 23 0332 UT
+:Date: 2013 02 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Feb 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7280 +     0129   0129      0129  LEA  G   RBR  245       220                   
+
+7290       0425   ////      0425  LEA  C   RSP  025-136   III/1                 
+
+7300       0532   0536      0540  G15  5   XRA  1-8A      B6.1    1.9E-04   1678
+
+7320       1041   1044      1046  G15  5   XRA  1-8A      B5.4    9.1E-05       
+
+7330       1108   1111      1113  G15  5   XRA  1-8A      C8.2    9.9E-04   1678
+7330      B1110  U1111     A1120  SVI  3   FLA  N12W44    SF                1678
+
+7340       1331   1335      1337  G15  5   XRA  1-8A      B5.3    1.2E-04   1678
+
+7350       1415   1419      1421  G15  5   XRA  1-8A      B7.2    1.5E-04   1678
+
+7360       1452   1456      1458  G15  5   XRA  1-8A      C3.0    4.6E-04   1678
+7360       1454   1455      1459  HOL  3   FLA  N11W47    SF      ERU       1678
+
+7370       1751   1756      1800  G15  5   XRA  1-8A      B5.1    2.0E-04   1676
+
+7390       1853   1857      1902  G15  5   XRA  1-8A      B8.1    2.9E-04   1678
+7390       1855   1856      1900  HOL  3   FLA  N13W53    SF      DSD       1678
+
+7400 +     2051   ////      2051  PAL  C   RSP  025-125   III/1                 
+
+7410       2150   2158      2212  G15  5   XRA  1-8A      C1.7    1.6E-03   1678
+
+7420       2246   ////      2246  CUL  C   RSP  020-045   III/1                 
+
+7430 +     2246   ////      2246  LEA  C   RSP  025-062   III/1                 

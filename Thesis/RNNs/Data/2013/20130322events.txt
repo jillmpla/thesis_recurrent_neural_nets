@@ -1,0 +1,60 @@
+:Product: 20130322events.txt
+:Created: 2013 Mar 25 0332 UT
+:Date: 2013 03 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Mar 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1710       0003   ////      0006  LEA  C   RSP  025-045   III/1                 
+
+1680 +     0004   ////      0006  CUL  C   RSP  018-060   III/3                 
+
+1690       0028   0031      0035  G15  5   XRA  1-8A      C1.1    3.0E-04       
+
+1720 +     0056   ////      0059  CUL  C   RSP  020-060   III/1                 
+
+1760       0203   ////      0204  CUL  C   RSP  018-060   III/1                 
+
+1730 +     0203   ////      0203  LEA  C   RSP  025-106   III/1                 
+
+1740       0226   0226      0226  LEA  G   RBR  410       1000                  
+
+1750       0233   0238      0245  G15  5   XRA  1-8A      C2.9    1.5E-03   1692
+
+1770       0351   0356      0358  G15  5   XRA  1-8A      C1.1    2.9E-04   1692
+1770       0355   0356      0358  LEA  3   FLA  N08E10    SF                1692
+
+1780       0614   0614      0616  LEA  3   FLA  N07W81    SF                1692
+
+1790       0654   0702      0713  G15  5   XRA  1-8A      C1.2    1.1E-03       
+
+1800       0822   0828      0831  G15  5   XRA  1-8A      C1.3    4.2E-04   1692
+1800       0829   0832      0834  SVI  3   FLA  N06W88    SF                1692
+
+1950      A0957   ////     A0038  LEA  2   DSF  S19W18    5                 1700
+
+1810 +     1022   1027      1033  G15  5   XRA  1-8A      B9.4    4.6E-04   1692
+
+1820 +     1133   1137      1140  G15  5   XRA  1-8A      B6.3    1.7E-04   1692
+
+1830       1154   1201      1213  G15  5   XRA  1-8A      B6.7    6.2E-04   1692
+
+1840       1216   1220      1228  G15  5   XRA  1-8A      C1.4    7.3E-04   1692
+
+1850       1342   1348      1354  G15  5   XRA  1-8A      B6.5    3.5E-04   1695
+
+1860       1551   1555      1558  G15  5   XRA  1-8A      B5.7    1.5E-04       
+
+1870       1631   1635      1640  G15  5   XRA  1-8A      B7.9    2.9E-04   1692
+
+1890 +     1833   1849      1853  G15  5   XRA  1-8A      C1.2    1.1E-03   1692
+
+1900       2137   2143      2147  HOL  3   FLA  S24W58    SF      ERU       1703
+
+1910       2153   2155      2157  HOL  3   FLA  S24W59    SF      DSD       1703

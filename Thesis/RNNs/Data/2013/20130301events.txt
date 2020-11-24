@@ -1,0 +1,31 @@
+:Product: 20130301events.txt
+:Created: 2013 Mar 04 0332 UT
+:Date: 2013 03 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Mar 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8460       0030   ////      0030  CUL  C   RSP  027-057   III/1                 
+
+8470       0059   ////      0059  CUL  C   RSP  023-057   III/1                 
+
+8480 +     0605   0608      0612  G15  5   XRA  1-8A      B4.0    1.1E-04   1683
+
+8510       0920   ////      1125  SVI  3   DSF  S68W43    12                    
+
+8490       1011   1014      1017  G15  5   XRA  1-8A      B6.8    2.6E-04   1682
+8490       1012  U1017     A1021  SVI  3   FLA  S20W34    SF      ERU       1682
+
+8500       1207   1207      1215  SVI  3   FLA  S14E63    SF                1683
+
+8520 +     1521   ////      1522  SVI  C   RSP  025-156   III/1                 
+
+8530 +     2103   ////      2104  PAL  C   RSP  025-058   III/1                 
+
+8540 +     2339   ////      2349  LEA  C   RSP  025-135   III/1                 

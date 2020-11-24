@@ -1,0 +1,35 @@
+:Product: 20130209events.txt
+:Created: 2013 Feb 12 0332 UT
+:Date: 2013 02 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Feb 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6450       0131   ////      0136  LEA  C   RSP  025-126   III/1                 
+6450       0131   ////      0230  PAL  C   RSP  025-129   VI/1                  
+
+6460       0201   ////      0337  LEA  C   RSP  025-106   VI/2                  
+
+6480       0530   0640      0726  G15  5   XRA  1-8A      C2.4    1.1E-02       
+
+6470 +     0612   ////      0621  LEA  C   RSP  063-180   III/2                 
+6470       0614   0624      0649  LEA  3   FLA  N20W09    SF      BPT           
+
+6490       0650   ////      0732  SVI  C   RSP  104-169   CTM/1                 
+
+6500       0835   ////      0855  SVI  C   RSP  027-037   VI/1                  
+
+6510       0904   ////      1017  SVI  C   RSP  075-171   CTM/1                 
+
+6520       1925   1929      1935  G15  5   XRA  1-8A      B5.5    2.3E-04   1667
+6520       1927   1929      1933  HOL  3   FLA  N25W32    SF                1667
+
+6560      A2011   ////     A1437  HOL  3   DSF  S40E29    15                    
+
+6530       2348   2353      0003  G15  5   XRA  1-8A      B4.2    3.0E-04   1667

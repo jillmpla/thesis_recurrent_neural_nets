@@ -1,0 +1,117 @@
+:Product: 20130316events.txt
+:Created: 2013 Mar 19 0332 UT
+:Date: 2013 03 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2013 Mar 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 100       0000   ////      0012  PAL  C   RSP  025-086   VI/1                  
+ 100 +     0000   ////      1022  LEA  C   RSP  025-180   IV/1                  
+
+ 400      A0014   ////     A1438  HOL  4   DSF  S31W50    17                1690
+
+ 410      A0014   ////     A1438  HOL  4   DSF  N39W13    24                    
+
+ 110       0046   0046      0046  PAL  G   RBR  245       100                   
+
+ 120       0046   ////      0047  PAL  C   RSP  025-180   III/1                 
+ 120       0046   ////      0356  LEA  C   RSP  025-180   VI/1                  
+
+ 130       0052   ////      0356  PAL  C   RSP  025-115   VI/1                  
+ 130 +     0149   ////      0151  LEA  C   RSP  025-180   V/2                   
+
+ 140       0228   ////      0229  PAL  C   RSP  025-180   III/2                 
+ 140       0228   ////      0229  LEA  C   RSP  025-180   V/2                   
+ 140 +     0229   0229      0229  LEA  G   RBR  245       110                   
+
+ 150       0420   0428      0432  G15  5   XRA  1-8A      C2.6    1.2E-03   1698
+ 150       0425   0427      0429  LEA  3   FLA  S20W48    SF      ERU       1698
+
+ 180       0452   0539      0625  G15  5   XRA  1-8A      C2.8    1.1E-02   1698
+ 180       0511   ////      1127  SVI  C   RSP  025-180   IV/1                  
+
+ 160       0551   0552      0552  LEA  G   RBR  245       120                   
+
+ 170       0556   0556      0556  SVI  U   RBR  245       150                   
+
+ 190       0612   0614      0621  LEA  3   FLA  S19W50    SF      ERU       1698
+ 190 +     0617   ////      0617  LEA  C   RSP  025-149   III/2             1698
+ 190       0617   0617      0617  LEA  G   RBR  245       330               1698
+
+ 200 +     0714   0718      0723  G15  5   XRA  1-8A      C2.0    7.6E-04   1698
+ 200       0721   0721      0723  LEA  3   FLA  S19W50    SF                1698
+
+ 210 +     0819   ////      0819  LEA  C   RSP  025-048   III/2                 
+
+ 220       0830   0836      0839  G15  5   XRA  1-8A      C1.5    2.9E-04   1698
+ 220       0833   0834      0836  LEA  3   FLA  S19W52    SF                1698
+
+ 230 +     0854   0854      0855  SVI  G   RBR  245       740                   
+ 230       0854   0855      0855  SVI  G   RBR  410       110                   
+ 230 +     0854   ////      0856  SVI  C   RSP  025-180   III/2                 
+
+ 240 +     0938   ////      0938  LEA  C   RSP  025-155   III/2                 
+
+ 250       0947   0947      0948  LEA  G   RBR  245       180                   
+
+ 260       1027   ////      1029  SVI  C   RSP  025-171   V/2                   
+ 260       1027   1027      1027  SVI  G   RBR  245       320                   
+
+ 270 +     1159   ////      1248  SVI  C   RSP  025-080   VI/1                  
+
+ 310       1326   ////      1332  SAG  C   RSP  025-180   III/2                 
+
+ 280       1333   1334      1334  SVI  U   RBR  245       120                   
+
+ 320       1339   ////      1334  SVI  C   RSP  025-180   III/2                 
+
+ 330 +     1509   1510      1510  SAG  G   RBR  245       210                   
+
+ 680      A1512   ////     A0548  SVI  2   DSF  N43W15    12                    
+
+ 340 +     1531   1531      1531  SAG  G   RBR  245       180                   
+
+ 350 +     1541   1541      1541  SAG  G   RBR  245       150                   
+
+ 360 +     1552   1552      1552  SAG  G   RBR  245       110                   
+
+ 370       1558   1558      1558  SAG  G   RBR  245       110                   
+
+ 380       1648   1648      1649  SAG  G   RBR  245       140                   
+ 380 +     1655   ////      1705  PAL  C   RSP  025-151   VI/1                  
+
+ 480       1710   ////      2329  PAL  C   RSP  075-180   CTM/1                 
+
+ 460       1710   ////      1927  SAG  C   RSP  108-180   CTM/1                 
+
+ 390       1732   1733      1735  HOL  3   FLA  S18W54    SF                1698
+ 390       1733   ////      1745  SAG  C   RSP  025-042   VI/1              1698
+ 390       1733   ////      1733  PAL  C   RSP  025-085   III/1             1698
+
+ 420 +     1806   ////      1807  PAL  C   RSP  025-180   III/1                 
+ 420 +     1806   1806      1806  SAG  G   RBR  245       180                   
+
+ 430       1840   ////      1845  SAG  C   RSP  025-038   III/1                 
+ 430       1844   ////      2207  PAL  C   RSP  025-180   VI/2                  
+
+ 440       1850   1853      1855  G15  5   XRA  1-8A      B8.0    1.2E-04   1692
+
+ 450       1905   ////      1907  SAG  C   RSP  025-180   III/2                 
+
+ 470 +     2054   2054      2054  PAL  G   RBR  245       180                   
+
+ 490 +     2114   2114      2114  PAL  G   RBR  245       160                   
+
+ 500       2138   2138      2138  PAL  G   RBR  245       120                   
+
+ 510       2201   2201      2201  PAL  G   RBR  245       130                   
+
+ 520 +     2256   ////      2359  PAL  C   RSP  025-180   VI/2                  
+ 520       2256   ////      2301  LEA  C   RSP  025-180   III/2                 
+ 520       2327   2327      2327  PAL  G   RBR  245       120                   
