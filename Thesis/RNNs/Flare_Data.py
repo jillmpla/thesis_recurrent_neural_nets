@@ -9,6 +9,7 @@ import shutil
 import datetime
 import numpy as np
 import pandas as pd
+import seaborn as sns
 from pathlib import Path
 from astropy.time import Time
 from matplotlib import pyplot as plt
@@ -329,7 +330,7 @@ def getAllData(binary):
 
 	#remove date+AR with < 90 records (75% of 120 [every 12 minutes] max entries per day, per AR) 
 	#to ensure a good random sample per day, per AR
-	count_Ds = new_k_data.groupby(['Date', 'NOAA_AR']).filter(lambda x : len(x)>89)
+	count_Ds = new_k_data.groupby(['Date', 'NOAA_AR']).filter(lambda x : len(x)>113)
 	count_Ds.reset_index(drop=True, inplace=True)
 
 	#-------------------------------------------------------------------------#
@@ -342,7 +343,7 @@ def getAllData(binary):
 	np.random.seed(0)
 	count_Ds = count_Ds.astype({"Date": str})
 	COLS = ['DATE_TIME', 'HARPNUM', 'TOTUSJH', 'TOTUSJZ', 'SAVNCPP', 'USFLUX', 'ABSNJZH', 'TOTPOT', 'SIZE_ACR', 'NACR', 'MEANPOT', 'SIZE', 'MEANJZH', 'SHRGT45', 'MEANSHR', 'MEANJZD', 'MEANALP', 'MEANGBT', 'MEANGAM', 'MEANGBZ', 'MEANGBH', 'NPIX']
-	new_k_data_f = count_Ds.groupby(['Date', 'NOAA_AR'])[COLS].apply(pd.Series.sample, n=90, replace=False).reset_index()
+	new_k_data_f = count_Ds.groupby(['Date', 'NOAA_AR'])[COLS].apply(pd.Series.sample, n=114, replace=False).reset_index()
 
 	#order by DATE_TIME
 	new_k_data_f.sort_values('DATE_TIME')
@@ -424,12 +425,12 @@ def getAllData(binary):
 
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
-	#split into train and test - 60% train, 20% validation (of train), 20% test------------------------
+	#split into train and test - 50% train, 30% validation (of train), 20% test------------------------
 	#use specific seed for pseudo-random number generator when spliting data to properly compare machine learning models
 	#get a balanced number of examples for each class label in both train and test with stratify=y
 	X_train, X_test, y_train, y_test = train_test_split(allData, allLabels_enc, test_size = 0.20, random_state=123, stratify=allLabels_enc)
 	#split train set further into train and validation sets
-	X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size = 0.20, random_state=123, stratify=y_train)
+	X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size = 0.30, random_state=123, stratify=y_train)
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
