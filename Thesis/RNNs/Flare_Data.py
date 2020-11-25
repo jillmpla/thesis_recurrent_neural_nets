@@ -372,7 +372,7 @@ def getAllData(binary):
 			else:
 				allLabels.append(fla_class_1)
 		if mylabel_1.empty:
-			if a_control%7 == 0: #reduces number of no flares (use every 7th no flare sequence)
+			if a_control%12 == 0: #reduces number of no flares (use every 12th no flare sequence)
 				no_fla = 'N' #N for no flare occurred
 				allLabels.append(no_fla)
 				a_control += 1
