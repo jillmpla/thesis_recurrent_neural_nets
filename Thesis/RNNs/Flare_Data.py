@@ -18,9 +18,6 @@ from sklearn.metrics import plot_confusion_matrix
 from sklearn.preprocessing import LabelBinarizer
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
-from tensorflow.keras.layers import Dropout, Dense, Embedding, Flatten, SimpleRNN, LSTM, GRU
-from tensorflow.keras.models import Model, Sequential
-from tensorflow.keras.optimizers import SGD, Adam
 import drms #https://pypi.org/project/drms/
 
 all_of_the_Dataframe = pd.DataFrame()
@@ -367,8 +364,18 @@ def getAllData(binary):
 		if not mylabel_1.empty:
 			fla_class = mylabel_1['Class_Val']
 			fla_class_1 = ' '.join(map(str, fla_class))
-			if binary: 
-				allLabels.append('F') #F for flare occurred
+			if binary:
+				if fla_class_1 == 'B':
+					continue
+			if binary:
+				if fla_class_1 == 'X':
+					continue
+			if binary:
+				if fla_class_1 == 'C':
+					allLabels.append('F')
+			if binary:
+				if fla_class_1 == 'M':
+					allLabels.append('F')
 			else:
 				allLabels.append(fla_class_1)
 		if mylabel_1.empty:
@@ -425,12 +432,12 @@ def getAllData(binary):
 
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
-	#split into train and test - 50% train, 30% validation (of train), 20% test------------------------
+	#split into train and test - 50%(30%) train, 50% validation (of train), 20% test------------------------
 	#use specific seed for pseudo-random number generator when spliting data to properly compare machine learning models
 	#get a balanced number of examples for each class label in both train and test with stratify=y
-	X_train, X_test, y_train, y_test = train_test_split(allData, allLabels_enc, test_size = 0.20, random_state=123, stratify=allLabels_enc)
+	X_train, X_test, y_train, y_test = train_test_split(allData, allLabels_enc, test_size = 0.20, random_state=1, stratify=allLabels_enc)
 	#split train set further into train and validation sets
-	X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size = 0.30, random_state=123, stratify=y_train)
+	X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size = 0.50, random_state=1, stratify=y_train)
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
