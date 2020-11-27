@@ -364,19 +364,25 @@ def getAllData(binary):
 		if not mylabel_1.empty:
 			fla_class = mylabel_1['Class_Val']
 			fla_class_1 = ' '.join(map(str, fla_class))
-			if binary:
+			if binary == True:
 				if fla_class_1 == 'B':
 					continue
-			if binary:
+			if binary == True:
 				if fla_class_1 == 'X':
 					continue
-			if binary:
+			if binary == True:
 				if fla_class_1 == 'C':
 					allLabels.append('F')
-			if binary:
+			if binary == True:
 				if fla_class_1 == 'M':
 					allLabels.append('F')
-			else:
+			if binary == False:
+				if fla_class_1 == 'B':
+					continue
+			if binary == False:
+				if fla_class_1 == 'X':
+					continue
+			if binary == False:
 				allLabels.append(fla_class_1)
 		if mylabel_1.empty:
 			if a_control%12 == 0: #reduces number of no flares (use every 12th no flare sequence)
