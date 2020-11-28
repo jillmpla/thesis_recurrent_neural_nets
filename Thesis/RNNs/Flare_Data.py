@@ -351,6 +351,8 @@ def getAllData(binary):
 	allData = []
 	allLabels = []
 	a_control = 0
+	a_control_2 = 0
+	a_control_3 = 0
 
 	grouped_data = new_k_data_f.groupby(['Date', 'NOAA_AR'])
 	
@@ -365,33 +367,47 @@ def getAllData(binary):
 			fla_class = mylabel_1['Class_Val']
 			fla_class_1 = ' '.join(map(str, fla_class))
 			if binary == True:
+				if fla_class_1 == 'A':
+					continue
 				if fla_class_1 == 'B':
 					continue
-			if binary == True:
 				if fla_class_1 == 'X':
 					continue
-			if binary == True:
+				else:
+					allLabels.append('F')
+			if binary == False:
+				if fla_class_1 == 'A':
+					continue
+				if fla_class_1 == 'B':
+					continue
+				if fla_class_1 == 'X':
+					continue
 				if fla_class_1 == 'C':
-					allLabels.append('F')
-			if binary == True:
-				if fla_class_1 == 'M':
-					allLabels.append('F')
-			if binary == False:
-				if fla_class_1 == 'B':
-					continue
-			if binary == False:
-				if fla_class_1 == 'X':
-					continue
-			if binary == False:
-				allLabels.append(fla_class_1)
+					if a_control % 2 == 0:
+						allLabels.append('C')
+						a_control += 1
+					else: 
+						a_control += 1
+						continue
+				else:
+					allLabels.append(fla_class_1)
 		if mylabel_1.empty:
-			if a_control%12 == 0: #reduces number of no flares (use every 12th no flare sequence)
-				no_fla = 'N' #N for no flare occurred
-				allLabels.append(no_fla)
-				a_control += 1
-			else:
-				a_control += 1
-				continue
+			if binary == True:
+				if a_control_2 % 10 == 0:
+					no_fla = 'N'
+					allLabels.append(no_fla)
+					a_control_2 += 1
+				else:
+					a_control_2 += 1
+					continue
+			if binary == False:
+				if a_control_3 % 22 == 0:
+					no_fla = 'N'
+					allLabels.append(no_fla)
+					a_control_3 += 1
+				else:
+					a_control_3 += 1
+					continue
         #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		del mygroup['Date']
 		del mygroup['NOAA_AR']
