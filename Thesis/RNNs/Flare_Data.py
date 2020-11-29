@@ -30,22 +30,6 @@ def save_some_features(to_save):
 	all_of_the_Dataframe = all_of_the_Dataframe.append(to_save)
 	return()
 
-def convert_time_2010(k):
-	#change T_REC to datetime type
-	k.T_REC = drms.to_datetime(k.T_REC)
-	
-	#convert tai time to utc
-	t1 = Time(k.T_REC, format='datetime64', scale='tai')
-	t2 = t1.utc
-	t3 = t2.iso
-	k.T_REC = t3
-	k.T_REC = pd.to_datetime(k.T_REC)
-	
-	#delete first row of df from previous year
-	k = k[(k['T_REC'].dt.year != 2009)]
-	return(k)
-
-
 def convert_time_2011(k):
 	#change T_REC to datetime type
 	k.T_REC = drms.to_datetime(k.T_REC)
@@ -175,25 +159,8 @@ def getAllData(binary):
 	os.chdir(my_dir)
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
-	daily_reports_year = "\\2010" #folder year for daily reports, only variable changed in this block
-	year_dir = my_dir + daily_reports_year
-	os.chdir(year_dir)
-
-	filesList = []
-	for files in glob.glob("*.txt"):
-		filesList.append(files)
-    
-	for aFile in filesList:
-		frame = pd.read_csv(aFile, skiprows=11, engine = 'python', sep='[\s+]{2,}', skip_blank_lines=True, header=None, names=["Event", "Begin", "Max", "End", "Obs", "Q", "Type", "Loc/Frq", "Particulars", "Particulars2", "Reg#"], usecols = [0,1,2,3,4,5,6,7,8,9,10])
-		frame['Filename'] = Path(aFile).stem[:-6]
-		frame['Day'] = pd.to_datetime(frame['Filename'])    
-		df = df.append(frame)
-	os.chdir('..')
-	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
-	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	daily_reports_year = "\\2011" #folder year for daily reports, only variable changed in this block
-	current_dir = os.getcwd() 
-	year_dir = current_dir + daily_reports_year
+	year_dir = my_dir + daily_reports_year
 	os.chdir(year_dir)
 
 	filesList = []
@@ -480,7 +447,7 @@ def getAllData(binary):
 				if fla_class_1 == 'X':
 					continue
 				if fla_class_1 == 'C':
-					if a_control % 2 == 0:
+					if a_control % 4 == 0: #2
 						allLabels.append('C')
 						a_control += 1
 					else: 
@@ -498,7 +465,7 @@ def getAllData(binary):
 					a_control_2 += 1
 					continue
 			if binary == False:
-				if a_control_3 % 22 == 0:
+				if a_control_3 % 40 == 0: #22
 					no_fla = 'N'
 					allLabels.append(no_fla)
 					a_control_3 += 1
@@ -551,12 +518,12 @@ def getAllData(binary):
 
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
-	#split into train and test - 50%(30%) train, 50% validation (of train), 20% test------------------------
+	#split into train and test - 80%(60%) train, 20% validation (of train), 20% test------------------------
 	#use specific seed for pseudo-random number generator when spliting data to properly compare machine learning models
 	#get a balanced number of examples for each class label in both train and test with stratify=y
-	X_train, X_test, y_train, y_test = train_test_split(allData, allLabels_enc, test_size = 0.20, random_state=1, stratify=allLabels_enc)
+	X_train, X_test, y_train, y_test = train_test_split(allData, allLabels_enc, test_size = 0.20, shuffle=True, random_state=1, stratify=allLabels_enc)
 	#split train set further into train and validation sets
-	X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size = 0.50, random_state=1, stratify=y_train)
+	X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size = 0.20, shuffle=True, random_state=1, stratify=y_train)
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 

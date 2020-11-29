@@ -7,24 +7,6 @@ import Flare_Data
 
 def generate_all_feature_years():
 
-	################creates/loads csv with 2010's feature data##########
-	current_di = os.getcwd()
-	csv_for_2010 = "\\create_2010_features.csv"
-	where_2010 = current_di + csv_for_2010
-
-	if not os.path.exists(where_2010):
-		import to_create_2010
-		to_create_2010.get_2010_Features()
-		df_2010 = pd.read_csv('create_2010_features.csv', index_col=0)
-		df_2010_done = Flare_Data.convert_time_2010(df_2010)
-		Flare_Data.save_some_features(df_2010_done) 
-
-	if os.path.exists(where_2010):
-		df_2010 = pd.read_csv('create_2010_features.csv', index_col=0)
-		df_2010_done = Flare_Data.convert_time_2010(df_2010)
-		Flare_Data.save_some_features(df_2010_done)
-	####################################################################
-
 	################creates/loads csv with 2011's feature data##########
 	current_di = os.getcwd()
 	csv_for_2011 = "\\create_2011_features.csv"
