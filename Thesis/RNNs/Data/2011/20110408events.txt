@@ -1,0 +1,15 @@
+:Product: 20110408events.txt
+:Created: 2011 Apr 11 0332 UT
+:Date: 2011 04 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Apr 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7170       1816   1824      1832  G15  5   XRA  1-8A      B7.4    5.1E-04   1185
+7170       1822   1825      1830  HOL  3   FLA  N16E21    SF      ERU       1185

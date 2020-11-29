@@ -1,0 +1,51 @@
+:Product: 20110902events.txt
+:Created: 2011 Sep 05 0332 UT
+:Date: 2011 09 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Sep 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7060       0004   0009      0015  G15  5   XRA  1-8A      B6.3    3.1E-04   1281
+
+7070       0454   ////      0454  LEA  C   RSP  025-121   III/1                 
+
+7080       0628   0632      0636  G15  5   XRA  1-8A      B6.5    2.1E-04   1283
+7080       0630   0631      0636  SVI  3   FLA  N15E50    SF                1283
+
+7090 +     0729   0734      0735  SVI  U   RBR  410       410                   
+
+7100       0736   0737      0739  LEA  3   FLA  N13E50    SF      ERU       1283
+
+7140       0809   0854      0909  SVI  3   FLA  N15E50    SF      ERU       1283
+
+7150       0816   0824      0855  SVI  3   FLA  S20E08    SF      ERU       1281
+
+7110       0849   0852      0855  G15  5   XRA  1-8A      B8.9    1.9E-04   1283
+7110       0852   0854      0857  LEA  3   FLA  N13E49    SF                1283
+
+7120       0916   0921      0932  G15  5   XRA  1-8A      B7.6    5.5E-04   1283
+7120 +     0930   0930      0942  SVI  3   FLA  N14E50    SF                1283
+
+7130       0957   0958      1004  SVI  3   FLA  N24W28    SF                1282
+
+7160       1057   1134      1148  SVI  3   FLA  N14E48    SF                1283
+
+7170 +     1348   1352      1405  SVI  3   FLA  S20E05    SF      ERU       1281
+7170 +     1353   ////      1355  SVI  C   RSP  025-069   III/1             1281
+
+7180       1509   1516      1521  G15  5   XRA  1-8A      C1.8    8.9E-04   1281
+7180 +     1510   1513      1539  HOL  3   FLA  S18E08    SF      ERU       1281
+
+7190       1651   ////      1651  SVI  C   RSP  037-077   III/1                 
+
+7200       1822   1827      1846  HOL  3   FLA  S18E04    SF      ERU       1281
+
+7210 +     2039   ////      2040  PAL  C   RSP  025-038   III/1                 
+
+7220       2224   2232      2239  HOL  3   FLA  S19E03    SF      ERU       1281

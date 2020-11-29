@@ -1,0 +1,18 @@
+:Product: 20110628events.txt
+:Created: 2011 Jul 01 0332 UT
+:Date: 2011 06 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jun 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5840       0027   0107      0158  G15  5   XRA  1-8A      B6.4    2.7E-03   1236
+
+5850 +     0644   0647      0649  G15  5   XRA  1-8A      B3.2    5.3E-05   1243
+
+5860 +     1305   1321      1350  G15  5   XRA  1-8A      B9.6    2.0E-03   1236

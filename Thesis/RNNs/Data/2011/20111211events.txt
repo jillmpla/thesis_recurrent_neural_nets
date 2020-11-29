@@ -1,0 +1,104 @@
+:Product: 20111211events.txt
+:Created: 2011 Dec 14 0332 UT
+:Date: 2011 12 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Dec 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9340       0001   0005      0007  LEA  3   FLA  S16E44    SF      ERU       1374
+
+9560       0141   ////      0141  CUL  C   RSP  018-090   III/1                 
+
+9350       0141   ////      0142  LEA  C   RSP  025-076   III/1                 
+
+9360       0316   ////      0402  LEA  C   RSP  025-180   VI/2              1374
+
+9570       0317   ////      0317  CUL  C   RSP  018-400   III/3                 
+
+9360       0320   0323      0327  G15  5   XRA  1-8A      B8.6    2.4E-04   1374
+9360 +     0321   ////      0324  CUL  C   RSP  018-450   III/3             1374
+9360       0321   0324      0324  PAL  G   RBR  245       300               1374
+9360       0323   0323      0327  LEA  3   FLA  S17E39    SF                1374
+
+9580       0402   ////      0402  CUL  C   RSP  020-180   III/1                 
+
+9370       0436   ////      0438  LEA  C   RSP  025-151   III/1                 
+
+9590       0552   ////      0552  CUL  C   RSP  020-090   III/1                 
+
+9600       0627   ////      0627  CUL  C   RSP  050-130   III/1                 
+
+9380 +     0743   ////      0745  SVI  C   RSP  029-077   III/1                 
+
+9610       0753   ////      0753  CUL  C   RSP  020-090   III/1                 
+
+9390 +     0841   0841      0842  SVI  G   RBR  245       350                   
+9390 +     0841   ////      0843  SVI  C   RSP  025-180   III/1                 
+
+9400       0911   ////      0913  SVI  C   RSP  030-162   III/1                 
+9400       0912   ////      0926  LEA  C   RSP  025-180   VI/1                  
+
+9410       0926   ////      0926  SVI  C   RSP  030-077   III/1                 
+
+9420 +     1023   ////      1024  LEA  C   RSP  025-180   III/1                 
+9420 +     1023   1024      1025  SVI  G   RBR  245       140                   
+
+ 170       1024   ////      1024  SOH  2   CME  ////      280-330/FS400           
+
+9430       1048   ////      1050  SVI  C   RSP  029-180   III/2                 
+9430       1049   1050      1050  SVI  G   RBR  245       130                   
+
+9460       1107   ////      1230  SVI  C   RSP  025-180   VI/1                  
+
+9440       1129   1137      1146  G15  5   XRA  1-8A      B9.7    7.8E-04   1366
+9440       1129   1129      1129  SVI  G   RBR  245       110                   
+
+9450       1203   1206      1206  SVI  G   RBR  245       230                   
+9450       1205   1205      1205  SVI  G   RBR  410       79                    
+
+9470       1321   ////      1323  SVI  C   RSP  030-082   III/1                 
+
+9480 +     1432   1432      1432  SAG  G   RBR  245       170                   
+
+9490 +     1443   ////      1444  SAG  C   RSP  025-180   III/1                 
+
+9500       1543   1546      1549  G15  5   XRA  1-8A      B7.9    1.7E-04       
+
+9510       1655   1655      1655  SAG  G   RBR  245       140                   
+
+9520 +     1730   ////      1730  SAG  C   RSP  025-180   III/2                 
+
+9530 +     1816   ////      1819  SAG  C   RSP  025-180   III/2                 
+9530 +     1818   1818      1819  SAG  G   RBR  245       270                   
+
+9540       1847   ////      1847  PAL  C   RSP  025-075   III/1                 
+
+9550       1847   ////      1912  SAG  C   RSP  025-180   VI/2                  
+9550 +     1912   ////      1912  PAL  C   RSP  025-076   III/2                 
+
+9620       2027   ////      2028  CUL  C   RSP  027-090   III/1                 
+
+9630       2035   ////      2035  PAL  C   RSP  025-180   III/1                 
+9630       2035   2035      2035  PAL  G   RBR  245       150                   
+
+9640       2036   ////      2036  CUL  C   RSP  018-250   III/2                 
+
+9650       2037   ////      2038  CUL  C   RSP  020-150   III/1                 
+
+9660       2047   ////      2047  CUL  C   RSP  027-100   III/1                 
+
+9670       2311   ////      2311  CUL  C   RSP  027-070   III/1                 
+
+9680 +     2319   ////      2319  LEA  C   RSP  048-180   III/1                 
+
+9700       2320   ////      2320  CUL  C   RSP  050-250   III/1                 
+
+9710       2326   ////      2326  CUL  C   RSP  050-180   III/1                 
+
+9720       2352   ////      2353  CUL  C   RSP  018-120   III/1                 

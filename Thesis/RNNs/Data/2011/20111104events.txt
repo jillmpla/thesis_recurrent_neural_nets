@@ -1,0 +1,69 @@
+:Product: 20111104events.txt
+:Created: 2011 Nov 07 0332 UT
+:Date: 2011 11 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Nov 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3140      B0000   0009      0013  LEA  3   FLA  N19E61    SF                1339
+
+3280       0000   ////      1019  LEA  C   RSP  031-180   CTM/1                 
+
+3140       0001   0011      0016  G15  5   XRA  1-8A      C3.8    2.9E-03   1339
+
+3250       0026   0101      0143  G15  5   XRA  1-8A      C5.4    1.9E-02       
+
+3150       0029   ////      0029  LEA  C   RSP  030-088   III/1                 
+
+3160       0130   ////      0130  LEA  C   RSP  033-076   III/1                 
+
+3260       0322   0353      0416  G15  5   XRA  1-8A      C8.6    2.2E-02       
+
+3170       0432   ////      0432  LEA  C   RSP  025-147   III/1                 
+
+3290       0554   ////      1531  SVI  C   RSP  075-180   CTM/2                 
+
+3230 +     0755   1225      1404  COM  G   RNS  245       140                   
+
+3180 +     0824   ////      0825  LEA  C   RSP  025-180   III/1                 
+
+3190       0837   0837      0837  LEA  G   RBR  245       110                   
+
+3200 +     0848   ////      0849  LEA  C   RSP  032-121   III/1                 
+
+3210 +     0918   0918      0918  SVI  G   RBR  245       110                   
+
+3240 +     1050   1055      1101  G15  5   XRA  1-8A      C1.8    9.1E-04       
+
+3340       1136   ////      2016  SAG  C   RSP  108-180   CTM/1                 
+
+3300       1730   1733      1736  HOL  3   FLA  N18E50    SF                1339
+
+3310       1757   1801      1801  SAG  G   RBR  245       110                   
+
+3320       1802  U1805      1813  HOL  3   FLA  N16E49    SF                1339
+
+3370       1821   ////      2359  PAL  C   RSP  080-180   CTM/1                 
+
+3330       1836   ////      1836  SAG  C   RSP  025-086   III/1                 
+
+3350 +     1925   1933      1947  G15  5   XRA  1-8A      C2.9    2.9E-03   1339
+3350       1937   1937      1937  PAL  G   RBR  245       130               1339
+
+3360       2031   2040      2046  G15  5   XRA  1-8A      M1.0    5.6E-03   1339
+3360      B2039  U2039      2058  HOL  3   FLA  N18E46    SF      ERU       1339
+
+3570       2155   ////      2359  LEA  C   RSP  058-180   CTM/1                 
+
+3580      B2210   ////     B2359  HOL  3   EPL  ////      0.18    B.9A      1339
+
+3380 +     2225   2243      2306  G15  5   XRA  1-8A      C4.6    8.0E-03   1339
+3380       2259   2259      2259  LEA  G   RBR  245       100               1339
+
+3390       2325   ////      2325  LEA  C   RSP  025-083   III/1                 

@@ -1,0 +1,49 @@
+:Product: 20111024events.txt
+:Created: 2011 Oct 27 0332 UT
+:Date: 2011 10 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Oct 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 990       0138   ////      0150  LEA  C   RSP  036-180   VI/1                  
+ 990 +     0146   ////      0150  CUL  C   RSP  020-160   III/1                 
+
+1000 +     0326   ////      0326  PAL  C   RSP  070-180   III/3                 
+1000       0326   ////      0341  LEA  C   RSP  037-180   VI/1                  
+
+1010       0341   ////      0342  CUL  C   RSP  035-100   III/1                 
+
+1020       0428   ////      0429  CUL  C   RSP  020-180   III/1                 
+
+1100       0435   ////      0440  CUL  C   RSP  075-180   III/1                 
+
+1110       0441   ////      0442  CUL  C   RSP  030-180   III/1                 
+
+1120       0555   ////      0555  CUL  C   RSP  040-057   III/1                 
+
+1030       0607   ////      0916  LEA  C   RSP  031-180   VI/2                  
+1030 +     0607   ////      0616  SVI  C   RSP  032-172   III/1                 
+
+1040       0743   ////      0904  SVI  C   RSP  034-124   VI/1                  
+
+1150      A0940   ////     A2215  LEA  3   DSF  S29E55    25                    
+
+1050       1129   ////      1129  SVI  C   RSP  034-082   III/1                 
+
+1060       1235   ////      1235  SVI  C   RSP  031-044   III/1                 
+
+1070 +     1357   ////      1358  SVI  C   RSP  060-129   III/1                 
+
+1080 +     1511   ////      1512  SVI  C   RSP  034-128   III/1                 
+
+1090       1724   ////      1724  SAG  C   RSP  028-057   III/1                 
+
+1130       1757   ////      1803  SAG  C   RSP  025-113   III/1                 
+
+1140       2349   ////      2349  CUL  C   RSP  023-057   III/1                 

@@ -1,0 +1,20 @@
+:Product: 20110611events.txt
+:Created: 2011 Jun 14 0332 UT
+:Date: 2011 06 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jun 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3870       0715   0720      0723  G15  5   XRA  1-8A      B2.8    8.2E-05   1234
+
+3880       0839   0849      0858  G15  5   XRA  1-8A      B2.9    2.6E-04   1234
+
+3890       1913   1923      1929  G15  5   XRA  1-8A      B4.0    2.7E-04       
+
+3900       2249   2253      2300  G15  5   XRA  1-8A      B3.4    1.7E-04   1234

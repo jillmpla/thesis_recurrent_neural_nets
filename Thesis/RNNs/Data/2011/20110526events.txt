@@ -1,0 +1,19 @@
+:Product: 20110526events.txt
+:Created: 2011 May 29 0332 UT
+:Date: 2011 05 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 May 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2340       0021   0025      0028  G15  5   XRA  1-8A      B1.3    3.6E-05   1218
+
+2350       0101   0110      0115  G15  5   XRA  1-8A      B4.4    2.3E-04   1223
+2350       0103   0108      0125  HOL  3   FLA  S15E30    SF      ERU       1223
+
+2360 +     1646   1654      1711  G15  5   XRA  1-8A      B1.9    2.4E-04   1226

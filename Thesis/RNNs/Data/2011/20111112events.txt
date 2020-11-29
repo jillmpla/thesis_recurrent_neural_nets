@@ -1,0 +1,45 @@
+:Product: 20111112events.txt
+:Created: 2011 Nov 15 0332 UT
+:Date: 2011 11 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Nov 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4790       0422   ////      0426  LEA  C   RSP  025-143   III/1                 
+
+4800 +     0739   ////      0739  SVI  C   RSP  030-135   III/1                 
+
+4810       0742   0750      0801  G15  5   XRA  1-8A      C2.5    2.0E-03   1339
+4810       0746   0751      0808  SVI  3   FLA  N18W51    SF      ERU       1339
+
+4820      B0805   0806     A0818  LEA  1   FLA  N19W51    SF                1339
+
+4830       0903   0916      0928  SVI  3   FLA  S20W48    SF                1344
+
+4840 +     1220   ////      1221  SAG  C   RSP  025-163   III/1                 
+
+4850 +     1338   ////      1343  SAG  C   RSP  025-080   III/1                 
+
+4860       1635   ////      1636  SAG  C   RSP  025-180   III/1                 
+
+4870       1636   1636      1637  SAG  G   RBR  15400     120                   
+
+4880 +     1638   1643      1648  G15  5   XRA  1-8A      C1.8    7.9E-04   1344
+
+5020       1811   1851      1904  G15  5   XRA  1-8A      C1.8    4.1E-03       
+5020       1836   ////      0242  SOH  3   CME  ////      070-069B649           
+
+4890       2114   ////      2116  PAL  C   RSP  025-180   III/2                 
+
+4900       2118   2126      2140  G15  5   XRA  1-8A      C2.4    2.5E-03   1344
+
+4910       2237   2243      2251  G15  5   XRA  1-8A      C2.4    1.3E-03   1344
+4910       2241   2243      2251  LEA  3   FLA  S17W60    SF                1344
+
+4920 +     2307   ////      2308  PAL  C   RSP  025-180   III/2                 

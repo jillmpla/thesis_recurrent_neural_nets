@@ -1,0 +1,42 @@
+:Product: 20110212events.txt
+:Created: 2011 Feb 15 0332 UT
+:Date: 2011 02 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Feb 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6060       0008   0012      0016  G13  5   XRA  1-8A      B1.3    4.6E-05       
+
+6070 +     0059   0110      0125  G15  5   XRA  1-8A      B8.6    8.4E-04       
+
+6080 +     0239   0246      0254  G15  5   XRA  1-8A      B5.2    3.5E-04       
+
+6090 +     0413   0421      0431  G15  5   XRA  1-8A      B3.8    3.2E-04       
+
+6100 +     0642   0647      0703  G15  5   XRA  1-8A      B3.0    3.1E-04       
+
+6110 +     1047   1051      1059  G15  5   XRA  1-8A      B2.3    1.3E-04       
+
+6130       1146   1222      1311  G15  5   XRA  1-8A      B2.1    8.9E-04       
+
+6120       1147   1154      1157  G13  5   XRA  1-8A      B1.0    4.5E-05       
+
+6140 +     1430   1506      1521  G15  5   XRA  1-8A      C2.6    4.1E-03   1159
+
+6150       1617   1620      1622  G13  5   XRA  1-8A      B1.2    2.1E-05       
+
+6160 +     1726   1733      1741  G15  5   XRA  1-8A      B5.6    3.4E-04   1160
+
+6170 +     1821   1826      1847  G15  5   XRA  1-8A      B4.7    6.1E-04       
+
+6180 +     1913   1917      1921  G15  5   XRA  1-8A      B5.8    1.8E-04   1160
+
+6190       1955   1958      2002  G13  5   XRA  1-8A      B1.7    4.6E-05       
+
+6200 +     2023   2036      2050  G15  5   XRA  1-8A      B8.9    1.1E-03   1160

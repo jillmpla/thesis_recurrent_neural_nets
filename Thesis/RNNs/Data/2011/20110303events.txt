@@ -1,0 +1,42 @@
+:Product: 20110303events.txt
+:Created: 2011 Mar 06 0332 UT
+:Date: 2011 03 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Mar 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 620 +     0339   ////      0345  LEA  C   RSP  025-126   III/1                 
+
+ 660       0548   ////      1406  SOH  3   CME  ////      086/263 247           
+
+ 630       1129   1134      1143  G15  5   XRA  1-8A      C1.2    8.1E-04       
+
+ 640       1412   1420      1431  G15  5   XRA  1-8A      C5.4    4.0E-03   1164
+ 640 +    B1416  U1419     A1451  SVI  3   FLA  N22E01    1N      ERU       1164
+ 640 +     1419   ////      1421  SAG  C   RSP  025-180   V/2               1164
+ 640 +     1419   1419      1420  SAG  G   RBR  245       110               1164
+
+ 650       1455   1455      1455  SAG  G   RBR  610       110                   
+
+ 670       1924   1936      1944  G15  5   XRA  1-8A      C1.2    1.2E-03   1164
+
+ 690       2027   2050      2102  G15  5   XRA  1-8A      C2.7    3.5E-03   1164
+
+ 680       2031   2031      2035  HOL  3   FLA  N26W00    SF                1164
+
+ 690       2039   2049      2103  HOL  3   FLA  N22W04    SF      ERU       1164
+
+ 700       2104   2106      2109  HOL  3   FLA  N22W07    SF      ERU       1164
+
+ 710       2324   2334      2346  G15  5   XRA  1-8A      C2.0    2.1E-03   1164
+ 710       2324   ////      2327  LEA  C   RSP  025-145   III/1             1164
+ 710       2327   2328      2346  HOL  3   FLA  N21W05    SF                1164
+
+ 720       2353   2358      0004  G15  5   XRA  1-8A      C2.1    1.0E-03   1164
+ 720       2356   2357      0019  HOL  3   FLA  N23W08    SF      ERU       1164

@@ -1,0 +1,24 @@
+:Product: 20110712events.txt
+:Created: 2011 Jul 15 0332 UT
+:Date: 2011 07 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jul 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7920       0025   0028      0030  G15  5   XRA  1-8A      B5.1    7.3E-05       
+
+7930 +     1229   ////      1230  SVI  C   RSP  025-051   III/1                 
+
+7940       1444   1449      1452  G15  5   XRA  1-8A      C1.9    4.8E-04   1247
+7940       1450   1451      1453  SVI  3   FLA  S19W34    SF      ERU       1247
+
+7950       1519   1530      1605  SVI  3   FLA  S19W33    SF      ERU       1247
+7950       1525   1533      1543  G15  5   XRA  1-8A      B7.9    6.9E-04   1247
+
+7970       2329   2339      2346  G15  5   XRA  1-8A      B5.0    4.6E-04       

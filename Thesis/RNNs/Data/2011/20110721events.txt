@@ -1,0 +1,15 @@
+:Product: 20110721events.txt
+:Created: 2011 Jul 24 0332 UT
+:Date: 2011 07 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jul 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9230       1500   1503      1509  G15  5   XRA  1-8A      B3.0    1.1E-04   1254
+9230       1502   1502      1506  SVI  3   FLA  S25W23    SF      ERU       1254

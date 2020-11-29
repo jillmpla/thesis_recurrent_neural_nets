@@ -1,0 +1,53 @@
+:Product: 20111010events.txt
+:Created: 2011 Oct 13 0332 UT
+:Date: 2011 10 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Oct 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8010       0439   0445      0450  G15  5   XRA  1-8A      B8.8    4.0E-04   1314
+
+8020       0506   0511      0513  G15  5   XRA  1-8A      B6.5    1.7E-04       
+
+8130       0546   ////      0546  CUL  C   RSP  018-035   III/1                 
+
+8030       0707   0719      0727  G15  5   XRA  1-8A      C3.8    2.5E-03   1313
+8030      B0715  U0718     A0736  SVI  3   FLA  S13E10    SF      ERU       1313
+
+8040       0910   0917      0929  G15  5   XRA  1-8A      C1.0    1.0E-03   1313
+
+8050 +     1123   1123      1123  SVI  G   RBR  245       170                   
+
+8060       1133   1142      1153  G15  5   XRA  1-8A      C1.4    1.3E-03   1313
+
+8070       1359   1402      1404  G15  5   XRA  1-8A      B5.3    8.7E-05       
+8070       1401   ////      1438  SAG  C   RSP  025-180   VI/1                  
+
+8080       1409   ////      1438  SVI  C   RSP  025-180   VI/1              1313
+8080       1430   1435      1437  G15  5   XRA  1-8A      C4.5    6.9E-04   1313
+8080 +     1433   1436      1440  HOL  3   FLA  S13E03    SF      DSD       1313
+8080 +     1434   1434      1434  SAG  G   RBR  245       130               1313
+
+8090 +     1918   ////      1919  PAL  C   RSP  025-180   III/2                 
+
+8140       2021   ////      2022  CUL  C   RSP  040-150   III/1                 
+
+8100 +     2021   ////      2026  SAG  C   RSP  025-158   III/1                 
+
+8150       2026   ////      2027  CUL  C   RSP  030-090   III/1                 
+
+8160       2125   ////      2128  CUL  C   RSP  050-180   III/1                 
+
+8110       2125   ////      2127  PAL  C   RSP  075-180   III/1                 
+
+8120 +     2220   2223      2226  G15  5   XRA  1-8A      B6.2    1.3E-04   1315
+
+8170 +     2330   ////      2332  CUL  C   RSP  040-180   III/1                 
+
+8180       2334   ////      2334  CUL  C   RSP  050-140   III/1                 

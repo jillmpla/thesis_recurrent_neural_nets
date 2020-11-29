@@ -1,0 +1,52 @@
+:Product: 20111026events.txt
+:Created: 2011 Oct 29 0332 UT
+:Date: 2011 10 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Oct 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1270       0003   ////      0010  CUL  C   RSP  027-057   III/1                 
+
+1280       0318   ////      1015  LEA  C   RSP  046-180   CTM/1                 
+1280       0404   ////      0528  LEA  C   RSP  032-070   VI/1                  
+
+1290       0502   0506      0512  G15  5   XRA  1-8A      B8.6    3.7E-04       
+
+1300       0551   ////      0847  SVI  C   RSP  056-180   CTM/1                 
+
+1370       0708   ////      0708  CUL  C   RSP  035-100   III/1                 
+
+1380       0740   ////      0740  CUL  C   RSP  020-090   III/1                 
+
+1310 +     0740   ////      0740  LEA  C   RSP  025-082   III/2                 
+
+1320       0824   ////      0825  SVI  C   RSP  032-087   III/1                 
+
+1330       0908   1001      1022  G15  5   XRA  1-8A      C1.2    5.2E-03   1324
+
+1340       1647   1647      1647  SAG  G   RBR  245       110                   
+
+1350 +     1804   1804      1804  SAG  G   RBR  245       140                   
+
+1360       1806   ////      1808  SAG  C   RSP  102-180   III/1                 
+1360 +     1807   1808      1809  SAG  G   RBR  245       170                   
+
+1390 +     1829   ////      1829  SAG  C   RSP  025-130   III/1                 
+
+1400 +     1839   1839      1839  SAG  G   RBR  245       130                   
+
+1410       1922   1922      1922  SAG  G   RBR  245       100                   
+
+1420       1927   1927      1927  SAG  G   RBR  245       110                   
+
+1430       2211   ////      2213  CUL  C   RSP  025-090   III/1                 
+
+1440       2255   2255      2255  LEA  G   RBR  245       140                   
+
+1450       2311   2311      2311  LEA  G   RBR  245       100                   

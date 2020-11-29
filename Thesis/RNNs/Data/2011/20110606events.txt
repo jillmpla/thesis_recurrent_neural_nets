@@ -1,0 +1,35 @@
+:Product: 20110606events.txt
+:Created: 2011 Jun 09 0332 UT
+:Date: 2011 06 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jun 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3580       0128   0135      0141  G15  5   XRA  1-8A      C1.2    7.2E-04   1226
+
+3590       0524   0600      0625  G15  5   XRA  1-8A      B6.7    2.0E-03   1228
+
+3600       0851   0858      0903  G15  5   XRA  1-8A      B3.6    2.5E-04   1226
+3600       0859   0900      0908  SVI  3   FLA  S21W44    SF      ERU       1226
+
+3610       0942   0950      0954  G15  5   XRA  1-8A      C1.0    4.5E-04   1226
+
+3630       1315   1320      1328  G15  5   XRA  1-8A      B6.7    3.8E-04   1228
+3630 +     1319   1329      1337  SVI  3   FLA  N19W31    SF      ERU       1228
+
+3650       1341   1346      1348  SVI  3   FLA  N19W31    SF      ERU       1228
+
+3660 +     1428   1436      1439  G15  5   XRA  1-8A      B8.8    3.9E-04   1228
+
+3670       1502   1506      1510  G15  5   XRA  1-8A      B6.1    2.0E-04   1228
+3670       1505   1505      1508  HOL  3   FLA  N20W30    SF      DSD       1228
+
+3690       1923   1926      1930  G15  5   XRA  1-8A      B3.1    8.4E-05   1226
+
+3700       2112   2119      2133  G15  5   XRA  1-8A      B3.7    3.9E-04   1226

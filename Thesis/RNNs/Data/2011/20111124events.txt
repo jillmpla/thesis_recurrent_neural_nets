@@ -1,0 +1,26 @@
+:Product: 20111124events.txt
+:Created: 2011 Nov 27 0332 UT
+:Date: 2011 11 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Nov 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7380       0101   ////      0113  LEA  U   RSP  025-063   CTM/1                 
+
+7390       0248   0251      0255  G15  5   XRA  1-8A      B7.1    2.0E-04       
+
+7400 +     1853   1856      1900  G15  5   XRA  1-8A      B5.3    1.5E-04   1358
+
+7410       1909   1910      1913  HOL  3   FLA  N17W49    SF                1359
+
+7420 +     2012   2021      2039  G15  5   XRA  1-8A      C1.2    1.5E-03   1357
+
+7430       2114   2118      2121  G15  5   XRA  1-8A      C1.2    2.9E-04       
+
+7440       2308   2325      2329  G15  5   XRA  1-8A      C1.9    1.6E-03       

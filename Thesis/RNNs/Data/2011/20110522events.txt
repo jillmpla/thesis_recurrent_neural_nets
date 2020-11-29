@@ -1,0 +1,22 @@
+:Product: 20110522events.txt
+:Created: 2011 May 25 0332 UT
+:Date: 2011 05 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 May 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2200       0238   ////      0239  CUL  C   RSP  018-180   III/1                 
+
+2170       0941   1028      1108  G15  5   XRA  1-8A      B1.3    5.6E-04       
+
+2180       1625   ////      1628  SAG  C   RSP  25-85     III/1                 
+
+2190       2004   2007      2009  G15  5   XRA  1-8A      B1.2    2.0E-05       
+
+2210       2345   2347      2355  HOL  3   FLA  N14W64    SF      DSD       1220

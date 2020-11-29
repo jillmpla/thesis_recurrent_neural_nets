@@ -1,0 +1,65 @@
+:Product: 20110806events.txt
+:Created: 2011 Aug 09 0332 UT
+:Date: 2011 08 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Aug 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3260 +     0000   ////      0241  LEA  C   RSP  075-180   CTM/1                 
+
+3390       0035   ////      0243  LEA  C   RSP  025-060   VI/1                  
+
+3270       0308   ////      0242  PAL  C   RSP  025-040   VI/1                  
+3270 +     0312   ////      0312  PAL  C   RSP  038-061   III/1                 
+
+3280 +     0435   ////      0437  SVI  C   RSP  025-147   III/1                 
+
+3290       0510   0518      0532  SVI  3   FLA  N17W27    SF      ERU       1263
+
+3300       0625   ////      0626  SVI  C   RSP  025-070   III/1                 
+
+3310       0805   0811      0820  G15  5   XRA  1-8A      B9.8    6.4E-04   1263
+
+3400 +     0806   ////      1228  SVI  C   RSP  075-180   CTM/1                 
+
+3310       0811   0813      0819  SVI  3   FLA  N18W29    SF      ERU       1263
+
+3320       0837   0847      0851  G15  5   XRA  1-8A      C4.1    2.0E-03   1267
+3320 +     0841   0847      0900  SVI  3   FLA  S16E22    SF      ERU       1267
+
+3330       0936   0942      0951  SVI  3   FLA  N17W30    SF      ERU       1263
+
+3340       1019   1137      1155  SVI  3   FLA  N17W32    SF      ERU       1263
+
+3350       1141   1144      1211  SVI  3   FLA  S17E20    SF      ERU       1267
+3350       1141   1146      1153  G15  5   XRA  1-8A      C1.3    7.2E-04   1267
+
+3360       1209   1227      1258  SVI  3   FLA  N17W32    SF      ERU       1263
+3360       1216   1223      1230  G15  5   XRA  1-8A      C1.4    9.1E-04   1263
+
+3370 +     1314   1319      1329  HOL  3   FLA  N18W31    SF      ERU       1263
+
+3380       1333   1334      1343  SVI  3   FLA  S16E19    SF      ERU       1267
+
+3410 +     1415   ////      1558  SAG  C   RSP  025-141   VI/1                  
+
+3420 +     1626   1636      1643  G15  5   XRA  1-8A      B9.8    8.1E-04   1267
+
+3450       1655   1807      1841  G15  5   XRA  1-8A      C1.4    7.4E-03       
+
+3430 +     1757   1802      1817  HOL  3   FLA  N16W34    SF      ERU       1263
+
+3470 +     1832   ////      2228  SAG  C   RSP  025-180   VI/1                  
+
+3440       1841   1841      1841  SAG  G   RBR  245       110                   
+
+3460 +     1922   1927      1932  G15  5   XRA  1-8A      C1.4    5.7E-04   1263
+3460       1926   1926      1931  HOL  3   FLA  N16W35    SF                1263
+
+3480       2233   2251      2305  HOL  3   FLA  N16W35    SF      ERU       1263

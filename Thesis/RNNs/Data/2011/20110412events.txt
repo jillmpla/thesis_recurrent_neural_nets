@@ -1,0 +1,47 @@
+:Product: 20110412events.txt
+:Created: 2011 Apr 15 0332 UT
+:Date: 2011 04 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Apr 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7370       0212   0213      0215  LEA  3   FLA  N20W11    SF                1186
+
+7380       0304   0305      0308  LEA  3   FLA  N12E27    SF      ERU       1190
+
+7390       0340   0346      0352  G15  5   XRA  1-8A      C1.7    7.8E-04   1190
+7390       0343   0346      0355  LEA  3   FLA  N13E26    1F      ERU       1190
+
+7400       0357   0400      0402  LEA  3   FLA  N13E26    SF      BPT       1190
+
+7420 +     0412   0414      0417  LEA  3   FLA  N14E27    SF      BPT       1190
+
+7430       0417   0417      0421  LEA  3   FLA  N13E25    SF      BPT       1190
+
+7440       0422   0427      0432  LEA  3   FLA  N13E24    SF                1190
+
+7450       0450   0450      0454  LEA  3   FLA  N13E25    SF                1190
+
+7460       0546   0607      0611  G15  5   XRA  1-8A      C3.1    7.3E-04   1190
+
+7470 +     1221   1232      1238  G15  5   XRA  1-8A      C1.8    1.5E-03   1191
+
+7480       1618   1620      1625  HOL  3   FLA  N15W30    SF      ERU       1185
+
+7490 +     1752   1758      1802  G15  5   XRA  1-8A      B9.7    4.0E-04   1191
+
+7500       2049   ////      2052  CUL  C   RSP  025-160   III/1                 
+
+7510       2103   ////      2103  CUL  C   RSP  027-090   III/1                 
+
+7520       2245   2245      2259  HOL  3   FLA  N15E82    SF                1191
+
+7530 +     2317   2318      2336  LEA  3   FLA  N16E80    SF                1191
+
+7540       2345   0009      0037  HOL  3   FLA  N14E76    SF                1191

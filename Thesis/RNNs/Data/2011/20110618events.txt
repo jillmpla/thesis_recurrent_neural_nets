@@ -1,0 +1,59 @@
+:Product: 20110618events.txt
+:Created: 2011 Jun 21 0332 UT
+:Date: 2011 06 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jun 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4770 +     0016   0021      0025  G15  5   XRA  1-8A      B8.6    3.1E-04   1234
+4770       0025   ////      0027  LEA  C   RSP  025-169   III/1             1234
+
+4790       0025   ////      0027  PAL  C   RSP  025-154   III/1                 
+
+4800       0054   0100      0104  G15  5   XRA  1-8A      B8.8    3.5E-04   1234
+
+4810 +     0123   ////      0108  PAL  C   RSP  025-086   III/1                 
+4810       0123   ////      0138  LEA  C   RSP  025-129   VI/1                  
+
+4820 +     0409   ////      0409  SVI  C   RSP  025-126   III/2                 
+
+4830       0440   ////      0520  LEA  C   RSP  025-100   VI/1                  
+4830 +     0450   ////      0450  SVI  C   RSP  025-082   III/1                 
+
+4840 +     0537   ////      0544  SVI  C   RSP  025-082   III/1                 
+
+4850 +     0625   ////      0625  LEA  C   RSP  025-120   III/1                 
+
+4860       0652   ////      0658  SVI  C   RSP  025-044   III/1                 
+
+4870       0709   ////      0709  SVI  C   RSP  025-047   III/1                 
+
+4880       0745   ////      0801  SVI  C   RSP  025-054   VI/1                  
+
+4890       0841   0841      0845  SVI  3   FLA  S15E61    SF      ERU       1237
+
+4900       1034   1042      1055  G15  5   XRA  1-8A      B4.8    4.9E-04   1236
+4900       1037   1037      1043  SVI  3   FLA  N14E28    SF      ERU       1236
+
+4930       1219   ////      1236  SAG  C   RSP  025-079   VI/1                  
+
+4910       1222   ////      1223  SVI  C   RSP  025-083   III/1                 
+
+4920       1236   ////      1236  SVI  C   RSP  025-059   III/1                 
+
+4940 +     1641   ////      1641  SVI  C   RSP  025-082   III/1                 
+
+4950 +     1941   ////      1941  PAL  C   RSP  025-057   III/1                 
+
+4960       2218   2222      2227  G15  5   XRA  1-8A      B4.5    2.3E-04   1237
+4960       2221   2221      2225  HOL  3   FLA  S18E57    SF                1237
+
+4980 +     2314   ////      2359  LEA  C   RSP  025-127   VI/1                  
+
+4970 +     2316   2319      2323  G15  5   XRA  1-8A      B3.1    8.6E-05   1237

@@ -1,0 +1,93 @@
+:Product: 20111102events.txt
+:Created: 2011 Nov 05 0332 UT
+:Date: 2011 11 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Nov 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2430       0004   ////      0005  CUL  C   RSP  020-090   III/1             1339
+
+2440       0122   0122      0122  PAL  G   RBR  245       100                   
+
+2450       0133   ////      0133  CUL  C   RSP  020-120   III/1                 
+
+2460       0245   0252      0302  G15  5   XRA  1-8A      C5.1    4.1E-03       
+2460       0256   ////      0259  CUL  C   RSP  023-090   III/1                 
+
+2470       0319   ////      0326  CUL  C   RSP  020-170   III/1                 
+
+2480 +     0356   ////      0357  CUL  C   RSP  020-160   III/1                 
+
+2740       0511   ////      0512  CUL  C   RSP  020-180   III/1                 
+
+2490 +     0552   ////      0554  CUL  C   RSP  020-280   III/1                 
+
+2500 +     0636   ////      0636  CUL  C   RSP  020-180   III/1                 
+
+2750       0643   ////      0644  CUL  C   RSP  020-120   III/1                 
+
+2510       0646   0650      0659  G15  5   XRA  1-8A      C2.2    1.7E-03   1339
+
+2760       0747   ////      0747  CUL  C   RSP  020-080   III/1                 
+
+2520 +     0747   ////      0747  LEA  C   RSP  025-180   III/2                 
+
+2530       0813   0814      0820  LEA  3   FLA  N21E74    SF                1339
+
+2540 +     0828   ////      0828  LEA  C   RSP  025-091   III/2                 
+
+2550       0831   0843      0854  G15  5   XRA  1-8A      C3.4    4.0E-03   1339
+
+2560       0859   0901      0907  LEA  3   FLA  N21E79    SF                1339
+
+2570 +     0908   ////      0908  LEA  C   RSP  059-180   III/1                 
+
+2590 +     1039   1048      1055  G15  5   XRA  1-8A      C3.2    2.4E-03   1339
+
+2600       1124   1124      1125  SVI  G   RBR  245       230                   
+
+2610       1126   ////      1126  SVI  C   RSP  030-152   III/1                 
+
+2620       1213   1213      1213  SAG  G   RBR  245       100                   
+
+2630 +     1220   1223      1225  G15  5   XRA  1-8A      C1.6    2.7E-04   1339
+
+2640       1310   1310      1321  SVI  3   FLA  N21E71    SF                1339
+
+2650       1332   1332      1332  SAG  G   RBR  245       120                   
+
+2660 +     1412   ////      1412  SVI  C   RSP  036-083   III/1                 
+
+2670      B1538   1549      1617  HOL  2   FLA  N22E77    SF                1339
+2670       1553   1556      1600  G15  5   XRA  1-8A      C2.7    7.2E-04   1339
+
+2680       1710   1721      1750  G15  5   XRA  1-8A      C7.8    1.5E-02   1339
+2680 +     1735   1736      1743  HOL  3   FLA  N22E74    SF                1339
+
+2690       1837   1837      1837  SAG  G   RBR  245       160                   
+
+2700       1955   1958      2001  HOL  3   FLA  N21E73    SF                1339
+
+2710       2006   2011      2013  HOL  3   FLA  N24E79    SF      BPT       1339
+
+2580 +     2043   2043      2110  PAL  G   RNS  245       130                   
+
+2770       2135   ////      2149  CUL  C   RSP  020-075   III/1                 
+
+2720       2152   2201      2219  G15  5   XRA  1-8A      M4.3    4.5E-02   1339
+2720 +     2155   2156      2157  PAL  G   RBR  8800      170               1339
+2720 +     2156   2156      2156  PAL  G   RBR  4995      100               1339
+2720       2156   2157      2157  LEA  G   RBR  15400     210               1339
+2720 +    B2201   2203      2242  HOL  2   FLA  N20E73    SN      BPT       1339
+
+2960 +     2208   ////      2359  LEA  C   RSP  045-180   CTM/1                 
+
+2730 +     2242   2242      2242  PAL  G   RBR  245       120                   
+
+2780 +     2250   2250      2250  LEA  G   RBR  245       140                   

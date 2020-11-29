@@ -1,0 +1,78 @@
+:Product: 20110415events.txt
+:Created: 2011 Apr 18 0332 UT
+:Date: 2011 04 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Apr 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8160       0020   0028      0040  HOL  2   FLA  N15W14    SF                1190
+
+8170       0045   0045      0045  PAL  G   RBR  245       100                   
+
+8190       0243   0247      0252  G15  5   XRA  1-8A      B8.8    4.8E-04   1190
+8190       0245   0246      0251  LEA  3   FLA  N15W15    SF      BPT       1190
+
+8400       0250   ////      0337  LEA  2   EPL  ////      0.25    B.7A      1190
+
+8200       0333   ////      0334  CUL  C   RSP  030-170   III/1                 
+
+8210       0343   0355      0400  G15  5   XRA  1-8A      C1.8    1.5E-03   1190
+8210       0346   0353      0357  LEA  3   FLA  N11W17    SF      ERU       1190
+
+8230       0357   0357      0401  LEA  3   FLA  N15W16    SF                1190
+
+8220       0437   0441      0444  G15  5   XRA  1-8A      C1.3    3.5E-04   1190
+8220       0440   0442      0446  LEA  3   FLA  N15W16    SF                1190
+
+8240       0610   0612      0614  LEA  3   FLA  N15W17    SF                1190
+
+8270       0620   0628      0655  SVI  3   FLA  N12W19    SF      ERU       1190
+
+8280       0628   0629      0633  SVI  3   FLA  N17E59    SF                1193
+
+8250       0646   0648      0651  SVI  3   FLA  N18E58    SF                1193
+
+8430       0809   0811      0812  G15  5   XRA  1-8A      C1.1    2.1E-04       
+
+8260 +     0910   0936      0949  G15  5   XRA  1-8A      C1.6    3.0E-03   1190
+
+8290 +     1129   1136      1148  G15  5   XRA  1-8A      C1.9    1.7E-03   1193
+
+8300       1347   1350      1354  G15  5   XRA  1-8A      C2.8    6.8E-04   1190
+8300       1354   1355      1400  HOL  3   FLA  N13W24    SF                1190
+
+8310       1442   1449      1457  G15  5   XRA  1-8A      C2.0    1.3E-03   1190
+8310       1446   1446      1503  HOL  3   FLA  N13W23    SF      DSD       1190
+
+8320       1530   1531      1602  HOL  3   FLA  N15E52    SF                1193
+
+8330 +     1608   1614      1619  G15  5   XRA  1-8A      C1.6    7.8E-04   1190
+8330       1610   1614      1619  HOL  3   FLA  N13W25    SF      DSD       1190
+
+8340       1627   1629      1633  HOL  3   FLA  N13W25    SF      BPT       1190
+
+8350       1657   1658      1703  HOL  3   FLA  N15E51    SF      DSD       1193
+
+8360 +     1702   1712      1728  G15  5   XRA  1-8A      M1.3    1.2E-02   1190
+8360 +     1709   1710      1711  SAG  G   RBR  4995      170               1190
+8360 +     1709   1710      1711  SAG  G   RBR  8800      270               1190
+8360       1709   1710      1711  SVI  G   RBR  2695      64                1190
+8360 +     1710   1710      1711  SAG  G   RBR  15400     150               1190
+8360       1711   1711      1844  HOL  3   FLA  N14W19    1F      ERU       1190
+
+8370       1845   1847      1849  HOL  3   FLA  N13W25    SF      BPT       1190
+
+8380       1850   1856      1901  HOL  3   FLA  N13W24    SF      ERU       1190
+
+8390       2014   2018      2052  HOL  3   FLA  N13W26    SF      ERU       1190
+
+8410       2143   2143      2147  HOL  3   FLA  N13W28    SF      DSD       1190
+
+8440       2233   2236      2239  G15  5   XRA  1-8A      C1.8    6.8E-04   1190
+8440       2237   2238      2244  HOL  3   FLA  N13W28    SF      ERU       1190

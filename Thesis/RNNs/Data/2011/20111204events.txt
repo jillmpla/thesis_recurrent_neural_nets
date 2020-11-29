@@ -1,0 +1,25 @@
+:Product: 20111204events.txt
+:Created: 2011 Dec 07 0332 UT
+:Date: 2011 12 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Dec 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8300       0311   0313      0317  LEA  3   FLA  N20W64    SF                1358
+
+8360       0621   ////      0624  CUL  C   RSP  020-180   III/1                 
+
+8310       0621   ////      0646  LEA  C   RSP  025-148   VI/1                  
+8310       0646   ////      0647  CUL  C   RSP  020-100   III/1                 
+
+8320       0830   0837      0845  G15  5   XRA  1-8A      C1.2    9.1E-04       
+
+8340       1605   1615      1622  G15  5   XRA  1-8A      C4.8    3.9E-03   1362
+
+8350 +     1937   1949      2003  G15  5   XRA  1-8A      C1.3    1.7E-03   1367

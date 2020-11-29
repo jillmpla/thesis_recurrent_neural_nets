@@ -1,0 +1,38 @@
+:Product: 20111022events.txt
+:Created: 2011 Oct 25 0332 UT
+:Date: 2011 10 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Oct 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 630 +     0157   ////      0157  LEA  C   RSP  025-180   III/1                 
+
+ 640 +     0257   ////      0258  LEA  C   RSP  033-180   III/1                 
+
+ 650       1000   1110      1309  G15  5   XRA  1-8A      M1.3    1.1E-01   1314
+ 650       1016  U1018     A1126  SVI  3   FLA  N25W77    SF      ERU       1314
+ 650       1026   ////      1049  SVI  C   RSP  069-180   CTM/1             1314
+ 650      B1108   ////     B1119  SVI  3   BSL  ////      0.19    B.9A      1319
+
+ 660       1117   ////      1123  SVI  C   RSP  034-149   III/1                 
+
+ 680      B1232  U1252     A1328  SVI  3   FLA  N28W77    SF      ERU       1314
+
+ 690       1514   1520      1529  G15  5   XRA  1-8A      C4.1    3.5E-03   1324
+ 690       1516   1519      1527  HOL  3   FLA  N12E24    SF      ERU       1324
+
+ 700       1743   1744      1753  HOL  3   FLA  N17E47    SF      ERU       1325
+
+ 710       1911   1917      1923  G15  5   XRA  1-8A      C2.2    1.2E-03   1325
+ 710       1914   1917      1937  HOL  3   FLA  N17E46    SF      ERU       1325
+
+ 720       2022   2022      2030  HOL  3   FLA  N17E46    SF                1325
+
+ 730       2039   2043      2047  G15  5   XRA  1-8A      C1.7    5.6E-04   1325
+ 730       2041   2042      2053  HOL  3   FLA  N16E44    SF      ERU       1325

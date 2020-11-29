@@ -1,0 +1,67 @@
+:Product: 20110528events.txt
+:Created: 2011 May 31 0332 UT
+:Date: 2011 05 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 May 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2470       0027   0035      0043  G15  5   XRA  1-8A      C1.4    1.0E-03   1226
+
+2490       0222   0232      0251  G15  5   XRA  1-8A      C1.6    2.1E-03   1226
+
+2480       0231   0231      0231  LEA  G   RBR  245       120                   
+
+2500       0304   0331      0343  G15  5   XRA  1-8A      C8.3    1.0E-02   1226
+
+2510       0408   0408      0408  LEA  G   RBR  410       530                   
+
+2520       0555   0556      0607  SVI  3   FLA  S22E80    SF                1226
+
+2530       0614   0629      0634  SVI  3   FLA  S21E76    SF      ERU       1226
+2530       0615   0619      0623  G15  5   XRA  1-8A      C1.7    5.0E-04   1226
+
+2540       0651   0711      0723  G15  5   XRA  1-8A      C2.1    2.9E-03       
+
+2550       0801   0806      0809  G15  5   XRA  1-8A      C4.4    1.2E-03   1226
+2550       0802   0804      0813  SVI  3   FLA  S21E76    SF      ERU       1226
+
+2560       0826   0902      0918  SVI  3   FLA  S21E76    SF      ERU       1226
+2560       0843   0901      0906  G15  5   XRA  1-8A      C7.7    6.8E-03   1226
+
+2570       1022   1030      1121  G15  5   XRA  1-8A      C5.3    1.4E-02   1226
+2570 +     1022   1028      1045  SVI  3   FLA  S21E73    SF      ERU       1226
+
+2580       1157   1159      1203  SVI  3   FLA  S21E70    SF      ERU       1226
+
+2590       1210   1216      1225  SVI  3   FLA  S21E75    SF      ERU       1226
+
+2600 +     1242   1245      1248  G15  5   XRA  1-8A      C1.9    4.1E-04   1226
+
+2610 +     1311   1315      1317  G15  5   XRA  1-8A      C1.4    3.1E-04   1226
+
+2620       1337   1340      1343  G15  5   XRA  1-8A      C1.0    2.4E-04   1226
+2620 +     1340   1342      1349  SVI  3   FLA  S21E69    SF      ERU       1226
+
+2630       1520   1525      1529  G15  5   XRA  1-8A      C1.2    4.6E-04       
+
+2640 +     1539   1543      1547  G15  5   XRA  1-8A      C1.0    3.4E-04   1226
+
+2650       1720   1723      1726  G15  5   XRA  1-8A      C1.9    3.8E-04   1226
+2650       1722   1722      1727  HOL  3   FLA  S21E74    SF      DSD       1226
+
+2660 +     1842   1846      1850  G15  5   XRA  1-8A      C2.2    6.7E-04   1226
+
+2670       1944   1953      2001  G15  5   XRA  1-8A      C1.2    1.0E-03       
+
+2680       2109   2150      2201  G15  5   XRA  1-8A      M1.1    2.3E-02   1226
+2680       2112   2130      2153  HOL  3   FLA  S20E71    SF      ERU       1226
+
+2690       2257   2300      2305  G15  5   XRA  1-8A      C2.4    7.8E-04       
+
+2700       2341   2346      2353  G15  5   XRA  1-8A      C1.4    7.8E-04       

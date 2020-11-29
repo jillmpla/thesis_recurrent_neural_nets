@@ -1,0 +1,27 @@
+:Product: 20110720events.txt
+:Created: 2011 Jul 23 0332 UT
+:Date: 2011 07 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jul 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9160       0315   0318      0323  G15  5   XRA  1-8A      B3.2    1.1E-04       
+
+9170       0653   0653      0656  SVI  3   FLA  N12W55    SF                1258
+
+9180 +     0957   1005      1011  G15  5   XRA  1-8A      B7.2    4.3E-04   1254
+
+9190       1545   1551      1558  G15  5   XRA  1-8A      B8.3    4.9E-04   1254
+9190       1548   1550      1608  SVI  3   FLA  S25W11    SF      ERU       1254
+
+9200       1751   1756      1801  G15  5   XRA  1-8A      B5.1    2.1E-04   1259
+
+9210       1959   2004      2006  G15  5   XRA  1-8A      B4.0    1.0E-04       
+
+9220       2113   2117      2121  G15  5   XRA  1-8A      B4.0    1.3E-04       

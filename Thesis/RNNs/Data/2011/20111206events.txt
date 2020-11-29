@@ -1,0 +1,24 @@
+:Product: 20111206events.txt
+:Created: 2011 Dec 09 0332 UT
+:Date: 2011 12 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Dec 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8600       0047   ////      0047  CUL  C   RSP  027-050   III/1                 
+
+8610       0156   ////      0157  CUL  C   RSP  035-090   III/1                 
+
+8640       0513   ////      0513  CUL  C   RSP  030-060   III/1                 
+
+8630       1000   ////     A1255  SOH  4   CME  ////      191-048B532       1360
+
+8620       1827   1827      1827  SAG  G   RBR  245       100                   
+
+8650       2022   ////      2022  CUL  C   RSP  020-050   III/1                 

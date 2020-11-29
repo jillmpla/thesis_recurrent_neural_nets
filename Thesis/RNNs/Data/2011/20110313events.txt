@@ -1,0 +1,49 @@
+:Product: 20110313events.txt
+:Created: 2011 Mar 16 0332 UT
+:Date: 2011 03 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Mar 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3280       0023   ////      0149  LEA  C   RSP  025-115   VI/1                  
+3280 +     0025   ////      0025  CUL  C   RSP  080-180   III/1                 
+
+3290 +     0142   0149      0152  G15  5   XRA  1-8A      B7.5    3.1E-04   1169
+
+3300 +     0252   ////      0252  CUL  C   RSP  057-230   III/1                 
+
+3440       0335   ////      0335  CUL  C   RSP  057-130   III/1                 
+
+3450       0614   ////      0618  CUL  C   RSP  057-120   III/1                 
+
+3460       0753   ////      0754  CUL  C   RSP  057-100   III/1                 
+
+3310       0824   0824      0825  SVI  G   RBR  410       180                   
+
+3320       1110   ////      1115  SAG  C   RSP  025-084   III/1                 
+3320       1110   ////      1131  SVI  C   RSP  025-180   VI/1                  
+
+3330 +     1325   1333      1340  G15  5   XRA  1-8A      C6.7    3.6E-03   1166
+
+3340 +     1436   1442      1444  G15  5   XRA  1-8A      C6.4    1.5E-03   1166
+
+3360 +     1548   1548      1548  SAG  G   RBR  245       100                   
+
+3370       1656   1656      1656  SAG  G   RBR  245       100                   
+
+3380       1716   1716      1716  SAG  G   RBR  245       110                   
+
+3400       1817   ////      1833  SAG  C   RSP  025-180   VI/1                  
+
+3410       1925   ////      1930  SAG  C   RSP  025-180   III/1                 
+
+3420 +     1940   1944      1948  G15  5   XRA  1-8A      B7.1    2.3E-04   1166
+
+3430       2150   2159      2213  G15  5   XRA  1-8A      C1.7    1.8E-03   1169
+3430       2154   2154      2204  HOL  3   FLA  N18W36    SF      ERU       1169

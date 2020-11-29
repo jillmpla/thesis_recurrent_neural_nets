@@ -1,0 +1,44 @@
+:Product: 20110304events.txt
+:Created: 2011 Mar 07 0332 UT
+:Date: 2011 03 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Mar 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 730       0006   0006      0006  LEA  G   RBR  245       110                   
+ 730 +     0006   ////      0006  CUL  C   RSP  060-170   III/1                 
+
+ 740       0126   0126      0139  LEA  3   FLA  N21W06    SF                1164
+
+ 750       0158   0158      0159  LEA  G   RBR  245       250                   
+
+ 760       0212   ////      0212  LEA  C   RSP  025-092   III/1                 
+
+ 770       0242   ////      0246  LEA  C   RSP  025-050   III/1                 
+
+ 780       0327   ////      0337  LEA  C   RSP  025-075   III/1                 
+
+ 790       0627   0627      0627  LEA  G   RBR  410       140                   
+
+ 800       0714   ////      0714  SVI  C   RSP  025-038   III/1                 
+
+ 810 +     0756   ////      1027  SVI  C   RSP  025-068   VI/1                  
+
+ 820       1204   ////      1206  SAG  C   RSP  025-180   III/1                 
+ 820       1205   ////      1459  SVI  C   RSP  025-180   VI/1                  
+
+ 830       1239   ////      1346  SVI  C   RSP  113-180   CTM/1                 
+ 830       1251   ////      1252  SAG  C   RSP  025-084   III/1                 
+ 830       1258   1258      1258  SAG  U   RBR  245       100                   
+ 830       1328   ////      1355  SAG  C   RSP  025-157   VI/1                  
+
+ 840 +     1357   1400      1403  G15  5   XRA  1-8A      C1.7    4.0E-04   1164
+
+ 850       1715   1719      1723  G15  5   XRA  1-8A      C1.0    3.4E-04   1163
+ 850       1718   1719      1726  HOL  3   FLA  N18W31    SF                1163

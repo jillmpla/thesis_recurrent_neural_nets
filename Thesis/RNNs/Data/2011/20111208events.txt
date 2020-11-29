@@ -1,0 +1,64 @@
+:Product: 20111208events.txt
+:Created: 2011 Dec 11 0332 UT
+:Date: 2011 12 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Dec 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8830 +     0005   0010      0018  G15  5   XRA  1-8A      C1.0    6.0E-04   1374
+
+8840 +     0105   ////      0105  CUL  C   RSP  023-130   III/1                 
+
+8850 +     0154   0159      0205  G15  5   XRA  1-8A      C1.2    5.3E-04   1375
+
+8860       0240   ////      0241  CUL  C   RSP  040-090   III/1                 
+8860       0240   ////      0318  LEA  C   RSP  025-112   VI/1                  
+
+8870       0251   ////      0254  CUL  C   RSP  020-160   III/1                 
+
+8880       0319   ////      0319  CUL  C   RSP  030-090   III/1                 
+
+8890       0353   ////      0354  CUL  C   RSP  020-090   III/1                 
+
+8980       0450   ////      0450  CUL  C   RSP  020-060   III/1                 
+
+8990       0507   ////      0508  CUL  C   RSP  020-180   III/1                 
+
+8900       0507   ////      0508  LEA  C   RSP  025-146   III/1                 
+
+9000       0512   ////      0512  CUL  C   RSP  045-090   III/1                 
+
+9010       0541   ////      0543  CUL  C   RSP  020-130   III/1                 
+
+8920       0542   ////      0602  LEA  C   RSP  025-136   VI/1                  
+8920       0600   ////      0602  CUL  C   RSP  018-150   III/1                 
+
+9020       0724   ////      0724  CUL  C   RSP  020-050   III/1                 
+
+8930       0846   ////      0925  SVI  3   EPL  ////      0.32    B.9A          
+
+8940 +     1220   ////      1221  SVI  C   RSP  025-083   III/1                 
+
+8950       1400   ////      1407  SVI  C   RSP  038-084   III/1                 
+8950       1400   ////      1419  SAG  C   RSP  025-080   VI/1                  
+
+8960       1443   1444      1451  HOL  3   FLA  N17W70    SF      DSD           
+
+9030       2031   ////      2031  CUL  C   RSP  030-050   III/1                 
+
+9040       2035   ////      2035  CUL  C   RSP  023-100   III/1                 
+
+8970       2035   ////      2045  PAL  C   RSP  028-046   VI/1                  
+8970       2045   ////      2045  CUL  C   RSP  025-050   III/1                 
+
+9050       2203   ////      2203  CUL  C   RSP  027-057   III/1                 
+
+9060       2213   ////      2213  CUL  C   RSP  027-057   III/1                 
+
+9070       2331   ////      2331  CUL  C   RSP  050-090   III/1                 

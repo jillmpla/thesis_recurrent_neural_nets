@@ -1,0 +1,80 @@
+:Product: 20110420events.txt
+:Created: 2011 Apr 23 0332 UT
+:Date: 2011 04 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Apr 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9200       0009   ////      0019  CUL  C   RSP  020-140   III/1                 
+
+9210       0020   ////      0020  CUL  C   RSP  018-170   III/2                 
+
+9220       0021   0021      0021  PAL  G   RBR  245       200                   
+
+9230       0023   ////      0025  CUL  C   RSP  020-180   III/3                 
+
+9240       0025   0025      0025  LEA  G   RBR  245       210                   
+
+9250       0031   ////      0031  CUL  C   RSP  060-160   III/1                 
+
+9260       0047   ////      0055  CUL  C   RSP  020-180   III/1                 
+
+9270       0109   ////      0112  CUL  C   RSP  018-180   III/3                 
+
+9280       0115   ////      0130  CUL  C   RSP  027-180   III/1                 
+
+9290       0154   ////      0159  CUL  C   RSP  018-160   III/1                 
+
+9300       0214   ////      0214  CUL  C   RSP  025-080   III/1                 
+
+9310       0224   ////      0224  CUL  C   RSP  020-090   III/1                 
+
+9320       0330   ////      0331  CUL  C   RSP  018-180   III/2                 
+
+9330       0346   0431      0449  G15  5   XRA  1-8A      C1.0    2.7E-03   1195
+
+9430       0544   ////      0545  CUL  C   RSP  018-180   III/3                 
+
+9440       0643   ////      0644  CUL  C   RSP  027-180   III/2                 
+
+9340       0924   0928      0932  G15  5   XRA  1-8A      B6.7    2.2E-04   1193
+9340       0928   0928      0936  SVI  3   FLA  N18W20    SF                1193
+
+9350       0957   0958      1000  SVI  3   FLA  S16E61    SF                1195
+
+9360       1109   1111      1116  SVI  3   FLA  S16E61    SF                1195
+
+9370       1307   1311      1313  G15  5   XRA  1-8A      B8.5    1.9E-04   1195
+9370       1309   1311      1313  SVI  3   FLA  S21E62    SF                1195
+
+9390 +     1457   ////      1712  HOL  3   EPL  ////      0.16    B.6A          
+
+9380 +     1537   1541      1551  HOL  3   FLA  S25E81    SF                    
+
+9400       1738   1836      1906  G15  5   XRA  1-8A      C1.5    5.8E-03       
+
+9410       1930   1939      1949  G15  5   XRA  1-8A      C4.0    3.1E-03   1195
+9410       1933   1939      1958  HOL  3   FLA  S21E58    SF      ERU       1195
+
+9420       1957   1957      1957  PAL  G   RBR  245       260                   
+
+9450       1957   1958      1958  SAG  G   RBR  245       260                   
+
+9460       2123   ////      2129  CUL  C   RSP  020-100   III/1                 
+
+9470       2131   ////      2131  CUL  C   RSP  020-180   III/2                 
+
+9480       2141   ////      2146  CUL  C   RSP  020-090   III/1                 
+
+9490       2214   ////      2218  CUL  C   RSP  020-100   III/1                 
+
+9500       2234   ////      2244  CUL  C   RSP  020-100   III/1                 
+
+9510 +     2302   2316      2321  G15  5   XRA  1-8A      B8.9    8.3E-04   1195
+9510 +     2316   ////      2316  CUL  C   RSP  018-180   III/2             1195

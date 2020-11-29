@@ -1,0 +1,82 @@
+:Product: 20110322events.txt
+:Created: 2011 Mar 25 0332 UT
+:Date: 2011 03 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Mar 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4790       0000   ////      0001  CUL  C   RSP  020-200   III/2                 
+
+4800       0020   ////      0022  CUL  C   RSP  018-180   III/2                 
+
+4810       0028   ////      0028  CUL  C   RSP  020-130   III/1                 
+
+4820       0108   ////      0109  CUL  C   RSP  025-090   III/1                 
+
+4830 +     0115   ////      0119  CUL  C   RSP  020-180   III/1                 
+
+4840       0157   ////      0157  CUL  C   RSP  020-080   III/1                 
+
+4850       0206   ////      0206  CUL  C   RSP  020-160   III/1                 
+
+4860 +     0220   ////      0220  CUL  C   RSP  020-130   III/1                 
+
+4870       0320   0325      0329  G15  5   XRA  1-8A      C1.9    6.7E-04       
+4870       0323   ////      0645  LEA  C   RSP  025-180   VI/1                  
+
+4880 +     0331   0337      0340  G15  5   XRA  1-8A      C3.9    1.4E-03   1176
+
+4890       0529   ////      0530  SVI  C   RSP  025-055   III/1                 
+
+4900       0601   ////      0634  SVI  C   RSP  025-082   VI/1                  
+
+4910       0644   0645      0645  SVI  G   RBR  245       100                   
+4910       0645   ////      0646  SVI  C   RSP  025-075   III/1                 
+
+4950       0718   ////      1231  SVI  C   RSP  025-155   VI/2                  
+
+4930       0719   ////      1017  LEA  C   RSP  025-180   VI/2                  
+
+4920       1015   ////      1018  SVI  C   RSP  025-152   III/2                 
+4920 +     1015   1016      1017  SVI  G   RBR  245       310                   
+
+4960       1101   ////      1231  SAG  C   RSP  025-180   VI/1                  
+
+4970       1341   ////      1530  SVI  C   RSP  025-135   VI/2                  
+
+4980       1542   1550      1602  G15  5   XRA  1-8A      C2.5    2.0E-03       
+
+4990 +     1644   ////      1647  SAG  C   RSP  025-087   III/1                 
+
+5000       1722   ////      1727  SAG  C   RSP  025-086   III/1                 
+
+5040       1823   ////      1847  SAG  C   RSP  025-148   VI/1                  
+
+5010       1857   ////      1859  SAG  C   RSP  025-180   V/2                   
+5010       1858   1858      1858  SAG  G   RBR  245       190                   
+
+5050       1936   ////      1958  SAG  C   RSP  025-180   VI/2                  
+
+5020       1951   1951      1951  SAG  G   RBR  245       170                   
+
+5030       1957   1957      1957  SAG  G   RBR  245       140                   
+
+5060       2041   ////      2111  SAG  C   RSP  025-180   VI/1                  
+5060 +     2042   ////      2043  CUL  C   RSP  023-160   III/2                 
+
+5070       2119   2212      2234  G15  5   XRA  1-8A      C1.6    5.4E-03   1176
+5070       2209   2212      2217  HOL  3   FLA  S18E70    SF                1176
+
+5090       2225   ////      2225  CUL  C   RSP  040-090   III/1                 
+
+5080       2305   2306      2310  HOL  3   FLA  S18E70    SF                1176
+
+5100 +     2333   ////      2334  CUL  C   RSP  020-150   III/1                 
+
+5110       2339   ////      0028  LEA  C   RSP  025-180   VI/1                  

@@ -1,0 +1,75 @@
+:Product: 20111218events.txt
+:Created: 2011 Dec 21 0332 UT
+:Date: 2011 12 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Dec 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 780 +     0121   0126      0132  G15  5   XRA  1-8A      B7.5    3.4E-04   1381
+
+ 790       0200   0205      0208  G15  5   XRA  1-8A      C1.9    4.7E-04   1376
+ 790       0203   0204      0213  LEA  3   FLA  N19W04    SN      DSD       1376
+ 790       0205   0205      0205  PAL  G   RBR  410       120               1376
+
+ 800       0208   0208      0208  PAL  G   RBR  410       240                   
+
+ 810       0208   0208      0209  LEA  G   RBR  410       270                   
+ 810       0209   ////      0209  CUL  C   RSP  030-600   III/1                 
+
+ 820 +     0209   ////      0209  LEA  C   RSP  041-180   III/1                 
+
+ 830       0215   0215      0215  LEA  G   RBR  245       78                    
+ 830       0215   0215      0215  LEA  G   RBR  410       110                   
+
+ 840 +     0318   0322      0329  G15  5   XRA  1-8A      B4.9    2.4E-04   1381
+
+ 850       0459   0504      0507  G15  5   XRA  1-8A      C1.8    4.8E-04   1376
+ 850       0501   0505      0513  LEA  3   FLA  N19W07    SN                1376
+ 850 +     0501   ////      0502  CUL  C   RSP  030-470   III/1             1376
+ 850       0501   0501      0501  LEA  G   RBR  410       1000              1376
+
+ 860       0509   0509      0509  LEA  G   RBR  410       100                   
+
+ 960       0619   ////      0619  CUL  C   RSP  120-470   III/1                 
+
+ 870       0619   0619      0619  LEA  G   RBR  245       150                   
+
+ 880       0708   0713      0720  G15  5   XRA  1-8A      B5.5    3.0E-04       
+ 880 +     0709   ////      0709  CUL  C   RSP  025-140   III/1                 
+
+ 890       0743   0747      0752  G15  5   XRA  1-8A      B7.0    2.5E-04   1376
+ 890       0745   0747      0753  LEA  3   FLA  N19W08    SF                1376
+ 890 +     0745   ////      0745  LEA  C   RSP  025-150   III/2             1376
+
+ 900 +     0826   ////      0826  LEA  C   RSP  025-107   III/1                 
+
+ 910 +     0932   ////      0934  SVI  C   RSP  028-079   III/1                 
+
+ 920       1138   1145      1153  G15  5   XRA  1-8A      B7.8    5.4E-04   1376
+
+ 930 +     1334   1334      1334  SVI  G   RBR  410       130                   
+
+ 940 +     1335   1338      1340  G15  5   XRA  1-8A      B5.4    9.0E-05   1376
+
+ 950       1343   ////      1343  SVI  C   RSP  028-083   III/1                 
+
+ 970       2100   ////      2100  CUL  C   RSP  025-090   III/1                 
+
+ 980 +     2156   ////      2156  CUL  C   RSP  020-100   III/1                 
+
+ 990 +     2237   ////      2237  CUL  C   RSP  018-090   III/2                 
+ 990       2237   ////      2253  LEA  C   RSP  025-116   VI/2                  
+
+1000       2243   ////      2244  CUL  C   RSP  030-075   III/1                 
+
+1010       2252   ////      2252  PAL  C   RSP  025-039   III/1                 
+
+1020       2253   ////      2253  CUL  C   RSP  023-075   III/1                 
+
+1030 +     2331   ////      2331  CUL  C   RSP  020-100   III/1                 

@@ -1,0 +1,30 @@
+:Product: 20110828events.txt
+:Created: 2011 Aug 31 0332 UT
+:Date: 2011 08 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Aug 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6550       0309   ////      0309  CUL  C   RSP  018-120   III/1                 
+
+6480 +     0309   ////      0309  LEA  C   RSP  025-107   III/1                 
+
+6490       0417   0417      0421  LEA  2   FLA  N23W73    SF                1271
+
+6560 +     0420   ////      0428  CUL  C   RSP  057-180   II/1                  
+
+6510 +     1314   1314      1320  COM  3   FLA  S21E74    SF      ERU       1281
+
+6520 +     1341   1342      1355  COM  3   FLA  S19E71    SF                1281
+
+6530       1356   1400      1404  G15  5   XRA  1-8A      B5.4    1.8E-04   1281
+6530 +     1359   1359      1405  COM  3   FLA  S19E75    SF                1281
+
+6540       1958   2002      2006  G15  5   XRA  1-8A      B3.4    1.1E-04   1281
+6540       2000   2002      2010  HOL  3   FLA  S18E68    SF                1281

@@ -1,0 +1,46 @@
+:Product: 20110419events.txt
+:Created: 2011 Apr 22 0332 UT
+:Date: 2011 04 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Apr 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9040       0234   0237      0240  G15  5   XRA  1-8A      B7.8    1.7E-04       
+
+9050 +     0456   0458      0507  COM  3   FLA  S18E77    SF                1195
+
+9060 +     0508   0512      0517  G15  5   XRA  1-8A      C1.0    3.9E-04   1195
+9060       0512   0514      0518  LEA  3   FLA  S17E76    SF                1195
+
+9070       0622   0627      0638  LEA  2   FLA  S17E75    SF                    
+
+9080       0909   0910      0912  LEA  3   FLA  S18E71    SF                1195
+
+9090       1102   1102      1104  SVI  3   FLA  S18E80    SF                1195
+
+9100       1116   1120      1124  G15  5   XRA  1-8A      B9.0    2.8E-04   1193
+9100       1119   1120      1125  SVI  3   FLA  N16E01    SF                1193
+
+9110       1208   1208      1208  SVI  G   RBR  245       140                   
+
+9120       1208   1208      1208  SAG  G   RBR  245       120                   
+
+9130       1755   1755      1755  PAL  G   RBR  245       100                   
+
+9140       1758   1758      1758  SAG  G   RBR  245       100                   
+
+9150       1829   1829      1830  PAL  G   RBR  245       130                   
+
+9160       1832   1832      1832  SAG  G   RBR  245       140                   
+
+9170       1835   1840      1846  HOL  3   FLA  S16E77    SF                1195
+
+9180       2120   ////      2134  CUL  C   RSP  020-180   III/3                 
+
+9190       2302   ////      2302  CUL  C   RSP  020-180   III/1                 

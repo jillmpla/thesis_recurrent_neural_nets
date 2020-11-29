@@ -1,0 +1,73 @@
+:Product: 20111020events.txt
+:Created: 2011 Oct 23 0332 UT
+:Date: 2011 10 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Oct 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 250       0028   0028      0028  LEA  G   RBR  245       110                   
+ 250       0028   ////      0028  CUL  C   RSP  060-180   III/1                 
+
+ 260       0114   ////      0114  CUL  C   RSP  300-550   III/1                 
+
+ 270 +     0114   0114      0114  LEA  G   RBR  410       630                   
+
+ 280       0200   0203      0205  G15  5   XRA  1-8A      C1.5    2.2E-04       
+ 280 +     0201   ////      0203  CUL  C   RSP  100-400   III/1                 
+ 280 +     0201   0202      0202  LEA  G   RBR  245       370                   
+
+ 290       0229   ////      0229  CUL  C   RSP  090-330   III/1                 
+
+ 300 +     0242   0242      0243  LEA  G   RBR  410       140                   
+ 300       0243   ////      0243  CUL  C   RSP  150-500   III/1                 
+
+ 310 +     0302   ////      0303  CUL  C   RSP  025-300   III/3                 
+ 310 +     0302   0302      0302  LEA  G   RBR  245       1300                  
+
+ 320       0310   0325      0344  G15  5   XRA  1-8A      M1.6    2.2E-02       
+ 320       0313   ////      0347  LEA  C   RSP  088-178   CTM/1                 
+ 320       0314   ////      0320  CUL  C   RSP  023-550   III/1                 
+ 320       0314   ////      0336  LEA  C   RSP  025-060   VI/1                  
+ 320 +     0314   0314      0314  LEA  G   RBR  245       220                   
+ 320       0321   ////      0344  LEA  3   SPY  ////      12      B0A           
+
+ 410 +     0714   0732      0837  LEA  G   RNS  245       320                   
+
+ 330 +     0738   0740      0740  SVI  G   RBR  410       130                   
+
+ 340 +     0912   0912      0913  SVI  G   RBR  410       110                   
+
+ 350       0918   0918      0918  SVI  G   RBR  245       300                   
+
+ 360       1024   ////      1024  SVI  C   RSP  033-083   III/1                 
+
+ 370       1223   ////      1238  SVI  C   RSP  034-128   VI/1                  
+
+ 380       1414   1414      1414  SVI  G   RBR  410       140                   
+
+ 390 +     1450   ////      1451  SVI  C   RSP  113-150   III/1                 
+
+ 540      A1514   ////     A0702  SVI  3   DSF  N35W17    6                     
+
+ 550      A1514   ////     A0702  SVI  3   DSF  N08E43    8                     
+
+ 400       1533   1539      1545  G15  5   XRA  1-8A      C5.4    2.5E-03   1324
+ 400       1535   1537      1604  HOL  3   FLA  N13E47    SN      ERU       1324
+
+ 420       1612   ////      1612  SAG  C   RSP  028-058   III/1                 
+
+ 430 +     1741   1741      1741  PAL  G   RBR  410       280                   
+
+ 440       1741   1741      1741  SAG  G   RBR  410       380                   
+
+ 450 +     1742   1742      1742  PAL  G   RBR  610       320                   
+
+ 460       1743   1743      1743  SAG  G   RBR  610       280                   
+
+ 470       2022   2022      2026  HOL  3   FLA  N13E43    SF                1324

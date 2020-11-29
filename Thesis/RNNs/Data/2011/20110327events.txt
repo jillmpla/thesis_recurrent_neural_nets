@@ -1,0 +1,53 @@
+:Product: 20110327events.txt
+:Created: 2011 Mar 30 0332 UT
+:Date: 2011 03 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Mar 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5840       0006   0014      0020  G15  5   XRA  1-8A      C3.1    1.7E-03   1176
+5840       0009   0009      0009  LEA  G   RBR  410       130               1176
+5840 +     0010   0011      0029  LEA  3   FLA  S12E12    SF      ERU       1176
+5840       0012   0012      0012  LEA  G   RBR  1415      120               1176
+5840       0013   ////      0016  LEA  C   RSP  025-180   III/2             1176
+5840       0013   0014      0016  LEA  G   RBR  245       2900              1176
+
+5880       0122   ////      1012  LEA  C   RSP  025-180   VI/2                  
+
+5860       0511   ////      1012  LEA  C   RSP  026-168   III/1                 
+5860 +     0511   ////      0516  LEA  C   RSP  050-164   II/1    651           
+
+5870       0521   ////      0533  SVI  C   RSP  025-075   IV/1                  
+
+5950       1128   ////      2251  SAG  C   RSP  112-180   CTM/1                 
+5950       1130   ////      1933  SAG  C   RSP  025-180   VI/2                  
+
+5890 +     1227   1227      1227  SVI  G   RBR  245       120                   
+
+5900 +     1253   1257      1259  G15  5   XRA  1-8A      B7.6    1.4E-04   1176
+5900       1256   ////      1257  SVI  C   RSP  025-073   III/2             1176
+5900       1256   1256      1256  SAG  G   RBR  245       110               1176
+
+5910 +     1357   1400      1403  G15  5   XRA  1-8A      B5.9    1.3E-04   1176
+5910       1359   1359      1400  SVI  G   RBR  245       440               1176
+5910       1359   ////      1401  SVI  C   RSP  025-180   III/1             1176
+
+5920       1554   1557      1559  G15  5   XRA  1-8A      B7.4    1.1E-04       
+
+5930       1658   1703      1705  G15  5   XRA  1-8A      C1.1    2.8E-04       
+5930       1701   ////      1703  SAG  C   RSP  025-180   III/2                 
+5930       1701   1701      1701  SAG  G   RBR  2695      130                   
+
+5940       1809   1813      1818  G15  5   XRA  1-8A      B7.1    2.7E-04       
+
+5960       1919   ////      1932  HOL  3   EPL  ////      0.16                  
+
+5970       2318   2326      2334  G15  5   XRA  1-8A      C1.0    7.5E-04   1181
+5970       2321   2325      2338  HOL  3   FLA  S30E48    SF                1181
+5970       2324   ////      2359  LEA  C   RSP  025-174   VI/2              1181

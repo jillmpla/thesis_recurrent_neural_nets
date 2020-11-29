@@ -1,0 +1,52 @@
+:Product: 20111007events.txt
+:Created: 2011 Oct 10 0332 UT
+:Date: 2011 10 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Oct 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7690 +     0025   ////      0026  CUL  C   RSP  020-180   III/1                 
+
+7700       0042   0047      0049  G15  5   XRA  1-8A      C1.0    2.8E-04   1305
+7700       0043   0045      0056  LEA  3   FLA  N11W85    1F                1305
+
+7710       0114   0121      0130  G15  5   XRA  1-8A      C1.2    8.7E-04   1313
+7710       0117   0117      0119  LEA  3   FLA  S15E55    SF                1313
+
+7720       0341   ////      0341  CUL  C   RSP  060-200   III/1                 
+
+7730       0355   0403      0410  G15  5   XRA  1-8A      C2.5    1.4E-03       
+
+7740 +     0418   ////      0419  CUL  C   RSP  030-180   III/1                 
+
+7750       0421   0421      0421  LEA  G   RBR  245       100                   
+
+7760       0422   ////      0422  CUL  C   RSP  040-400   III/1                 
+
+7770       0448   0450      0452  LEA  3   FLA  N10W88    SF                1305
+
+7780       0516   0636      0652  G15  5   XRA  1-8A      B8.3    1.2E-03       
+
+7790       0824   0832      0848  G15  5   XRA  1-8A      B9.1    1.0E-03       
+
+7800       0925   0926      0930  SVI  3   FLA  N12W78    SF                1305
+
+7810       0942   0943      0943  LEA  G   RBR  245       140                   
+
+7820 +     1120   ////      2032  SAG  C   RSP  053-180   CTM/1                 
+
+7860       1520   1521      1648  SAG  G   RNS  245       270                   
+
+7830       1521   1521      1521  SVI  G   RBR  245       170                   
+
+7840       1541   ////      1701  SAG  C   RSP  025-080   VI/1                  
+
+7850       1853   1857      1901  G15  5   XRA  1-8A      C2.6    8.3E-04       
+
+7870       1953   1956      2000  G15  5   XRA  1-8A      B6.7    1.9E-04       

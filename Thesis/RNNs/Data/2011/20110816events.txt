@@ -1,0 +1,35 @@
+:Product: 20110816events.txt
+:Created: 2011 Aug 19 0332 UT
+:Date: 2011 08 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Aug 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4940       0304   ////      0305  CUL  C   RSP  023-080   III/1                 
+
+4950       0349   ////      0349  CUL  C   RSP  023-070   III/1                 
+
+4960 +     0647   ////      0650  SVI  C   RSP  025-160   III/1                 
+
+4970       1104   1110      1114  G15  5   XRA  1-8A      B6.4    2.4E-04   1272
+
+4990       1150   ////      1218  SAG  C   RSP  025-180   VI/1                  
+
+4980       1150   ////      1150  SVI  C   RSP  025-082   III/1                 
+
+4990       1217   ////      1217  SVI  C   RSP  025-180   III/1                 
+
+5000       1329   ////      1407  SVI  C   RSP  025-083   VI/1                  
+5000       1405   ////      1407  SAG  C   RSP  025-082   III/1                 
+
+5010 +     1539   1542      1548  G15  5   XRA  1-8A      B4.2    1.6E-04   1271
+
+5100      A1647   ////     A0510  SVI  3   DSF  N39E16    6                     
+
+5020 +     1724   1728      1734  G15  5   XRA  1-8A      B3.8    1.7E-04   1272

@@ -1,0 +1,51 @@
+:Product: 20110421events.txt
+:Created: 2011 Apr 24 0332 UT
+:Date: 2011 04 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Apr 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9600 +    A0000   ////     A1322  HOL  4   DSF  S10E54    8                     
+
+9520       0137   ////      0137  CUL  C   RSP  020-130   III/1                 
+
+9530       0247   ////      0247  CUL  C   RSP  045-090   III/1                 
+
+9540       0624   0639      0644  G15  5   XRA  1-8A      B8.3    8.7E-04   1195
+9540 +     0637   0638      0646  LEA  3   FLA  S19E51    SF                1195
+
+9550       0831   0838      0850  G15  5   XRA  1-8A      C1.0    9.5E-04   1195
+9550 +     0833   0835      0911  LEA  3   FLA  S16E51    SF                1195
+
+9560       0853  U0901      0914  SVI  3   FLA  S19E49    SF                1195
+
+9570       0928   0945     A1336  SVI  3   FLA  S15E50    1N      ERU       1195
+9570 +     0938   0948      0958  G15  5   XRA  1-8A      C8.5    6.5E-03   1195
+
+9580       1332   1334      1337  HOL  3   FLA  S26E71    SF                1196
+
+9590       1349   1350      1354  HOL  3   FLA  N17W27    SF                1193
+
+9610       1437   1451      1500  G15  5   XRA  1-8A      C4.9    4.0E-03   1195
+9610       1438   1450      1504  SVI  3   FLA  S16E48    SF      ERU       1195
+
+9620       1645   1645      1645  SVI  G   RBR  245       130                   
+
+9630       1711   1717      1720  HOL  3   FLA  S16E48    SF      DSD       1195
+
+9640       1728   1734      1742  HOL  3   FLA  S16E48    SF      DSD       1195
+
+9650       1801   1802      1804  HOL  3   FLA  S16E48    SF      ERU       1195
+
+9660       1937   1956      2011  HOL  3   FLA  S16E46    SF      DSD       1195
+
+9670       2012   0018     A0041  HOL  3   FLA  S03E05    1F      ERU       1195
+
+9680 +     2151   2207      2239  G15  5   XRA  1-8A      C4.5    1.0E-02   1195
+9680       2319   2338      2345  LEA  3   FLA  S17E42    SF                1195

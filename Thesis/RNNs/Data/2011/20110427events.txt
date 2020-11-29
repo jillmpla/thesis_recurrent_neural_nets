@@ -1,0 +1,27 @@
+:Product: 20110427events.txt
+:Created: 2011 Apr 30 0332 UT
+:Date: 2011 04 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Apr 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 320       0212   ////      0214  CUL  C   RSP  020-075   III/1                 
+
+ 330 +     0221   ////      0229  PAL  U   RSP  25.98     II/2    935           
+ 330       0225   ////      0226  CUL  C   RSP  018-090   III/3                 
+
+ 310       0226   0233      0301  G15  5   XRA  1-8A      C2.0    3.5E-03   1201
+
+ 340 +     0613   0617      0627  G15  5   XRA  1-8A      B8.7    5.6E-04   1199
+
+ 350       1357   1400      1403  G15  5   XRA  1-8A      B4.5    9.9E-05   1195
+ 350       1400   1400      1403  HOL  3   FLA  S17W30    SF      DSD       1195
+
+ 360       2254   2304      2323  G15  5   XRA  1-8A      B8.0    1.1E-03   1196
+ 360       2301   2302      2309  HOL  3   FLA  S25W13    SF                1196

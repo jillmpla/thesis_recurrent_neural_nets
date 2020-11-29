@@ -1,0 +1,43 @@
+:Product: 20110905events.txt
+:Created: 2011 Sep 08 0332 UT
+:Date: 2011 09 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Sep 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7710       0020   ////      0221  LEA  C   RSP  025-180   CTM/1                 
+
+7720       0110   ////      0151  LEA  C   RSP  025-071   VI/1                  
+7720       0136   ////      0139  PAL  C   RSP  025-075   III/1                 
+
+7730       0151   ////      0152  PAL  C   RSP  025-062   III/1                 
+
+7780      B0400   ////     B1005  LEA  3   LPS  ////      0.09                  
+
+7740       0408   0428      0432  G15  5   XRA  1-8A      M1.6    2.2E-02   1286
+
+7790      B0513   ////     B1225  SVI  3   LPS  ////      0.11    B.9A          
+7790       0529   ////      1251  SVI  C   RSP  025-083   VI/1                  
+
+7750       0650   0654      0657  G15  5   XRA  1-8A      C2.8    7.8E-04       
+
+7770       0727   0758      0806  G15  5   XRA  1-8A      M1.2    1.7E-02   1286
+
+7800       1250   ////      1251  SAG  C   RSP  025-088   III/1                 
+
+7810       1407   ////      1506  SAG  C   RSP  025-046   VI/1                  
+7810       1408   ////      1412  SVI  C   RSP  025-062   III/1                 
+
+7820 +     1919   ////      2117  PAL  C   RSP  025-136   VI/1                  
+
+7830       2213   2220      2224  HOL  3   FLA  N13W06    SF      ERU       1283
+
+7840       2229   ////      2243  PAL  C   RSP  025-061   VI/1                  
+
+7850       2330   2330      2333  HOL  3   FLA  N14W06    SF                1283

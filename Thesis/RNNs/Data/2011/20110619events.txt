@@ -1,0 +1,70 @@
+:Product: 20110619events.txt
+:Created: 2011 Jun 22 0332 UT
+:Date: 2011 06 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jun 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5190       0009   ////      0009  CUL  C   RSP  018-040   III/1                 
+
+4990       0009   ////      0022  PAL  C   RSP  025-086   VII/1                 
+4990       0009   ////      0022  LEA  C   RSP  025-132   VI/1                  
+4990       0020   ////      0020  CUL  C   RSP  018-140   III/2                 
+
+5200       0023   ////      0023  CUL  C   RSP  020-090   III/1                 
+
+5210       0104   ////      0107  CUL  C   RSP  018-160   III/1                 
+
+5000 +     0104   ////      0107  PAL  C   RSP  025-148   III/1                 
+
+5010 +     0217   ////      0223  LEA  C   RSP  025-090   III/1             1236
+
+5220       0218   ////      0218  CUL  C   RSP  018-090   III/1                 
+
+5010       0223   0241      0259  G15  5   XRA  1-8A      B9.4    1.6E-03   1236
+5010       0231   0231      0246  LEA  2   FLA  N17E21    SF      YSR       1236
+
+5020 +     0802   ////      0805  SVI  C   RSP  025-084   III/1                 
+
+5030       0944   0950      1001  SVI  3   FLA  S15W68    SF      ERU       1234
+
+5040 +     1048   ////      1048  SVI  C   RSP  025-081   III/1                 
+
+5050 +     1122   ////      1149  SVI  C   RSP  025-145   VI/1                  
+
+5060       1204   1204      1204  SAG  G   RBR  410       180                   
+
+5070       1209   1211      1214  SVI  3   FLA  S15W69    SF      ERU       1234
+5070       1210   1210      1210  SAG  U   RBR  410       100               1234
+
+5080       1236   ////      1241  SVI  C   RSP  025-052   III/1                 
+5080       1236   ////      1458  SAG  C   RSP  025-139   VI/2                  
+
+5100       1301   ////      1344  SVI  C   RSP  025-151   VI/1                  
+
+5090 +     1330   1336      1338  G15  5   XRA  1-8A      B8.4    2.5E-04   1234
+
+5110       1458   ////      1458  SVI  C   RSP  025-078   III/1                 
+
+5120       1517   1522      1524  G15  5   XRA  1-8A      C4.7    9.5E-04   1234
+5120 +     1521   1522      1526  HOL  3   FLA  S16W75    SF      DSD       1234
+
+5130       1554   1557      1600  G15  5   XRA  1-8A      B6.5    1.5E-04       
+
+5150       1603   1637      1653  G15  5   XRA  1-8A      C1.5    3.6E-03   1237
+5150 +     1614   1615      1656  HOL  3   FLA  S19E48    SF      ERU       1237
+5150 +     1629   ////      1629  SVI  C   RSP  025-060   III/1                 
+
+5160       1742   ////      1742  SAG  C   RSP  025-047   III/1                 
+
+5170 +     1830   ////      2020  SAG  C   RSP  025-085   VI/2                  
+
+5180       2219   ////      2313  PAL  C   RSP  025-062   VI/1                  
+5180 +     2220   ////      2220  CUL  C   RSP  020-070   III/1                 
+5180       2303   ////      2304  CUL  C   RSP  020-045   III/1                 

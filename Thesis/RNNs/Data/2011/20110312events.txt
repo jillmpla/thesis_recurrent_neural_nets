@@ -1,0 +1,77 @@
+:Product: 20110312events.txt
+:Created: 2011 Mar 15 0332 UT
+:Date: 2011 03 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Mar 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3270       0000   ////      0048  LEA  C   RSP  044-160   CTM/1                 
+
+3050       0013   ////      0013  LEA  C   RSP  025-096   III/1                 
+
+3060       0433   0443      0448  G15  5   XRA  1-8A      M1.3    7.9E-03   1166
+3060       0436   0437      0454  LEA  3   FLA  N05W36    2N      BPT       1166
+3060       0438   0438      0439  LEA  G   RBR  4995      150               1166
+3060       0439   0439      0439  LEA  G   RBR  410       530               1166
+3060       0439   0439      0439  LEA  G   RBR  610       250               1166
+3060       0441   ////      0447  LEA  C   RSP  033-180   II/1    454       1166
+
+3070 +     0604   ////      0751  SVI  C   RSP  075-180   CTM/1                 
+3070 +     0636   0636      0636  LEA  G   RBR  245       260                   
+
+3080       0904   0907      0909  G15  5   XRA  1-8A      B9.3    1.5E-04   1169
+3080       0907   0908      0910  SVI  3   FLA  N16W17    SF      ERU       1169
+
+3090 +     0922   ////      0928  SVI  C   RSP  025-126   III/1                 
+
+3100       1021   1027      1031  G15  5   XRA  1-8A      C2.2    8.2E-04   1169
+3100       1025   1030      1036  SVI  3   FLA  N16W17    SF      ERU       1169
+3100       1029   ////      1030  SVI  C   RSP  025-086   III/1             1169
+
+3110       1049   ////      1050  SVI  C   RSP  025-141   V/2                   
+
+3120       1059   1100      1106  SVI  3   FLA  N05W39    SF      ERU       1166
+
+3130       1128   1128      1128  SVI  G   RBR  245       190                   
+
+3140       1128   1128      1128  SAG  G   RBR  245       100                   
+
+3150       1222   1229      1237  G15  5   XRA  1-8A      C2.2    1.5E-03   1166
+3150       1225   1235      1249  SVI  3   FLA  N08W47    SF      ERU       1166
+
+3160       1251   1259      1321  SVI  3   FLA  N08W47    SF      ERU       1166
+3160       1253   1300      1306  G15  5   XRA  1-8A      C7.0    3.6E-03   1166
+
+3170       1519   1529      1534  G15  5   XRA  1-8A      C9.6    4.7E-03   1166
+3170 +     1523   1527      1549  HOL  3   FLA  N05W39    1F      ERU       1166
+3170 +     1526   ////      1535  SAG  C   RSP  033-180   II/2    954       1166
+3170 +     1526   1526      1526  SAG  G   RBR  245       510               1166
+
+3210       1626   1637      1645  G15  5   XRA  1-8A      C1.6    1.4E-03   1172
+
+3180       1628   1629      1631  SAG  G   RBR  610       1400              1172
+3180       1631   1637      1700  HOL  3   FLA  N09E69    SF      ERU       1172
+
+3190 +     1732   1738      1744  G15  5   XRA  1-8A      C1.2    6.2E-04   1169
+
+3200 +     1758   1801      1804  G15  5   XRA  1-8A      C1.0    2.2E-04   1166
+
+3220       1955   ////      1956  SAG  C   RSP  025-139   III/1                 
+
+3230       2104   ////      2139  SAG  C   RSP  025-180   VI/1                  
+
+3240 +     2142   2147      2151  G15  5   XRA  1-8A      B9.0    3.2E-04   1166
+
+3250       2220   2223      2225  G15  5   XRA  1-8A      C1.4    2.2E-04   1169
+3250       2222   2224     A2237  HOL  3   FLA  N16W23    SF      ERU       1169
+
+3260       2242   2251      2257  G15  5   XRA  1-8A      C2.2    1.4E-03   1169
+3260       2247  U2247      2257  HOL  3   FLA  N16W21    SF                1169
+
+3350       2247  U2253     A2307  HOL  3   FLA  N06W45    SF      ERU       1166

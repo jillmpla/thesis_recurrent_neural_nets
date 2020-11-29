@@ -1,0 +1,18 @@
+:Product: 20111216events.txt
+:Created: 2011 Dec 19 0332 UT
+:Date: 2011 12 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Dec 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 630       0814   0820      0827  G15  5   XRA  1-8A      B5.0    3.0E-04   1377
+
+ 640       2052   2058      2104  G15  5   XRA  1-8A      B4.5    2.9E-04       
+
+ 650       2313   2315      2317  G15  5   XRA  1-8A      B3.9    1.1E-04       

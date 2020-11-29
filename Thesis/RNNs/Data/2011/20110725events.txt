@@ -1,0 +1,39 @@
+:Product: 20110725events.txt
+:Created: 2011 Jul 28 0332 UT
+:Date: 2011 07 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jul 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9340 +     0019   ////      0021  LEA  C   RSP  025-180   III/1                 
+
+9350 +     0428   ////      0429  CUL  C   RSP  018-180   III/1                 
+
+9360       1014   1020      1028  G15  5   XRA  1-8A      B4.2    2.6E-04       
+
+9370       1339   1339      1354  HOL  3   FLA  N23W17    SF      ERU       1259
+
+9380       1624   1628      1630  G15  5   XRA  1-8A      B7.2    1.5E-04       
+
+9390       1718   1719      1724  HOL  3   FLA  N19E62    SF                1260
+
+9400       1758   1802      1807  G15  5   XRA  1-8A      B6.1    2.0E-04   1260
+9400       1802   1803      1814  HOL  3   FLA  N20E63    SF                1260
+
+9410 +     2037   ////      2041  PAL  C   RSP  025-180   III/1                 
+9410       2038   2039      2039  PAL  G   RBR  610       2000                  
+9410       2038   2039      2039  PAL  G   RBR  1415      900                   
+9410       2039   2039      2039  PAL  G   RBR  245       2300                  
+9410       2039   2039      2039  PAL  G   RBR  410       200                   
+
+9420       2041   2041      2041  SAG  G   RBR  410       100                   
+
+9430       2120   2126      2133  HOL  3   FLA  N18E61    SF                1260
+
+9440 +     2144   ////      2144  CUL  C   RSP  020-065   III/1                 

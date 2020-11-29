@@ -1,0 +1,50 @@
+:Product: 20111224events.txt
+:Created: 2011 Dec 27 0332 UT
+:Date: 2011 12 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Dec 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2200 +     0233   ////      0309  LEA  C   RSP  025-180   VI/1                  
+
+2210       0354   0354      0400  LEA  3   FLA  N10E23    SF                1384
+
+2250       0825   ////      1119  SVI  C   RSP  025-180   VI/2                  
+
+2220       0825   ////      0935  LEA  C   RSP  025-180   VI/2              1386
+2220       0827   0839      0848  G15  5   XRA  1-8A      C5.2    4.1E-03   1386
+2220 +     0836   ////      0848  SVI  3   BSL  ////      0.38    B.9A      1386
+2220 +     0836   0841      0850  SVI  3   FLA  S19E66    SF      DSD       1386
+2220       0845   ////      0854  LEA  U   RSP  025-078   CTM/1             1386
+
+2230       1004   ////      1009  LEA  C   RSP  025-180   III/1                 
+
+2240 +     1104   1116      1122  G15  5   XRA  1-8A      C1.1    9.5E-04   1386
+
+2260       1125   1236      1316  G15  5   XRA  1-8A      C4.9    2.1E-02   1376
+2260       1204   ////      1240  SVI  C   RSP  025-180   VI/1                  
+2260       1222   ////      1514  SVI  C   RSP  025-180   CTM/1                 
+
+2270       1246   ////      1302  SVI  3   BSL  ////      0.37    B.9A      1376
+
+2280       1304   ////      1628  SAG  C   RSP  025-180   CTM/1                 
+
+2290 +     1415   1416      1416  SAG  G   RBR  245       110                   
+
+2420      A1430   ////     A1228  SVI  3   DSF  N27W02    14                    
+
+2300       1512   ////      1515  SAG  C   RSP  025-180   III/1                 
+
+2310       1604   ////      1608  SAG  C   RSP  025-180   III/1                 
+2310       1605   1605      1605  SAG  G   RBR  245       200                   
+
+2320 +     1803   ////      1805  SAG  C   RSP  025-180   III/2                 
+2320 +     1804   1804      1804  SAG  G   RBR  245       180                   
+
+2330       1910   1919      1944  G15  5   XRA  1-8A      C1.5    2.6E-03       

@@ -1,0 +1,85 @@
+:Product: 20110310events.txt
+:Created: 2011 Mar 13 0332 UT
+:Date: 2011 03 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Mar 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2810       0023   ////      0023  CUL  C   RSP  057-200   III/2                 
+
+2550       0110   0110      0110  LEA  G   RBR  245       190                   
+
+2820       0149   ////      0149  CUL  C   RSP  057-270   III/2                 
+
+2560       0150   0150      0150  LEA  G   RBR  245       180                   
+
+2570       0247   ////      0248  LEA  C   RSP  025-180   III/1                 
+
+2580       0258   0258      0258  LEA  G   RBR  15400     310                   
+
+2590       0303   ////      0657  LEA  C   RSP  025-180   VI/2                  
+2590       0350   0358      0417  G15  5   XRA  1-8A      C2.9    3.7E-03   1166
+2590       0406   ////      0407  LEA  C   RSP  025-180   V/1                   
+2590 +     0409   ////      0409  CUL  C   RSP  057-300   III/2                 
+2590 +     0410   0410      0410  LEA  G   RBR  245       530                   
+
+2660       0541   ////      0543  SVI  C   RSP  025-180   III/1                 
+
+2600       0611   ////      0657  SVI  C   RSP  025-180   VI/2                  
+2600 +     0640   ////      0642  CUL  C   RSP  057-380   III/3                 
+2600       0640   ////      0642  LEA  C   RSP  025-180   V/2                   
+2600 +     0641   0641      0643  LEA  G   RBR  245       740                   
+
+2610       0703   0712      0715  G15  5   XRA  1-8A      C6.2    3.1E-03   1166
+
+2620       0742   ////      0853  SVI  C   RSP  025-180   VI/2                  
+2620 +     0754   0754      0754  SVI  G   RBR  245       140                   
+
+2630       0907   0913      0927  G15  5   XRA  1-8A      C2.4    2.3E-03   1170
+
+2670       0927   ////      1056  SVI  C   RSP  025-180   VI/2                  
+
+2640       0942   0942      0942  SVI  G   RBR  245       170                   
+
+2650       0944   0944      0944  LEA  G   RBR  245       160                   
+
+2680       1046   ////      1048  SVI  C   RSP  025-180   III/1                 
+
+2690       1137   ////      1149  SVI  3   BSL  ////      0.17    B.9A      1170
+
+2700       1210   ////      1215  SAG  U   RSP  025-180   V/2                   
+2700       1210   ////      1215  SVI  C   RSP  025-180   III/2                 
+2700 +     1211   1211      1211  SVI  G   RBR  245       100                   
+
+2710       1225   1226      1232  SVI  3   FLA  N12W18    SF      ERU       1166
+
+2720 +     1238   ////      1508  SVI  C   RSP  025-180   VI/2              1166
+2720       1319   1325      1334  G15  5   XRA  1-8A      C4.2    2.6E-03   1166
+2720       1329   1329      1336  SVI  3   FLA  N08W18    SF      ERU       1166
+
+2730       1342   1346      1350  G15  5   XRA  1-8A      C4.7    1.5E-03   1166
+2730       1343   1345      1401  SVI  3   FLA  N11W19    SF      ERU       1166
+
+2740 +     1403   1403      1403  SAG  G   RBR  245       180                   
+
+2750       1421   1424      1428  G15  5   XRA  1-8A      C2.0    5.3E-04   1166
+2750       1424   1424      1432  SVI  3   FLA  N08W20    SF      ERU       1166
+
+2760       1520   1526      1535  SVI  3   FLA  N08W20    SF      ERU       1166
+2760 +     1532   1532      1532  SAG  G   RBR  245       150               1166
+
+2770       1634   1634      1634  SAG  G   RBR  245       120                   
+
+2790       1654   ////      2231  SAG  C   RSP  115-180   CTM/1                 
+
+2780       1900   1907      1917  G15  5   XRA  1-8A      C4.0    2.9E-03       
+
+2830       2227   ////      2359  LEA  C   RSP  025-180   CTM/1                 
+
+2800       2234   2241      2249  G15  5   XRA  1-8A      M1.1    5.8E-03       

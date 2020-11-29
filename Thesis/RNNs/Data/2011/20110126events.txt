@@ -1,0 +1,62 @@
+:Product: 20110126events.txt
+:Created: 2011 Jan 28 0332 UT
+:Date: 2011 01 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jan 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4920       0016   ////      0022  CUL  C   RSP  057-160   III/1                 
+
+4760       0016   ////      0021  LEA  C   RSP  025-111   III/1                 
+
+4730 +     0031   0037      0040  G15  5   XRA  1-8A      B1.5    5.5E-05   1149
+
+4740 +     0207   0211      0214  G15  5   XRA  1-8A      B3.2    7.7E-05   1149
+
+4780       0355   ////      0358  SVI  C   RSP  025-144   III/1                 
+
+4750 +     0402   0406      0416  G15  5   XRA  1-8A      B2.3    1.4E-04   1149
+4750       0406   ////      0409  SVI  C   RSP  025-180   V/1               1149
+
+4790       0543   ////      0544  SVI  C   RSP  025-124   III/1                 
+
+4770 +     0651   0657      0706  G15  5   XRA  1-8A      B1.8    1.2E-04   1149
+
+4800 +     0854   0857      0859  G15  5   XRA  1-8A      B1.1    1.8E-05   1149
+
+4810 +     1013   ////      1013  SVI  C   RSP  025-084   III/1                 
+
+4820       1115   1115      1115  SAG  G   RBR  245       110                   
+
+4830       1159   ////      1230  SAG  C   RSP  025-180   VI/1                  
+
+4860       1439   ////      1439  SAG  C   RSP  025-135   III/1                 
+
+4840 +     1514   1518      1521  G15  5   XRA  1-8A      B2.0    4.7E-05   1149
+
+4930       1620   ////      1622  CUL  C   RSP  057-180   III/1                 
+
+4940       1647   ////      1649  CUL  C   RSP  057-180   III/1                 
+
+4950       1701   1703      1706  G15  5   XRA  1-8A      A9.5    3.2E-05   1149
+4950       1705   ////      1708  CUL  C   RSP  057-120   III/1                 
+
+4870       1709   1710      1713  HOL  3   FLA  N09W76    SF      ERU       1149
+
+4960       1837   ////      1837  CUL  C   RSP  057-120   III/1                 
+
+4850 +     1914   1918      1925  G15  5   XRA  1-8A      B1.3    6.5E-05   1149
+
+4880       2119   2122      2124  G15  5   XRA  1-8A      B1.0    1.6E-05       
+
+4890 +     2143   2147      2150  G15  5   XRA  1-8A      B2.7    6.8E-05   1149
+
+4900 +     2202   2209      2212  G15  5   XRA  1-8A      B3.2    1.1E-04   1149
+
+4980       2226   ////      2229  CUL  C   RSP  057-130   III/1                 

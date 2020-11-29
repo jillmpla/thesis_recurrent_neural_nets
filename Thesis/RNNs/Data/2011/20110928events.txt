@@ -1,0 +1,84 @@
+:Product: 20110928events.txt
+:Created: 2011 Oct 01 0332 UT
+:Date: 2011 09 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Sep 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5300 +     0000   ////      1005  LEA  C   RSP  025-180   CTM/1                 
+
+5270       0005   ////      0005  LEA  C   RSP  025-062   III/1                 
+
+5280       0035   0035      0035  LEA  G   RBR  245       130                   
+
+5320 +     0106   ////      0106  CUL  C   RSP  020-065   III/1                 
+
+5330 +     0110   0110      0112  LEA  G   RBR  245       210                   
+
+5340       0116   ////      0116  CUL  C   RSP  020-050   III/1                 
+
+5460 +     0117   0156      0855  LEA  G   RNS  245       180                   
+
+5350       0137   0138      0138  PAL  G   RBR  245       110                   
+
+5360       0147   ////      0147  LEA  C   RSP  025-060   III/1                 
+
+5370       0201   0201      0201  PAL  G   RBR  245       100                   
+
+5380       0225   0229      0232  G15  5   XRA  1-8A      B9.5    2.5E-04       
+
+5390       0236   0244      0250  G15  5   XRA  1-8A      C2.0    1.2E-03   1302
+5390       0240   0241      0246  LEA  3   FLA  N11E07    SF      ERU       1302
+
+5400 +     0312   0313      0313  PAL  G   RBR  245       130                   
+
+5410       0315   0315      0315  PAL  G   RBR  245       100                   
+
+5420 +     0420   ////      0425  CUL  C   RSP  018-180   III/1                 
+
+5510       0505   ////      1625  SVI  C   RSP  025-180   CTM/1                 
+
+5430 +     0611   ////      0740  LEA  C   RSP  025-141   VI/1                  
+
+5440       0820   0824      0827  G15  5   XRA  1-8A      C1.4    3.4E-04   1302
+5440 +     0823   ////      0929  SVI  C   RSP  025-121   VI/1              1302
+5440       0824   0825      0828  SVI  3   FLA  N14E02    SF                1302
+
+5450       1016   1022      1030  G15  5   XRA  1-8A      B9.7    6.1E-04   1302
+5450       1019   1021      1040  SVI  3   FLA  N16E06    SF      ERU       1302
+
+5500       1130   ////      1459  SAG  C   RSP  104-180   CTM/1                 
+
+5470       1226   1232      1238  G15  5   XRA  1-8A      C9.3    3.9E-03   1302
+5470       1229   1230      1301  SVI  3   FLA  N15W01    1N      ERU       1302
+5470 +     1229   1229      1230  SVI  G   RBR  4995      470               1302
+5470 +     1229   1229      1230  SVI  G   RBR  8800      990               1302
+5470 +     1229   1229      1230  SVI  G   RBR  15400     1100              1302
+5470 +     1229   1229      1230  SVI  G   RBR  1415      280               1302
+5470 +     1229   1229      1230  SVI  G   RBR  2695      390               1302
+
+5480       1324   1328      1330  G15  5   XRA  1-8A      M1.2    2.3E-03   1302
+5480 +     1326   1328      1341  SVI  3   FLA  N13E03    1N      ERU       1302
+5480 +     1326   1326      1327  SVI  G   RBR  8800      270               1302
+5480 +     1326   1326      1327  SVI  G   RBR  15400     320               1302
+5480 +     1326   1327      1327  SVI  G   RBR  4995      140               1302
+5480       1327   1327      1327  SVI  G   RBR  2695      110               1302
+
+5490 +     1348   1348      1348  SAG  G   RBR  245       170               1305
+5490       1349   1350      1353  HOL  3   FLA  N13E39    SF                1305
+5490 +     1349   ////      1350  SAG  C   RSP  025-167   III/1             1305
+
+5520       1717   ////      1844  SAG  C   RSP  025-180   VI/1                  
+
+5530       1932   ////      1933  PAL  C   RSP  025-067   III/1                 
+5530       1932   ////      2022  SAG  C   RSP  025-069   VI/1                  
+
+5540       1946   ////      1946  PAL  C   RSP  025-037   III/1                 
+
+5550       2234   ////      2359  LEA  C   RSP  060-180   CTM/1                 

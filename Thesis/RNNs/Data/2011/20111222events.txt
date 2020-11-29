@@ -1,0 +1,58 @@
+:Product: 20111222events.txt
+:Created: 2011 Dec 25 0332 UT
+:Date: 2011 12 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Dec 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1930 +     0015   ////      0201  LEA  C   RSP  025-180   VI/2                  
+
+1920 +     0017   0017      0017  LEA  G   RBR  245       190                   
+
+1930       0100   ////      0100  CUL  C   RSP  020-280   III/1                 
+1930 +     0100   0100      0100  LEA  G   RBR  245       230                   
+
+1970       0132   ////      0132  CUL  C   RSP  018-140   III/3                 
+
+1940       0156   0208      0220  G15  5   XRA  1-8A      C5.4    5.5E-03   1381
+1940       0158   ////      0202  CUL  C   RSP  300-900   III/1             1381
+1940 +     0159   0200      0201  LEA  G   RBR  610       210               1381
+1940 +     0200   0200      0201  LEA  G   RBR  410       130               1381
+1940       0203   0206      0218  LEA  3   FLA  S19W18    SF      ERU       1381
+1940 +     0204   ////      0223  LEA  C   RSP  025-145   II/1    921       1381
+
+2040       0205   0315      0522  LEA  G   RNS  245       110                   
+
+1940 +     0212   ////      0951  LEA  C   RSP  025-180   IV/1              1381
+
+1950 +     0226   0226      0226  LEA  G   RBR  245       100                   
+
+1980       0517   ////      0519  LEA  C   RSP  025-180   III/1                 
+
+1990 +     0553   ////      0718  LEA  C   RSP  025-180   VI/1                  
+1990       0622   ////      0951  SVI  C   RSP  113-172   IV/1                  
+
+2000       0741   0750      0754  LEA  3   FLA  S19W15    SF                1382
+
+2010       0755   0801      0807  LEA  3   FLA  S19W15    SF                1382
+
+2030 +     0819   0819      0819  LEA  G   RBR  245       110                   
+
+2050       1304   1320      1341  G15  5   XRA  1-8A      C1.9    3.5E-03   1281
+
+2060 +     1345   1345      1345  SAG  G   RBR  610       150                   
+2060 +     1345   ////      1345  SAG  C   RSP  025-180   III/2                 
+
+2070       1617   1619      1623  HOL  3   FLA  S19W28    SF                1381
+
+2080       1658   1700      1705  HOL  3   FLA  N20W67    SF                1376
+
+2090       1749   1751      1756  HOL  3   FLA  S19W18    SF                1382
+
+2100 +     1908   ////      1908  SAG  C   RSP  025-055   III/1                 

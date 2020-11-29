@@ -1,0 +1,31 @@
+:Product: 20111223events.txt
+:Created: 2011 Dec 26 0332 UT
+:Date: 2011 12 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Dec 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2120 +     0104   ////      0115  LEA  C   RSP  025-076   VI/1                  
+
+2130       0410   0415      0434  G15  5   XRA  1-8A      C1.8    2.1E-03       
+
+2140       0538   ////      0627  LEA  C   RSP  025-180   VI/2                  
+2140       0626   ////      0626  SVI  C   RSP  034-077   III/1                 
+2140       0626   0626      0626  LEA  G   RBR  245       100                   
+
+2150       1009   1014      1017  G15  5   XRA  1-8A      C1.5    4.7E-04   1384
+2150       1014   1016      1019  LEA  3   FLA  N13E33    SF                1384
+
+2160       1247   1247      1247  SVI  G   RBR  245       100                   
+
+2170       1555   ////      1555  SAG  C   RSP  073-180   III/1                 
+
+2180 +     1912   1918      1925  G15  5   XRA  1-8A      C3.4    1.7E-03   1376
+
+2190 +     2135   2139      2143  G15  5   XRA  1-8A      C1.6    5.5E-04   1382

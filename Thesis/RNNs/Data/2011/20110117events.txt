@@ -1,0 +1,38 @@
+:Product: 20110117events.txt
+:Created: 2011 Jan 20 0332 UT
+:Date: 2011 01 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jan 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3530       0143   ////      0143  LEA  C   RSP  025-059   III/1                 
+
+3540 +     0326   0329      0332  G15  5   XRA  1-8A      B1.1    2.5E-05   1147
+
+3550 +     0626   0634      0642  G15  5   XRA  1-8A      B4.1    2.7E-04   1147
+
+3560 +     0940   0944      0957  G15  5   XRA  1-8A      B1.5    1.2E-04   1147
+
+3570 +     1153   1200      1208  G15  5   XRA  1-8A      B3.4    2.3E-04   1147
+
+3590 +     1249   1255      1307  G15  5   XRA  1-8A      B2.9    2.5E-04   1147
+
+3600 +     1315   1319      1321  G15  5   XRA  1-8A      B2.6    5.8E-05   1147
+
+3610 +     1709   1720      1728  G15  5   XRA  1-8A      B2.2    2.0E-04   1147
+
+3650       1835   1856      1909  G15  5   XRA  1-8A      B1.7    2.7E-04   1147
+
+3620 +     2026   2029      2032  G15  5   XRA  1-8A      B1.4    3.2E-05   1147
+
+3630 +     2145   2151      2159  G15  5   XRA  1-8A      B5.8    3.2E-04   1147
+
+3660       2313   ////      2313  CUL  C   RSP  057-080   III/1                 
+
+3640       2324   2340      2351  G15  5   XRA  1-8A      B2.2    2.3E-04       

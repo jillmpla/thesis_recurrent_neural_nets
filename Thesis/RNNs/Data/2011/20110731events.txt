@@ -1,0 +1,77 @@
+:Product: 20110731events.txt
+:Created: 2011 Aug 03 0332 UT
+:Date: 2011 07 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jul 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 920 +     0000   ////      0225  LEA  C   RSP  075-180   CTM/1                 
+ 920 +     0000   ////      0341  LEA  C   RSP  025-096   VI/1                  
+
+ 930       0143   0147      0149  G15  5   XRA  1-8A      C1.0    2.0E-04       
+
+ 940       0212   0213      0214  G15  5   XRA  1-8A      B7.5    1.2E-04   1263
+ 940       0212   0214      0217  LEA  3   FLA  N17E46    SF      BPT       1263
+
+ 950       0246   0254      0302  G15  5   XRA  1-8A      C3.8    2.2E-03   1261
+ 950       0251   0252      0303  LEA  3   FLA  N14E20    SN      PRB       1261
+
+ 970 +     0257   0708      0945  LEA  G   RNS  245       490                   
+
+ 950       0259   0301      0303  LEA  G   RBR  245       140               1261
+
+ 960       0308   0308      0308  PAL  G   RBR  245       130                   
+
+1030 +     0429   ////      1443  SVI  C   RSP  075-180   CTM/1                 
+1030 +     0451   ////      0945  LEA  C   RSP  025-180   VI/2                  
+
+ 990       0544   0553      0646  SVI  3   FLA  N18E44    SF      ERU       1263
+ 990       0553   0553      0553  LEA  G   RBR  245       460               1263
+ 990       0626   ////      0627  CUL  C   RSP  018-120   III/3             1263
+
+1000       0716   0725      0729  SVI  3   FLA  N17E45    SF      ERU       1263
+
+1010       0804   0804      0810  SVI  3   FLA  N18E43    SF      ERU       1263
+
+1020       0812   0813      0819  SVI  3   FLA  N15E16    SF      ERU       1261
+
+1040       0946   ////      1443  SAG  C   RSP  102-180   CTM/1                 
+1040       1020   ////      2222  SAG  C   RSP  025-068   VI/1                  
+
+1050       1402   1406      1411  G15  5   XRA  1-8A      B5.4    2.1E-04       
+
+1060 +     1547   1547      1547  SAG  G   RBR  410       330                   
+
+1080 +     1552   ////      2353  SAG  C   RSP  102-180   CTM/1                 
+
+1070       1605   1605      1617  HOL  3   FLA  N16E11    SF                1261
+
+1090       1757   1801      1803  G15  5   XRA  1-8A      C1.1    2.1E-04   1263
+
+1100       1843   1850      1852  G15  5   XRA  1-8A      C1.4    4.6E-04   1263
+1100       1847   1850      1918  HOL  3   FLA  N16E39    SF      ERU       1263
+
+1110       1901   1909      1917  G15  5   XRA  1-8A      C1.7    1.2E-03   1265
+1110       1916   1918      1950  HOL  3   FLA  N18W50    SF                1265
+
+1140       1924   2202     A0008  HOL  3   FLA  N16E04    1F      ERU       1261
+
+1120       2041   2047      2050  G15  5   XRA  1-8A      C1.9    7.0E-04   1263
+1120       2045   2045      2058  HOL  3   FLA  N16E39    SF      ERU       1263
+
+1130       2108   2108      2116  HOL  3   FLA  N16E38    SF                1263
+
+1140       2148   2204      2211  G15  5   XRA  1-8A      C1.8    1.5E-03   1261
+
+1150       2246   2254      2257  G15  5   XRA  1-8A      C1.5    6.2E-04       
+
+1160       2315   ////      2359  LEA  C   RSP  075-180   CTM/1             1263
+1160 +     2320   2322      2326  PAL  G   RBR  245       110               1263
+1160       2336   2340      2344  G15  5   XRA  1-8A      C1.0    3.4E-04   1263
+1160       2341   2341      2356  HOL  3   FLA  N17E35    SF      ERU       1263

@@ -1,0 +1,27 @@
+:Product: 20110429events.txt
+:Created: 2011 May 02 0332 UT
+:Date: 2011 04 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Apr 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 470       0017   0026      0033  G15  5   XRA  1-8A      C3.8    2.2E-03   1203
+
+ 480 +     0126   0129      0131  G15  5   XRA  1-8A      B8.9    1.3E-04   1199
+
+ 490       0851   0854      0859  G15  5   XRA  1-8A      B4.9    1.6E-04       
+
+ 500 +     1244   1248      1256  G15  5   XRA  1-8A      B6.6    3.5E-04   1200
+
+ 510 +     2040   2048      2058  G15  5   XRA  1-8A      C1.8    1.4E-03   1195
+ 510 +     2044   2045      2049  HOL  3   FLA  S14W68    SF      ERU       1195
+
+ 520       2154   2155      2200  HOL  3   FLA  S16W62    SF      ERU       1195
+
+ 530 +     2249   2255      2300  G15  5   XRA  1-8A      C1.5    6.9E-04   1195

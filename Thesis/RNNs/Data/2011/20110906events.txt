@@ -1,0 +1,107 @@
+:Product: 20110906events.txt
+:Created: 2011 Sep 09 0332 UT
+:Date: 2011 09 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Sep 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7950       0105   ////      0105  CUL  C   RSP  020-080   III/1                 
+
+7960       0110   ////      0113  CUL  C   RSP  018-180   III/1                 
+
+7870 +     0112   ////      0113  LEA  C   RSP  025-124   III/1                 
+
+7860       0117   0117      0117  LEA  G   RBR  245       160                   
+
+7880       0132   0132      0132  LEA  G   RBR  245       110                   
+
+7910       0135   0150      0205  G15  5   XRA  1-8A      M5.3    5.4E-02   1283
+
+7890       0136   0136      0136  LEA  G   RBR  245       150                   
+
+7910 +     0142   0146      0149  LEA  G   RBR  245       54000             1283
+7910       0143   0149      0236  LEA  3   FLA  N14W07    1B      ERU       1283
+7910       0143   0144      0149  LEA  G   RBR  410       360               1283
+7910       0143   ////      0153  PAL  C   RSP  025-180   V/1               1283
+7910 +     0143   0144      0149  LEA  G   RBR  8800      340               1283
+7910 +     0144   0144      0148  LEA  G   RBR  4995      210               1283
+7910 +     0144   ////      0146  CUL  C   RSP  018-550   III/1             1283
+7910       0144   0144      0146  LEA  G   RBR  15400     190               1283
+7910 +     0144   0144      0144  LEA  G   RBR  1415      150               1283
+
+7900       0144   ////      0145  LEA  C   RSP  025-177   V/1                   
+
+7910 +     0146   ////      0153  CUL  C   RSP  050-300   II/3              1283
+7910       0148   0148      0148  LEA  G   RBR  610       100               1283
+
+7920       0150   0150      0151  PAL  G   RBR  410       160                   
+
+8050      B0224   ////     A1018  SOH  4   CME  XUV,EUV,UV337-336/FS458       11283
+
+7930 +     0224   ////      0229  LEA  C   RSP  025-119   III/1                 
+
+7910       0232   ////      0410  PAL  C   RSP  034-102   IV/1              1283
+
+7980 +     0605   ////      1026  SVI  C   RSP  025-153   VI/1                  
+
+7990       1110   1110      1110  SVI  G   RBR  245       110                   
+
+8060       1117   ////      1950  SAG  C   RSP  025-062   VI/1                  
+
+8030       1118   ////      1525  SVI  C   RSP  025-046   VI/1                  
+
+8000 +     1304   1304      1304  SAG  G   RBR  245       120                   
+
+8020 +     1308   ////      1524  SVI  C   RSP  118-180   CTM/1                 
+
+8040       1631   ////      2219  PAL  C   RSP  108-180   CTM/1                 
+
+8070 +     2035   ////      2036  SAG  C   RSP  025-082   III/1                 
+
+8080 +     2047   ////      2049  PAL  C   RSP  025-120   V/2                   
+
+8090 +     2145   ////      2148  PAL  C   RSP  025-104   III/1                 
+
+8100       2203   2203      2209  HOL  3   FLA  N14W19    SF      ERU       1283
+
+8110       2212   2220      2224  G15  5   XRA  1-8A      X2.1    5.8E-02   1283
+8110       2213   2221     A0029  HOL  3   FLA  N14W18    2B      ERU       1283
+8110 +     2219   ////      2234  CUL  C   RSP  040-300   II/2              1283
+8110       2220   2220      2225  PAL  G   RBR  4995      1000    CastelliU 1283
+8110       2220   2221      2226  PAL  G   RBR  8800      2300    CastelliU 1283
+8110       2220   2220      2225  PAL  G   RBR  610       1200    CastelliU 1283
+8110       2220   2221      2225  PAL  G   RBR  1415      810     CastelliU 1283
+8110       2220   2220      2225  PAL  G   RBR  2695      740     CastelliU 1283
+8110       2220   2222      2225  PAL  G   RBR  245       64000   CastelliU 1283
+8110       2220   2221      2226  PAL  G   RBR  410       7900    CastelliU 1283
+8110 +     2222   ////      2222  CUL  C   RSP  018-800   III/3             1283
+8110       2228   ////      2359  PAL  C   RSP  025-086   IV/3              1283
+
+8130 +     2229   ////      2232  SAG  C   RSP  025-180   III/2                 
+
+8120       2231   2233      2240  PAL  G   RBR  245       940                   
+8120       2231   2236      2237  PAL  G   RBR  8800      170                   
+8120       2231   2236      2237  PAL  G   RBR  4995      150                   
+8120       2233   2236      2240  PAL  G   RBR  410       250                   
+8120       2235   2237      2239  PAL  G   RBR  610       310                   
+8120       2236   ////      2238  CUL  C   RSP  030-045   II/1                  
+8120       2236   2236      2237  PAL  G   RBR  2695      340                   
+8120       2236   2237      2238  PAL  G   RBR  1415      200                   
+
+8140       2243   2243      2243  PAL  G   RBR  245       120                   
+
+8150       2245   2245      2246  LEA  G   RBR  245       170                   
+
+8160       2247   2248      2248  PAL  G   RBR  245       140                   
+
+8170       2303   ////      2305  PAL  C   RSP  025-086   III/1                 
+
+8110      B2305   ////     A0618  SOH  4   CME  XUV,EUV,UV320-319/FS626       1283
+
+8180       2333   2334      2335  PAL  G   RBR  410       130                   

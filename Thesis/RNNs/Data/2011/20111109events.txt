@@ -1,0 +1,55 @@
+:Product: 20111109events.txt
+:Created: 2011 Nov 12 0332 UT
+:Date: 2011 11 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Nov 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4300       0143   0219      0251  G15  5   XRA  1-8A      C1.9    6.4E-03   1339
+
+4250       0304   ////      0304  CUL  C   RSP  200-400   III/1                 
+
+4260 +     0306   0307      0307  LEA  G   RBR  245       270                   
+
+4270       0405   ////      0407  LEA  C   RSP  025-132   III/2                 
+
+4360       0601   ////      1525  SVI  C   RSP  075-180   CTM/1                 
+
+4280       0715   ////      0715  SVI  C   RSP  036-083   III/1                 
+
+4290       1006   ////      1006  SVI  U   RSP  054-117   III/1                 
+
+4440      A1020   ////     A2150  LEA  3   DSF  N22E44    8                     
+
+4310       1121   ////      1122  SVI  C   RSP  057-180   III/1                 
+
+4370       1158   ////      1903  SAG  C   RSP  027-180   CTM/1                 
+
+4320 +     1304   1335      1412  G15  5   XRA  1-8A      M1.1    3.3E-02   1342
+4320       1309   1309      1311  SVI  G   RBR  245       880               1342
+4320       1311   ////      1331  SVI  C   RSP  030-180   II/2    750       1342
+4320 +     1311   ////      1312  SVI  C   RSP  030-180   III/2             1342
+4320      B1336   ////     A2006  SOH  4   CME  XUV,EUV,UV048-047/FS1076      1342
+
+4340 +     1408   1408      1408  SAG  G   RBR  245       140                   
+
+4350       1416   1416      1416  SVI  G   RBR  245       550                   
+
+4390       1650   1650      1728  SAG  G   RNS  245       110                   
+
+4380       1917   1917      1918  SAG  G   RBR  245       170                   
+
+4410       2030   ////      2359  PAL  C   RSP  038-180   CTM/1                 
+4410       2117   2117      2117  PAL  G   RBR  245       130                   
+
+4420       2152   ////      2359  LEA  C   RSP  036-180   CTM/1                 
+4420       2224   2224      2224  LEA  G   RBR  245       120                   
+4420       2246   ////      2359  LEA  C   RSP  025-180   VI/1                  
+
+4430       2301   2307      2320  HOL  3   FLA  S13W34    SF                1338

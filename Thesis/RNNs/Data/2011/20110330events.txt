@@ -1,0 +1,58 @@
+:Product: 20110330events.txt
+:Created: 2011 Apr 02 0332 UT
+:Date: 2011 03 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Mar 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6470       0057   ////      0057  CUL  C   RSP  018-170   III/1                 
+
+6300       0106   ////      0106  LEA  C   RSP  025-090   III/1                 
+
+6480       0110   ////      0110  CUL  C   RSP  020-180   III/1                 
+
+6490       0114   ////      0114  CUL  C   RSP  030-090   III/1                 
+
+6310       0158   ////      0259  LEA  C   RSP  025-180   VI/1                  
+6310 +     0242   ////      0242  CUL  C   RSP  018-180   III/2                 
+
+6320       0414   0418      0418  LEA  G   RBR  245       510                   
+6320       0416   ////      0416  CUL  C   RSP  020-120   III/1                 
+
+6500       0649   ////      0649  CUL  C   RSP  030-070   III/1                 
+
+6330       0649   ////      0659  SVI  C   RSP  025-054   VI/1              1183
+6330 +     0653   0701      0714  G15  5   XRA  1-8A      B9.6    9.8E-04   1183
+6330       0659   ////      0703  CUL  C   RSP  030-070   III/1             1183
+
+6340       0741   ////      0836  SVI  C   RSP  025-061   VI/1                  
+
+6350       1041   ////      1041  SVI  C   RSP  025-068   III/1                 
+
+6360 +     1138   1149      1206  G15  5   XRA  1-8A      B9.0    1.2E-03   1176
+
+6370 +     1207   1207      1207  SVI  G   RBR  245       210                   
+6370 +     1207   ////      1215  SAG  C   RSP  080-180   III/1                 
+
+6380       1211   ////      1219  SVI  C   RSP  025-071   III/1                 
+
+6390 +     1527   ////      1527  SAG  C   RSP  025-067   III/1                 
+
+6410 +     1620   ////      1620  SVI  C   RSP  034-083   III/1                 
+
+6420       1758   1758      1758  SAG  G   RBR  245       220                   
+6420       1758   ////      1758  SAG  C   RSP  080-180   III/1                 
+
+6440       1901   ////      1901  SAG  C   RSP  048-180   III/1                 
+
+6430       1901   1901      1901  SAG  G   RBR  245       450                   
+
+6450 +     1942   2005      2013  G15  5   XRA  1-8A      C1.9    2.8E-03   1183
+
+6460 +     2206   2210      2220  G15  5   XRA  1-8A      B5.0    3.3E-04   1176

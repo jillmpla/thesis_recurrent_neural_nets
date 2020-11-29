@@ -1,0 +1,42 @@
+:Product: 20110515events.txt
+:Created: 2011 May 18 0332 UT
+:Date: 2011 05 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 May 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1840       0255   ////      0255  CUL  C   RSP  030-080   III/1                 
+
+1760       0438   0442      0446  G15  5   XRA  1-8A      B1.9    6.7E-05       
+
+1850       0513   ////      0513  CUL  C   RSP  020-180   III/1                 
+
+1860       0602   ////      0603  CUL  C   RSP  020-120   III/1                 
+
+1870       0705   ////      0705  CUL  C   RSP  040-180   III/1                 
+
+1770       0735   0739      0742  G15  5   XRA  1-8A      B2.5    6.9E-05       
+
+1780       1304   1308      1312  G15  5   XRA  1-8A      B3.0    1.0E-04   1214
+
+1790       1411   1425      1430  G15  5   XRA  1-8A      C1.3    7.3E-04   1208
+1790 +     1417   1424      1433  COM  3   FLA  N11W45    SF                1208
+
+1800       1616   1620      1622  G15  5   XRA  1-8A      B5.6    1.0E-04   1208
+1800       1619   1620      1622  HOL  3   FLA  N10W50    SF                1208
+
+1810       1722   1723      1737  HOL  3   FLA  N09W41    SF                1208
+
+1820       1739   1743      1745  G15  5   XRA  1-8A      B8.4    1.8E-04   1208
+1820       1741   1742      1746  HOL  3   FLA  N11W50    SF                1208
+
+1830 +     2325   2334      2341  G15  5   XRA  1-8A      C4.8    2.6E-03   1208
+1830       2328   ////      2333  CUL  C   RSP  018-00*   III/2             1208
+1830 +     2332   2332      2332  PAL  G   RBR  610       190               1208
+1830 +     2332   2333      2333  PAL  G   RBR  410       170               1208

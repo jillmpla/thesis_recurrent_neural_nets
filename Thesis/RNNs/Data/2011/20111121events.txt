@@ -1,0 +1,40 @@
+:Product: 20111121events.txt
+:Created: 2011 Nov 24 0332 UT
+:Date: 2011 11 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Nov 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6870       0003   0010      0013  G15  5   XRA  1-8A      C3.1    9.2E-04       
+
+6880 +     0055   ////      0056  CUL  C   RSP  027-270   III/1                 
+
+6890       0232   0235      0239  LEA  3   FLA  N16E70    SF                1356
+
+6900       0439   0442      0446  G15  5   XRA  1-8A      B8.8    2.4E-04       
+
+6910       0448   0453      0458  G15  5   XRA  1-8A      C1.8    7.1E-04   1354
+
+6920       0623   0627      0629  G15  5   XRA  1-8A      B9.4    2.0E-04       
+
+6930       0723   0725      0727  LEA  3   FLA  N15E69    SF                1356
+
+6940       0843   0846      0851  LEA  3   FLA  N17E69    SF                1356
+
+6950       1114  U1118      1132  SVI  3   FLA  S24E10    SF                1352
+
+6960 +     1314   ////      1314  SAG  C   RSP  062-136   III/1                 
+
+6970 +     1556   1600      1607  G15  5   XRA  1-8A      B8.0    3.9E-04   1356
+
+6980 +     1819   1828      1836  G15  5   XRA  1-8A      C1.3    9.8E-04   1356
+
+6990       2001   ////      2001  CUL  C   RSP  020-090   III/1                 
+
+7000       2018   ////      2018  CUL  C   RSP  020-075   III/1                 

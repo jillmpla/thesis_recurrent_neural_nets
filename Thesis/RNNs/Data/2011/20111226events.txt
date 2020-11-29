@@ -1,0 +1,83 @@
+:Product: 20111226events.txt
+:Created: 2011 Dec 29 0332 UT
+:Date: 2011 12 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Dec 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2580 +     0213   0227      0236  G15  5   XRA  1-8A      M1.5    1.2E-02   1387
+2580 +     0217   0224      0254  COM  3   FLA  S21W33    1N                1387
+2580 +     0217   0217      0217  LEA  G   RBR  610       280               1387
+2580       0217   ////      0230  PAL  C   RSP  025-180   VI/1              1387
+2580 +     0221   0222      0222  LEA  G   RBR  245       230               1387
+2580       0230   0230      0230  LEA  G   RBR  410       100               1387
+
+2590 +     0304   0304      0305  LEA  G   RBR  610       410                   
+
+2600       0348   0348      0350  LEA  G   RBR  245       100                   
+
+2610       0352   0352      0352  LEA  G   RBR  245       100                   
+
+2620       0356   0356      0356  LEA  G   RBR  245       100                   
+
+2630       0434   0434      0434  LEA  G   RBR  245       170                   
+
+2640       0528   0528      0528  LEA  G   RBR  245       190                   
+
+2650       0609   0609      0609  LEA  G   RBR  245       180                   
+
+2660       0628   ////      0949  SVI  C   RSP  025-137   VI/1                  
+
+2670       0728   0728      0728  LEA  G   RBR  245       370                   
+
+2680 +     0748   0748      0749  COM  G   RBR  245       210                   
+
+2700       0850   0850      0850  SVI  G   RBR  245       100                   
+
+2710 +     0855   0855      0918  LEA  3   FLA  S20W36    SF                1387
+2710       0908   0909      0909  SVI  G   RBR  245       140               1387
+
+2720       0938   0948      0956  G15  5   XRA  1-8A      C2.8    2.1E-03   1387
+2720 +     0947   0952      1000  LEA  3   FLA  S22W34    SF                1387
+
+2740       1123   1150      1218  G15  5   XRA  1-8A      C5.7    1.4E-02   1384
+2740       1128  U1138     A1202  SVI  3   FLA  N17W02    SF                1384
+2740       1146   ////      1151  SVI  C   RSP  025-081   III/1             1384
+
+2730       1148   1148      1148  SVI  G   RBR  245       140                   
+
+2750       1237   ////      1321  SVI  C   RSP  025-180   III/2                 
+2750 +     1237   ////      1321  SVI  C   RSP  025-180   VI/2                  
+
+2760       1330   1330      1330  SAG  G   RBR  245       110                   
+
+2770       1409   ////      1409  SVI  C   RSP  027-083   III/1                 
+
+2780       1439   ////      1444  SVI  C   RSP  028-147   III/1                 
+
+2790       1645   ////      1700  SAG  C   RSP  025-138   VI/1                  
+
+2800       1714   1717      1730  HOL  3   FLA  S20W39    SF                1387
+
+2810       1818   ////      1853  SAG  C   RSP  025-126   VI/1              1387
+2810       1821   1822      1824  HOL  3   FLA  S21W37    SF                1387
+2810       1839   ////      1842  PAL  C   RSP  025-159   III/1             1387
+
+2820       1936   1936      1945  HOL  3   FLA  S21W38    SF      DSD       1387
+
+2830       2012   2030      2036  G15  5   XRA  1-8A      M2.3    2.2E-02   1387
+2830       2016   2019      2049  HOL  3   FLA  S21W42    SF      ERU       1387
+2830       2032   ////      2032  PAL  C   RSP  025-063   III/1             1387
+2830       2032   2032      2033  PAL  G   RBR  245       130               1387
+
+2850       2233   2245      2258  HOL  3   FLA  S21W42    SF      ERU       1387
+
+2860       2302   2303      2307  HOL  3   FLA  S21W41    SF                1387
+
+2870       2315   2326     A2356  HOL  3   FLA  S21W41    SF                1387

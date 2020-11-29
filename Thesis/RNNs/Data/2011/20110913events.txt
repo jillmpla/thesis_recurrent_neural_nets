@@ -1,0 +1,61 @@
+:Product: 20110913events.txt
+:Created: 2011 Sep 16 0332 UT
+:Date: 2011 09 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Sep 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9970 +     0029   ////      0030  CUL  C   RSP  018-200   III/1                 
+
+9980       0412   0419      0432  G15  5   XRA  1-8A      C1.1    1.1E-03       
+
+ 130       0520   ////      0521  CUL  C   RSP  018-090   III/1                 
+ 130       0520   ////      0547  SVI  C   RSP  025-146   VI/1                  
+
+9990 +     0525   ////      0525  CUL  C   RSP  018-180   III/2                 
+
+ 140       0547   ////      0548  CUL  C   RSP  018-180   III/1                 
+
+  10 +     0739   0739      0739  SVI  G   RBR  410       300                   
+
+  20       0801   0801      0801  LEA  G   RBR  245       190                   
+
+  30 +     0804   ////      0806  SVI  C   RSP  025-156   III/2                 
+
+  40       0853   ////      0946  SVI  C   RSP  025-147   VI/1                  
+
+  50 +     1158   ////      1221  SVI  C   RSP  025-127   VI/1                  
+
+  60       1259   ////      1300  SVI  C   RSP  025-045   III/1                 
+
+  70 +     1322   ////      1323  SVI  C   RSP  025-082   III/1                 
+
+  80 +     1352   ////      1524  SVI  C   RSP  025-161   VI/1                  
+
+  90       1727   1801      1821  G15  5   XRA  1-8A      C1.5    4.2E-03       
+  90       1800   ////      1809  SAG  C   RSP  025-164   III/1                 
+
+ 100       2118   2118      2122  HOL  3   FLA  S27W62    SF                1287
+
+ 150 +     2238   ////      2359  LEA  C   RSP  025-180   CTM/2                 
+
+ 110 +     2240   2241      2241  LEA  G   RBR  245       1000                  
+
+ 120       2243   2243      2243  LEA  G   RBR  245       100                   
+
+ 180 +     2248   2255      2330  PAL  G   RNS  245       220                   
+
+ 160 +     2303   ////      2303  LEA  C   RSP  035-180   III/2                 
+
+ 170 +     2320   ////      2350  LEA  C   RSP  025-180   VI/2              1295
+ 170       2331   2336      2350  G15  5   XRA  1-8A      C2.9    2.7E-03   1295
+
+ 190       2332   2333      2346  LEA  3   FLA  N23W03    SF                1289
+
+ 170 +     2333   2333      2338  LEA  3   FLA  N22E62    SF      ERU       1295

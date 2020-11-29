@@ -1,0 +1,72 @@
+:Product: 20111106events.txt
+:Created: 2011 Nov 09 0332 UT
+:Date: 2011 11 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Nov 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3680       0000   ////      0343  PAL  C   RSP  064-180   CTM/1                 
+3680       0001   ////      0917  LEA  C   RSP  025-180   VI/2                  
+
+3650       0008   0013      0018  G15  5   XRA  1-8A      C1.5    6.9E-04       
+
+3660       0020   0020      0020  LEA  G   RBR  245       130                   
+
+3670       0046   0103      0124  G15  5   XRA  1-8A      M1.2    1.8E-02   1339
+3670       0050   0112      0155  LEA  2   FLA  N21E35    SF                1339
+
+3690       0421   0426      0432  G15  5   XRA  1-8A      C1.6    7.6E-04       
+
+3750       0550   ////      1528  SVI  C   RSP  030-180   CTM/1                 
+
+3700       0604   0607      0610  G15  5   XRA  1-8A      C1.5    3.4E-04       
+
+3710       0614   0635      0641  G15  5   XRA  1-8A      M1.4    1.0E-02   1339
+3710 +     0614   0614      0614  LEA  G   RBR  245       110               1339
+3710       0614   0614      0614  LEA  G   RBR  610       100               1339
+3710 +     0615   ////      0615  CUL  C   RSP  023-200   III/2             1339
+3710 +     0618   ////      0629  CUL  C   RSP  060-120   II/1              1339
+3710       0619   0634      0653  LEA  3   FLA  N21E31    SN      ERU       1339
+
+3720       0804   0816      0839  G15  5   XRA  1-8A      C2.3    4.1E-03   1338
+3720 +     0811   0813      0829  LEA  3   FLA  S15E11    SF      BPT       1338
+
+3730       0952   0956      0959  G15  5   XRA  1-8A      C8.8    1.9E-03   1339
+3730       0954   0956      1008  LEA  3   FLA  N21E28    SN      BPT       1339
+
+3840       1144   ////      2118  SAG  C   RSP  025-180   CTM/1                 
+
+3740 +     1318   ////      1321  SVI  C   RSP  025-180   III/2                 
+
+3760 +     1430   1447      1503  G15  5   XRA  1-8A      C5.3    6.1E-03   1339
+
+3790       1635   1640      1644  G15  5   XRA  1-8A      B9.8    5.6E-04   1339
+
+3870       1705   ////      2359  PAL  C   RSP  025-180   CTM/1                 
+
+3770 +     1708   ////      1708  SAG  C   RSP  025-168   III/2                 
+
+3780       1717   1736      1742  G15  5   XRA  1-8A      C2.0    2.4E-03   1338
+3780       1739   1740      1826  HOL  3   FLA  S13E08    SF      ERU       1338
+
+3810       1840   1843      1857  HOL  3   FLA  S13E08    SF                1338
+
+3820 +     1912   ////      1913  SAG  C   RSP  025-081   III/1                 
+
+3830       1952   1958      2030  G15  5   XRA  1-8A      C1.2    2.4E-03   1338
+3830       1956   1956      2048  HOL  3   FLA  S14E05    SF                1338
+
+3850       2037   ////      2058  PAL  C   RSP  025-113   VI/1                  
+
+3860       2149   2153      2155  G15  5   XRA  1-8A      C1.7    3.4E-04   1338
+3860       2149   2154      2207  HOL  3   FLA  S15E05    SF      ERU       1338
+
+3990       2154   ////      2359  LEA  C   RSP  067-178   CTM/1                 
+
+3880 +     2215   ////      2359  LEA  C   RSP  025-165   VI/1                  

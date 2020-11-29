@@ -1,0 +1,21 @@
+:Product: 20110513events.txt
+:Created: 2011 May 16 0332 UT
+:Date: 2011 05 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 May 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1680       0159   ////      0200  CUL  C   RSP  020-090   III/1                 
+
+1710       1348   1355      1400  G15  5   XRA  1-8A      B2.2    1.2E-04       
+
+1720       1432   ////      1549  SVI  3   DSF  N43W26    38                    
+
+1730       2135   2140      2150  G15  5   XRA  1-8A      B2.2    1.5E-04   1210
+1730       2138   2140      2148  HOL  3   FLA  N23W42    SF                1210

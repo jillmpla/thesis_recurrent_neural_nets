@@ -1,0 +1,82 @@
+:Product: 20110908events.txt
+:Created: 2011 Sep 11 0332 UT
+:Date: 2011 09 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Sep 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8380 +     0011   ////      0011  CUL  C   RSP  018-230   III/1                 
+
+8390 +     0028   ////      0040  CUL  C   RSP  150-220   CTM/1                 
+
+8400 +     0233   ////      0233  LEA  C   RSP  025-180   III/1                 
+
+8420       0257   ////      0257  CUL  C   RSP  020-090   III/1                 
+
+8430 +     0714   ////      0720  CUL  C   RSP  020-200   III/1                 
+
+8440       1040   1050      1057  G15  5   XRA  1-8A      C1.7    1.2E-03   1283
+8440       1046   1048      1052  SVI  3   FLA  N14W37    SF                1283
+
+8450       1116   1116      1117  SAG  U   RBR  245       190                   
+
+8460 +     1230   1230      1230  SVI  G   RBR  245       160                   
+8460 +     1230   ////      1235  SVI  C   RSP  025-162   III/1                 
+
+8470 +     1313   ////      1505  SAG  C   RSP  102-176   CTM/1                 
+
+8480       1532   1546      1552  G15  5   XRA  1-8A      M6.7    4.2E-02   1283
+8480       1537  U1546     A1632  SVI  3   FLA  N14W40    1N      ERU       1283
+8480 +     1537   ////      1541  SAG  C   RSP  025-180   III/1             1283
+8480 +     1538   ////      1659  SVI  C   RSP  114-180   IV/1              1283
+8480 +     1538   1543      1543  SAG  G   RBR  4995      85                1283
+8480 +     1540   1543      1543  SAG  G   RBR  2695      91                1283
+8480 +     1542   1542      1542  SAG  G   RBR  410       370               1283
+8480 +     1542   1543      1544  SAG  G   RBR  8800      270               1283
+8480 +     1542   1543      1544  SAG  G   RBR  15400     360               1283
+8480 +     1543   1543      1543  SAG  G   RBR  1415      120               1283
+8480 +     1543   1543      1543  SAG  G   RBR  610       100               1283
+8480 +     1544   1544      1544  SAG  G   RBR  245       130               1283
+
+8490       1613   1613      1613  SAG  G   RBR  245       100                   
+
+8500 +     1646   1646      1646  SAG  G   RBR  245       110                   
+
+8520       1826   1846      1856  G15  5   XRA  1-8A      C2.5    2.8E-03   1289
+8520       1836   1849      1908  HOL  2   FLA  N22E59    SF                1289
+8520 +     1840   ////      1848  PAL  C   RSP  025-180   III/1             1289
+
+8580       1855   1859      1935  SAG  G   RNS  245       250                   
+
+8520       1901   1901      1902  PAL  G   RBR  245       200               1289
+
+8530       1931   ////      1932  PAL  C   RSP  025-180   III/2                 
+8530       1931   ////      1933  SAG  C   RSP  025-180   V/2                   
+
+8540       1937   1937      1937  PAL  G   RBR  245       100                   
+
+8550 +     2001   ////      2002  PAL  C   RSP  025-180   V/2                   
+8550       2002   ////      2002  PAL  C   RSP  025-085   III/2                 
+
+8560 +     2027   2027      2027  SAG  G   RBR  245       160                   
+
+8590 +     2038   ////      2039  PAL  C   RSP  025-129   III/2                 
+
+8600 +     2101   2102      2102  PAL  G   RBR  245       150                   
+
+8610       2108   2108      2108  PAL  G   RBR  245       110                   
+
+8620       2243   2244      2244  PAL  G   RBR  245       210                   
+
+8630 +     2246   ////      2247  LEA  C   RSP  076-176   III/1                 
+
+8640       2252   2258      2321  G15  5   XRA  1-8A      C1.1    1.6E-03   1283
+8640       2256   2256      2304  LEA  3   FLA  N17W45    SF      ERU       1283
+
+8670       2351   0008      0033  LEA  3   FLA  N16W44    SF      ERU       1283

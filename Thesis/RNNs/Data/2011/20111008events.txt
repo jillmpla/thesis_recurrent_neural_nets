@@ -1,0 +1,24 @@
+:Product: 20111008events.txt
+:Created: 2011 Oct 11 0332 UT
+:Date: 2011 10 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Oct 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7880       0413   0420      0446  G15  5   XRA  1-8A      C1.1    1.8E-03   1309
+
+7890       0743   0819      0836  G15  5   XRA  1-8A      B9.8    2.3E-03   1313
+
+7900       0913   0917      0924  G15  5   XRA  1-8A      B7.0    4.8E-04   1313
+
+7910       1122   1122      1122  SVI  G   RBR  245       140                   
+
+7920       1154   1154      1154  SAG  G   RBR  245       110                   
+
+7930       1542   ////      1542  SAG  U   RSP  025-042   III/1                 

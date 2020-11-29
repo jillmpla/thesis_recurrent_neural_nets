@@ -1,0 +1,99 @@
+:Product: 20110930events.txt
+:Created: 2011 Oct 03 0332 UT
+:Date: 2011 09 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Sep 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6030       0000   ////      1005  LEA  C   RSP  032-180   CTM/1                 
+
+5960       0000   ////      0411  PAL  C   RSP  031-180   CTM/1                 
+
+5970       0246   0252      0258  G15  5   XRA  1-8A      C1.0    5.7E-04   1302
+5970       0248   0252      0301  LEA  3   FLA  N14W34    SF                1302
+
+5980       0337   0400      0413  G15  5   XRA  1-8A      C7.7    8.6E-03   1305
+5980       0349   0357      0428  LEA  3   FLA  N08E10    SN      ERU       1305
+
+5990       0413   ////      0413  LEA  C   RSP  025-180   III/1                 
+
+6090       0507   ////      1622  SVI  C   RSP  025-180   CTM/1                 
+
+6000 +     0532   ////      0532  LEA  C   RSP  041-180   III/1                 
+
+6010       0615   ////      0615  SVI  C   RSP  032-083   III/1                 
+
+6020 +     0645   0645      0645  SVI  G   RBR  245       150                   
+
+6210       1110   ////      2013  SAG  C   RSP  047-180   CTM/1                 
+
+6040       1201   1201      1203  SAG  G   RBR  245       140                   
+
+6050       1232   1235      1239  G15  5   XRA  1-8A      B7.3    2.0E-04       
+
+6060       1342   1349      1403  G15  5   XRA  1-8A      B7.6    7.5E-04       
+6060 +     1344   1344      1348  SAG  G   RBR  245       580                   
+6060 +     1345   1345      1346  SAG  G   RBR  410       180                   
+6060 +     1345   ////      1346  SVI  C   RSP  075-180   III/1                 
+
+6070 +     1405   ////      1407  SAG  C   RSP  025-180   III/1                 
+6070       1406   1406      1406  SVI  G   RBR  410       110                   
+
+6080       1446   1456      1507  HOL  3   FLA  N14W24    SF                1302
+
+6100       1627   ////      1627  SAG  C   RSP  025-039   III/1                 
+6100       1627   1627      1627  SAG  G   RBR  245       100                   
+
+6110       1633   1635      1704  HOL  3   FLA  N11E05    SF      ERU       1305
+6110       1636   ////      2023  PAL  C   RSP  082-180   CTM/1             1305
+
+6190       1704   ////      2004  SAG  C   RSP  025-180   VI/2                  
+
+6150 +     1705   1808      1918  SAG  G   RNS  245       450                   
+
+6120       1734   1734      1734  PAL  G   RBR  245       200                   
+
+6130       1741   ////      1741  PAL  C   RSP  025-086   III/1                 
+
+6140       1755   ////      1755  PAL  C   RSP  025-050   III/1                 
+
+6200       1810   ////      2004  PAL  C   RSP  025-180   VI/1                  
+
+6160       1842   1847      1853  G15  5   XRA  1-8A      C3.4    1.4E-03   1307
+
+6180       1852   1904      1935  HOL  3   FLA  N08E06    1F      ERU       1305
+
+6170       1854   1854      1854  SAG  G   RBR  410       100                   
+
+6180       1855   1906      1915  G15  5   XRA  1-8A      M1.0    8.1E-03   1305
+6180 +     1858   ////      1903  SAG  C   RSP  025-180   III/2                 
+6180 +     1859   1900      1901  SAG  G   RBR  4995      340                   
+6180 +     1859   1900      1901  SAG  G   RBR  8800      240                   
+6180 +     1859   1900      1901  SAG  G   RBR  2695      260                   
+6180 +     1900   1900      1900  SAG  G   RBR  1415      110                   
+6180       1901   1901      1901  PAL  G   RBR  245       220                   
+6180       1908   ////      1923  SAG  C   RSP  025-064   II/1    690           
+
+6220       2037   2042      2048  G15  5   XRA  1-8A      C1.1    5.9E-04   1302
+6220       2038   2040      2102  HOL  2   FLA  N15W30    SF      ERU       1302
+
+6230 +     2122   ////      2129  PAL  C   RSP  025-180   III/2                 
+
+6240 +     2147   ////      2149  PAL  C   RSP  025-180   III/2             1302
+6240       2148   2148      2148  PAL  G   RBR  245       670               1302
+6240       2149  U2207     A2216  HOL  2   FLA  N18W29    SF                1302
+
+6250 +     2152   ////      2153  PAL  C   RSP  025-180   III/2                 
+
+6260 +     2222   ////      2335  LEA  C   RSP  075-180   CTM/1                 
+6260 +     2251   ////      2252  PAL  C   RSP  025-180   III/2                 
+
+6270       2313   ////      2323  LEA  C   RSP  025-175   III/1                 
+
+6280       2349   2349      2358  HOL  3   FLA  N23W48    SF                    

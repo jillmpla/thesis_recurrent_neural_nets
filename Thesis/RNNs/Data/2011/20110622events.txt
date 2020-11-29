@@ -1,0 +1,16 @@
+:Product: 20110622events.txt
+:Created: 2011 Jun 25 0332 UT
+:Date: 2011 06 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jun 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5420       0020   ////      0020  CUL  C   RSP  023-060   III/1                 
+
+5430       0453   0458      0504  G15  5   XRA  1-8A      B2.8    1.5E-04   1239

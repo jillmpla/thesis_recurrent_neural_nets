@@ -1,0 +1,27 @@
+:Product: 20111009events.txt
+:Created: 2011 Oct 12 0332 UT
+:Date: 2011 10 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Oct 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7940       0645   0651      0658  G15  5   XRA  1-8A      B7.5    3.9E-04   1314
+7940       0656   ////      0656  CUL  C   RSP  100-180   III/1                 
+
+7980       0705   ////      0705  CUL  C   RSP  040-150   III/1                 
+
+7990       0709   ////      0709  CUL  C   RSP  040-150   III/1                 
+
+7950       0746   0750      0817  G15  5   XRA  1-8A      B6.1    9.4E-04   1314
+
+7960       1322   1327      1333  G15  5   XRA  1-8A      C1.7    7.1E-04   1314
+
+7970       1944   1950      1953  G15  5   XRA  1-8A      B6.0    2.2E-04       
+
+8000       2239   ////      2239  CUL  C   RSP  060-180   III/1                 

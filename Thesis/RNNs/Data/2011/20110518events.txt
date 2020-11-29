@@ -1,0 +1,30 @@
+:Product: 20110518events.txt
+:Created: 2011 May 21 0332 UT
+:Date: 2011 05 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 May 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1990 +     0056   0100      0105  G15  5   XRA  1-8A      B2.4    9.5E-05   1208
+
+2040       0525   0533      0544  G15  5   XRA  1-8A      B2.7    2.8E-04   1218
+
+2000       1157   1201      1203  G15  5   XRA  1-8A      B2.3    4.9E-05   1218
+
+2010       1248   1259      1307  G15  5   XRA  1-8A      C1.2    8.1E-04   1218
+
+2020       1521   ////      1640  HOL  3   DSF  S29W34    5                 1214
+
+2050       1633   1637      1641  G15  5   XRA  1-8A      B2.0    1.0E-04   1208
+
+2030       1802   1830      1950  G15  5   XRA  1-8A      C2.0    9.6E-03       
+
+2060       2122   ////      2122  CUL  C   RSP  040-090   III/1                 
+
+2070       2347   ////      2347  CUL  C   RSP  018-060   III/1                 

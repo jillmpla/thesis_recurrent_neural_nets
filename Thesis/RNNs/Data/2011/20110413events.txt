@@ -1,0 +1,64 @@
+:Product: 20110413events.txt
+:Created: 2011 Apr 16 0332 UT
+:Date: 2011 04 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Apr 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7550       0321   0330      0336  G15  5   XRA  1-8A      C1.9    1.1E-03   1191
+7550       0324   0331      0337  LEA  3   FLA  N10E74    SF      ERU       1191
+
+7560       0534   0534      0550  LEA  3   FLA  N17E72    SF                    
+
+7570       0554   0607      0619  LEA  3   FLA  N17E71    SF                    
+
+7580       0620   0628      0639  LEA  3   FLA  N17E71    1F                    
+7580       0625   0628      0632  G15  5   XRA  1-8A      C2.2    5.4E-04       
+
+7590       0709   0709      0711  LEA  3   FLA  N13E08    SF                1190
+
+7600       0743   0745      0759  LEA  3   FLA  N16E75    SF                    
+7600       0755   0759      0803  G15  5   XRA  1-8A      C1.2    3.9E-04   1191
+
+7610 +     0829   0832      0836  G15  5   XRA  1-8A      C1.0    2.9E-04   1193
+
+7620       0900   0900      0900  LEA  G   RBR  610       220                   
+
+7630       1037   1041      1045  G15  5   XRA  1-8A      C1.4    4.4E-04   1185
+
+7640       1312   1343      1349  G15  5   XRA  1-8A      C2.5    2.9E-03       
+7640       1331   1347      1402  HOL  3   FLA  N15E74    SF      ERU           
+
+7650       1405   1409      1414  HOL  3   FLA  N14E75    SF                    
+
+7660 +     1443   1443      1443  SVI  G   RBR  245       170                   
+
+7680       1602   1607      1611  G15  5   XRA  1-8A      C1.1    4.3E-04   1190
+7680 +     1605   1606      1615  HOL  3   FLA  N13E05    SF      ERU       1190
+
+7690 +     1653   1700      1706  HOL  3   FLA  N13E05    SF      ERU       1190
+
+7700       1904   1911      1915  G15  5   XRA  1-8A      C1.5    7.1E-04       
+
+7710       2006   2009      2011  G15  5   XRA  1-8A      B9.1    1.5E-04   1193
+
+7750       2059   ////      2059  CUL  C   RSP  027-080   III/1                 
+
+7740       2118   2118      2123  HOL  3   FLA  N15E74    SF                1193
+
+7760       2128   ////      2128  CUL  C   RSP  027-070   III/1                 
+
+7730       2204   2205      2211  HOL  3   FLA  N15E74    SF                1193
+
+7770       2252   2259      2315  G15  5   XRA  1-8A      B9.4    1.0E-03   1193
+7770       2306   2307      2310  HOL  3   FLA  N15E71    SF                1193
+
+7780       2330   2332      2345  HOL  3   FLA  N15E72    SF                1193
+
+7790       2349   2351      2359  HOL  3   FLA  N15E73    SF                1193

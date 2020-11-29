@@ -1,0 +1,65 @@
+:Product: 20111214events.txt
+:Created: 2011 Dec 17 0332 UT
+:Date: 2011 12 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Dec 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 340 +     0110   0114      0119  G15  5   XRA  1-8A      C1.9    6.8E-04   1367
+
+ 350       0121   ////      0121  PAL  C   RSP  025-180   III/1                 
+
+ 360       0147   0151      0159  G15  5   XRA  1-8A      C1.9    1.0E-03   1367
+ 360       0153   0156      0201  LEA  3   FLA  S19W90    SF                1367
+
+ 370       0206   0209      0211  LEA  3   FLA  S19W89    SF                1367
+
+ 380 +     0301   0315      0331  G15  5   XRA  1-8A      C3.5    3.9E-03   1367
+
+ 390 +     0450   0456      0459  G15  5   XRA  1-8A      C3.3    1.0E-03   1367
+
+ 400 +     0512   0517      0525  G15  5   XRA  1-8A      C2.9    1.7E-03   1367
+ 400       0514   0514      0515  LEA  G   RBR  245       580               1367
+
+ 410       0618   0622      0625  G15  5   XRA  1-8A      C1.6    4.5E-04   1367
+ 410       0622   0622      0627  LEA  3   FLA  S19W88    SF                1367
+
+ 420       0645   ////      0706  SVI  C   RSP  025-160   VI/1                  
+
+ 430       0739   ////      0752  SVI  C   RSP  029-082   VI/1                  
+
+ 440       0824   ////      0824  SVI  C   RSP  037-084   III/1                 
+
+ 470       0906   ////      1007  SVI  C   RSP  029-142   VI/1                  
+
+ 450       0913   0919      0924  G15  5   XRA  1-8A      C2.3    1.1E-03       
+
+ 460       1014   ////      1014  SVI  C   RSP  025-180   III/2                 
+ 460 +     1014   1014      1014  LEA  G   RBR  245       160                   
+
+ 480       1240   ////      1241  SVI  C   RSP  028-127   III/1                 
+
+ 490       1318   1327      1330  G15  5   XRA  1-8A      C5.8    2.2E-03   1367
+
+ 500       1344   ////      1346  SVI  C   RSP  028-083   III/1                 
+
+ 510       1451   1459      1501  G15  5   XRA  1-8A      C7.5    1.9E-03       
+
+ 520 +     1502   1502      1502  SVI  G   RBR  245       320                   
+ 520       1502   ////      1507  SAG  C   RSP  025-180   III/1                 
+
+ 530 +     1601   1606      1612  G15  5   XRA  1-8A      C1.5    7.6E-04   1367
+
+ 540 +     1643   1647      1649  G15  5   XRA  1-8A      C2.5    4.7E-04   1367
+
+ 550 +     1936   1946      1956  G15  5   XRA  1-8A      C7.0    5.9E-03   1367
+
+ 560 +     2238   2247      2256  G15  5   XRA  1-8A      C1.9    1.6E-03   1367
+
+ 570 +     2337   ////      2337  LEA  C   RSP  025-089   III/1                 

@@ -29,6 +29,37 @@ def save_some_features(to_save):
 	global all_of_the_Dataframe
 	all_of_the_Dataframe = all_of_the_Dataframe.append(to_save)
 	return()
+
+def convert_time_2010(k):
+	#change T_REC to datetime type
+	k.T_REC = drms.to_datetime(k.T_REC)
+	
+	#convert tai time to utc
+	t1 = Time(k.T_REC, format='datetime64', scale='tai')
+	t2 = t1.utc
+	t3 = t2.iso
+	k.T_REC = t3
+	k.T_REC = pd.to_datetime(k.T_REC)
+	
+	#delete first row of df from previous year
+	k = k[(k['T_REC'].dt.year != 2009)]
+	return(k)
+
+
+def convert_time_2011(k):
+	#change T_REC to datetime type
+	k.T_REC = drms.to_datetime(k.T_REC)
+	
+	#convert tai time to utc
+	t1 = Time(k.T_REC, format='datetime64', scale='tai')
+	t2 = t1.utc
+	t3 = t2.iso
+	k.T_REC = t3
+	k.T_REC = pd.to_datetime(k.T_REC)
+	
+	#delete first row of df from previous year
+	k = k[(k['T_REC'].dt.year != 2010)]
+	return(k)
 	
 def convert_time_2012(k):
 	#change T_REC to datetime type
@@ -89,6 +120,21 @@ def convert_time_2015(k):
 	#delete first row of df from previous year
 	k = k[(k['T_REC'].dt.year != 2014)]
 	return(k)
+	
+def convert_time_2016(k):
+	#change T_REC to datetime type
+	k.T_REC = drms.to_datetime(k.T_REC)
+	
+	#convert tai time to utc
+	t1 = Time(k.T_REC, format='datetime64', scale='tai')
+	t2 = t1.utc
+	t3 = t2.iso
+	k.T_REC = t3
+	k.T_REC = pd.to_datetime(k.T_REC)
+	
+	#delete first row of df from previous year
+	k = k[(k['T_REC'].dt.year != 2015)]
+	return(k)
 
 def getAllData(binary):
 	#input - hmi.sharp_720s from JSOC:::
@@ -129,7 +175,7 @@ def getAllData(binary):
 	os.chdir(my_dir)
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
-	daily_reports_year = "\\2012" #folder year for daily reports, only variable changed in this block
+	daily_reports_year = "\\2010" #folder year for daily reports, only variable changed in this block
 	year_dir = my_dir + daily_reports_year
 	os.chdir(year_dir)
 
@@ -137,6 +183,40 @@ def getAllData(binary):
 	for files in glob.glob("*.txt"):
 		filesList.append(files)
     
+	for aFile in filesList:
+		frame = pd.read_csv(aFile, skiprows=11, engine = 'python', sep='[\s+]{2,}', skip_blank_lines=True, header=None, names=["Event", "Begin", "Max", "End", "Obs", "Q", "Type", "Loc/Frq", "Particulars", "Particulars2", "Reg#"], usecols = [0,1,2,3,4,5,6,7,8,9,10])
+		frame['Filename'] = Path(aFile).stem[:-6]
+		frame['Day'] = pd.to_datetime(frame['Filename'])    
+		df = df.append(frame)
+	os.chdir('..')
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	daily_reports_year = "\\2011" #folder year for daily reports, only variable changed in this block
+	current_dir = os.getcwd() 
+	year_dir = current_dir + daily_reports_year
+	os.chdir(year_dir)
+
+	filesList = []
+	for files in glob.glob("*.txt"):
+		filesList.append(files)
+
+	for aFile in filesList:
+		frame = pd.read_csv(aFile, skiprows=11, engine = 'python', sep='[\s+]{2,}', skip_blank_lines=True, header=None, names=["Event", "Begin", "Max", "End", "Obs", "Q", "Type", "Loc/Frq", "Particulars", "Particulars2", "Reg#"], usecols = [0,1,2,3,4,5,6,7,8,9,10])
+		frame['Filename'] = Path(aFile).stem[:-6]
+		frame['Day'] = pd.to_datetime(frame['Filename'])    
+		df = df.append(frame)
+	os.chdir('..')
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	daily_reports_year = "\\2012" #folder year for daily reports, only variable changed in this block
+	current_dir = os.getcwd() 
+	year_dir = current_dir + daily_reports_year
+	os.chdir(year_dir)
+
+	filesList = []
+	for files in glob.glob("*.txt"):
+		filesList.append(files)
+
 	for aFile in filesList:
 		frame = pd.read_csv(aFile, skiprows=11, engine = 'python', sep='[\s+]{2,}', skip_blank_lines=True, header=None, names=["Event", "Begin", "Max", "End", "Obs", "Q", "Type", "Loc/Frq", "Particulars", "Particulars2", "Reg#"], usecols = [0,1,2,3,4,5,6,7,8,9,10])
 		frame['Filename'] = Path(aFile).stem[:-6]
@@ -180,6 +260,23 @@ def getAllData(binary):
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	daily_reports_year = "\\2015" #folder year for daily reports, only variable changed in this block
+	current_dir = os.getcwd() 
+	year_dir = current_dir + daily_reports_year
+	os.chdir(year_dir)
+
+	filesList = []
+	for files in glob.glob("*.txt"):
+		filesList.append(files)
+
+	for aFile in filesList:
+		frame = pd.read_csv(aFile, skiprows=11, engine = 'python', sep='[\s+]{2,}', skip_blank_lines=True, header=None, names=["Event", "Begin", "Max", "End", "Obs", "Q", "Type", "Loc/Frq", "Particulars", "Particulars2", "Reg#"], usecols = [0,1,2,3,4,5,6,7,8,9,10])
+		frame['Filename'] = Path(aFile).stem[:-6]
+		frame['Day'] = pd.to_datetime(frame['Filename'])    
+		df = df.append(frame)
+	os.chdir('..')
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+	daily_reports_year = "\\2016" #folder year for daily reports, only variable changed in this block
 	current_dir = os.getcwd() 
 	year_dir = current_dir + daily_reports_year
 	os.chdir(year_dir)

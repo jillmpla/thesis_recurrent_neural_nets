@@ -1,0 +1,59 @@
+:Product: 20110418events.txt
+:Created: 2011 Apr 21 0332 UT
+:Date: 2011 04 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Apr 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8830 +     0235   0243      0247  G15  5   XRA  1-8A      C1.8    8.8E-04   1193
+8830       0242   0242      0242  LEA  G   RBR  245       100               1193
+
+8840      B0250  U0252      0305  LEA  2   FLA  N27E03    SN                1193
+
+9000       0332   0348      0416  G15  5   XRA  1-8A      C1.8    4.2E-03       
+
+8850       0405   0409      0409  LEA  G   RBR  245       170                   
+
+8860       0422   0422      0422  PAL  G   RBR  245       100                   
+
+8870       0427   0427      0427  LEA  G   RBR  245       240                   
+
+8890       1038   1038      1038  SVI  G   RBR  245       150                   
+
+8900       1052   1056      1102  G15  5   XRA  1-8A      B6.6    2.9E-04       
+
+8880 +     1204   1228      1243  SVI  G   RNS  245       140                   
+
+8910       1556   1602      1606  G15  5   XRA  1-8A      B9.7    4.0E-04   1193
+8910       1559   1603      1609  HOL  3   FLA  N15E13    SF                1193
+
+8920       1714   1716      1725  HOL  3   FLA  N15E14    SF      ERU       1193
+
+8930       1812   1812      1812  SAG  G   RBR  245       150                   
+
+8940 +     1812   1813      1813  PAL  G   RBR  245       140                   
+
+8950       1817   1817      1817  PAL  G   RBR  245       100                   
+
+8960 +     1831   1831      1831  SAG  G   RBR  245       370                   
+
+8970       1854   1854      1854  PAL  G   RBR  245       150                   
+
+8980       1855   1855      1855  SAG  G   RBR  245       150               1193
+8980       1855   1902      1908  G15  5   XRA  1-8A      C1.5    8.6E-04   1193
+8980       1859   1859      1911  HOL  3   FLA  N16E12    SF      ERU       1193
+
+8990 +     1917   1924      1931  G15  5   XRA  1-8A      C1.0    6.8E-04   1195
+
+9010       2122   ////      2122  CUL  C   RSP  050-180   III/1                 
+
+9020       2312   2315      2319  G15  5   XRA  1-8A      B7.6    2.1E-04   1190
+9020       2315   2315      2337  HOL  3   FLA  N13W66    SF      DSD       1190
+
+9030 +     2342   2343      2350  HOL  3   FLA  N16E07    SF      BPT       1193

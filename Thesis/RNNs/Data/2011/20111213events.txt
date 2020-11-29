@@ -1,0 +1,73 @@
+:Product: 20111213events.txt
+:Created: 2011 Dec 16 0332 UT
+:Date: 2011 12 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Dec 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  40 +     0000   ////      0003  LEA  C   RSP  025-180   III/2                 
+  40 +     0001   0001      0002  LEA  G   RBR  245       190                   
+  40 +     0002   0002      0003  LEA  G   RBR  410       250                   
+
+  50 +     0307   ////      0310  LEA  C   RSP  025-167   III/2                 
+  50 +     0309   0309      0309  LEA  G   RBR  245       110                   
+
+  60       0413   ////      0432  LEA  C   RSP  025-180   VI/2                  
+
+  70 +     0727   ////      0727  LEA  C   RSP  025-103   III/1                 
+
+  90       0746   0800      0807  G15  5   XRA  1-8A      C1.4    1.7E-03   1367
+
+  80 +     0822   ////      0828  LEA  C   RSP  025-100   III/1                 
+
+ 100 +     0903   ////      1011  SVI  C   RSP  025-157   VI/1                  
+
+ 110       1144   ////      1146  SVI  C   RSP  025-180   III/1                 
+
+ 120       1229   ////      1229  SVI  C   RSP  025-180   III/1                 
+
+ 180       1229   ////      1241  SAG  C   RSP  025-180   VI/1                  
+
+ 130       1241   ////      1242  SVI  C   RSP  025-180   III/2                 
+
+ 140 +     1318   ////      1322  SAG  C   RSP  025-180   III/2                 
+
+ 150 +     1411   1414      1417  G15  5   XRA  1-8A      C1.1    2.4E-04   1367
+
+ 160       1533   ////      1533  SAG  C   RSP  025-074   III/1                 
+
+ 190 +     1835   1835      1835  SAG  G   RBR  245       140                   
+
+ 200 +     1854   1854      1854  SAG  G   RBR  245       150                   
+
+ 210 +     1921   1921      1921  PAL  G   RBR  245       260                   
+
+ 220       1931   ////      1944  PAL  C   RSP  025-180   VI/1                  
+ 220       1931   ////      1932  SAG  C   RSP  025-134   III/1                 
+ 220       1935   1935      1935  PAL  G   RBR  245       100                   
+
+ 230 +     1946   1946      1946  PAL  G   RBR  245       120                   
+
+ 240       2002   2002      2002  PAL  G   RBR  245       120                   
+
+ 270       2008   2033      2033  PAL  G   RNS  245       170                   
+
+ 250       2025   ////      2028  PAL  C   RSP  025-046   III/1                 
+
+ 260 +     2159   2202      2204  G15  5   XRA  1-8A      C1.0    1.7E-04   1376
+
+ 280 +     2322   ////      2322  LEA  C   RSP  025-180   III/1                 
+
+ 300 +     2326   2326      2326  PAL  G   RBR  410       170                   
+ 300 +     2326   2326      2326  PAL  G   RBR  610       100                   
+
+ 320      B2330   2334      2342  LEA  2   FLA  S19W84    SF                1367
+ 320       2331   2336      2346  G15  5   XRA  1-8A      C4.8    3.1E-03   1367
+
+ 330       2353   2357      0000  G15  5   XRA  1-8A      C3.1    1.4E-03   1367

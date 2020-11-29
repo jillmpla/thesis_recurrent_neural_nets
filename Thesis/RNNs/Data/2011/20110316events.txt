@@ -1,0 +1,41 @@
+:Product: 20110316events.txt
+:Created: 2011 Mar 19 0332 UT
+:Date: 2011 03 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Mar 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4010       0142   0142      0142  LEA  G   RBR  245       75                    
+
+4020       0200   ////      0200  CUL  C   RSP  020-070   III/1                 
+
+4030 +     0337   0340      0344  G15  5   XRA  1-8A      B7.5    1.9E-04   1169
+
+4040 +     0349   ////      0349  CUL  C   RSP  020-150   III/1                 
+
+4050 +     0458   0502      0506  G15  5   XRA  1-8A      B8.3    2.6E-04   1169
+
+4130       0512   ////      0513  CUL  C   RSP  035-090   III/1                 
+
+4060       0512   ////      0513  LEA  C   RSP  041-100   III/1                 
+
+4090       0835   0847      0849  G15  5   XRA  1-8A      C1.3    8.0E-04   1169
+
+4070 +     1326   ////      1330  SVI  C   RSP  025-074   III/2                 
+
+4080 +     1347   1351      1354  G15  5   XRA  1-8A      C1.4    3.4E-04   1169
+
+4100       1712   1822      1840  HOL  3   FLA  N17W72    SF                1169
+4100       1752   2034      2324  G15  5   XRA  1-8A      C3.7    5.1E-02   1169
+
+4110       1847   1849      1857  HOL  3   FLA  N17W72    SF                1169
+
+4120       1900   1900      1911  HOL  3   FLA  N17W73    SF                1169
+
+4140       2155   ////      2156  CUL  C   RSP  023-080   III/1                 

@@ -1,0 +1,31 @@
+:Product: 20111130events.txt
+:Created: 2011 Dec 03 0332 UT
+:Date: 2011 11 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Nov 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8030       0004   0011      0014  G15  5   XRA  1-8A      C2.0    6.8E-04   1363
+8030       0008   0010      0020  LEA  3   FLA  S23E66    SF                1363
+
+8040       0154   0210      0218  G15  5   XRA  1-8A      C1.2    1.4E-03   1362
+
+8050       0911   0917      0934  G15  5   XRA  1-8A      C1.1    1.2E-03   1363
+
+8060       0958   1009      1012  SVI  3   FLA  S18E64    SF                1363
+
+8070       2020   2028      2039  G15  5   XRA  1-8A      C3.8    3.0E-03   1364
+8070       2023   2028      2042  HOL  3   FLA  N20E66    SF      UMB       1364
+
+8090       2152   ////      2157  CUL  C   RSP  030-090   III/1                 
+
+8080       2153   2232      2248  G15  5   XRA  1-8A      C3.6    9.5E-03   1356
+8080       2201   2212      2254  HOL  3   FLA  N13W62    SF      ERU       1356
+8080       2215   ////      2219  CUL  C   RSP  025-120   III/1             1356
+8080      B2224   ////     A0642  SOH  3   CME  XUV,EUV,UV216-008/FS579       1356

@@ -1,0 +1,43 @@
+:Product: 20110329events.txt
+:Created: 2011 Apr 01 0332 UT
+:Date: 2011 03 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Mar 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6170       0012   ////      0103  LEA  C   RSP  025-180   VI/1              1176
+6170 +     0027   0032      0034  G15  5   XRA  1-8A      B8.6    2.4E-04   1176
+
+6180       0121   ////      0214  LEA  C   RSP  025-058   VI/1                  
+
+6190       0511   0515      0524  G15  5   XRA  1-8A      C1.1    6.4E-04   1183
+
+6200 +     0641   ////      0711  LEA  C   RSP  025-172   VI/2                  
+
+6210       0802   ////      0826  LEA  C   RSP  025-180   VI/1                  
+6210 +     0805   ////      0809  SVI  C   RSP  025-075   III/1                 
+
+6220       1021   ////      1030  SVI  C   RSP  025-075   III/1                 
+
+6230 +     1103   ////      1105  SVI  C   RSP  025-083   III/2                 
+6230       1104   1104      1104  SVI  G   RBR  245       180                   
+
+6240 +     1153   ////      1154  SAG  C   RSP  025-058   III/1                 
+
+6400      A1332   ////     A0538  SVI  3   DSF  N48E16    9                     
+
+6250 +     1350   ////      1351  SAG  C   RSP  025-121   III/1                 
+
+6260       1654   ////      1655  SAG  C   RSP  025-180   III/1                 
+
+6270       1727   ////      1728  SAG  C   RSP  025-086   III/1                 
+
+6280 +     2121   2129      2159  G15  5   XRA  1-8A      C1.2    2.2E-03   1183
+
+6290 +     2357   ////      2357  LEA  C   RSP  049-180   III/1                 

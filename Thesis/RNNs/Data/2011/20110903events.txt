@@ -1,0 +1,86 @@
+:Product: 20110903events.txt
+:Created: 2011 Sep 06 0332 UT
+:Date: 2011 09 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Sep 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7230 +     0105   0106      0114  COM  3   FLA  N19W66    SF                1286
+
+7240       0244   ////      0244  LEA  C   RSP  025-082   III/1                 
+
+7250 +     0319   0322      0325  G15  5   XRA  1-8A      C1.0    2.3E-04   1286
+7250 +     0321   0322      0325  COM  3   FLA  N20W67    SF                1286
+
+7260 +     0558   0600      0607  COM  3   FLA  N19W68    SF      ERU       1286
+
+7320 +    B0601  U0603      0620  COM  3   FLA  N18W67    SF                1286
+
+7270       0747   0756      0804  G15  5   XRA  1-8A      C2.4    1.6E-03   1281
+7270       0751   0754      0802  LEA  3   FLA  S21W01    SF      ERU       1281
+
+7280 +     0819   ////      0820  SVI  C   RSP  025-082   III/1                 
+
+7290 +     0821   0827      0834  COM  3   FLA  N20W69    SF                1286
+
+7300       0856   0859      0905  G15  5   XRA  1-8A      B8.4    3.1E-04   1281
+
+7310       0917   ////      0941  SVI  C   RSP  025-045   VI/1                  
+
+7330       1056   ////      1334  SVI  C   RSP  025-180   VI/2                  
+
+7340       1249   ////      1335  SAG  C   RSP  025-180   VI/2                  
+
+7350 +     1344   1345      1430  COM  3   FLA  N16W74    SF      ERU       1286
+7350 +     1357   1412      1425  G15  5   XRA  1-8A      C1.0    1.5E-03   1286
+
+7430       1405   1406      1412  HOL  3   FLA  S18W05    SF      DSD       1281
+
+7350 +     1407   ////      1502  SAG  C   RSP  025-109   VI/2              1286
+
+7360 +     1451   1500      1506  COM  3   FLA  N17W74    SF      DSD       1286
+7360       1502   ////      1502  SVI  C   RSP  025-058   III/1             1286
+
+7370 +     1539   ////      2105  SAG  C   RSP  025-180   VI/1              1280
+7370       1541   1549      1555  HOL  3   FLA  N16W75    SF      ERU       1280
+
+7440       1605   1608      1611  HOL  3   FLA  N16W75    SF      DSD       1280
+
+7420       1613   1616      1621  HOL  3   FLA  N16W75    SF      DSD       1280
+
+7410       1637   1641      1647  HOL  3   FLA  S19W07    SF      DSD       1281
+
+7380       1645   1649      1701  HOL  3   FLA  N18W76    SF                1280
+7380       1650   1650      1650  SAG  G   RBR  410       100               1280
+
+7390       1729   ////      1730  PAL  C   RSP  025-180   III/1                 
+
+7400 +     1732   1736      1739  G15  5   XRA  1-8A      C2.5    5.3E-04   1286
+7400 +     1736   1736      1739  COM  3   FLA  N17W76    SF                1286
+
+7450       1842   1846      1849  G15  5   XRA  1-8A      C1.2    3.4E-04   1286
+
+7460       1906   ////      1911  PAL  C   RSP  025-080   III/2             1280
+7460       1907   1908      1931  HOL  3   FLA  N17W77    SF                1280
+
+7470       1942   ////      1942  PAL  C   RSP  025-061   III/1                 
+
+7480 +     2004   2010      2017  G15  5   XRA  1-8A      C1.2    7.5E-04   1281
+7480 +     2004   2009      2014  COM  3   FLA  N17W76    SF      ERU       1281
+7480       2009   ////      2009  PAL  C   RSP  025-055   III/1             1281
+
+7490       2027   ////      2028  PAL  C   RSP  025-180   III/2                 
+
+7500       2104   ////      2104  PAL  C   RSP  025-054   III/2                 
+
+7530 +     2202   2205     A2235  COM  3   FLA  N17W78    SF                1286
+
+7510       2208   2212      2214  G15  5   XRA  1-8A      C1.6    3.4E-04   1287
+
+7520       2302   2308      2311  G15  5   XRA  1-8A      C1.7    6.1E-04   1286

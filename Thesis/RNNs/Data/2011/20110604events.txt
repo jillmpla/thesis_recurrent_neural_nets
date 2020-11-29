@@ -1,0 +1,19 @@
+:Product: 20110604events.txt
+:Created: 2011 Jun 07 0332 UT
+:Date: 2011 06 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jun 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3530 +     1545   1553      1606  G15  5   XRA  1-8A      B6.2    6.3E-04   1226
+3530       1548  U1556     A1608  SVI  3   FLA  S22W19    SF                1226
+
+3560      A1611   ////     B0630  SVI  3   DSF  N36E46    17                    
+
+3540       1632   1647      1700  G15  5   XRA  1-8A      B7.8    1.0E-03   1228

@@ -1,0 +1,44 @@
+:Product: 20111217events.txt
+:Created: 2011 Dec 20 0332 UT
+:Date: 2011 12 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Dec 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 660 +     0449   0501      0508  G15  5   XRA  1-8A      C1.2    9.4E-04   1376
+
+ 670 +     0848   ////      0849  SVI  C   RSP  074-180   III/1                 
+ 670 +     0849   0849      0849  SVI  G   RBR  245       210                   
+
+ 680 +     1003   1003      1003  SVI  G   RBR  245       250                   
+ 680       1003   1003      1003  SVI  G   RBR  410       210                   
+
+ 690       1003   1003      1003  LEA  G   RBR  410       120                   
+
+ 700       1700   ////      1701  SAG  C   RSP  041-180   III/1                 
+ 700       1700   1700      1701  SAG  G   RBR  245       160                   
+
+ 710       1717   1717      1718  SAG  G   RBR  245       400                   
+ 710       1717   ////      1718  SAG  C   RSP  053-180   III/1                 
+
+ 720       1839   ////      1842  SAG  C   RSP  025-105   III/1                 
+
+ 730       2135   2138      2140  G15  5   XRA  1-8A      B4.3    7.1E-05       
+
+ 760       2247   2255      2258  G15  5   XRA  1-8A      C3.2    1.0E-03   1376
+
+ 740 +     2249   ////      2251  LEA  C   RSP  025-180   III/2                 
+ 740       2249   2249      2249  LEA  G   RBR  410       230                   
+
+ 750       2249   2249      2249  LEA  G   RBR  245       280                   
+
+ 760       2250   2254      2302  LEA  3   FLA  N19W03    SN      DSD       1376
+ 760 +     2254   2254      2254  PAL  G   RBR  410       160               1376
+
+ 770 +     2337   2344      2349  G15  5   XRA  1-8A      C1.2    6.6E-04   1381

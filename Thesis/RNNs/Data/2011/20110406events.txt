@@ -1,0 +1,26 @@
+:Product: 20110406events.txt
+:Created: 2011 Apr 09 0332 UT
+:Date: 2011 04 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Apr 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7060       0236   ////      0236  CUL  C   RSP  020-090   III/1                 
+
+7070       0314   ////      0314  CUL  C   RSP  020-090   III/1                 
+
+7080 +     1546   1549      1552  G15  5   XRA  1-8A      B9.6    2.1E-04   1185
+
+7110       1614   1623      1635  G15  5   XRA  1-8A      C1.2    1.4E-03       
+
+7120 +     1712   1720      1730  G15  5   XRA  1-8A      B9.4    9.9E-04   1185
+
+7090       1752   1807      1829  G15  5   XRA  1-8A      C1.9    3.4E-03       
+
+7100       2135   2145      2154  G15  5   XRA  1-8A      C1.4    1.3E-03       

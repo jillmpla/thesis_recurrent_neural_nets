@@ -1,0 +1,35 @@
+:Product: 20110820events.txt
+:Created: 2011 Aug 23 0332 UT
+:Date: 2011 08 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Aug 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5310       0429   0432      0435  G15  5   XRA  1-8A      B5.5    1.1E-04   1272
+5310       0432   0434      0437  LEA  3   FLA  S22E29    SF                1272
+
+5320       0752   0758      0805  G15  5   XRA  1-8A      B3.9    2.4E-04   1271
+5320       0754   0754      0754  LEA  G   RBR  610       100                   
+
+5330       0921   0924      0926  G15  5   XRA  1-8A      B7.4    1.1E-04   1271
+
+5340       1157   1201      1203  G15  5   XRA  1-8A      B5.7    1.1E-04       
+
+5350 +     1225   1236      1250  G15  5   XRA  1-8A      B8.4    9.6E-04   1272
+
+5360       1805   1808      1811  G15  5   XRA  1-8A      B3.9    8.7E-05   1271
+5360       1807   1808      1824  HOL  3   FLA  N16E15    SF      ERU       1271
+
+5370       1839   1844      1848  G15  5   XRA  1-8A      B7.1    2.3E-04       
+
+5380       2011   2016      2018  G15  5   XRA  1-8A      B8.5    1.8E-04   1271
+5380       2015   2017      2023  HOL  3   FLA  N16E12    SF      ERU       1271
+
+5390       2254   2258      2300  G15  5   XRA  1-8A      C2.9    4.6E-04   1271
+5390       2256   2259      2313  HOL  3   FLA  N16E10    SF      ERU       1271

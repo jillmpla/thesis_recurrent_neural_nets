@@ -1,0 +1,24 @@
+:Product: 20110205events.txt
+:Created: 2011 Feb 08 0332 UT
+:Date: 2011 02 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Feb 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5540 +     0003   0007      0011  G15  5   XRA  1-8A      B3.6    1.0E-04   1152
+
+5550       1045   1047      1049  SVI  3   FLA  S19W09    SF      ERU       1152
+
+5560       1112   1113      1116  SVI  3   FLA  S19W09    SF      ERU       1152
+
+5570       1132   1139      1141  SVI  3   FLA  S18W10    SF      ERU       1152
+
+5580       1153   1153      1156  SVI  3   FLA  N15W25    SF      ERU       1153
+
+5590       1201   1201      1203  SVI  3   FLA  N15W26    SF      ERU       1153

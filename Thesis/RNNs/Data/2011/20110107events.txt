@@ -1,0 +1,18 @@
+:Product: 20110107events.txt
+:Created: 2011 Jan 10 0332 UT
+:Date: 2011 01 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jan 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3020       0001   0006      0009  G15  5   XRA  1-8A      B1.2    4.2E-05   1139
+
+3030       0659   0705      0714  G15  5   XRA  1-8A      B1.7    1.2E-04   1141
+
+3040       1512   1520      1534  G15  5   XRA  1-8A      B5.1    4.6E-04       

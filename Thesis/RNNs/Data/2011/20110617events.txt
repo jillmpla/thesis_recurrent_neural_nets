@@ -1,0 +1,61 @@
+:Product: 20110617events.txt
+:Created: 2011 Jun 20 0332 UT
+:Date: 2011 06 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jun 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4530 +     0018   ////      0025  LEA  C   RSP  025-180   III/1                 
+
+4540       0023   0023      0023  PAL  G   RBR  245       110                   
+
+4550       0025   0025      0025  LEA  G   RBR  245       120                   
+
+4560       0237   0241      0244  G15  5   XRA  1-8A      B6.0    1.6E-04   1236
+
+4570 +     0458   ////      0458  LEA  C   RSP  025-097   III/1                 
+
+4580 +     0620   ////      0620  SVI  C   RSP  038-056   III/1                 
+
+4590 +     0641   0646      0654  G15  5   XRA  1-8A      B7.4    4.5E-04   1237
+
+4640      A0841   ////     A1157  SVI  3   DSF  S16W71    14                    
+
+4600       1128   ////      1129  SVI  C   RSP  025-082   III/1                 
+4600       1128   ////      1155  SAG  C   RSP  025-080   VI/1                  
+
+4610       1154   ////      1155  SVI  C   RSP  025-083   III/1                 
+
+4620 +     1259   ////      1302  SVI  C   RSP  025-071   III/1                 
+
+4630 +     1336   ////      1338  SVI  C   RSP  025-083   III/1                 
+
+4780       1418   ////     B1843  COM  3   EPL  ////      31      0.9A          
+
+4650 +     1425   ////      1426  SVI  C   RSP  025-079   III/1                 
+
+4660       1517   1520      1531  SVI  3   FLA  S15W47    SF      ERU       1234
+
+4670 +     1607   1610      1612  G15  5   XRA  1-8A      B5.1    8.3E-05   1234
+
+4680 +     1705   1740      1756  G15  5   XRA  1-8A      B6.9    1.5E-03   1237
+
+4710 +     2018   ////      2018  PAL  C   RSP  025-075   III/1                 
+
+4720 +     2154   ////      2154  PAL  C   RSP  025-076   III/1                 
+
+4730       2158   2210      2221  G15  5   XRA  1-8A      C1.1    1.2E-03   1234
+4730       2205   2214      2216  HOL  3   FLA  S16W48    SF      ERU       1234
+
+4740 +     2232   2235      2238  G15  5   XRA  1-8A      B7.9    1.8E-04   1234
+
+4750 +     2259   2313      2318  G15  5   XRA  1-8A      C1.4    9.5E-04   1234
+
+4760       2337   2342      2349  G15  5   XRA  1-8A      C3.9    1.8E-03   1234
+4760       2345  U2345      2355  LEA  2   FLA  S15W46    SN                1234

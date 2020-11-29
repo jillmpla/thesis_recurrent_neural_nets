@@ -1,0 +1,61 @@
+:Product: 20111120events.txt
+:Created: 2011 Nov 23 0332 UT
+:Date: 2011 11 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Nov 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6680       0459   0509      0516  G15  5   XRA  1-8A      C1.7    1.3E-03       
+6680 +     0500   ////      0503  CUL  C   RSP  023-400   III/1                 
+
+6690 +     0605   0626      0650  G15  5   XRA  1-8A      C2.1    4.7E-03   1354
+6690 +     0635   ////      0635  CUL  C   RSP  030-150   III/1             1354
+
+6700 +     0716   0722      0727  G15  5   XRA  1-8A      C1.8    8.8E-04   1357
+6700 +     0717   ////      0719  CUL  C   RSP  020-170   III/1             1357
+6700 +     0718   0719      0726  SVI  3   FLA  N18W08    SF      ERU       1357
+
+6710       0734   0741      0747  G15  5   XRA  1-8A      C4.8    2.5E-03   1354
+6710 +     0737   0739      0751  SVI  3   FLA  S17E42    SF      ERU       1354
+
+6850       0755   ////      0755  CUL  C   RSP  023-090   III/1                 
+
+6720 +     0755   ////      0758  LEA  C   RSP  041-153   III/1                 
+
+6730 +     0855   ////      0856  SVI  C   RSP  033-082   III/1                 
+
+6740       0915   ////      1001  SVI  C   RSP  033-153   VI/1                  
+6740       0932   ////      0932  LEA  C   RSP  071-141   III/1                 
+
+6750       1035   ////      1035  SVI  C   RSP  075-151   III/1                 
+
+6760       1145   1155      1204  G15  5   XRA  1-8A      C3.0    2.5E-03   1354
+6760       1147   1149      1210  SVI  3   FLA  S14E41    1F      ERU       1354
+
+6770       1236   ////      1236  SVI  C   RSP  039-083   III/1                 
+
+6780       1328   1332      1335  G15  5   XRA  1-8A      C1.8    4.8E-04   1356
+6780       1329   1332      1341  SVI  3   FLA  N17E77    SF                1356
+
+6790 +     1410   ////      1412  SAG  C   RSP  025-180   III/1                 
+
+6800       1521   1527      1534  G15  5   XRA  1-8A      C1.2    7.3E-04       
+
+6810       1611   1615      1619  G15  5   XRA  1-8A      C1.0    3.4E-04   1354
+6810       1614   1615      1618  HOL  3   FLA  S16E39    SF                1354
+
+6820       1633   ////      1634  SAG  C   RSP  025-180   III/1                 
+
+6830       1635   1647      1707  G15  5   XRA  1-8A      C6.1    8.1E-03   1354
+6830       1638   1642      1729  HOL  3   FLA  S15E38    1F      ERU       1354
+
+6840       1754   1757      1800  G15  5   XRA  1-8A      C1.4    3.0E-04       
+
+6860 +     2259   2305      2313  G15  5   XRA  1-8A      C2.1    1.2E-03   1354
+6860       2312   ////      0530  SOH  3   CME  ////      028-027B791       1354

@@ -1,0 +1,35 @@
+:Product: 20110211events.txt
+:Created: 2011 Feb 14 0332 UT
+:Date: 2011 02 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Feb 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6010      A0011   ////     A1630  HOL  3   DSF  N40W01    10                    
+
+5940       0356   0401      0407  G15  5   XRA  1-8A      B3.1    1.5E-04       
+
+5950       0449   0449      0449  LEA  G   RBR  245       200                   
+
+5960 +     0758   0813      0836  G15  5   XRA  1-8A      B9.0    1.5E-03   1153
+
+5990 +     1415   ////      1416  SVI  C   RSP  025-084   III/1                 
+
+6000       1528   ////      1529  SVI  U   RSP  033-046   III/1                 
+
+6030       2030   2157      2227  G13  5   XRA  1-8A      B5.0    1.4E-03       
+
+6040       2131   2157      2222  G15  5   XRA  1-8A      B8.1    1.7E-03       
+
+6020       2146   ////      2152  PAL  C   RSP  027-114   II/2    1977          
+
+6040       2154   ////      2158  PAL  C   RSP  025-121   III/1                 
+6040       2205   ////      2208  PAL  C   RSP  025-047   V/1                   
+
+6050 +     2305   2312      2319  G15  5   XRA  1-8A      B9.6    5.5E-04       

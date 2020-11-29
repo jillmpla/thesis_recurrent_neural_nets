@@ -1,0 +1,24 @@
+:Product: 20110409events.txt
+:Created: 2011 Apr 12 0332 UT
+:Date: 2011 04 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Apr 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7180       0040   0050      0100  G15  5   XRA  1-8A      B8.0    7.4E-04   1185
+7180 +     0043   0044      0054  LEA  3   FLA  N17E18    SF      ERU       1185
+
+7190       0157   0202      0206  G15  5   XRA  1-8A      B4.2    2.2E-04   1184
+7190       0200   0203      0210  LEA  2   FLA  N15W69    SF                1184
+
+7200 +     0357   0400      0403  G15  5   XRA  1-8A      B4.4    9.4E-05   1184
+
+7210 +     1448   1545      1558  G15  5   XRA  1-8A      C1.3    3.4E-03   1184
+
+7220 +     2301   2304      2308  G15  5   XRA  1-8A      B5.0    1.4E-04   1186

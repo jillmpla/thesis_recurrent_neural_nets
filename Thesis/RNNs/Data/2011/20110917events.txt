@@ -1,0 +1,60 @@
+:Product: 20110917events.txt
+:Created: 2011 Sep 20 0332 UT
+:Date: 2011 09 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Sep 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1030 +     0000   ////      1001  LEA  C   RSP  030-152   CTM/1                 
+1030       0000   ////      0157  LEA  C   RSP  025-180   VI/1                  
+
+1040       0000   ////      0000  PAL  C   RSP  025-115   III/1                 
+
+1030       0000   ////      0306  PAL  U   RSP  034-154   III/1                 
+
+1050       0013   0015      0017  LEA  G   RBR  245       100                   
+
+1060       0021   ////      0021  PAL  C   RSP  025-180   III/1                 
+
+1070       0046   0046      0047  LEA  G   RBR  245       150                   
+
+1080       0049   0049      0049  LEA  G   RBR  245       140                   
+
+1090 +     0107   0107      0107  PAL  G   RBR  245       100                   
+
+1100       0126   0126      0126  PAL  G   RBR  245       120                   
+
+1130       0447   ////      1024  SVI  C   RSP  057-180   CTM/1                 
+
+1110       0603   0606      0617  SVI  3   FLA  S20E11    SF      ERU       1299
+
+1120       0805   0808      0810  G15  5   XRA  1-8A      C1.4    2.1E-04   1290
+1120       0807   0807      0807  SVI  G   RBR  410       170                   
+1120 +     0807   ////      0807  SVI  C   RSP  025-082   III/1                 
+
+1140 +     0934   0934      0934  SVI  G   RBR  610       200                   
+
+1150 +     0949   ////      0950  SVI  C   RSP  025-158   III/1                 
+
+1160       1047   1050      1052  G15  5   XRA  1-8A      C1.1    1.8E-04       
+
+1170 +     1118   ////      1119  SAG  C   RSP  025-180   III/1                 
+
+1180 +     1124   ////      1314  SAG  C   RSP  102-180   CTM/1                 
+
+1190       1245   1245      1245  SVI  G   RBR  245       170                   
+1190       1245   1245      1245  SVI  G   RBR  410       120                   
+
+1200 +     1516   1518      1525  SVI  3   FLA  N25E20    SF                1295
+
+1210 +     1630   ////      1630  SAG  C   RSP  025-083   III/1                 
+
+1220 +     2243   ////      2243  PAL  C   RSP  025-180   III/1                 
+
+1230 +     2317   ////      2317  PAL  C   RSP  025-111   III/1                 

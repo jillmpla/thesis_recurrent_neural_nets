@@ -1,0 +1,91 @@
+:Product: 20110717events.txt
+:Created: 2011 Jul 20 0332 UT
+:Date: 2011 07 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jul 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8830       0308   ////      0308  CUL  C   RSP  020-080   III/1                 
+
+8550       0441   ////      0538  SVI  C   RSP  113-180   CTM/1                 
+
+8530 +     0442   ////      0442  SVI  C   RSP  025-046   III/1                 
+
+8540 +     0453   0453      0459  SVI  3   FLA  S22E34    SF                1254
+
+8550 +     0509   ////      0515  CUL  C   RSP  020-160   III/1                 
+
+8560 +     0609   ////      0609  CUL  C   RSP  020-060   III/1                 
+
+8570       0733   0735      0754  SVI  3   FLA  N20W46    SF      ERU       1257
+8570 +     0749   ////      0749  SVI  C   RSP  025-081   III/1                 
+8570       0752   0822      0828  G15  5   XRA  1-8A      B4.9    8.0E-04   1257
+
+8580       0807   0821      0844  SVI  3   FLA  N20W48    SF      ERU       1257
+
+8590       0909   0915      0923  SVI  3   FLA  N20W47    SF      ERU       1257
+8590 +     0917   ////      0920  SVI  C   RSP  025-058   III/1             1257
+
+8600       0934   0942      0954  SVI  3   FLA  N20W47    SF      ERU       1257
+
+8630       0950   0952      0957  SVI  3   FLA  S22E33    SF      ERU       1254
+
+8610       0955   1002      1008  SVI  3   FLA  N20W47    SF      ERU       1257
+
+8620       1019   1030      1042  SVI  3   FLA  N20W48    SF      ERU       1257
+8620       1026   1029      1032  G15  5   XRA  1-8A      B3.5    7.9E-05   1257
+
+8660       1031   1034      1046  SVI  3   FLA  S22E32    SF      ERU       1254
+
+8640       1042   1043      1047  SVI  3   FLA  N20W48    SF      ERU       1257
+
+8650       1053   1054      1057  SVI  3   FLA  S22E32    SF      ERU       1254
+
+8680       1053   1059      1115  SVI  3   FLA  N20W48    SF      ERU       1257
+
+8670       1107   1108      1110  SVI  3   FLA  S22E32    SF      ERU       1254
+
+8700       1122   1124      1133  SVI  3   FLA  N20W48    SF      ERU       1257
+
+8710       1124   1125      1131  SVI  3   FLA  S23E32    SF      ERU       1254
+
+8690       1128   1132      1136  G15  5   XRA  1-8A      B4.1    1.4E-04   1257
+8690       1134   1137      1143  SVI  3   FLA  N20W48    SF      ERU       1257
+
+8970       1147   1149      1155  SVI  3   FLA  N20W48    SF      ERU       1257
+
+8730       1156   1156      1204  SVI  3   FLA  N20W50    SF      ERU       1257
+
+8740 +     1210   ////      1212  SVI  C   RSP  025-155   III/1             1257
+8740       1211   1218      1225  SVI  3   FLA  N20W49    SF      ERU       1257
+
+8750       1228   1326      1348  SVI  3   FLA  N19W51    SF      ERU       1257
+
+8760       1349   1352      1408  SVI  3   FLA  N19W52    SF      ERU       1257
+8760 +     1353   ////      1353  SAG  C   RSP  025-054   III/1             1257
+
+8920       1409   1413      1416  SVI  3   FLA  N19W51    SF      ERU       1257
+
+8770       1409   1431      1440  SVI  3   FLA  N21E07    SF      ERU       1252
+
+8780       1417   1504      1613  SVI  3   FLA  N20W50    SF      ERU       1257
+
+8790       1601   1603      1609  HOL  3   FLA  N19W52    SF      ERU       1257
+8790 +     1604   ////      1613  SVI  C   RSP  025-083   III/1             1257
+
+8800       1635   1636      1645  HOL  3   FLA  N20W51    SF                1257
+
+8810       1852   1926      1946  G15  5   XRA  1-8A      B7.9    1.8E-03   1257
+
+8820       1959   ////      1959  PAL  C   RSP  025-066   III/1                 
+
+8840       2125   ////      2125  CUL  C   RSP  040-180   III/1                 
+
+8850       2125   ////      2223  PAL  C   RSP  025-180   VI/1                  
+8850 +     2223   ////      2223  CUL  C   RSP  018-180   III/2                 

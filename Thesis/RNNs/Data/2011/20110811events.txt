@@ -1,0 +1,43 @@
+:Product: 20110811events.txt
+:Created: 2011 Aug 14 0332 UT
+:Date: 2011 08 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Aug 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4560 +     0009   ////      0010  CUL  C   RSP  018-160   III/3                 
+
+4570 +     0121   ////      0121  CUL  C   RSP  018-070   III/1                 
+
+4580       0229   ////      0251  LEA  C   RSP  025-050   VI/1                  
+4580 +     0230   ////      0231  CUL  C   RSP  020-080   III/1                 
+
+4590 +     0340   ////      0341  CUL  C   RSP  018-090   III/1                 
+
+4600       0416   0426      0437  G15  5   XRA  1-8A      B6.9    7.1E-04       
+4600       0429   ////      0430  CUL  C   RSP  020-090   III/1                 
+
+4610 +     0457   ////      0457  LEA  C   RSP  025-105   III/1                 
+
+4620 +     0539   ////      0541  CUL  C   RSP  018-150   III/2                 
+
+4630       0611   ////      0649  SVI  C   RSP  025-062   VI/1                  
+4630 +     0637   ////      0637  CUL  C   RSP  020-080   III/1                 
+
+4640       0739   0746      0754  G15  5   XRA  1-8A      C1.3    8.5E-04   1263
+
+4650       0934   1023      1036  G15  5   XRA  1-8A      C6.2    1.4E-02   1263
+4650 +     1012   ////      1018  SVI  C   RSP  025-180   III/2                 
+4650 +     1022   ////      1048  SVI  U   RSP  025-156   CTM/1                 
+
+4660 +     1506   ////      1506  SVI  C   RSP  025-083   III/1                 
+
+4720      A2137   ////     A1501  HOL  3   DSF  N46E48    12                    
+
+4670 +     2254   2309      2324  G15  5   XRA  1-8A      B6.8    9.4E-04   1266

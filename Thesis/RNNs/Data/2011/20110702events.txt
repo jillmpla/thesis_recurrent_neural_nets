@@ -1,0 +1,23 @@
+:Product: 20110702events.txt
+:Created: 2011 Jul 05 0332 UT
+:Date: 2011 07 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jul 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6300 +     1117   1121      1125  G15  5   XRA  1-8A      B1.7    5.6E-05   1242
+
+6310       1237   ////      1238  SAG  U   RSP  025-070   III/1                 
+
+6320 +     1537   ////      1601  SVI  C   RSP  025-085   VI/1                  
+
+6330 +     2147   ////      2150  PAL  C   RSP  025-180   III/1                 
+
+6340       2306   2310      2313  G15  5   XRA  1-8A      B3.7    9.1E-05   1244
+6340       2308   2310      2325  HOL  3   FLA  N16W23    SF      BPT       1244

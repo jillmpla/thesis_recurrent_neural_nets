@@ -1,0 +1,44 @@
+:Product: 20110226events.txt
+:Created: 2011 Mar 01 0332 UT
+:Date: 2011 02 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Feb 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9740       0005   ////      0200  LEA  C   RSP  025-180   VI/1                  
+
+9800       0006   0006      0006  LEA  G   RBR  245       120                   
+
+9730 +     0007   0010      0012  G15  5   XRA  1-8A      B4.3    7.0E-05   1164
+
+9740       0010   0010      0010  LEA  G   RBR  245       270                   
+
+9750 +     0054   0059      0103  G15  5   XRA  1-8A      B9.0    2.9E-04   1163
+
+9760 +     0118   0121      0123  G15  5   XRA  1-8A      B4.6    7.5E-05   1164
+
+9770       0247   0247      0247  LEA  U   RBR  245       230                   
+
+9780       0323   0323      0323  LEA  U   RBR  410       330                   
+
+9810 +     0503   0520      0539  G15  5   XRA  1-8A      B8.9    1.5E-03   1164
+
+9830 +     0732   0735      0738  G15  5   XRA  1-8A      B4.5    9.9E-05   1164
+
+9840 +     0809   0813      0815  G15  5   XRA  1-8A      C1.3    2.7E-04   1164
+
+9850 +     0935   0939      0943  G15  5   XRA  1-8A      B3.7    1.3E-04   1164
+
+9860       1434   1615      1642  G15  5   XRA  1-8A      B8.3    4.7E-03   1163
+
+9870 +     1920   1924      1926  G15  5   XRA  1-8A      B3.9    8.1E-05   1164
+
+9880 +     2046   2050      2052  G15  5   XRA  1-8A      B4.3    8.5E-05   1163
+
+9890 +     2323   2330      2341  G15  5   XRA  1-8A      B5.7    4.7E-04   1164

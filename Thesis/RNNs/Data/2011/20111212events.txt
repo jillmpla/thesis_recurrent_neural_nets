@@ -1,0 +1,86 @@
+:Product: 20111212events.txt
+:Created: 2011 Dec 15 0332 UT
+:Date: 2011 12 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Dec 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9730 +     0021   ////      0023  LEA  C   RSP  025-180   III/2                 
+9730 +     0021   0022      0022  LEA  G   RBR  245       230                   
+
+9740 +     0124   ////      0125  LEA  C   RSP  025-180   III/1                 
+
+9750 +     0124   0124      0124  LEA  G   RBR  245       200                   
+
+9760       0238   0238      0238  LEA  G   RBR  245       100                   
+
+9770       0403   ////      0406  LEA  C   RSP  025-180   III/2             1374
+9770       0405   0405      0405  LEA  G   RBR  245       510               1374
+9770       0406   0406      0410  LEA  3   FLA  S20E25    SF      ERU       1374
+
+9780       0437   ////      0443  LEA  C   RSP  025-180   III/1                 
+
+9790       0556   ////      0611  LEA  C   RSP  025-180   VI/1                  
+
+9800 +     0655   ////      0711  LEA  C   RSP  039-114   VI/1                  
+
+9810       0830   0837      0847  G15  5   XRA  1-8A      C1.2    1.0E-03   1374
+9810 +     0833   0834     A0855  LEA  3   FLA  S15E26    SF                1374
+
+9900       0907   ////      0938  LEA  C   RSP  025-180   VI/2                  
+
+9820 +     0911   0911      0912  SVI  G   RBR  245       180                   
+9820       0911   ////      0916  SVI  C   RSP  025-135   III/1                 
+
+9910       0933   ////      0938  SVI  C   RSP  025-180   III/2                 
+
+9920       0934   0934      0934  LEA  G   RBR  245       110                   
+
+9930 +     0936   0938      0938  SVI  G   RBR  245       700                   
+9930       0937   0938      0938  SVI  G   RBR  410       130                   
+
+9830       1008   1013      1017  G15  5   XRA  1-8A      B9.2    3.6E-04       
+
+9840 +     1022   ////      1023  SVI  C   RSP  025-180   III/2                 
+9840 +     1022   1022      1022  SVI  G   RBR  245       100                   
+
+9850       1231   1231      1231  SVI  G   RBR  245       3500                  
+
+9860       1335   1340      1345  G15  5   XRA  1-8A      B8.0    3.5E-04       
+
+9870 +     1430   ////      1431  SVI  C   RSP  025-083   III/1                 
+
+9880       1547   1547      1547  SAG  G   RBR  245       140                   
+
+9890 +     1748   1748      1748  SAG  G   RBR  410       130                   
+
+9970       1850   ////      1901  SAG  C   RSP  025-180   VI/1                  
+
+9940       1855   1859      1902  G15  5   XRA  1-8A      B9.3    2.5E-04       
+9940 +     1856   ////      1858  SAG  C   RSP  025-180   III/1                 
+9940       1856   1856      1856  PAL  G   RBR  245       100                   
+9940       1857   1857      1857  PAL  G   RBR  410       160                   
+
+9980 +     1901   1901      1901  SAG  G   RBR  245       110                   
+
+9950 +     2001   2001      2002  PAL  G   RBR  245       1100                  
+9950 +     2001   2001      2002  PAL  G   RBR  410       400                   
+9950 +     2001   ////      2003  PAL  C   RSP  025-180   III/2                 
+
+9960       2036   2042      2054  G15  5   XRA  1-8A      B8.6    7.7E-04       
+
+9990       2124   ////      2125  PAL  C   RSP  025-180   III/1                 
+
+  10       2254   2256      2300  LEA  3   FLA  S18W71    SF                1367
+  10 +     2258   ////      2258  LEA  C   RSP  025-109   III/2             1367
+  10 +     2258   2258      2258  PAL  G   RBR  410       240               1367
+
+  20       2331   2339      2352  G15  5   XRA  1-8A      C1.7    1.7E-03   1367
+  20       2350   2350      2356  LEA  3   FLA  S20W73    SF                1367
+  20       2352   ////      2353  LEA  C   RSP  025-070   III/1                 

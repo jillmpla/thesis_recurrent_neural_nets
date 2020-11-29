@@ -1,0 +1,47 @@
+:Product: 20111207events.txt
+:Created: 2011 Dec 10 0332 UT
+:Date: 2011 12 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Dec 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8670 +     0051   0052      0052  LEA  G   RBR  245       450                   
+
+8680       0346   ////      0346  CUL  C   RSP  035-150   III/1                 
+
+8780       0437   ////      0438  CUL  C   RSP  020-100   III/1                 
+
+8690       0539   0539      0542  LEA  3   FLA  N10E27    SF                    
+
+8700       0555   0605      0620  G15  5   XRA  1-8A      C1.9    2.2E-03       
+
+8790       0730   ////      0730  CUL  C   RSP  035-090   III/1                 
+
+8800       0734   ////      0735  CUL  C   RSP  020-120   III/1                 
+
+8810       0751   ////      0751  CUL  C   RSP  030-070   III/1                 
+
+8710 +     0900   ////      0901  LEA  C   RSP  025-075   III/1                 
+
+8720       0906   0912      0917  G15  5   XRA  1-8A      B8.8    4.3E-04       
+
+8730       0933   ////      0933  SVI  C   RSP  030-054   III/1                 
+
+8910       0936   ////      1554  SOH  4   CME  ////      289-288B586           
+
+8740       1534   1539      1545  G15  5   XRA  1-8A      C1.3    6.7E-04   1364
+8740       1536   1541      1548  HOL  3   FLA  N17W22    SF      ERU       1364
+
+8750       1620   1621      1626  HOL  3   FLA  N17W24    SF      ERU       1364
+
+8760 +     2007   2013      2018  G15  5   XRA  1-8A      C2.7    1.2E-03   1375
+
+8820       2035   ////      2035  CUL  C   RSP  018-120   III/3                 
+
+8770 +     2035   ////      2035  PAL  C   RSP  025-064   III/1                 

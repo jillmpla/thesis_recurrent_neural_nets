@@ -1,0 +1,31 @@
+:Product: 20110508events.txt
+:Created: 2011 May 11 0332 UT
+:Date: 2011 05 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 May 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1400       0201   ////      0201  CUL  C   RSP  020-100   III/1                 
+
+1410       0213   ////      0213  CUL  C   RSP  020-100   III/1                 
+
+1420       0306   ////      0306  CUL  C   RSP  030-180   III/1                 
+
+1430       0318   ////      0318  CUL  C   RSP  020-090   III/1                 
+
+1440       0551   ////      0554  CUL  C   RSP  020-140   III/1                 
+
+1450       0641   ////      0641  CUL  C   RSP  027-150   III/1                 
+
+1390       1001   1008      1013  G15  5   XRA  1-8A      B4.4    2.3E-04   1203
+1390       1005   1008      1023  SVI  3   FLA  N19W39    SF      ERU       1203
+
+1530      A1638   ////     A1247  SVI  3   DSF  S21E08    4                     
+
+1460       2328   ////      2330  CUL  C   RSP  020-200   III/1                 

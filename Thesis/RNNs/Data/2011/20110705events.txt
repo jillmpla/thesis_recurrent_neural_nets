@@ -1,0 +1,57 @@
+:Product: 20110705events.txt
+:Created: 2011 Jul 08 0332 UT
+:Date: 2011 07 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jul 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6840 +     0018   0023      0026  G15  5   XRA  1-8A      B2.9    8.3E-05   1242
+
+6860       0045   0048      0050  G15  5   XRA  1-8A      B1.6    2.6E-05   1243
+6860 +     0048   ////      0051  COM  C   RSP  30-80     III/2             1243
+6860       0048   ////      0339  LEA  C   RSP  025-179   VI/1              1243
+
+6870       0053   0053      0054  LEA  G   RBR  245       120                   
+6870       0054   ////      0054  CUL  C   RSP  050-300   III/1                 
+
+6880       0116   ////      0118  CUL  C   RSP  040-180   III/1                 
+6880       0116   ////      0211  PAL  C   RSP  034-180   VI/1                  
+
+6890       0145   ////      0146  CUL  C   RSP  020-180   III/1                 
+
+6900       0210   ////      0211  CUL  C   RSP  020-170   III/1                 
+
+6910       0304   ////      0306  CUL  C   RSP  025-180   III/1                 
+
+6930 +     0327   0328      0329  COM  G   RBR  245       130                   
+
+6940       0339   ////      0339  CUL  C   RSP  040-180   III/1                 
+
+7040       0447   ////      0448  CUL  C   RSP  040-130   III/1                 
+
+6950       0447   ////      0447  LEA  C   RSP  071-126   III/1                 
+6950       0447   ////      0502  SVI  C   RSP  059-142   VI/1                  
+
+7050       0501   ////      0502  CUL  C   RSP  050-180   III/1                 
+
+6960 +     0616   ////      0616  CUL  C   RSP  018-200   III/1                 
+
+6970       0712   ////      0712  SVI  C   RSP  042-085   III/1                 
+
+6980       0847   ////      0847  SVI  C   RSP  050-083   III/1                 
+
+6990 +     0956   1000      1003  G15  5   XRA  1-8A      B1.8    5.2E-05   1242
+
+7000 +     1054   ////      1056  SVI  C   RSP  025-180   III/2                 
+
+7060       2139   ////      2139  CUL  C   RSP  020-060   III/1                 
+
+7020 +     2139   ////      2139  PAL  C   RSP  025-054   III/1                 
+
+7030 +     2149   2156      2208  G15  5   XRA  1-8A      B2.6    2.4E-04   1243

@@ -1,0 +1,28 @@
+:Product: 20110607events.txt
+:Created: 2011 Jun 10 0332 UT
+:Date: 2011 06 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jun 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3710       0616   0641      0659  G15  5   XRA  1-8A      M2.5    4.4E-02   1226
+3710       0619   0629      0809  LEA  3   FLA  S21W54    2N      PRB       1226
+3710 +     0623   0638      0645  LEA  G   RBR  2695      710               1226
+3710 +     0623   0625      0645  LEA  G   RBR  4995      910               1226
+3710 +     0624   0637      0645  LEA  G   RBR  1415      300               1226
+3710 +     0624   0625      0643  LEA  G   RBR  8800      870               1226
+3710 +     0624   0625      0625  LEA  G   RBR  410       170               1226
+3710       0625   ////      0650  LEA  C   RSP  25-120    II/2              1226
+3710 +     0625   0625      0642  LEA  G   RBR  15400     390               1226
+3710       0625   0633      0644  LEA  G   RBR  245       6400              1226
+3710       0626   ////      0658  LEA  C   RSP  25-180    IV/2              1226
+3710 +     0629   0634      0639  LEA  G   RBR  610       260               1226
+3710      B0649   ////      1231  SOH  4   CME  XUV,EUV,UV252-251/FS996       1226
+
+3720       1055   1102      1105  SVI  3   FLA  N17W39    SF      ERU       1228

@@ -1,0 +1,41 @@
+:Product: 20110601events.txt
+:Created: 2011 Jun 04 0332 UT
+:Date: 2011 06 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jun 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3160       0237   0253      0306  G15  5   XRA  1-8A      C2.6    3.2E-03   1228
+3160       0242   ////      0254  CUL  C   RSP  035-180   III/1             1227
+
+3200 +     0242   0448      0929  LEA  G   RNS  245       140                   
+
+3160       0250   0252      0307  LEA  3   FLA  S18E37    SF      BPT       1227
+
+3170       0352   0352      0352  SVI  G   RBR  245       100                   
+
+3180       0449   0449      0449  PAL  G   RBR  245       130                   
+
+3190 +     0501   0505      0509  G15  5   XRA  1-8A      B7.3    2.4E-04   1229
+
+3210       1159   1159      1159  SAG  G   RBR  245       110                   
+
+3220       1609   1616      1621  G15  5   XRA  1-8A      C1.6    6.9E-04   1226
+3220       1615   1615      1623  HOL  3   FLA  S19E19    SF      ERU       1226
+
+3230       1625   1631      1639  G15  5   XRA  1-8A      C2.9    1.6E-03   1226
+3230       1628   1630      1822  HOL  3   FLA  S19E19    SF      PRB       1226
+3230 +     1633   1633      1634  SAG  G   RBR  610       140               1226
+
+3240 +     1650   1652      1652  SAG  G   RBR  410       590               1226
+3240 +     1650   1652      1655  SAG  G   RBR  610       150               1226
+3240       1651   1708      1734  G15  5   XRA  1-8A      C4.1    8.8E-03   1226
+3240      B1652  U1656     A1807  SVI  3   FLA  S20E20    1F      ERU       1226
+3240       1652   1652      1652  SAG  G   RBR  1415      100               1226
+3240 +     1654   1654      1654  SVI  G   RBR  245       110               1226

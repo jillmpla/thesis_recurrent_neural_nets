@@ -1,0 +1,18 @@
+:Product: 20110723events.txt
+:Created: 2011 Jul 26 0332 UT
+:Date: 2011 07 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jul 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9280       0911   ////      0911  SVI  U   RSP  025-083   III/1                 
+
+9290       1303   1309      1317  G15  5   XRA  1-8A      B4.1    2.6E-04   1260
+
+9300       1445   1449      1453  G15  5   XRA  1-8A      B5.4    1.7E-04   1260

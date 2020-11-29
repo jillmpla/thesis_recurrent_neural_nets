@@ -7,6 +7,42 @@ import Flare_Data
 
 def generate_all_feature_years():
 
+	################creates/loads csv with 2010's feature data##########
+	current_di = os.getcwd()
+	csv_for_2010 = "\\create_2010_features.csv"
+	where_2010 = current_di + csv_for_2010
+
+	if not os.path.exists(where_2010):
+		import to_create_2010
+		to_create_2010.get_2010_Features()
+		df_2010 = pd.read_csv('create_2010_features.csv', index_col=0)
+		df_2010_done = Flare_Data.convert_time_2010(df_2010)
+		Flare_Data.save_some_features(df_2010_done) 
+
+	if os.path.exists(where_2010):
+		df_2010 = pd.read_csv('create_2010_features.csv', index_col=0)
+		df_2010_done = Flare_Data.convert_time_2010(df_2010)
+		Flare_Data.save_some_features(df_2010_done)
+	####################################################################
+
+	################creates/loads csv with 2011's feature data##########
+	current_di = os.getcwd()
+	csv_for_2011 = "\\create_2011_features.csv"
+	where_2011 = current_di + csv_for_2011
+
+	if not os.path.exists(where_2011):
+		import to_create_2011
+		to_create_2011.get_2011_Features()
+		df_2011 = pd.read_csv('create_2011_features.csv', index_col=0)
+		df_2011_done = Flare_Data.convert_time_2011(df_2011)
+		Flare_Data.save_some_features(df_2011_done) 
+
+	if os.path.exists(where_2011):
+		df_2011 = pd.read_csv('create_2011_features.csv', index_col=0)
+		df_2011_done = Flare_Data.convert_time_2011(df_2011)
+		Flare_Data.save_some_features(df_2011_done)
+	####################################################################
+
 	################creates/loads csv with 2012's feature data##########
 	current_di = os.getcwd()
 	csv_for_2012 = "\\create_2012_features.csv"
@@ -77,6 +113,24 @@ def generate_all_feature_years():
 		df_2015 = pd.read_csv('create_2015_features.csv', index_col=0)
 		df_2015_done = Flare_Data.convert_time_2015(df_2015)
 		Flare_Data.save_some_features(df_2015_done)
+	####################################################################
+	
+	################creates/loads csv with 2016's feature data##########
+	current_di = os.getcwd()
+	csv_for_2016 = "\\create_2016_features.csv"
+	where_2016 = current_di + csv_for_2016
+
+	if not os.path.exists(where_2016):
+		import to_create_2016
+		to_create_2016.get_2016_Features()
+		df_2016 = pd.read_csv('create_2016_features.csv', index_col=0)
+		df_2016_done = Flare_Data.convert_time_2016(df_2016)
+		Flare_Data.save_some_features(df_2016_done) 
+
+	if os.path.exists(where_2016):
+		df_2016 = pd.read_csv('create_2016_features.csv', index_col=0)
+		df_2016_done = Flare_Data.convert_time_2016(df_2016)
+		Flare_Data.save_some_features(df_2016_done)
 	####################################################################
 	
 	return (print("CSVs compiled."))

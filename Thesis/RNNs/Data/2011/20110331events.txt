@@ -1,0 +1,58 @@
+:Product: 20110331events.txt
+:Created: 2011 Apr 03 0332 UT
+:Date: 2011 03 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Mar 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6510 +     0157   0202      0207  G15  5   XRA  1-8A      C1.2    5.1E-04   1183
+
+6550 +     0518   0547      0551  LEA  G   RNS  245       160                   
+
+6520 +     0526   0527      0531  LEA  G   RBR  245       160                   
+
+6530       0533   0533      0533  SVI  G   RBR  245       100                   
+
+6540       0533   0535      0538  LEA  G   RBR  245       160                   
+
+6560       0903   ////      0903  SVI  C   RSP  025-042   III/1                 
+
+6570       0925   ////      0927  SVI  C   RSP  025-050   III/1                 
+
+6580       1243   ////      1243  SAG  C   RSP  025-152   III/1                 
+
+6590       1243   ////      1243  SVI  C   RSP  025-045   III/1                 
+
+6600       1405   ////      1434  SAG  C   RSP  025-084   VI/1                  
+
+6630       1509   ////      1542  SAG  C   RSP  025-180   VI/2                  
+
+6610       1509   ////      1510  SVI  C   RSP  025-075   III/1                 
+
+6620 +     1526   1535      1546  G15  5   XRA  1-8A      C2.6    2.1E-03   1176
+6620      B1529   1537      1603  SVI  3   FLA  S16W39    SF      ERU       1176
+6620       1539   ////      1542  SVI  C   RSP  025-075   III/1             1176
+
+6660       2017   ////      2019  CUL  C   RSP  025-120   III/1                 
+
+6670       2033   ////      2033  CUL  C   RSP  025-060   III/1                 
+
+6680       2110   ////      2113  CUL  C   RSP  020-130   III/2                 
+
+6640       2135   2139      2147  G15  5   XRA  1-8A      B7.0    3.8E-04   1176
+6640       2137   2138      2204  HOL  3   FLA  S17W41    SF                1176
+6640       2142   ////      2144  CUL  C   RSP  018-180   III/2             1176
+
+6650       2207   2221      2232  G15  5   XRA  1-8A      C1.6    2.0E-03   1178
+6650       2209   ////      2212  CUL  C   RSP  018-200   III/1             1178
+6650       2210   2216      2244  HOL  3   FLA  S16W22    SF      ERU       1178
+
+6690       2346   ////      2346  CUL  C   RSP  030-090   III/1                 
+
+6700       2355   ////      2355  CUL  C   RSP  025-085   III/1                 

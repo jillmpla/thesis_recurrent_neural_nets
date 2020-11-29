@@ -1,0 +1,36 @@
+:Product: 20110912events.txt
+:Created: 2011 Sep 15 0332 UT
+:Date: 2011 09 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Sep 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9860       0000   ////      0246  LEA  C   RSP  113-180   CTM/1                 
+9860       0021   ////      0021  CUL  C   RSP  020-090   III/1                 
+
+9890       0108   ////      0108  CUL  C   RSP  020-060   III/1                 
+
+9870 +     0222   0226      0230  G15  5   XRA  1-8A      C1.7    5.5E-04   1292
+
+9880 +     0324   0329      0333  G15  5   XRA  1-8A      C2.0    6.6E-04   1292
+
+9900       0827   ////      0827  SVI  C   RSP  025-054   III/1                 
+
+9910       0931   ////      1043  SVI  C   RSP  025-044   VI/1                  
+
+9920 +     1215   1229      1240  G15  5   XRA  1-8A      C2.9    3.6E-03   1295
+9920 +     1238   ////      1247  SAG  C   RSP  025-050   III/1             1295
+
+9930       1319   ////      1319  SVI  C   RSP  025-044   III/1                 
+
+9940 +     2030   2054      2151  G15  5   XRA  1-8A      C9.9    3.1E-02   1295
+
+9950       2155   ////      2155  CUL  C   RSP  020-080   III/1                 
+
+9960       2300   ////      2300  CUL  C   RSP  035-080   III/1                 

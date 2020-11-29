@@ -1,0 +1,33 @@
+:Product: 20110627events.txt
+:Created: 2011 Jun 30 0332 UT
+:Date: 2011 06 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jun 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5740       0349   ////      0349  CUL  C   RSP  020-060   III/1                 
+
+5750       0355   ////      0355  CUL  C   RSP  020-060   III/1                 
+
+5760 +     0444   ////      0447  SVI  C   RSP  025-146   III/1                 
+
+5830       0626   ////      0626  CUL  C   RSP  020-060   III/1                 
+
+5770 +     0630   0633      0637  G15  5   XRA  1-8A      B7.5    1.8E-04   1236
+
+5780 +     0829   ////      0829  LEA  C   RSP  025-110   III/1                 
+
+5790       0839   0840      0843  SVI  3   FLA  N17W35    SF      ERU       1241
+
+5800       0911   ////      0911  SVI  C   RSP  025-066   III/1                 
+
+5810       1213   1216      1220  G15  5   XRA  1-8A      B3.2    8.9E-05   1241
+5810       1214   1214      1227  SVI  3   FLA  N20W35    SF      ERU       1241
+
+5820 +     1528   1542      1616  G15  5   XRA  1-8A      B6.6    1.5E-03   1236

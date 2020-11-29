@@ -1,0 +1,36 @@
+:Product: 20111027events.txt
+:Created: 2011 Oct 30 0332 UT
+:Date: 2011 10 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Oct 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1460 +     0024   0025      0025  LEA  G   RBR  245       140                   
+
+1490       0051   ////      0055  CUL  C   RSP  027-070   III/1                 
+
+1480 +     0053   0102      0110  G15  5   XRA  1-8A      B6.9    5.7E-04   1330
+
+1560       0534   ////      0537  CUL  C   RSP  035-057   III/1                 
+
+1510 +     0607   0633      0809  LEA  G   RNS  245       340                   
+
+1500       0612   ////      1015  LEA  C   RSP  113-180   CTM/1                 
+
+1530       1122   ////      1428  SAG  C   RSP  101-180   III/1                 
+
+1520       1155   1155      1155  SAG  G   RBR  245       100                   
+
+1540 +     1835   ////      1837  PAL  C   RSP  025-180   III/1                 
+
+1550 +     1838   1844      1849  G15  5   XRA  1-8A      C2.6    1.1E-03   1333
+
+1570       1950   ////      2359  PAL  C   RSP  097-180   III/1                 
+
+1580       2208   ////      2359  LEA  C   RSP  075-180   CTM/1                 

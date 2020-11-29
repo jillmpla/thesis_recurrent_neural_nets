@@ -1,0 +1,40 @@
+:Product: 20110621events.txt
+:Created: 2011 Jun 24 0332 UT
+:Date: 2011 06 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jun 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5320       0021   ////      0021  CUL  C   RSP  018-060   III/1                 
+
+5290       0111   ////      0112  PAL  C   RSP  025-077   III/1                 
+
+5300       0122   0325      0427  G15  5   XRA  1-8A      C7.7    4.3E-02   1236
+5300 +    A0149   ////     A0407  COM  3   DSF  N39W01    17                1236
+5300       0210   0314     U0530  LEA  G   RBR  245       70                1236
+5300       0210   0255     U0530  LEA  G   RBR  610       33                1236
+5300       0210   0255     U0530  LEA  G   RBR  1415      32                1236
+5300       0210   0254     U0530  LEA  G   RBR  2695      20                1236
+5300       0210   0345     U0530  LEA  G   RBR  4995      23                1236
+5300       0210   0354     U0530  LEA  G   RBR  8800      46                1236
+5300       0210   0342     U0530  LEA  G   RBR  15400     19                1236
+5300 +     0221   ////      0221  CUL  C   RSP  060-220   III/1             1236
+
+5310       0245   0245      0258  LEA  3   FLA  N16W08    SF                1236
+
+5300 +     0252   ////      0930  LEA  C   RSP  075-180   CTM/1             1236
+5300 +     0259   0345      0430  LEA  3   FLA  N16W08    SF                1236
+5300      B0316   ////      0706  SOH  4   CME  XUV,EUV,UV090-089/FS645       1236
+5300 +     0442   0442      0442  LEA  G   RBR  410       140               1236
+
+5370 +     0825   ////      0825  LEA  C   RSP  025-109   III/1                 
+
+5380 +     0940   ////      0941  SVI  C   RSP  025-180   III/2                 
+
+5390 +     1119   ////      1119  SVI  C   RSP  025-149   III/1                 

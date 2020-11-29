@@ -1,0 +1,16 @@
+:Product: 20110130events.txt
+:Created: 2011 Jan 30 2332 UT
+:Date: 2011 01 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jan 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5290       1201   1258      1331  G15  5   XRA  1-8A      B1.3    5.4E-04   1150
+
+5300       1755   1836      1909  G15  5   XRA  1-8A      B2.3    7.6E-04       

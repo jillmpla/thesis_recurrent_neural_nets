@@ -1,0 +1,59 @@
+:Product: 20110530events.txt
+:Created: 2011 Jun 02 0332 UT
+:Date: 2011 05 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 May 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3030       0002   ////      0003  CUL  C   RSP  040-180   III/1                 
+
+3020       0247   0252      0255  G15  5   XRA  1-8A      C3.2    7.7E-04   1224
+3020       0251   ////      0252  CUL  C   RSP  600-750   III/2                 
+3020 +     0251   0251      0252  LEA  G   RBR  610       1900                  
+3020       0251   0251      0252  LEA  G   RBR  4995      27                    
+3020       0251   0251      0251  LEA  G   RBR  8800      21                    
+3020       0251   0251      0252  LEA  G   RBR  1415      28                    
+3020       0251   0252      0252  LEA  G   RBR  2695      26                    
+
+3040       0537   0538      0542  SVI  3   FLA  S23E52    SF                1226
+
+3050       0546   0549      0551  G15  5   XRA  1-8A      C3.5    5.3E-04   1226
+3050       0547   0550      0555  SVI  3   FLA  S21E53    SF                1226
+3050       0547   0547      0547  LEA  G   RBR  610       55                1226
+3050       0547   0547      0548  LEA  G   RBR  2695      73                1226
+3050       0547   0547      0548  LEA  G   RBR  8800      83                1226
+3050       0547   0547      0547  LEA  G   RBR  4995      110               1226
+3050       0547   0547      0548  LEA  G   RBR  1415      42                1226
+3050       0547   0547      0547  LEA  G   RBR  15400     27                1226
+3050 +     0548   ////      0548  CUL  C   RSP  600-900   III/1             1226
+3050 +     0549   0549      0549  LEA  G   RBR  410       210               1226
+
+3060       0559   0602      0611  SVI  3   FLA  S23E51    SN                1226
+3060       0559   0605      0607  G15  5   XRA  1-8A      C7.0    1.8E-03   1226
+3060       0601   0602      0602  LEA  G   RBR  4995      75                1226
+3060       0601   0602      0602  LEA  G   RBR  8800      69                1226
+3060 +     0601   0602      0602  LEA  G   RBR  610       410               1226
+3060       0601   0605      0606  LEA  G   RBR  2695      86                1226
+3060 +     0602   ////      0603  CUL  C   RSP  080-800   III/2             1226
+3060       0602   0602      0603  LEA  G   RBR  1415      39                1226
+3060       0602   0602      0602  LEA  G   RBR  15400     31                1226
+3060 +     0604   0605      0605  LEA  G   RBR  410       130               1226
+3060 +     0605   0605      0605  LEA  G   RBR  245       100               1226
+
+3070       0658   0701      0704  SVI  3   FLA  N15E48    SF                1229
+
+3080       1048   1101      1122  G15  5   XRA  1-8A      C2.8    4.3E-03   1227
+3080       1049   1058      1157  SVI  3   FLA  S18E60    SN      ERU       1227
+3080       1106   ////      1110  COM  C   RSP  25-61     II/1    1697      1227
+
+3090       1151   1151      1154  SVI  3   FLA  S23E48    SF                1226
+
+3100       1518   1527      1532  SVI  3   FLA  N15W75    SF                1222
+
+3110       2003   2007      2009  G15  5   XRA  1-8A      B6.7    1.4E-04       

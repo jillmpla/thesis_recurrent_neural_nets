@@ -1,0 +1,26 @@
+:Product: 20110719events.txt
+:Created: 2011 Jul 22 0332 UT
+:Date: 2011 07 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jul 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9100       0003   ////      0322  LEA  C   RSP  102-180   CTM/1                 
+9100       0036   ////      0036  CUL  C   RSP  018-030   III/1                 
+
+9110       0121   0121      0131  LEA  3   FLA  S25E09    SF      BPT       1254
+
+9120 +     0541   ////      0606  SVI  C   RSP  025-060   VI/1                  
+9120 +     0559   ////      0724  SVI  C   RSP  059-138   CTM/1                 
+
+9130 +     1054   1101      1109  G15  5   XRA  1-8A      B5.8    4.1E-04   1254
+
+9140 +     1124   1127      1130  G15  5   XRA  1-8A      B7.1    1.5E-04   1254
+
+9150       2234   2330      0009  G15  5   XRA  1-8A      B5.2    2.3E-03   1254

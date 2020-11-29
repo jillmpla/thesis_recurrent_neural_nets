@@ -1,0 +1,43 @@
+:Product: 20111005events.txt
+:Created: 2011 Oct 08 0332 UT
+:Date: 2011 10 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Oct 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7270       0011   0025      0104  G15  5   XRA  1-8A      C2.3    5.8E-03   1302
+
+7280       0350   0353      0359  G15  5   XRA  1-8A      C1.1    4.4E-04   1313
+
+7390       0458   ////      0458  CUL  C   RSP  040-170   III/1                 
+
+7290 +     0629   ////      0629  CUL  C   RSP  020-180   III/1                 
+
+7400       0640   ////      0640  CUL  C   RSP  030-080   III/1                 
+
+7300       0738   0743      0747  G15  5   XRA  1-8A      C2.3    7.7E-04   1313
+7300       0741  U0744     A0756  SVI  3   FLA  S11E79    SF                1313
+
+7310      B1008  U1014     A1022  SVI  3   FLA  S13E68    SF                1313
+
+7320       1043   1122      1137  G15  5   XRA  1-8A      C6.1    1.3E-02   1313
+7320      B1055  U1056     A1103  SVI  3   FLA  S13E68    SF                1313
+7320 +     1120   1120      1120  SAG  G   RBR  610       100                   
+7320 +     1121   ////      1121  SVI  C   RSP  075-153   III/1                 
+
+7330       1236   1242      1256  G15  5   XRA  1-8A      C9.2    7.0E-03   1313
+7330       1239   1240      1310  SVI  3   FLA  S13E74    SF      ERU       1313
+
+7340       2234   2237      2239  G15  5   XRA  1-8A      B8.7    1.4E-04       
+7340       2236   ////      2236  CUL  C   RSP  040-180   III/1                 
+
+7350 +     2242   ////      2242  LEA  U   RSP  124-158   III/1                 
+
+7360 +     2319   ////      2319  CUL  C   RSP  075-260   III/1                 
+7360 +     2320   2320      2320  PAL  G   RBR  245       270                   

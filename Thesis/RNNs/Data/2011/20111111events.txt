@@ -1,0 +1,46 @@
+:Product: 20111111events.txt
+:Created: 2011 Nov 14 0332 UT
+:Date: 2011 11 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Nov 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4650       0129   ////      0141  LEA  U   RSP  041-068   CTM/1                 
+
+4660 +     0409   ////      0411  CUL  C   RSP  075-400   III/1                 
+
+4670       0440   ////      0440  LEA  C   RSP  025-142   III/1                 
+
+4710 +     0611   0705      0751  G15  5   XRA  1-8A      C4.2    1.6E-02   1344
+
+4680       0643   0643      0643  LEA  G   RBR  610       100                   
+
+4690 +     0649   ////      0655  SVI  C   RSP  025-154   III/1             1344
+4690       0651   0705      0729  LEA  3   FLA  S17W40    SF                1344
+4690 +     0653   0653      0653  LEA  G   RBR  245       130               1344
+4690 +     0653   0653      0653  LEA  G   RBR  1415      190               1344
+4690 +     0653   0653      0653  LEA  G   RBR  410       140               1344
+4690 +     0653   0653      0653  LEA  G   RBR  610       100               1344
+
+4700       0730   0730      0739  LEA  3   FLA  S16W41    SF                1344
+
+4720       1225   1231      1237  G15  5   XRA  1-8A      C1.6    8.7E-04   1339
+4720       1230   1231      1238  SVI  3   FLA  N19W40    SF      ERU       1339
+
+4740       1640   1709      1733  G15  5   XRA  1-8A      C5.4    1.3E-02   1344
+
+4730 +     1741   ////      1742  SAG  C   RSP  025-180   III/2                 
+
+4750       2250   2250      2250  PAL  G   RBR  245       180                   
+
+4760       2251   2251      2251  LEA  G   RBR  245       110                   
+
+4770 +     2328   ////      2328  PAL  C   RSP  025-086   III/2                 
+
+4780 +     2331   2334      2345  G15  5   XRA  1-8A      C1.3    8.7E-04   1339

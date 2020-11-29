@@ -1,0 +1,56 @@
+:Product: 20110830events.txt
+:Created: 2011 Sep 02 0332 UT
+:Date: 2011 08 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Aug 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6660       0306   0312      0316  G15  5   XRA  1-8A      C1.9    6.2E-04   1274
+6660       0308   0308      0309  PAL  G   RBR  245       780               1274
+6660 +     0310   ////      0310  PAL  C   RSP  100-179   III/2             1274
+6660      B0311   0313      0318  LEA  2   FLA  N18W48    SF                1274
+
+6670       0510   0514      0520  G15  5   XRA  1-8A      C1.1    4.3E-04   1274
+6670       0511   0511      0512  SVI  G   RBR  245       1800              1274
+6670 +     0512   ////      0513  CUL  C   RSP  100-550   III/1             1274
+6670       0512   ////      0722  LEA  C   RSP  049-180   VI/1              1274
+
+6680       0536   0540      0545  G15  5   XRA  1-8A      B5.6    2.1E-04   1274
+6680 +     0536   ////      0544  SVI  C   RSP  040-152   III/1             1274
+
+6820       0544   ////      0546  CUL  C   RSP  050-200   III/1                 
+
+6810       0627   ////      0628  CUL  C   RSP  040-180   III/1                 
+
+6690       0627   ////      0627  SVI  C   RSP  053-083   III/1                 
+
+6700       0634   0643      0655  G15  5   XRA  1-8A      C1.5    1.4E-03       
+
+6710 +     0722   ////      0723  CUL  C   RSP  040-170   III/1                 
+
+6720       0806   ////      0814  SVI  C   RSP  025-173   III/1                 
+
+6730       0833   0839      0847  G15  5   XRA  1-8A      B5.0    3.2E-04   1274
+
+6740       0915   0923      0934  G15  5   XRA  1-8A      B8.8    7.7E-04       
+
+6750       0944   0948      0957  SVI  3   FLA  S20E51    SF      ERU       1281
+6750       0946   ////      0948  SVI  C   RSP  025-147   III/1             1281
+
+6760       1034   ////      1035  SVI  C   RSP  025-046   III/1                 
+
+6770       1128   1132      1139  SVI  3   FLA  N11E17    SF      ERU       1279
+
+6780       1156   1208      1223  G15  5   XRA  1-8A      B7.5    1.0E-03       
+
+6790       1348   1413      1428  G15  5   XRA  1-8A      C1.5    3.0E-03       
+6790       1424   ////      1425  SVI  C   RSP  025-055   III/1                 
+
+6800       2202   2246      2253  G15  5   XRA  1-8A      C5.5    4.5E-03   1281
+6800       2229   2244      2316  HOL  3   FLA  S19E45    1F      BPT       1281

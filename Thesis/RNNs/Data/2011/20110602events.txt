@@ -1,0 +1,52 @@
+:Product: 20110602events.txt
+:Created: 2011 Jun 05 0332 UT
+:Date: 2011 06 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jun 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3260       0031   ////      0031  CUL  C   RSP  023-090   III/1                 
+
+3270       0229   ////      0229  CUL  C   RSP  020-065   III/1                 
+
+3250 +     0239   0244      0249  G15  5   XRA  1-8A      C1.2    5.1E-04   1226
+
+3340       0443   ////      0452  CUL  C   RSP  023-170   III/1                 
+
+3280       0630   0636      0652  G15  5   XRA  1-8A      C1.4    1.5E-03   1227
+3280 +     0637   0637      0640  LEA  3   FLA  S19E20    SF                1227
+3280 +     0640   0640      0640  LEA  G   RBR  245       130               1227
+3280 +     0644   0645      0645  LEA  G   RBR  410       120               1227
+3280       0650   ////      0650  CUL  C   RSP  030-800   III/1             1227
+3280 +     0651   0651      0651  LEA  G   RBR  610       100               1227
+
+3290       0722   0746      0757  G15  5   XRA  1-8A      C3.7    5.1E-03   1227
+3290       0729  U0746     A0813  SVI  3   FLA  S19E25    2N      PRB       1227
+3290 +     0741   0742      0742  SVI  G   RBR  245       160               1227
+
+3330      B0750  U0759     A0806  SVI  3   FLA  S22E12    SF                1226
+
+3300       0842   0846      0850  SVI  3   FLA  S22E13    SF      ERU       1226
+
+3310      B0854  U0929     A1024  SVI  3   FLA  S25E14    1F      ERU       1226
+3310       0944   0947      0950  G15  5   XRA  1-8A      C2.7    6.0E-04   1226
+
+3320 +     1022   1028      1033  G15  5   XRA  1-8A      C1.8    8.6E-04   1232
+
+3350       2123   ////      2125  CUL  C   RSP  020-180   III/1                 
+
+3360       2150   ////      2151  CUL  C   RSP  030-080   III/1                 
+
+3370       2204   ////      2204  CUL  C   RSP  020-090   III/1                 
+
+3380       2222   ////      2223  CUL  C   RSP  020-070   III/1                 
+
+3390       2238   ////      2238  CUL  C   RSP  020-070   III/1                 
+
+3400       2327   ////      2330  CUL  C   RSP  020-057   III/1                 

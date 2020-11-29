@@ -1,0 +1,22 @@
+:Product: 20110512events.txt
+:Created: 2011 May 15 0332 UT
+:Date: 2011 05 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 May 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1650       1211   1236      1248  G15  5   XRA  1-8A      C2.0    3.0E-03       
+1650       1216   ////      1231  SVI  3   DSF  N18E47    12                    
+1650 +     1218   1229      1300  SVI  3   FLA  N21E58    1F      ERU           
+
+1700      B1224  U1232      1303  HOL  2   FLA  S17E56    SF      ERU           
+
+1690      A1714   ////     A0446  SVI  3   DSF  N29W11    5                     
+
+1670       2128   ////      2131  CUL  C   RSP  035-090   III/1                 

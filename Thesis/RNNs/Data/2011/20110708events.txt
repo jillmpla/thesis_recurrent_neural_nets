@@ -1,0 +1,61 @@
+:Product: 20110708events.txt
+:Created: 2011 Jul 11 0332 UT
+:Date: 2011 07 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jul 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7590       0005   ////      0005  CUL  C   RSP  018-080   III/2                 
+
+7570       0005   ////      0005  LEA  C   RSP  025-100   III/1                 
+
+7600       0042   ////      0043  CUL  C   RSP  035-170   III/1                 
+
+7610       0047   ////      0048  CUL  C   RSP  018-057   III/1                 
+
+7620       0114   ////      0114  CUL  C   RSP  018-057   III/1                 
+
+7580       0253   0257      0309  G15  5   XRA  1-8A      B3.0    2.3E-04   1243
+7580 +     0255   ////      0258  CUL  C   RSP  018-180   III/3                 
+
+7630       0618   ////      0618  SVI  C   RSP  025-081   III/1                 
+
+7640 +     0713   ////      0713  LEA  C   RSP  025-180   III/1                 
+
+7650       0939   0947      0954  G15  5   XRA  1-8A      C3.0    1.6E-03   1247
+7650       0941   0945      1026  SVI  3   FLA  S20E19    SF                1247
+
+7660 +     1031   ////      1032  SVI  C   RSP  025-084   III/1                 
+
+7670       1033   1034      1039  SVI  3   FLA  S18E22    SF                1247
+
+7680       1120   1150      1238  SVI  3   FLA  S19E19    1F      ERU       1247
+7680 +     1137   ////      1142  SVI  C   RSP  025-125   III/1             1247
+7680       1141   1151      1200  G15  5   XRA  1-8A      C2.8    1.9E-03   1247
+
+7690       1238   1252      1310  SVI  3   FLA  S18E21    SF                1247
+
+7700       1319   1331      1334  G15  5   XRA  1-8A      C3.1    9.1E-04   1247
+7700 +     1321   1331      1402  SVI  3   FLA  S19E17    1N      ERU       1247
+7700       1331   ////      1332  SVI  C   RSP  025-151   III/1             1247
+
+7710       1456   1503      1508  G15  5   XRA  1-8A      C2.3    1.0E-03   1247
+7710 +     1459   1501      1514  HOL  3   FLA  S19E17    SF      ERU       1247
+
+7720 +     1625   ////      1628  SVI  C   RSP  025-144   III/1                 
+
+7730       1812   1820      1828  G15  5   XRA  1-8A      B6.1    4.2E-04   1247
+7730       1815   1816      1826  HOL  3   FLA  S19E14    SF      ERU       1247
+
+7740 +     1949   ////      1950  SAG  U   RSP  025-180   III/1                 
+
+7750 +     2320   ////      2321  SAG  C   RSP  025-114   III/1                 
+
+7780       2330   ////      2359  COM  4   DSF  S25E32    00                1247
+7780       2357   0028      0209  G15  5   XRA  1-8A      B4.7    3.2E-03   1247

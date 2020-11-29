@@ -1,0 +1,71 @@
+:Product: 20110314events.txt
+:Created: 2011 Mar 17 0332 UT
+:Date: 2011 03 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Mar 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3470       0013   0020      0031  G15  5   XRA  1-8A      C4.0    2.8E-03   1166
+3470       0017   0018      0025  HOL  3   FLA  N10W63    SF      ERU       1166
+
+3480       0040   0040      0040  LEA  G   RBR  245       120                   
+
+3530       0120   ////      0121  CUL  C   RSP  020-050   III/1                 
+
+3490 +     0133   0138      0142  G15  5   XRA  1-8A      B8.5    3.1E-04   1166
+
+3500 +     0153   ////      0153  CUL  C   RSP  020-100   III/2                 
+
+3510       0216   0216      0216  LEA  G   RBR  245       130                   
+
+3520       0222   0222      0222  LEA  G   RBR  245       110                   
+
+3570       0231   0237      0316  LEA  G   RNS  245       170                   
+
+3540 +     0243   0247      0250  G15  5   XRA  1-8A      B6.3    1.7E-04   1166
+
+3550       0347   ////      0347  CUL  C   RSP  025-060   III/1                 
+
+3560 +     0504   0508      0513  G15  5   XRA  1-8A      C1.0    3.6E-04   1169
+
+3580       0705   0711      0718  G15  5   XRA  1-8A      B9.9    5.7E-04   1172
+3580       0709   0710      0716  LEA  3   FLA  N12E46    SF                1172
+
+3600 +     0807   0815      0825  G15  5   XRA  1-8A      C1.4    1.1E-03   1172
+
+3610       0921   0921      0921  SVI  G   RBR  245       100                   
+
+3620       1036   1042      1051  G15  5   XRA  1-8A      B8.7    5.6E-04   1169
+3620       1039   1039      1047  SVI  3   FLA  N17W42    SF      ERU       1169
+
+3630 +     1339   1342      1346  G15  5   XRA  1-8A      B9.7    2.8E-04   1169
+
+3640       1602   1609      1617  G15  5   XRA  1-8A      C2.2    1.3E-03   1169
+3640       1607   1610      1617  HOL  3   FLA  N19W46    SF      ERU       1169
+
+3650       1842   1849      1855  G15  5   XRA  1-8A      B7.6    4.5E-04   1169
+
+3660       1914   1917      1923  G15  5   XRA  1-8A      B6.6    2.5E-04   1169
+
+3670       1930   1952      1954  G15  5   XRA  1-8A      M4.2    1.0E-02   1169
+3670       1937   1952      2015  HOL  3   FLA  N18W48    1N      ERU       1169
+3670       1950   1951      1951  SAG  G   RBR  8800      120               1169
+3670       1951   1951      1951  SAG  G   RBR  15400     99                1169
+3670       1951   1951      1951  SAG  G   RBR  4995      100               1169
+
+3680       2017   2017      2047  HOL  3   FLA  N18W48    SF      ERU       1169
+
+3690       2251   2305      2325  HOL  3   FLA  N18W52    SF      ERU       1169
+3690       2255   2259      2309  G15  5   XRA  1-8A      B7.4    5.0E-04   1169
+
+3700       2317   2337      2351  G15  5   XRA  1-8A      C5.2    5.0E-03   1169
+
+3720       2320   2321      2328  HOL  3   FLA  N13E36    SF      ERU       1172
+
+3700       2332   2334      2349  HOL  3   FLA  N18W50    SF      ERU       1169

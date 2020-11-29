@@ -1,0 +1,58 @@
+:Product: 20111110events.txt
+:Created: 2011 Nov 13 0332 UT
+:Date: 2011 11 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Nov 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4450 +     0000   ////      0140  LEA  C   RSP  025-180   CTM/1                 
+4450       0000   ////      0006  LEA  C   RSP  025-061   III/1                 
+4450       0037   ////      0147  LEA  C   RSP  025-096   VI/1                  
+
+4460       0125   0125      0125  PAL  G   RBR  410       100                   
+4460 +     0125   0125      0125  LEA  G   RBR  245       330                   
+
+4470       0138   0138      0138  PAL  G   RBR  245       170                   
+
+4480       0140   0146      0150  G15  5   XRA  1-8A      C2.1    8.8E-04       
+
+4490       0251   ////      0251  CUL  C   RSP  280-400   III/1                 
+
+4500       0329   ////      0353  LEA  C   RSP  025-074   VI/1                  
+
+4510       0525   0525      0530  LEA  3   FLA  S25W05    SF                1345
+
+4520       1136   1136      1136  SVI  G   RBR  245       150                   
+
+4530       1152   1153      1153  SVI  G   RBR  245       100                   
+
+4540 +     1201   1203      1203  SVI  G   RBR  245       360                   
+
+4550 +     1215   1244      1350  SVI  G   RNS  245       200                   
+
+4560 +     1548   1552      1559  G15  5   XRA  1-8A      C2.2    1.0E-03   1341
+
+4570 +     1739   ////      1742  SAG  C   RSP  025-180   III/2                 
+4570       1742   1742      1742  SAG  G   RBR  245       140                   
+4570       1742   1742      1742  SAG  G   RBR  410       130                   
+
+4580 +    B1817   1831      1920  HOL  2   FLA  N20W30    1F      ERU       1339
+4580       1820   1831      1843  G15  5   XRA  1-8A      C6.0    6.3E-03   1339
+
+4590       1847   1848      1855  HOL  3   FLA  N12E20    SF                1341
+
+4600       1852   1852      1856  HOL  3   FLA  S24W11    SF                1345
+
+4610       2016   ////      2016  PAL  C   RSP  025-120   III/1                 
+
+4630       2017   ////      2017  CUL  C   RSP  023-100   III/1                 
+
+4640       2200   ////      2200  CUL  C   RSP  018-180   III/1                 
+
+4620       2200   ////      2200  LEA  C   RSP  025-180   III/1                 

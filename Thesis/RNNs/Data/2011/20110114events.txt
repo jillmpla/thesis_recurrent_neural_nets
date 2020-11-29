@@ -1,0 +1,24 @@
+:Product: 20110114events.txt
+:Created: 2011 Jan 17 0332 UT
+:Date: 2011 01 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jan 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3300       0128   0330      0438  G15  5   XRA  1-8A      C1.6    9.8E-03       
+
+3310       1252   1307      1325  G15  5   XRA  1-8A      C1.0    1.4E-03       
+
+3320       1541   1551      1557  G15  5   XRA  1-8A      B2.2    1.6E-04       
+
+3330       1703   1709      1717  G15  5   XRA  1-8A      B2.2    1.4E-04       
+
+3340       1818   1824      1827  G15  5   XRA  1-8A      B1.8    9.1E-05       
+
+3350       2237   2258      2318  G15  5   XRA  1-8A      B1.8    4.0E-04       

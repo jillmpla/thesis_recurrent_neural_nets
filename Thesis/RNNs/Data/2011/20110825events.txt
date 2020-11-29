@@ -1,0 +1,83 @@
+:Product: 20110825events.txt
+:Created: 2011 Aug 28 0332 UT
+:Date: 2011 08 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Aug 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5940 +     0145   ////      0305  LEA  C   RSP  025-180   VI/1                  
+5940 +     0217   ////      0219  CUL  C   RSP  018-200   III/2                 
+
+5950 +     0254   ////      0256  CUL  C   RSP  018-180   III/1                 
+
+5960       0304   ////      0304  CUL  C   RSP  025-090   III/1                 
+
+5970       0412   ////      0413  CUL  C   RSP  018-090   III/1                 
+
+6180       0445   ////      0445  CUL  C   RSP  020-065   III/1                 
+
+5980 +     0456   ////      0456  CUL  C   RSP  018-200   III/3                 
+
+5990 +     0535   ////      0537  CUL  C   RSP  018-200   III/1                 
+
+6000 +     0604   ////      0604  CUL  C   RSP  018-180   III/2                 
+
+6010       0654   0702      0713  G15  5   XRA  1-8A      B9.5    8.1E-04   1277
+6010 +     0709   ////      0910  LEA  C   RSP  025-180   VI/2                  
+
+6020       0808   0811      0814  G15  5   XRA  1-8A      B4.8    1.0E-04   1271
+
+6030       0829   0832      0834  G15  5   XRA  1-8A      B5.3    8.1E-05   1272
+6030       0831   0833      0836  LEA  3   FLA  S20W41    SF                1272
+
+6040       0935   0938      0941  G15  5   XRA  1-8A      B4.4    9.9E-05   1271
+
+6060 +     0957   ////      1151  SVI  C   RSP  025-156   VI/2                  
+
+6050       1023   1026      1034  G15  5   XRA  1-8A      B4.6    2.3E-04   1277
+
+6070 +     1230   ////      1304  SVI  C   RSP  025-180   VI/2                  
+
+6080       1341   1343      1345  HOL  3   FLA  N15W49    SF                1271
+
+6090 +     1405   ////      1426  SAG  C   RSP  025-180   VI/3                  
+
+6130 +     1507   ////      1643  SVI  C   RSP  025-148   VI/1                  
+
+6100       1515   1519      1522  SVI  3   FLA  N17W50    SF      ERU       1271
+
+6110 +     1526   1527      1531  SVI  3   FLA  N17W51    SF      ERU       1271
+
+6120 +     1645   1652      1701  G15  5   XRA  1-8A      B9.6    7.0E-04   1279
+
+6140 +     1755   ////      1820  SAG  C   RSP  025-180   VI/2                  
+
+6150 +     1859   ////      1950  SAG  C   RSP  025-180   VI/1                  
+
+6160 +     2042   ////      2044  CUL  C   RSP  020-200   III/1                 
+
+6190       2132   ////      2133  CUL  C   RSP  020-280   III/1                 
+6190 +     2132   ////      2208  PAL  C   RSP  025-180   VI/1                  
+
+6200       2136   ////      2136  CUL  C   RSP  020-090   III/1                 
+
+6210       2142   ////      2144  CUL  C   RSP  020-090   III/1                 
+
+6220       2147   ////      2149  CUL  C   RSP  018-180   III/1                 
+
+6170 +     2156   2203      2209  G15  5   XRA  1-8A      B8.9    4.9E-04   1271
+6170       2209   ////      2209  CUL  C   RSP  030-100   III/1             1271
+
+6230 +     2252   ////      2252  CUL  C   RSP  020-090   III/1                 
+
+6240       2305   ////      2308  CUL  C   RSP  020-140   III/1                 
+
+6250 +     2309   ////      2311  CUL  C   RSP  018-180   III/2                 
+
+6260       2318   ////      2318  CUL  C   RSP  020-090   III/1                 

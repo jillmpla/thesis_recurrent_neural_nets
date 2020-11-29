@@ -1,0 +1,37 @@
+:Product: 20110714events.txt
+:Created: 2011 Jul 17 0332 UT
+:Date: 2011 07 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jul 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8160 +     0031   ////      0031  PAL  C   RSP  025-086   III/1                 
+
+8170 +     0048   0052      0056  G15  5   XRA  1-8A      B4.0    1.3E-04   1254
+8170       0051   0054      0059  LEA  3   FLA  S24E77    SF                1254
+
+8180 +     0249   0249      0256  COM  3   FLA  S24E74    SF                1254
+
+8190       0501   ////      0501  SVI  C   RSP  025-043   III/1                 
+
+8200       0857   ////      0900  SVI  U   RSP  025-042   III/1                 
+
+8210       1036   ////      1036  SVI  C   RSP  025-039   III/1                 
+
+8220 +     1423   1424      1432  HOL  3   FLA  S21E69    SF                1254
+
+8230       1429   1430      1435  SVI  3   FLA  S22E69    SF                1254
+
+8240 +     1455   1455      1459  HOL  3   FLA  S22E70    SF                1254
+
+8250       1520   ////      1520  SVI  U   RSP  035-052   III/1                 
+
+8260       1614   1614      1623  SVI  3   FLA  S22E68    SF                1254
+
+8270 +     2225   ////      2253  PAL  C   RSP  025-114   VI/2                  

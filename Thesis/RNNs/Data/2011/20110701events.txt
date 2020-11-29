@@ -1,0 +1,59 @@
+:Product: 20110701events.txt
+:Created: 2011 Jul 04 0332 UT
+:Date: 2011 07 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jul 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6080       0047   0108      0117  G15  5   XRA  1-8A      B2.8    4.1E-04       
+
+6110       0130   ////      0130  CUL  C   RSP  023-060   III/1                 
+
+6090 +     0305   ////      0306  LEA  C   RSP  025-085   III/1                 
+
+6100 +     0331   0336      0341  G15  5   XRA  1-8A      B3.3    1.4E-04   1243
+
+6120 +     0456   ////      0456  LEA  C   RSP  025-151   III/1                 
+
+6130 +     0537   ////      0538  SVI  C   RSP  025-079   III/1                 
+
+6140       0600   0601      0609  LEA  3   FLA  N16E32    SF                1243
+
+6150       0612   0615      0617  G15  5   XRA  1-8A      B2.2    3.7E-05       
+
+6160       0638   ////      0638  SVI  C   RSP  033-123   III/1                 
+
+6170      B0704  U0705     A0707  SVI  3   FLA  N16E31    SF                1243
+
+6180       0714   0721      0726  G15  5   XRA  1-8A      B5.3    2.6E-04   1243
+
+6190      B0754  U0755     A0807  SVI  3   FLA  N16E31    SF                1243
+
+6200      B0809  U0810     A0815  SVI  3   FLA  N16E31    SF                1243
+
+6210       0828   0833      0836  G15  5   XRA  1-8A      B3.7    1.1E-04   1243
+6210 +     0832   0833      0903  LEA  3   FLA  N16E31    SF      BPT       1243
+
+6220      B0858  U0939     A1015  SVI  3   FLA  N16E30    SF                1243
+
+6230      B1038  U1104     A1116  SVI  3   FLA  N16E29    SF                1243
+
+6240 +     1223   ////      1223  SAG  U   RSP  025-052   III/1                 
+
+6250       1234   1240      1258  G15  5   XRA  1-8A      B4.1    4.7E-04   1244
+6250       1234   1237      1313  SVI  3   FLA  N14W06    SF                1244
+6250 +     1236   ////      1240  SVI  C   RSP  025-180   III/2             1244
+
+6260       1323   1323      1332  SVI  3   FLA  N14W06    SF      ERU       1244
+
+6270       1346   1349      1356  SVI  3   FLA  N17W02    SF                1244
+
+6280       1404   1410      1413  SVI  3   FLA  N17W03    SF                1244
+
+6290 +     2105   2111      2117  G15  5   XRA  1-8A      B2.4    1.3E-04   1243

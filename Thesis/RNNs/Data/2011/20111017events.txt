@@ -1,0 +1,59 @@
+:Product: 20111017events.txt
+:Created: 2011 Oct 20 0332 UT
+:Date: 2011 10 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Oct 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9760       0023   ////      0023  LEA  C   RSP  031-089   III/1                 
+
+9800       0227   ////      0227  CUL  C   RSP  030-180   III/1                 
+
+9770       0227   ////      0227  PAL  C   RSP  069-180   III/1                 
+
+9780       0227   ////      0227  LEA  C   RSP  040-180   III/1                 
+
+9940       0440   ////      0444  CUL  C   RSP  018-140   III/1                 
+
+9810       0440   ////      0443  LEA  C   RSP  025-126   III/1                 
+
+9820       0540   0721      0803  G15  5   XRA  1-8A      C1.6    1.0E-02       
+9820 +     0633   ////      0640  SVI  C   RSP  025-073   III/1                 
+9820       0633   ////      0708  LEA  C   RSP  025-072   VI/1                  
+
+9950       0641   ////      0641  CUL  C   RSP  023-075   III/1                 
+
+9830 +     0707   ////      0709  CUL  C   RSP  027-090   III/1                 
+
+9840       0721   0721      0724  SVI  3   FLA  N10W14    SF                1319
+
+9850       0824   0828      0830  G15  5   XRA  1-8A      C2.1    4.1E-04       
+9850       0824   ////      0833  LEA  C   RSP  025-121   III/1                 
+
+9860       0907   ////      0930  LEA  C   RSP  025-124   VI/1                  
+9860       0929   0932      0934  G15  5   XRA  1-8A      C1.8    2.8E-04       
+
+9870       1055   ////      1056  SVI  C   RSP  025-153   III/2                 
+
+9880       1208   1208      1212  SVI  3   FLA  S13W18    SF                1316
+
+9890 +     1355   1356      1356  SAG  G   RBR  245       790                   
+
+9970      B1400  U1406     A1445  SVI  3   FLA  S13W19    SF                1316
+
+9900 +     1417   ////      1426  SAG  C   RSP  025-120   III/2                 
+
+9910 +     1712   ////      1712  PAL  C   RSP  025-087   III/1                 
+
+9920 +     1805   1809      1813  G15  5   XRA  1-8A      C1.9    6.4E-04   1324
+9920 +     1806   ////      1807  PAL  C   RSP  025-085   III/2             1324
+
+9930 +     1948   ////      1952  SAG  C   RSP  025-089   III/1                 
+
+9960       2225   ////      2225  CUL  C   RSP  035-090   III/1                 

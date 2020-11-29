@@ -1,0 +1,41 @@
+:Product: 20110614events.txt
+:Created: 2011 Jun 17 0332 UT
+:Date: 2011 06 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jun 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4080       0012   0016      0022  G15  5   XRA  1-8A      B4.6    2.0E-04       
+
+4090       0032   0041      0049  G15  5   XRA  1-8A      C1.8    1.2E-03   1236
+
+4100       0204   0212      0220  G15  5   XRA  1-8A      B5.7    4.2E-04   1234
+
+4120       0255   ////      0255  CUL  C   RSP  030-080   III/1                 
+
+4320      B0612   ////     A1842  SOH  4   CME  XUV,EUV,UV335-169/FS457           
+
+4150       0737   0745      0751  G15  5   XRA  1-8A      B3.0    2.7E-04       
+
+4160 +     1100   ////      1100  SVI  C   RSP  25-60     III/1                 
+
+4140 +     1113   1129      1136  G15  5   XRA  1-8A      C2.2    2.3E-03   1236
+
+4180       1249   ////      1249  SAG  C   RSP  25-53     III/1                 
+
+4170 +     1319   1326      1332  G15  5   XRA  1-8A      B7.8    4.3E-04   1236
+
+4190       1845   ////      1852  PAL  C   RSP  25-57     III/1                 
+
+4200 +     2120   ////      2121  CUL  C   RSP  020-130   III/1                 
+
+4210       2136   2147      2210  G15  5   XRA  1-8A      M1.3    1.8E-02   1236
+4210 +     2141   2141      2142  PAL  G   RBR  8800      270               1236
+4210       2142   2142      2201  HOL  3   FLA  N15E77    SF      ERU       1236
+4210 +     2145   2146      2146  PAL  G   RBR  4995      120               1236

@@ -1,0 +1,56 @@
+:Product: 20111108events.txt
+:Created: 2011 Nov 11 0332 UT
+:Date: 2011 11 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Nov 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4050       0000   ////      0304  LEA  C   RSP  025-180   VI/1                  
+4050       0001   ////      0342  PAL  C   RSP  099-180   CTM/1                 
+
+4060       0139   0139      0140  LEA  G   RBR  245       110                   
+
+4070       0240   ////      0243  CUL  C   RSP  018-170   III/1                 
+4070       0241   0241      0241  LEA  G   RBR  245       160                   
+
+4080       0249   0249      0249  PAL  G   RBR  245       190                   
+
+4090       0333   0333      0333  LEA  G   RBR  245       180                   
+
+4110       0333   0341      0358  LEA  G   RNS  245       170                   
+
+4180       0542   ////      0546  CUL  C   RSP  020-200   III/1                 
+
+4140       0558   ////      1359  SVI  C   RSP  068-180   CTM/1                 
+
+4120       0723   0819      0845  G15  5   XRA  1-8A      C2.6    9.8E-03   1339
+
+4100       0854   0913      0919  SVI  3   FLA  N21E06    SF                1339
+4100       0906   ////      0907  SVI  C   RSP  030-081   III/1             1339
+
+4130       1037   ////      1037  SVI  C   RSP  058-153   III/1                 
+
+4150       1228   ////      1402  SAG  C   RSP  104-148   CTM/1                 
+
+4170       1923   1928      1938  G15  5   XRA  1-8A      C1.8    1.2E-03   1339
+4170       1924   1925      1946  HOL  3   FLA  N23W03    SF      ERU       1339
+
+4190       2009   ////      2009  CUL  C   RSP  030-075   III/1                 
+
+4200       2100   2104      2110  G15  5   XRA  1-8A      C1.2    5.5E-04   1342
+
+4210 +     2122   ////      2122  CUL  C   RSP  018-090   III/1                 
+
+4220       2157   ////      2157  CUL  C   RSP  030-080   III/1                 
+
+4230       2223   ////      2223  CUL  C   RSP  030-080   III/1                 
+
+4240       2240   ////      2240  CUL  C   RSP  030-070   III/1                 
+
+4400      A2317   ////     A1558  HOL  4   DSF  N23E49    20                    

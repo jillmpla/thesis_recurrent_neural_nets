@@ -1,0 +1,67 @@
+:Product: 20110911events.txt
+:Created: 2011 Sep 14 0332 UT
+:Date: 2011 09 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Sep 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9600       0043   ////      0117  LEA  C   RSP  025-180   VI/1                  
+9600       0046   ////      0429  PAL  C   RSP  121-180   CTM/1                 
+9600       0117   ////      0117  PAL  C   RSP  025-180   III/1                 
+
+9750 +     0146   0230      0940  COM  G   RNS  245       300                   
+
+9610 +     0156   0158      0158  LEA  G   RBR  245       130                   
+
+9620       0200   0200      0201  PAL  G   RBR  245       130                   
+
+9640 +     0203   0203      0203  PAL  G   RBR  245       130                   
+
+9650       0210   0210      0210  PAL  G   RBR  245       100                   
+
+9660       0231   0232      0233  PAL  G   RBR  245       160                   
+
+9670       0235   0236      0236  PAL  G   RBR  245       110                   
+
+9680       0256   0256      0256  PAL  G   RBR  245       150                   
+
+9690       0308   0308      0308  PAL  G   RBR  245       120                   
+
+9700       0416   0416      0416  PAL  G   RBR  245       150                   
+
+9760       0442   ////      1602  SVI  C   RSP  025-180   CTM/1                 
+
+9770       0616   ////      1537  SVI  C   RSP  025-180   VI/1                  
+
+9710       0649   0649      0649  LEA  G   RBR  245       200                   
+
+9720 +     0707   0709      0714  LEA  3   FLA  N15W77    SF                1283
+
+9730       0739   ////      0739  LEA  C   RSP  025-097   III/1                 
+
+9740       0841   0851      0927  G15  5   XRA  1-8A      C6.6    1.2E-02   1283
+9740 +     0844   0849      0906  SVI  3   FLA  N15W75    SF                1283
+9740 +     0904   ////      0913  LEA  U   RSP  100-180   II/1    439       1283
+
+9780       1045   ////      1551  SAG  C   RSP  102-180   CTM/1                 
+9780       1122   ////      1541  SAG  C   RSP  025-072   VI/1                  
+
+9790 +     1318   1326      1336  G15  5   XRA  1-8A      C1.9    1.6E-03   1283
+
+9800       1407   1410      1412  HOL  3   FLA  N09E73    SF                    
+
+9840       1855   ////      2137  PAL  C   RSP  025-042   VI/1                  
+
+9810 +     1945   1949      1952  G15  5   XRA  1-8A      C1.7    4.5E-04   1283
+
+9820 +     2038   2042      2045  G15  5   XRA  1-8A      B9.7    2.7E-04   1283
+
+9830 +     2119   2125      2135  G15  5   XRA  1-8A      C1.1    8.4E-04   1283
+
+9850       2240   ////      2359  LEA  C   RSP  111-180   CTM/1                 

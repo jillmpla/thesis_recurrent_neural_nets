@@ -1,0 +1,56 @@
+:Product: 20111028events.txt
+:Created: 2011 Oct 31 0332 UT
+:Date: 2011 10 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Oct 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1590       0000   ////      0348  PAL  C   RSP  074-180   CTM/3                 
+
+1600 +     0206   ////      0206  LEA  C   RSP  025-100   III/1                 
+
+1690       0542   ////      1539  SVI  C   RSP  054-180   CTM/1                 
+
+1610 +     0607   0614      0620  G15  5   XRA  1-8A      C1.0    6.0E-04   1333
+
+1620       0701   0704      0707  G15  5   XRA  1-8A      C1.0    2.1E-04   1324
+1620       0703   0706      0711  LEA  3   FLA  N11W55    SF      ERU       1324
+
+1630 +     0812   0816      0818  G15  5   XRA  1-8A      B9.3    1.8E-04   1324
+
+1640 +     0919   0931      0941  G15  5   XRA  1-8A      B8.7    9.8E-04   1324
+
+1650       1148   1217      1242  G15  5   XRA  1-8A      C1.7    4.2E-03   1324
+1650       1200   1203      1221  SVI  3   FLA  N10W59    SF                1324
+
+1660 +     1318   1318      1318  SVI  G   RBR  245       150                   
+
+1670       1355  U1355      1355  SAG  G   RBR  245       110                   
+
+1680 +     1431   1431      1431  SAG  G   RBR  245       1100                  
+1680 +     1431   ////      1431  SVI  C   RSP  050-180   III/2                 
+
+1770       1651   ////      2359  PAL  C   RSP  079-180   CTM/1                 
+
+1700      U1747  U1747      1747  SAG  G   RBR  245       100                   
+
+1710       2022   2022      2022  PAL  G   RBR  410       100                   
+
+1720       2033   2036      2037  PAL  G   RBR  410       110                   
+1720       2037   2037      2037  PAL  G   RBR  245       610                   
+
+1760       2047   2111      2313  PAL  G   RNS  410       150                   
+
+1730       2119   2119      2119  PAL  G   RBR  245       710                   
+
+1740       2127   2127      2130  PAL  G   RBR  245       790                   
+
+1750       2153   2153      2153  PAL  G   RBR  245       970                   
+
+1780       2203   ////      2359  LEA  C   RSP  075-180   CTM/1                 

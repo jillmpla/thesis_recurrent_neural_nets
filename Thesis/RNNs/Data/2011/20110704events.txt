@@ -1,0 +1,78 @@
+:Product: 20110704events.txt
+:Created: 2011 Jul 07 0332 UT
+:Date: 2011 07 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jul 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6570       0006   ////      0012  CUL  C   RSP  018-180   III/1                 
+6570 +     0007   ////      0106  LEA  C   RSP  025-180   VI/1                  
+
+6580       0019   ////      0020  CUL  C   RSP  023-100   III/1                 
+
+6590       0040   ////      0040  CUL  C   RSP  020-070   III/1                 
+
+6600       0106   ////      0107  CUL  C   RSP  018-180   III/1                 
+
+6610 +     0150   ////      0153  CUL  C   RSP  020-080   III/1                 
+
+6620 +     0311   ////      0311  CUL  C   RSP  018-120   III/1                 
+
+6630       0326   ////      0331  CUL  C   RSP  018-120   III/1                 
+6630       0326   0329      0335  G15  5   XRA  1-8A      B1.9    1.1E-04       
+
+6640       0343   ////      0343  CUL  C   RSP  018-090   III/1                 
+
+6710       0500   ////      0500  CUL  C   RSP  018-090   III/1                 
+
+6720       0524   ////      0525  CUL  C   RSP  018-090   III/1                 
+
+6850       0653   0657      0700  G15  5   XRA  1-8A      B1.9    8.5E-05       
+
+6650       0922   ////      0933  SVI  C   RSP  025-084   VI/1                  
+
+6660 +     1248   1252      1256  G15  5   XRA  1-8A      B2.5    8.0E-05   1242
+
+6670 +     1653   1656      1658  G15  5   XRA  1-8A      B1.7    3.0E-05   1242
+
+6680 +     1906   ////      1910  PAL  C   RSP  071-180   III/2                 
+6680 +     1906   1910      1910  SAG  G   RBR  245       1000                  
+
+6690       1910   1910      1910  SAG  G   RBR  410       110                   
+
+6700       2024   2027      2029  G15  5   XRA  1-8A      B1.5    2.3E-05       
+6700 +     2024   2024      2024  PAL  G   RBR  245       600                   
+
+6730       2106   2107      2107  PAL  G   RBR  245       2500                  
+6730       2107   2107      2107  PAL  G   RBR  610       110                   
+6730       2107   2107      2107  PAL  G   RBR  1415      160                   
+
+6740       2111   ////      2116  PAL  C   RSP  025-038   III/1                 
+
+6750       2206   2206      2206  PAL  G   RBR  245       480                   
+
+6760       2208   ////      2208  CUL  C   RSP  100-180   III/1                 
+
+6770       2229   ////      2229  CUL  C   RSP  120-200   III/1                 
+
+6780       2248   ////      2248  CUL  C   RSP  150-300   III/1                 
+
+6790       2257   2257      2257  PAL  G   RBR  245       690                   
+
+6800       2259   ////      2300  CUL  C   RSP  060-280   III/1                 
+6800       2259   ////      2315  PAL  C   RSP  045-180   VI/1                  
+
+6810       2305   2306      2306  PAL  G   RBR  245       640                   
+
+6820       2308   ////      2308  CUL  C   RSP  080-300   III/1                 
+
+6830 +     2312   2315      2317  G15  5   XRA  1-8A      B2.7    4.0E-05   1243
+6830       2312   2313      2313  PAL  G   RBR  245       790               1243
+6830       2313   ////      2316  CUL  C   RSP  030-540   III/2             1243
+6830       2313   2313      2313  PAL  G   RBR  410       160               1243

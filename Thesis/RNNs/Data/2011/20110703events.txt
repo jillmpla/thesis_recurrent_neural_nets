@@ -1,0 +1,64 @@
+:Product: 20110703events.txt
+:Created: 2011 Jul 06 0332 UT
+:Date: 2011 07 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jul 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6350       0001   0024      0033  G15  5   XRA  1-8A      B9.5    1.3E-03   1244
+6350 +     0001   ////      0023  PAL  C   RSP  025-180   IV/2              1244
+
+6360       0002   ////      0002  CUL  C   RSP  018-090   III/1             1242
+
+6350 +     0003   ////      0007  CUL  C   RSP  018-200   III/3             1244
+6350 +     0005   ////      0008  CUL  C   RSP  040-140   II/3              1244
+6350       0008   0008      0021  LEA  3   FLA  N14W24    SF      ERU       1244
+
+6360       0022   0025      0035  LEA  3   FLA  N21W57    SF      ERU       1242
+
+6400       0215   ////      0229  PAL  C   RSP  025-073   VI/1                  
+
+6560       0323   ////      0325  CUL  C   RSP  018-130   III/1                 
+
+6550       0622   0631      0640  G15  5   XRA  1-8A      B2.5    2.4E-04       
+6550 +     0626   ////      0626  CUL  C   RSP  030-080   III/1                 
+
+6410 +     0748   ////      0748  SVI  C   RSP  025-064   III/1                 
+
+6420 +     0801   0807      0837  G15  5   XRA  1-8A      B2.0    3.7E-04   1244
+6420       0811   ////      0811  SVI  C   RSP  025-083   III/1             1244
+
+6430 +     0853   ////      0853  SVI  C   RSP  025-180   III/1                 
+
+6440      B0924  U0948      1016  SVI  3   FLA  N15W28    SF      ERU       1244
+6440       0933   0940      0947  G15  5   XRA  1-8A      B4.8    2.8E-04   1244
+
+6450       1018   1018      1024  SVI  3   FLA  N15W28    SF      ERU       1244
+
+6460       1025   1031      1038  SVI  3   FLA  N15W28    SF      ERU       1244
+
+6470       1044   1045      1052  SVI  3   FLA  N15W31    SF      ERU       1244
+
+6480       1054   1101      1106  G15  5   XRA  1-8A      C2.1    8.2E-04   1244
+6480       1054   1102      1155  SVI  3   FLA  N14W29    SF      ERU       1244
+6480 +     1059   ////      1100  SVI  C   RSP  025-083   III/1             1244
+
+6490       1156   1236      1252  SVI  3   FLA  N15W32    SF      ERU       1244
+6490       1234   1242      1248  G15  5   XRA  1-8A      B4.8    2.7E-04   1244
+
+6500       1303   1313      1332  SVI  3   FLA  N16W30    SF      ERU       1244
+
+6510 +     1434   ////      1435  SVI  C   RSP  025-053   III/1                 
+
+6520       1502   1518      1530  G15  5   XRA  1-8A      B7.8    8.7E-04   1244
+6520 +     1509   1520      1540  HOL  3   FLA  N16W31    SF      ERU       1244
+
+6530 +     1615   ////      1616  SVI  C   RSP  025-082   III/1                 
+
+6540 +     1842   ////      1956  PAL  C   RSP  025-076   VI/1                  

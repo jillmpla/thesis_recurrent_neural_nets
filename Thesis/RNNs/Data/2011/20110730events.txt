@@ -1,0 +1,87 @@
+:Product: 20110730events.txt
+:Created: 2011 Aug 02 0332 UT
+:Date: 2011 07 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jul 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 620 +     0000   0057      0302  LEA  G   RNS  245       390                   
+
+ 710 +     0000   ////      0945  LEA  C   RSP  075-180   CTM/1                 
+
+ 590       0011   ////      0045  PAL  C   RSP  025-051   VI/1                  
+
+ 600       0050   0053      0056  G15  5   XRA  1-8A      B5.3    1.2E-04       
+
+ 610 +     0204   0209      0212  G15  5   XRA  1-8A      M9.3    2.0E-02   1261
+ 610 +     0207   0208      0210  LEA  G   RBR  4995      330               1261
+ 610 +     0207   0207      0209  LEA  G   RBR  8800      550               1261
+ 610       0207   0207      0208  LEA  G   RBR  15400     480               1261
+ 610 +     0208   0208      0209  LEA  G   RBR  2695      180               1261
+ 610       0208   0209      0209  LEA  G   RBR  1415      74                1261
+ 610 +     0211   ////      0211  LEA  C   RSP  025-120   III/1             1261
+
+ 640       0316   0316      0316  PAL  G   RBR  245       100                   
+
+ 650 +     0352   ////      0630  LEA  C   RSP  025-180   VI/1                  
+
+ 820 +     0458   0504      0732  LEA  G   RNS  245       220                   
+
+ 660       0504   ////      0607  SVI  C   RSP  025-152   VI/1                  
+
+ 670 +     0654   ////      0655  SVI  C   RSP  025-131   III/2                 
+
+ 680       0658   0659      0704  SVI  3   FLA  N18W30    SF      ERU           
+
+ 690       0753   0758      0758  LEA  G   RBR  245       230                   
+
+ 700       0809   ////      0809  SVI  C   RSP  025-052   III/1                 
+
+ 720       0943   ////      0945  SVI  C   RSP  025-053   III/1                 
+
+ 780 +     0947   ////      1319  SVI  C   RSP  075-180   CTM/1                 
+
+ 790 +     0951   1047      1224  SVI  G   RNS  245       330                   
+
+ 730 +     0956   0957      0959  SVI  G   RBR  245       840                   
+
+ 830       1000   1000      1003  SVI  3   FLA  N16E58    SF      ERU       1263
+
+ 740 +     1001   ////      1008  SVI  C   RSP  025-145   III/1             1265
+ 740 +     1003   1005      1010  SVI  3   FLA  N18W32    SF      ERU       1265
+
+ 790       1037   1105      1224  SAG  G   RNS  245       360                   
+
+ 750       1038   1038      1038  SAG  G   RBR  410       110                   
+
+ 760 +     1101   ////      1102  SVI  C   RSP  025-054   III/1                 
+
+ 850 +     1135   ////      2255  SAG  C   RSP  025-108   VI/1                  
+
+ 770       1211   1217      1227  G15  5   XRA  1-8A      C1.3    8.5E-04   1265
+ 770       1214   1217      1250  SVI  3   FLA  N19W32    SF      ERU       1265
+ 770 +     1215   ////      1224  SVI  C   RSP  025-180   III/2             1265
+
+ 840       1346   1352      1428  SVI  3   FLA  N15E21    SF      ERU       1261
+ 840 +     1356   ////      1550  SAG  C   RSP  115-180   CTM/1             1261
+
+ 870       1533   1538      1545  G15  5   XRA  1-8A      B5.6    4.2E-04   1261
+
+ 860       1810   1814      1816  G15  5   XRA  1-8A      B5.3    1.1E-04       
+ 860       1814   ////      1814  PAL  C   RSP  025-060   III/1                 
+
+ 880       1852   1901      1915  G15  5   XRA  1-8A      B4.9    6.4E-04   1261
+
+ 890       1937   1941      1943  G15  5   XRA  1-8A      B4.6    1.7E-04   1261
+
+ 900       1953   ////      2354  SAG  C   RSP  105-180   CTM/1                 
+
+ 620       2059   2120      2132  SAG  G   RNS  410       130                   
+
+ 910       2315   ////      2359  LEA  C   RSP  090-180   CTM/1                 

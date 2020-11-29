@@ -1,0 +1,48 @@
+:Product: 20110821events.txt
+:Created: 2011 Aug 24 0332 UT
+:Date: 2011 08 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Aug 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5400       0048   0051      0057  G15  5   XRA  1-8A      B4.3    1.7E-04       
+
+5410 +     0229   0233      0237  G15  5   XRA  1-8A      B3.7    1.3E-04   1272
+
+5420       1211   1220      1230  G15  5   XRA  1-8A      B6.1    5.2E-04       
+
+5430       1311   1315      1322  SVI  3   FLA  S21E13    SF                1272
+
+5440       1442   1448      1454  G15  5   XRA  1-8A      B6.1    3.2E-04   1272
+5440 +     1445   1446      1458  HOL  3   FLA  S20E13    SF                1272
+
+5450       1547   1550      1553  G15  5   XRA  1-8A      B4.5    9.9E-05   1272
+5450       1549   1549      1558  HOL  3   FLA  S20E10    SF                1272
+
+5460       1610   1616      1627  G15  5   XRA  1-8A      B5.9    4.6E-04   1272
+5460 +     1613   1616      1634  HOL  3   FLA  S20E12    SF                1272
+
+5470       1712   1729      1745  HOL  3   FLA  S20E10    SF                1272
+
+5490       1815   1840      1846  G15  5   XRA  1-8A      C1.5    1.8E-03   1272
+
+5480       1819   1821      1834  HOL  3   FLA  S20E10    SF      ERU       1272
+
+5490       1835   1838      1849  HOL  3   FLA  S19E08    SF                1272
+
+5500       2017   2020      2027  G15  5   XRA  1-8A      B3.5    1.5E-04   1274
+
+5510       2038   2041      2048  G15  5   XRA  1-8A      B6.3    2.5E-04   1272
+5510       2040   2042      2050  HOL  3   FLA  S20E09    SF      ERU       1272
+
+5520       2215   2221      2228  G15  5   XRA  1-8A      B4.7    2.7E-04   1272
+
+5540       2252   ////      2252  CUL  C   RSP  060-300   III/1                 
+
+5530       2310   2316      2326  G15  5   XRA  1-8A      C1.2    8.0E-04   1272

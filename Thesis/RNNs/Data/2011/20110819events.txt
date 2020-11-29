@@ -1,0 +1,14 @@
+:Product: 20110819events.txt
+:Created: 2011 Aug 22 0332 UT
+:Date: 2011 08 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Aug 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5300       0214   ////      0214  CUL  C   RSP  065-180   III/1                 

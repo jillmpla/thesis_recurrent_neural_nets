@@ -1,0 +1,54 @@
+:Product: 20110321events.txt
+:Created: 2011 Mar 24 0332 UT
+:Date: 2011 03 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Mar 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4600 +     0218   ////      0220  CUL  C   RSP  060-120   III/1                 
+
+4610       0225   ////      0232  LEA  C   RSP  025-045   III/1                 
+
+4620 +     0507   ////      0508  CUL  C   RSP  020-140   III/1                 
+
+4630 +     0906   ////      0906  LEA  C   RSP  025-113   III/1                 
+
+4640       1145   1147      1150  G15  5   XRA  1-8A      C2.6    4.2E-04       
+4640 +     1146   1146      1146  SVI  G   RBR  410       310                   
+4640       1146   ////      1146  SAG  C   RSP  114-180   III/1                 
+4640 +     1146   1146      1146  SVI  G   RBR  245       3000                  
+
+4650       1152   1157      1203  G15  5   XRA  1-8A      C1.0    4.6E-04       
+
+4670 +     1317   ////      1318  SAG  C   RSP  025-121   III/1                 
+
+4680 +     1502   ////      1552  SAG  C   RSP  025-147   VI/2                  
+4680       1531   1719      1830  G15  5   XRA  1-8A      C4.2    3.3E-02       
+
+4690       1826   ////      1910  SAG  C   RSP  025-180   VI/1                  
+
+4700       2017   ////      2107  SAG  C   RSP  025-180   VI/1                  
+4700 +     2039   ////      2041  CUL  C   RSP  020-180   III/2                 
+
+4720       2111   ////      2112  CUL  C   RSP  030-060   III/1                 
+
+4730       2129   ////      2130  CUL  C   RSP  020-060   III/1                 
+
+4740       2145   ////      2146  CUL  C   RSP  018-180   III/2                 
+
+4710       2145   ////      2244  SAG  C   RSP  025-153   VI/1                  
+4710 +     2151   ////      2153  CUL  C   RSP  018-180   III/2                 
+
+4750       2349   ////      2349  CUL  C   RSP  035-180   III/1                 
+
+4760       2349   2349      2349  LEA  G   RBR  410       160                   
+
+4770       2355   ////      2355  CUL  C   RSP  035-180   III/1                 
+
+4780       2357   ////      2357  CUL  C   RSP  018-160   III/1                 

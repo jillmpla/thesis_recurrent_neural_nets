@@ -1,0 +1,63 @@
+:Product: 20110805events.txt
+:Created: 2011 Aug 08 0332 UT
+:Date: 2011 08 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Aug 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3150 +     0000   ////      0243  LEA  C   RSP  025-180   VI/1                  
+
+3000 +     0000   ////      0947  LEA  C   RSP  088-180   IV/2                  
+
+3010       0243   ////      0243  CUL  C   RSP  020-140   III/1                 
+
+3020 +     0332   0341      0350  G15  5   XRA  1-8A      C1.0    8.6E-04   1260
+
+3050 +     0524   ////      0640  SVI  C   RSP  035-165   VI/1                  
+
+3030       0556   0607      0614  G15  5   XRA  1-8A      C1.3    1.0E-03   1267
+3030       0559   0607      0617  SVI  3   FLA  S15E37    SF                1267
+
+3060 +     0643   0644      0655  LEA  3   FLA  N20W50    SF                1261
+
+3070       0757   0802      0807  G15  5   XRA  1-8A      B8.1    3.2E-04   1261
+3070 +     0800   0804      0827  SVI  3   FLA  N19W51    SF      ERU       1261
+3070       0808   ////      0808  SVI  C   RSP  025-052   III/1             1261
+
+3090 +     0922   0925      0928  G15  5   XRA  1-8A      B8.3    1.8E-04   1261
+
+3100       1003   ////      1003  SVI  C   RSP  028-054   III/1                 
+
+3110 +     1023   1030      1037  G15  5   XRA  1-8A      C1.0    6.5E-04   1261
+
+3180 +     1236   ////      1748  SVI  C   RSP  025-146   VI/1                  
+
+3130       1238   1245      1257  G15  5   XRA  1-8A      C2.0    1.7E-03   1263
+3130       1241   1242      1248  SVI  3   FLA  N19W24    SF                1263
+
+3160       1620   ////      1622  PAL  C   RSP  104-180   IV/1                  
+
+3170       1629   1630      1632  SVI  3   FLA  N18W57    SF                1260
+
+3190       1740   1747      1753  G15  5   XRA  1-8A      C1.8    1.0E-03   1263
+3190       1740   1742      1756  HOL  3   FLA  N18W27    SF      ERU       1263
+
+3200       1800   1802      1812  HOL  3   FLA  N18W26    SF                1263
+
+3210       1823   1824      1828  HOL  3   FLA  N19W84    SF                1260
+
+3220       1914   ////      1915  PAL  C   RSP  025-063   III/1                 
+
+3230       1941   1945      1949  G15  5   XRA  1-8A      C1.4    3.9E-04   1261
+3230       1944   1945      1951  HOL  3   FLA  N16W60    SF      ERU       1261
+
+3240       2052   ////      2120  PAL  C   RSP  025-075   VI/1              1261
+3240 +     2104   2108      2112  G15  5   XRA  1-8A      B8.0    2.5E-04   1261
+
+3250       2352   ////      2359  LEA  C   RSP  075-180   CTM/1                 

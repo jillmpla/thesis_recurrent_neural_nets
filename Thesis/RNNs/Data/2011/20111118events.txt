@@ -1,0 +1,66 @@
+:Product: 20111118events.txt
+:Created: 2011 Nov 21 0332 UT
+:Date: 2011 11 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Nov 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6470       0000   0005      0011  LEA  3   FLA  S17W14    SF                1346
+
+6270 +     0009   ////      0010  CUL  C   RSP  020-180   III/1                 
+
+6280 +     0034   ////      0037  LEA  C   RSP  025-180   III/2                 
+
+6290       0042   ////      0042  SAG  C   RSP  025-180   III/1                 
+
+6300       0110   ////      0121  LEA  C   RSP  025-133   VI/1              1354
+6300 +     0111   ////      0111  CUL  C   RSP  020-150   III/1             1354
+6300 +     0115   0116      0119  COM  3   FLA  S17E70    SF                1354
+
+6310       0217   ////      0240  LEA  C   RSP  025-180   VI/2              1353
+6310       0236   0239      0243  LEA  3   FLA  N09E72    SF                1353
+6310 +     0239   0239      0239  LEA  G   RBR  245       630               1353
+6310 +     0240   ////      0240  CUL  C   RSP  080-400   III/1             1353
+
+6320 +     0338   0338      0343  COM  3   FLA  S15E69    SF                1354
+
+6330       0350   0350      0352  LEA  G   RBR  245       290                   
+6330 +     0351   ////      0353  CUL  C   RSP  018-280   III/3                 
+
+6350       0359   ////      0528  LEA  C   RSP  025-157   VI/2                  
+
+6340       0518   0518      0518  LEA  G   RBR  245       140                   
+
+6360       0646   0653      0704  G15  5   XRA  1-8A      C2.5    2.1E-03       
+6360 +     0650   ////      0657  LEA  C   RSP  025-180   III/2                 
+6360 +     0652   0652      0652  LEA  G   RBR  245       140                   
+
+6370       0736   ////      0738  SVI  C   RSP  114-155   III/1                 
+
+6380       0839   0839      0839  SVI  G   RBR  245       100                   
+
+6390 +     1522   1524      1526  COM  3   FLA  N15E79    SF      DSD       1355
+
+6400       1638   1643      1650  G15  5   XRA  1-8A      C1.1    6.4E-04   1346
+6400       1643   1643      1652  HOL  3   FLA  S16W10    SF      ERU       1346
+
+6420       1707   1723      1756  G15  5   XRA  1-8A      C2.7    6.2E-03   1354
+6420       1709   1719      1732  HOL  3   FLA  S15E65    SF      ERU       1354
+6420 +     1726   1726      1726  SAG  G   RBR  410       190               1354
+
+6430       1904   1908      1911  G15  5   XRA  1-8A      C2.0    5.5E-04   1353
+6430       1904   1906      1912  HOL  3   FLA  N08E63    SF                1353
+
+6440       1943   1949      2005  HOL  3   FLA  S16W11    SF      ERU       1346
+
+6450       2018   2018      2018  PAL  G   RBR  245       100                   
+
+6460       2105   ////      2106  PAL  C   RSP  025-086   III/1                 
+
+6480       2353   0004      0010  G15  5   XRA  1-8A      C2.0    1.6E-03       

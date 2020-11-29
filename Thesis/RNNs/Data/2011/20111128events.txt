@@ -1,0 +1,59 @@
+:Product: 20111128events.txt
+:Created: 2011 Dec 01 0332 UT
+:Date: 2011 11 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Nov 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7730       0005   0012      0018  G15  5   XRA  1-8A      C1.0    6.1E-04       
+
+7740       0038   0038      0041  LEA  3   FLA  N09E76    SF                1362
+
+7750       0113   0117      0129  G15  5   XRA  1-8A      B8.7    6.7E-04   1362
+7750       0114   0116      0118  LEA  3   FLA  N09E75    1F                1362
+
+7760       0224   ////      0351  LEA  C   RSP  025-180   VI/2                  
+7760       0247   ////      0247  PAL  C   RSP  075-127   III/1                 
+7760       0304   0311      0318  G15  5   XRA  1-8A      C1.5    9.3E-04       
+
+7880       0628   ////      0632  CUL  C   RSP  023-200   III/1                 
+
+7770 +     0634   0634      0634  LEA  G   RBR  245       130                   
+7770 +     0635   ////      0637  CUL  C   RSP  025-270   III/1                 
+
+7780 +     0637   0637      0637  LEA  G   RBR  245       630                   
+
+7790 +     0822   ////      0822  SVI  C   RSP  033-085   III/1                 
+
+7800       1209   ////      1209  SVI  C   RSP  030-083   III/1                 
+
+7810 +     1247   ////      1247  SVI  C   RSP  033-083   III/1                 
+
+7820       1320   1326      1332  G15  5   XRA  1-8A      C2.2    1.2E-03       
+
+7830       1412   1415      1418  G15  5   XRA  1-8A      B9.8    2.2E-04       
+
+7850       1455   ////      1456  SAG  C   RSP  025-132   III/1                 
+
+7840       1456   1500      1507  G15  5   XRA  1-8A      C1.2    6.0E-04       
+
+7860       1822   1830      1839  G15  5   XRA  1-8A      C3.2    2.4E-03   1361
+7860       1823   1826      1842  HOL  3   FLA  N19E26    SF      ERU       1361
+
+7890       2131   ////      2133  CUL  C   RSP  060-140   III/1                 
+
+7900       2141   2147      2153  G15  5   XRA  1-8A      C1.2    6.6E-04   1356
+7900       2144   2146      2156  HOL  3   FLA  N20W25    SF      UMB       1356
+
+7910       2219   2219      2219  LEA  G   RBR  245       140                   
+
+7920       2256   2309      2322  G15  5   XRA  1-8A      C1.4    1.9E-03   1362
+7920 +     2304   2305      2316  HOL  3   FLA  N07E64    SF      ERU       1362
+
+7930       2354   2356      0003  LEA  3   FLA  N09E60    SF                1362

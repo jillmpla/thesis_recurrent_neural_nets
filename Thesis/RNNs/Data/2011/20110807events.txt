@@ -1,0 +1,88 @@
+:Product: 20110807events.txt
+:Created: 2011 Aug 10 0332 UT
+:Date: 2011 08 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Aug 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3490       0000   ////      0017  PAL  C   RSP  050-180   CTM/1             1263
+
+3690       0000   ////      0948  LEA  C   RSP  075-180   CTM/1                 
+
+3490       0017   0021      0027  G15  5   XRA  1-8A      B7.6    3.3E-04   1263
+3490       0020   0020      0023  HOL  3   FLA  N17W42    SF      ERU       1263
+
+3500 +     0100   0103      0106  G15  5   XRA  1-8A      B9.2    2.0E-04   1263
+
+3510 +     0203   0203      0203  LEA  G   RBR  245       170                   
+
+3640       0211   ////      0629  LEA  C   RSP  025-100   VI/1                  
+
+3530       0212   0222      0225  G15  5   XRA  1-8A      C1.3    8.2E-04   1263
+3530       0215   0222      0230  LEA  3   FLA  N19W37    SF                1263
+
+3580       0226   ////      0458  PAL  C   RSP  025-180   VI/1                  
+
+3540       0242   0243      0247  LEA  3   FLA  N19W37    SF                1263
+
+3550       0304   0319      0324  G15  5   XRA  1-8A      C2.1    1.7E-03   1263
+3550       0307   0311      0329  LEA  3   FLA  N18W38    SF                1263
+
+3560       0338   0343      0348  G15  5   XRA  1-8A      C1.4    6.1E-04       
+
+3590       0404   0408      0411  G15  5   XRA  1-8A      C1.6    4.7E-04   1263
+3590       0406   0411      0414  LEA  3   FLA  N19W38    SF                1263
+
+3650       0418   ////      0651  SVI  C   RSP  065-180   CTM/1                 
+
+3600       0420   0422      0425  LEA  3   FLA  S18E09    SF                1267
+
+3610       0456   ////      0530  SVI  C   RSP  025-075   VI/1                  
+
+3620 +     0542   0543      0550  LEA  3   FLA  N18W39    SF                1263
+
+3630       0551   0552      0555  LEA  3   FLA  N18W39    SF                1263
+
+3660       0615   0623      0630  G15  5   XRA  1-8A      B9.7    7.1E-04       
+
+3700       0716   ////      1017  SVI  C   RSP  025-145   VI/1                  
+
+3810       0820   ////      1746  SVI  C   RSP  055-180   CTM/1                 
+
+3670       0824   0832      0837  G15  5   XRA  1-8A      C1.6    9.2E-04   1267
+3670       0827   0828      0839  SVI  3   FLA  S16E09    SF      ERU       1267
+
+3680       0923   0927      0933  SVI  3   FLA  N17W46    SN      ERU       1263
+3680       0923   0927      0929  G15  5   XRA  1-8A      C2.1    4.0E-04   1263
+
+3710       0940   0941      0941  SVI  G   RBR  245       170                   
+
+3820       0959   ////      2133  SAG  C   RSP  075-180   CTM/1                 
+
+3730 +     1132   ////      1509  SVI  C   RSP  025-180   VI/1                  
+
+3720       1251   1254      1256  G15  5   XRA  1-8A      B7.2    1.1E-04   1263
+3720       1253   1255      1304  SVI  3   FLA  N17W47    SF      ERU       1263
+
+3740       1305   1306      1310  SVI  3   FLA  N19W53    SF      ERU       1263
+
+3750 +     1330   1331      1335  SVI  3   FLA  N17W48    SF      ERU       1263
+
+3760       1402   1406      1410  G15  5   XRA  1-8A      C1.3    4.2E-04   1263
+3760 +     1405   1405      1416  HOL  3   FLA  N17W48    SF      ERU       1263
+
+3770 +     1428   1435      1440  SVI  3   FLA  N17W45    SF      ERU       1263
+
+3780       1450   1450      1453  SVI  3   FLA  N17W46    SF      ERU       1263
+
+3800 +     1742   1744      1744  COM  G   RBR  245       150                   
+
+3570 +     1744   1750      1828  SAG  G   RNS  245       250                   
+
+3830 +     1849   ////      2348  PAL  C   RSP  025-066   VI/1                  

@@ -1,0 +1,101 @@
+:Product: 20110414events.txt
+:Created: 2011 Apr 17 0332 UT
+:Date: 2011 04 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Apr 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7800       0012   0013      0016  HOL  3   FLA  N15E73    SF                1193
+
+7810       0041   0048      0057  G15  5   XRA  1-8A      C1.5    1.1E-03   1190
+7810 +     0042   0043      0043  LEA  G   RBR  245       160               1190
+7810 +     0046   0049      0051  LEA  3   FLA  N11E01    SF      ERU       1190
+
+7820       0131   0135      0138  G15  5   XRA  1-8A      C1.4    3.8E-04   1193
+7820       0134   0141      0147  LEA  3   FLA  N16E70    SF                1193
+
+7830       0211   0211      0217  LEA  3   FLA  N16E71    SF                1193
+
+7840       0238   0239      0243  LEA  3   FLA  N15E70    SF      ERU       1193
+
+7850       0249   0258      0323  G15  5   XRA  1-8A      C2.0    3.3E-03   1193
+7850 +     0307   0309      0325  LEA  3   FLA  N15E70    SF      ERU       1193
+
+7860       0325   0326      0329  LEA  3   FLA  N22W35    SF                1186
+
+7870       0352   0352      0352  LEA  G   RBR  245       120                   
+
+7880       0354   0354      0409  LEA  3   FLA  N15E70    SF                1193
+
+7890       0459   0459      0504  LEA  3   FLA  N15E69    SF                1193
+
+7900 +     0506   0526      0552  LEA  3   FLA  N15E69    SF                1193
+7900       0520   0527      0533  G15  5   XRA  1-8A      C4.9    2.1E-03   1193
+
+7910 +     0615   0618      0620  G15  5   XRA  1-8A      B8.5    1.4E-04   1193
+
+7920 +     0648  U0700     A0728  SVI  3   FLA  N16W00    SF      ERU       1190
+7920       0656   0700      0706  G15  5   XRA  1-8A      C1.6    6.5E-04   1190
+
+8180       0724   ////      0739  LEA  2   DSF  S48E15    17                    
+
+7930      B0738  U0739     A0756  SVI  3   FLA  N12W07    SF                1190
+
+7940 +     0938   0944      0949  G15  5   XRA  1-8A      C2.3    1.1E-03   1190
+
+7950 +     1226   1229      1232  G15  5   XRA  1-8A      C1.6    3.7E-04   1185
+
+7960 +     1343   1344      1346  HOL  3   FLA  N13W07    SF                1190
+
+7970       1416   1416      1416  SVI  G   RBR  245       110                   
+
+7980       1425   1425      1452  HOL  3   FLA  N13W07    SF      BPT       1190
+
+7990       1453   1454      1501  HOL  3   FLA  N15E67    SF      ERU       1193
+
+8140       1457   1457      1502  HOL  3   FLA  N12W07    SF      ERU       1190
+
+8000       1521   1527      1534  G15  5   XRA  1-8A      C2.4    1.3E-03   1190
+8000 +     1525  U1527     A1547  SVI  3   FLA  N13W07    SF      ERU       1190
+
+8010       1707   1710      1713  G15  5   XRA  1-8A      C1.1    2.4E-04   1190
+8010       1709   1710      1714  HOL  3   FLA  N16W05    SF      DSD       1190
+
+8020       1757   1800      1807  HOL  3   FLA  N15E66    SF      DSD       1193
+
+8030       1812   1813      1818  HOL  3   FLA  N15E61    SF                1193
+
+8040       1837   1840      1843  G15  5   XRA  1-8A      B9.8    2.1E-04   1190
+8040 +     1840   1841      1845  HOL  3   FLA  N14W09    SF      BPT       1190
+
+8050       1856   1859      1901  G15  5   XRA  1-8A      B8.2    1.3E-04   1186
+8050 +     1857   1857      1857  SAG  G   RBR  245       160               1186
+8050       1900   1903      1909  HOL  3   FLA  N22W42    SF      DSD       1186
+
+8060       1948   1950      1952  HOL  3   FLA  N16E65    SF                1193
+
+8070       1957   2008      2012  G15  5   XRA  1-8A      C1.7    7.7E-04   1190
+8070       2007   2008      2014  HOL  3   FLA  N13W13    SF                1190
+
+8080       2017   2020      2022  G15  5   XRA  1-8A      B9.3    1.5E-04   1190
+8080       2018   2020      2031  HOL  3   FLA  N13W12    SF      DSD       1190
+
+8090       2111   2118      2127  G15  5   XRA  1-8A      C1.1    8.2E-04   1190
+8090       2115   2116      2121  HOL  3   FLA  N13W12    SF                1190
+
+8100       2240   ////      2242  CUL  C   RSP  100-190   III/1                 
+8100       2240   2241      2242  PAL  G   RBR  245       200                   
+
+8110       2250   2250      2257  HOL  3   FLA  N14E61    SF                1193
+
+8120       2338   ////      2339  CUL  C   RSP  030-100   III/1                 
+
+8130       2355   0005      0014  HOL  3   FLA  N15E61    SF                1193
+
+8150       2358   2358      0013  HOL  3   FLA  N13W16    SF                1190

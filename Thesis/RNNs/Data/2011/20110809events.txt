@@ -1,0 +1,100 @@
+:Product: 20110809events.txt
+:Created: 2011 Aug 12 0332 UT
+:Date: 2011 08 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Aug 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4110 +     0009   0012      0042  LEA  3   FLA  N18W65    SF                1263
+
+4120       0052   ////      0053  PAL  C   RSP  025-051   III/1                 
+
+4130       0053   ////      0053  LEA  C   RSP  025-100   III/1                 
+
+4140       0142   ////      0142  PAL  C   RSP  025-180   III/2                 
+
+4150       0319   0354      0408  G15  5   XRA  1-8A      M2.5    3.5E-02   1263
+4150       0323   0354      0439  LEA  3   FLA  N18W68    1B      BPT       1263
+4150       0324   ////      0400  LEA  C   RSP  025-180   VI/1              1263
+4150 +     0338   ////      0341  CUL  C   RSP  018-130   III/2             1263
+4150       0343   0343      0343  PAL  G   RBR  1415      110               1263
+
+4160       0454   0458      0500  LEA  3   FLA  N17W68    SF                1263
+
+4170       0539   0539      0543  LEA  3   FLA  N17W68    SF                1263
+
+4180       0716   ////      0717  SVI  C   RSP  120-147   III/1                 
+4180       0717   0717      0717  SVI  G   RBR  245       540                   
+4180       0717   0717      0717  SVI  U   RBR  410       200                   
+
+4190       0717   0717      0717  LEA  G   RBR  245       260                   
+
+4200 +     0719   0723      0727  G15  5   XRA  1-8A      C1.4    4.6E-04   1263
+4200       0722   0722      0722  SVI  G   RBR  245       120               1263
+4200 +     0722   ////      0722  LEA  C   RSP  025-180   III/1             1263
+
+4210       0728   0730      0732  LEA  3   FLA  N16W69    SF                1263
+
+4220       0748   0805      0808  G15  5   XRA  1-8A      X6.9    1.9E-01   1263
+4220 +     0754   0806      0904  LEA  3   FLA  N17W69    2B      ERU       1263
+4220 +     0759   0802      0806  LEA  G   RBR  610       32000   CastelliU 1263
+4220 +     0800   0802      0809  SVI  G   RBR  245       19000   CastelliU 1263
+4220 +     0800   0802      0808  LEA  G   RBR  410       93000   CastelliU 1263
+4220 +     0801   0803      0807  SVI  G   RBR  8800      1500    CastelliU 1263
+4220 +     0801   0803      0807  SVI  G   RBR  15400     1600    CastelliU 1263
+4220 +     0801   0802      0807  SVI  G   RBR  4995      1100    CastelliU 1263
+4220 +     0801   ////      0816  SVI  C   RSP  025-180   II/1    1551      1263
+4220 +     0801   0802      0806  SVI  G   RBR  2695      710     CastelliU 1263
+4220 +     0801   0802      0806  SVI  G   RBR  1415      520     CastelliU 1263
+
+4230 +    B0812   ////     A1518  COM  4   CME  XUV,EUV,UV277-276/FS1632      1263
+4230 +     0814   0814      0814  SVI  G   RBR  245       200               1263
+
+4240       0817   ////      0817  LEA  C   RSP  025-180   III/1                 
+
+4250       0817   ////      0819  SVI  C   RSP  025-180   III/1                 
+4250 +     0817   0818      0820  SVI  G   RBR  245       8200                  
+4250 +     0817   0818      0819  SVI  G   RBR  1415      490                   
+4250 +     0817   0818      0819  SVI  G   RBR  2695      260                   
+4250 +     0818   0818      0819  LEA  G   RBR  410       1400                  
+4250       0818   0818      0819  LEA  G   RBR  610       420                   
+4250 +     0818   0818      0818  SVI  G   RBR  4995      140                   
+4250 +     0820   ////      0840  SVI  C   RSP  025-084   IV/1                  
+
+4260 +     0832   0849      0853  SVI  G   RBR  245       530                   
+4260 +     0832   0839      0850  LEA  G   RBR  410       400                   
+4260       0838   ////      0920  SVI  C   RSP  025-151   VI/1                  
+
+4270 +     0848   0849      0851  SVI  G   RBR  1415      150                   
+
+4280 +     1156   ////      1156  SVI  C   RSP  033-082   III/1                 
+
+4290       1205   1205      1208  SVI  3   FLA  N15W73    SF      ERU       1263
+
+4300       1252   1255      1301  SVI  3   FLA  N17W72    SF      ERU       1263
+
+4310       1329   1345      1357  G15  5   XRA  1-8A      C2.2    2.7E-03   1263
+4310 +     1332   ////      1332  SVI  C   RSP  025-081   III/1             1263
+4310 +     1333   1346      1355  SVI  3   FLA  N16W79    SF      ERU       1263
+
+4320       1435   1437      1450  SVI  3   FLA  N16W80    SF      ERU       1263
+
+4330       1543   1554      1604  G15  5   XRA  1-8A      C2.4    2.2E-03   1263
+4330 +     1546   1547      1600  SVI  3   FLA  N15W75    SF      ERU       1263
+
+4340       1658   1702      1705  G15  5   XRA  1-8A      B8.6    2.4E-04       
+
+4440      A1704   ////     A0550  SVI  3   DSF  S16W36    5                     
+
+4350       1804   1811      1842  G15  5   XRA  1-8A      C2.0    3.7E-03       
+
+4360       2007   2007      2010  HOL  3   FLA  N16W74    SF                1263
+
+4370       2333   2343      2349  G15  5   XRA  1-8A      C3.9    2.3E-03   1263
+4370       2337   2344      2356  LEA  3   FLA  N18W79    SF                1263

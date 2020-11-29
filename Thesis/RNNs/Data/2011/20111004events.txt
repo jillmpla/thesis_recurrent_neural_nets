@@ -1,0 +1,48 @@
+:Product: 20111004events.txt
+:Created: 2011 Oct 07 0332 UT
+:Date: 2011 10 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Oct 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7160       0226   ////      0227  LEA  C   RSP  025-170   III/1                 
+
+7090       0227   ////      0227  CUL  C   RSP  018-180   III/1                 
+
+7100 +     0318   ////      0320  CUL  C   RSP  018-120   III/1                 
+
+7170       0359   ////      0400  LEA  C   RSP  025-103   III/1                 
+
+7110       0400   ////      0401  CUL  C   RSP  020-100   III/1                 
+
+7180       0401   ////      0443  LEA  U   RSP  082-180   CTM/1                 
+
+7120       0417   ////      0427  CUL  C   RSP  030-160   III/1                 
+
+7190       0452   ////      0456  CUL  C   RSP  057-180   III/1                 
+
+7200 +     0703   ////      0844  SVI  C   RSP  025-180   CTM/1                 
+7200       0714   ////      0716  CUL  C   RSP  025-180   III/1                 
+
+7130       0856   0923      1002  G15  5   XRA  1-8A      C7.3    1.9E-02   1302
+7130 +     0913   0918      0931  LEA  3   FLA  N13W72    SF                1302
+7130 +     0930   ////      0931  LEA  C   RSP  040-115   III/1             1302
+
+7210       1147   ////      1458  SVI  C   RSP  025-180   CTM/1                 
+7210       1226   1226      1226  SVI  G   RBR  245       100                   
+
+7220       1410   ////      1411  SAG  C   RSP  025-109   III/1                 
+
+7230 +     1653   ////      1945  PAL  U   RSP  025-180   CTM/1                 
+
+7240 +     1744   ////      1746  PAL  C   RSP  025-180   III/1                 
+
+7250       1902   ////      1905  SAG  C   RSP  025-034   III/1                 
+
+7260 +     1935   ////      1936  SAG  C   RSP  025-108   III/1                 

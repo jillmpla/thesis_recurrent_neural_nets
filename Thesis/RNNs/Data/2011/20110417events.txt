@@ -1,0 +1,45 @@
+:Product: 20110417events.txt
+:Created: 2011 Apr 20 0332 UT
+:Date: 2011 04 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Apr 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8810       0016   ////      0019  CUL  C   RSP  030-090   III/1                 
+
+8670       0031   0039     A0040  HOL  3   FLA  N15W40    SF                1190
+8670       0039   0039      0041  PAL  G   RBR  245       230               1190
+
+8680 +     0040   0040      0040  LEA  G   RBR  245       110                   
+
+8690 +     0137   0137      0137  LEA  G   RBR  245       120                   
+
+8700 +     0215   0215      0215  LEA  G   RBR  245       140                   
+
+8820       0329   ////      0330  CUL  C   RSP  030-090   III/1                 
+
+8710       0418   0418      0418  LEA  G   RBR  245       100                   
+
+8720 +     0538   0541      0543  G15  5   XRA  1-8A      B7.1    1.1E-04   1190
+
+8740 +     0649   0649      0649  LEA  G   RBR  610       470                   
+
+8750 +     0802   0806      0811  G15  5   XRA  1-8A      B8.0    3.0E-04   1185
+
+8730 +     1054   1054      2003  SAG  G   RNS  245       210                   
+
+8760 +     1408   1415      1423  G15  5   XRA  1-8A      C1.4    9.6E-04   1185
+
+8780       1529   1540      1601  G15  5   XRA  1-8A      B7.4    1.3E-03       
+
+8790       1629   1649      1700  G15  5   XRA  1-8A      B7.2    1.2E-03       
+
+8800       1900   1918      1933  G15  5   XRA  1-8A      C1.3    2.1E-03       
+
+8770       2054   2054      2059  SAG  G   RBR  245       150                   

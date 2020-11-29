@@ -1,0 +1,53 @@
+:Product: 20110713events.txt
+:Created: 2011 Jul 16 0332 UT
+:Date: 2011 07 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Jul 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7960       0047   0050      0054  G15  5   XRA  1-8A      B3.3    9.1E-05       
+
+8010       0107   0129      0142  G15  5   XRA  1-8A      B4.9    8.6E-04       
+
+7980 +     0421   0427      0440  G15  5   XRA  1-8A      B5.0    4.7E-04   1247
+
+7990 +     0459   ////      0459  LEA  C   RSP  028-096   III/1                 
+
+8000       0522   ////      0522  SVI  C   RSP  028-066   III/1                 
+
+8020 +     0737   ////      0738  SVI  C   RSP  035-083   III/1                 
+
+8030       0810   ////      0937  LEA  C   RSP  028-120   VI/1                  
+
+8040 +     0931   0935      0939  G15  5   XRA  1-8A      B4.1    1.3E-04   1247
+
+8050       0952   ////      0954  SAG  C   RSP  025-136   III/1                 
+
+8060       1109   ////      1247  SAG  C   RSP  025-075   VI/1                  
+
+8070       1246   ////      1247  SVI  C   RSP  030-059   III/1                 
+
+8080       1344   ////      1344  SVI  C   RSP  036-056   III/1                 
+
+8090 +     1439   ////      1444  SVI  C   RSP  028-062   III/1                 
+
+8100       1704   1708      1716  G15  5   XRA  1-8A      B3.5    1.9E-04       
+
+8110 +     1759   ////      1800  SAG  C   RSP  025-075   III/1                 
+
+8120       1831   ////      1839  SAG  C   RSP  025-180   III/2                 
+8120 +     1831   1831      1831  SAG  G   RBR  245       380                   
+
+8130 +     2111   2111      2111  PAL  G   RBR  245       190                   
+8130       2111   ////      2112  SAG  C   RSP  025-180   III/1                 
+
+8140       2134   ////      2113  PAL  C   RSP  025-180   III/1                 
+8140       2135   2138      2141  G15  5   XRA  1-8A      B4.3    9.0E-05       
+
+8150 +     2321   2325      2329  G15  5   XRA  1-8A      B5.7    1.8E-04   1254

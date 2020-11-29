@@ -1,0 +1,48 @@
+:Product: 20110423events.txt
+:Created: 2011 Apr 26 0332 UT
+:Date: 2011 04 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Apr 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  70       0022   0024      0033  HOL  3   FLA  S17E29    SF                1195
+
+  80       0035   0037      0041  HOL  3   FLA  S17E29    SF                1195
+
+  90       0152   0200      0207  G15  5   XRA  1-8A      C1.3    9.0E-04   1195
+  90       0155   0155      0212  LEA  3   FLA  S18E28    SF      BPT       1195
+
+ 100 +     0243   0247      0250  G15  5   XRA  1-8A      B8.6    2.1E-04   1195
+
+ 110 +     0309   0313      0324  G15  5   XRA  1-8A      B6.1    4.4E-04   1195
+
+ 120 +     0339   0353      0400  G15  5   XRA  1-8A      C1.9    1.6E-03   1195
+
+ 130       0414   0419      0421  G15  5   XRA  1-8A      C1.1    2.9E-04   1195
+ 130       0418   0419      0422  LEA  3   FLA  S17E25    SF      BPT       1195
+
+ 140 +     0451   0459      0504  G15  5   XRA  1-8A      C1.2    7.1E-04   1195
+
+ 150       0730   0734      0738  G15  5   XRA  1-8A      C2.4    6.8E-04   1195
+ 150 +     0732   0734      0738  SVI  3   FLA  S16E24    SF      ERU       1195
+
+ 160       1028   1032      1036  G15  5   XRA  1-8A      B5.5    1.8E-04   1195
+ 160       1032   1032      1035  SVI  3   FLA  S16E25    SF      ERU       1195
+
+ 190 +     1119   1119      1138  SVI  G   RNS  245       210                   
+
+ 170       1243   1252      1307  G15  5   XRA  1-8A      B8.1    9.6E-04   1193
+ 170       1250   1250      1256  SVI  3   FLA  N14W55    SF      ERU       1193
+
+ 180       1409   1422      1432  G15  5   XRA  1-8A      C1.0    1.2E-03   1195
+ 180       1411   1422      1434  HOL  3   FLA  S16E21    SF                1195
+
+ 200 +     1604   1607      1611  G15  5   XRA  1-8A      B6.2    1.7E-04   1193
+
+ 210 +     1858   1903      1908  G15  5   XRA  1-8A      B6.7    3.0E-04   1193

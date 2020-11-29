@@ -1,0 +1,43 @@
+:Product: 20110227events.txt
+:Created: 2011 Mar 02 0332 UT
+:Date: 2011 02 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Feb 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9900       0041   0059      0114  G15  5   XRA  1-8A      B7.3    1.2E-03   1164
+
+9910 +     0349   0355      0358  G15  5   XRA  1-8A      C4.2    1.1E-03   1164
+9910       0353   0355      0401  LEA  3   FLA  N27E58    SF                1164
+
+9920       0412   ////      0421  LEA  C   RSP  025-073   III/1                 
+
+9930 +     0504   0511      0515  G15  5   XRA  1-8A      B2.7    1.4E-04   1164
+
+  40       0551   ////      0555  CUL  C   RSP  057-160   III/1                 
+
+9950       0755   0757      0800  G15  5   XRA  1-8A      B2.8    1.1E-04   1164
+
+9960 +     0916   ////      0917  SVI  C   RSP  025-180   III/2                 
+
+9970 +     1401   ////      1401  SAG  C   RSP  025-148   III/1                 
+
+9980       1430   1442      1449  G15  5   XRA  1-8A      B6.1    4.8E-04   1164
+9980       1434   1436     A1510  SVI  2   FLA  N26E54    SF      ERU       1164
+
+9990       1547   1553      1559  G15  5   XRA  1-8A      B7.2    3.4E-04   1164
+9990       1551   1552      1559  HOL  3   FLA  N23E51    SF                1164
+9990 +     1553   ////      1557  SVI  C   RSP  025-155   III/1             1164
+
+  10 +     1714   1718      1722  G15  5   XRA  1-8A      B2.9    9.2E-05   1164
+
+  20       2117   2134      2143  G15  5   XRA  1-8A      B7.7    8.5E-04   1164
+
+  30       2221   2224      2226  G15  5   XRA  1-8A      B6.8    1.1E-04   1164
+  30 +     2224   ////      2224  CUL  C   RSP  057-300   III/3                 

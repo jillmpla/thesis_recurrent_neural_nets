@@ -1,0 +1,14 @@
+:Product: 20110520events.txt
+:Created: 2011 May 23 0332 UT
+:Date: 2011 05 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 May 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2120       0050   ////      0050  CUL  C   RSP  020-075   III/1                 

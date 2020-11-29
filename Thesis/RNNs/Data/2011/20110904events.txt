@@ -1,0 +1,59 @@
+:Product: 20110904events.txt
+:Created: 2011 Sep 07 0332 UT
+:Date: 2011 09 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Sep 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7540 +     0000   ////      0014  COM  3   FLA  N19W74    SF                1286
+
+7550 +     0101   0107      0113  G15  5   XRA  1-8A      C8.3    3.3E-03   1286
+
+7650       0159   ////      0159  CUL  C   RSP  020-080   III/1                 
+
+7660       0211   ////      0214  CUL  C   RSP  020-090   III/1                 
+
+7670       0330   ////      0330  CUL  C   RSP  020-080   III/1                 
+
+7560       0436   ////      0437  CUL  C   RSP  035-180   III/1             1286
+7560       0436   0453      0503  G15  5   XRA  1-8A      C9.0    9.0E-03   1286
+7560       0440   0506      0513  LEA  3   FLA  N19W67    SF                1286
+7560 +     0442   ////      0449  CUL  C   RSP  057-130   II/1    600       1286
+
+7700       0448   ////      0454  CUL  C   RSP  045-095   II/1    600           
+
+7570       0535   0618      0628  G15  5   XRA  1-8A      C4.0    2.2E-03   1286
+7570       0627   ////      1359  SVI  C   RSP  025-082   VI/2                  
+
+7580       0813   ////      0813  LEA  C   RSP  025-061   III/1                 
+
+7590 +     1121   1145      1150  G15  5   XRA  1-8A      M3.2    1.8E-02   1286
+7590 +     1141   1142      1145  SVI  G   RBR  8800      150               1286
+7590       1141   1142      1145  SVI  G   RBR  15400     130               1286
+7590       1143   ////      1359  SAG  C   RSP  025-065   VI/1              1286
+
+7620       1418   1418      1741  HOL  3   FLA  N17W87    SF                1280
+
+7600       1440   ////      1531  SVI  C   RSP  025-062   VI/1              1286
+7600 +     1521   1534      1553  G15  5   XRA  1-8A      C5.8    8.3E-03   1286
+
+7760      A1543   ////     A0515  SVI  3   DSF  N09W09    9                     
+
+7610       1611   ////      1611  SVI  C   RSP  027-055   III/1                 
+
+7630       1915   1919      1921  G15  5   XRA  1-8A      B8.9    2.0E-04       
+
+7640       1930   1934      1937  G15  5   XRA  1-8A      B9.5    2.6E-04       
+
+7680       1940   1947      1959  G15  5   XRA  1-8A      C1.4    1.3E-03       
+7680 +     1950   ////      1955  PAL  C   RSP  025-066   III/1                 
+
+7690       2246   2246      2251  HOL  3   FLA  S29E55    SF      BPT       1287
+
+7710       2358   0037      0104  G15  5   XRA  1-8A      C7.9    2.2E-02       

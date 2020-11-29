@@ -1,0 +1,28 @@
+:Product: 20110320events.txt
+:Created: 2011 Mar 23 0332 UT
+:Date: 2011 03 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2011 Mar 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4520       0116   0258      0437  G15  5   XRA  1-8A      B4.7    4.4E-03       
+
+4530 +     0725   0733      0747  G15  5   XRA  1-8A      B7.1    7.2E-04   1175
+
+4540 +     0812   ////      0916  SVI  C   RSP  025-075   VI/2                  
+
+4550       1010   ////      1011  SVI  C   RSP  025-068   III/1                 
+
+4560 +     1355   ////      1355  SAG  C   RSP  025-125   III/1                 
+
+4570 +     1429   ////      1456  SVI  C   RSP  025-075   VI/1                  
+
+4580 +     1547   ////      1548  SAG  C   RSP  025-180   III/1                 
+
+4590       1650   ////      1654  SAG  C   RSP  025-146   III/1                 
