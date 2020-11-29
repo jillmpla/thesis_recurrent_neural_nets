@@ -1,0 +1,80 @@
+:Product: 20100328events.txt
+:Created: 2010 Mar 31 0332 UT
+:Date: 2010 03 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Mar 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1940 +     0124   0128      0132  G14  5   XRA  1-8A      B1.4    4.8E-05       
+
+2190       0152   ////      0152  CUL  C   RSP  20-90     III/1                 
+
+2200       0250   ////      0252  CUL  C   RSP  40-100    III/1                 
+
+2210       0306   ////      0308  CUL  C   RSP  60-170    III/1                 
+
+2220       0324   ////      0324  CUL  C   RSP  45-160    III/1                 
+
+1950 +     0327   0334      0339  G14  5   XRA  1-8A      B3.8    1.7E-04   1057
+
+2230       0416   ////      0417  CUL  C   RSP  45-180    III/1                 
+
+2240       0514   ////      0514  CUL  C   RSP  100-180   III/1                 
+
+1960       0539   0544      0548  G14  5   XRA  1-8A      B4.0    1.2E-04       
+
+2040       0600   ////      1200  IZM  F   RNS  204       11                    
+
+1970 +     0601   ////      0602  CUL  C   RSP  20-180    III/1                 
+
+1980       0932   0937      0940  G14  5   XRA  1-8A      B3.3    9.3E-05   1057
+1980       0935   ////      0935  SVI  C   RSP  025-051   III/1             1057
+1980       0936   0936      0942  LEA  3   FLA  N16E12    SF                1057
+
+1990       0950   ////      0953  SVI  C   RSP  025-038   III/1                 
+
+2000       1023   ////      1029  SVI  C   RSP  025-180   III/2                 
+
+2010       1047   1053      1058  G14  5   XRA  1-8A      B2.8    1.3E-04       
+
+2020       1139   1146      1154  G14  5   XRA  1-8A      B2.4    1.6E-04       
+
+2030       1303   1303      1303  SAG  G   RBR  245       160                   
+
+2050       1315   1317      1317  SAG  G   RBR  245       140                   
+
+2060       1425   1425      1425  SAG  G   RBR  245       100                   
+
+2070       1524   1524      1524  SAG  G   RBR  245       160                   
+
+2080       1531   1532      1532  SAG  G   RBR  245       280                   
+
+2090       1812   1812      1813  SAG  G   RBR  245       280                   
+2090 +     1812   ////      1814  SAG  C   RSP  025-180   V/2                   
+
+2100       1814   1814      1814  PAL  G   RBR  245       250                   
+
+2110       1859   1859      1859  SAG  G   RBR  245       120                   
+
+2120 +     1901   1901      1902  SAG  G   RBR  245       130                   
+
+2130       1903   1903      1903  PAL  G   RBR  245       120                   
+
+2140       1956   1956      1956  SAG  G   RBR  245       140                   
+
+2150       1958   1958      1958  PAL  G   RBR  245       120                   
+
+2250       2038   ////      2038  CUL  C   RSP  35-80     III/1                 
+
+2160 +     2118   ////      2120  CUL  C   RSP  20-180    III/1                 
+
+2170       2245   2245      2245  PAL  G   RBR  245       110                   
+
+2180 +     2256   ////      2257  LEA  C   RSP  025-180   V/2                   
+2180       2257   ////      2258  CUL  C   RSP  20-200    III/2                 

@@ -1,0 +1,22 @@
+:Product: 20101209events.txt
+:Created: 2010 Dec 12 0332 UT
+:Date: 2010 12 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Dec 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2020       0055   ////      0055  LEA  C   RSP  026-049   III/1                 
+
+2030       0317   0320      0324  G15  5   XRA  1-8A      B1.3    3.6E-05   1131
+
+2040       0435   0435      0435  LEA  G   RBR  245       120                   
+
+2050       0438   0438      0439  LEA  G   RBR  245       170                   
+
+2060       1430   ////      1431  SAG  U   RSP  025-083   III/1                 

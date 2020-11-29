@@ -1,0 +1,49 @@
+:Product: 20100727events.txt
+:Created: 2010 Jul 30 0332 UT
+:Date: 2010 07 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jul 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6370 +     0100   0107      0118  G14  5   XRA  1-8A      B5.5    4.7E-04   1089
+6370       0115   ////      0115  CUL  C   RSP  57-80     III/1             1089
+
+6380       0120   0120      0126  LEA  3   FLA  S23W23    SF                1089
+
+6390 +     0348   0357      0409  G14  5   XRA  1-8A      B8.0    7.3E-04   1089
+6390       0353   0415      0448  LEA  3   FLA  S23W23    SF                1089
+
+6400 +     0412   0424      0434  G14  5   XRA  1-8A      C2.2    1.9E-03   1089
+
+6410 +     0808   ////      0808  SVI  C   RSP  025-136   III/1                 
+
+6420       0945   0954      1029  G14  5   XRA  1-8A      B4.2    9.3E-04       
+6420       1013   ////      1014  SVI  C   RSP  025-054   III/1                 
+
+6430       1033   ////      1040  SVI  C   RSP  025-180   III/1                 
+
+6440 +     1145   ////      1145  SAG  C   RSP  025-180   III/1                 
+
+6450       1231   1231      1231  SVI  G   RBR  245       260                   
+
+6460       1500   ////      1505  SAG  C   RSP  025-061   III/1                 
+
+6470       1641   ////      1641  SVI  C   RSP  025-084   III/1                 
+
+6480       1652   ////      1653  SVI  U   RSP  031-079   III/1                 
+
+6490 +     1914   1931      1939  G14  5   XRA  1-8A      B6.0    6.8E-04   1089
+
+6500       2227   ////      2227  CUL  C   RSP  57-130    III/1                 
+
+6510       2308   ////      2308  CUL  C   RSP  57-100    III/1                 
+
+6520 +     2317   ////      2318  CUL  C   RSP  57-100    III/1                 
+
+6530       2354   2358      0001  G14  5   XRA  1-8A      B3.8    9.0E-05       

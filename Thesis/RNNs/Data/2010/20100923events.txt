@@ -1,0 +1,17 @@
+:Product: 20100923events.txt
+:Created: 2010 Sep 26 0332 UT
+:Date: 2010 09 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Sep 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5190 +     0456   0500      0505  G14  5   XRA  1-8A      B2.6    1.0E-04   1109
+5190       0459   0459      0505  LEA  3   FLA  N19E66    SF                1109
+
+5200       0610   0610      0613  LEA  3   FLA  N19E65    SF                1109

@@ -1,0 +1,30 @@
+:Product: 20100228events.txt
+:Created: 2010 Mar 03 0332 UT
+:Date: 2010 02 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Feb 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 100       0241   ////      0245  CUL  C   RSP  18-180    III/1                 
+
+  50 +     0808   ////      0812  LEA  C   RSP  025-141   III/1                 
+
+  60 +     0909   ////      0909  LEA  C   RSP  025-114   III/1                 
+
+  70 +     1010   ////      1018  SVI  C   RSP  025-083   III/1                 
+
+  80       1249   ////      1249  SVI  C   RSP  025-042   III/1                 
+
+ 110       2111   ////      2111  CUL  C   RSP  18-90     III/1                 
+
+ 120       2145   ////      2145  CUL  C   RSP  20-80     III/1                 
+
+ 130       2225   ////      2231  CUL  C   RSP  18-150    III/1                 
+
+  90       2336   2340      2346  G14  5   XRA  1-8A      B1.1    5.2E-05       

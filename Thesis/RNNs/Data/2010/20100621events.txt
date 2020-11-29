@@ -1,0 +1,16 @@
+:Product: 20100621events.txt
+:Created: 2010 Jun 24 0332 UT
+:Date: 2010 06 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jun 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4720 +    A0207   ////     B1212  COM  3   DSF  N19W18    19      B.0A          
+
+4730       1908   1912      1914  G14  5   XRA  1-8A      B1.3    2.9E-05   1082

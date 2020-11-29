@@ -1,0 +1,20 @@
+:Product: 20101207events.txt
+:Created: 2010 Dec 10 0332 UT
+:Date: 2010 12 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Dec 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1940       0501   ////      0501  CUL  C   RSP  060-130   III/1                 
+
+1910       0719   0739      0742  G15  5   XRA  1-8A      B1.9    2.5E-04   1133
+
+1920       0756   ////      0756  SVI  U   RSP  036-063   III/1                 
+
+1950       2017   2020      2023  G15  5   XRA  1-8A      B1.3    2.8E-05       

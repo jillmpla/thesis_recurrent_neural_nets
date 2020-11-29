@@ -1,0 +1,84 @@
+:Product: 20100801events.txt
+:Created: 2010 Aug 04 0332 UT
+:Date: 2010 08 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Aug 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7380       0008   ////      0008  CUL  C   RSP  57-90     III/1                 
+
+7390       0209   ////      0211  CUL  C   RSP  57-150    III/1                 
+
+7190       0338   0350      0355  G14  5   XRA  1-8A      B4.5    3.4E-04       
+
+7400       0409   ////      0409  CUL  C   RSP  57-90     III/1                 
+
+7410       0602   ////      0606  CUL  C   RSP  57-180    III/1                 
+
+7200       0605   ////      0605  LEA  C   RSP  025-170   III/1                 
+
+7230 +     0750   ////      0811  LEA  3   DSF  N37W32    42      B.0A          
+
+7250 +     0754   0908      1035  SVI  G   RBR  245       10000                 
+7250 +     0755   0907      1052  SVI  G   RBR  410       44000                 
+
+7240       0755   0826      0935  G14  5   XRA  1-8A      C3.2    1.5E-02   1092
+7240       0756   0756      0756  LEA  G   RBR  245       100               1092
+7240 +     0756   0826      0946  LEA  3   FLA  N20E36    SF      ERU       1092
+
+7250       0801   0825      0946  LEA  G   RBR  606       34000                 
+
+7220       0806   ////      0814  SVI  C   RSP  025-142   III/1                 
+7220       0807   0825      1049  SVI  U   RBR  606       27000                 
+7220 +     0808   ////      1136  SVI  C   RSP  025-180   IV/2                  
+7220       0811   0913      1052  SVI  G   RBR  1415      1800                  
+7220 +     0812   0921      1040  SVI  G   RBR  2695      890                   
+
+7240       0816   0820      0826  LEA  G   RBR  1415      1300              1092
+
+7260       0907   0921      0946  LEA  G   RBR  2695      880                   
+7260 +     0908   0922      1028  SVI  G   RBR  4995      270                   
+7260 +     0909   0922      1027  SVI  G   RBR  8800      160                   
+7260       0915   0922      0942  SVI  G   RBR  15400     81                    
+
+7270 +     1003   1015      1045  SAG  G   RBR  2695      150                   
+7270       1003   ////      1111  SAG  C   RSP  025-180   CTM/1                 
+7270       1005   1018      1051  SAG  G   RBR  1415      220                   
+7270 +     1011   1011      1012  SAG  G   RBR  4995      110                   
+7270       1015   1032      1040  SAG  G   RBR  410       160                   
+7270       1016   ////      1016  SAG  C   RSP  025-180   III/1                 
+7270 +     1035   1036      1036  SAG  G   RBR  245       100                   
+
+7280 +     1146   1146      1147  SVI  G   RBR  245       130                   
+7280 +     1146   ////      1147  SVI  C   RSP  025-180   III/2                 
+
+7290       1216   ////      1217  SVI  C   RSP  025-131   III/1                 
+
+7300       1225   1225      1225  SVI  G   RBR  245       230                   
+
+7310       1415   ////      1418  SVI  C   RSP  025-180   III/2                 
+7310       1415   1415      1416  SAG  G   RBR  245       400                   
+
+7320 +     1548   1548      1549  SAG  G   RBR  245       1000                  
+
+7350       1606   1625      1638  G14  5   XRA  1-8A      B4.1    7.1E-04       
+
+7330       1618   ////      1622  SVI  C   RSP  025-081   III/1                 
+
+7370       1655   ////      2100  HOL  4   DSF  N19W18    25      B.0A          
+
+7550      A1712   ////     B0504  SVI  3   DSF  N22W18    25      B.0A          
+
+7340       1730   ////      1731  SAG  U   RSP  025-054   III/1                 
+
+7360       2022   ////      2022  PAL  C   RSP  025-053   III/1                 
+
+7420       2122   ////      2124  CUL  C   RSP  57-140    III/1                 
+
+7430       2133   ////      2136  CUL  C   RSP  57-140    III/1                 

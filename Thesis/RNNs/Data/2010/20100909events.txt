@@ -1,0 +1,22 @@
+:Product: 20100909events.txt
+:Created: 2010 Sep 12 0332 UT
+:Date: 2010 09 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Sep 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3830 +     0001   ////      0002  PAL  C   RSP  025-131   III/1             1105
+
+3850       1549   ////      1549  SAG  C   RSP  025-067   III/1                 
+
+3840       1549   ////      1549  SVI  C   RSP  025-065   III/1                 
+
+3860       2136   ////      2136  CUL  C   RSP  057-120   III/1                 
+
+3870      A2328   ////     A2359  LEA  3   EPL  ////      0.24              1105

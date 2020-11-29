@@ -1,0 +1,62 @@
+:Product: 20101117events.txt
+:Created: 2010 Nov 20 0332 UT
+:Date: 2010 11 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Nov 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 470       0020   0023      0025  LEA  1   FLA  N14W45    SF                1124
+
+ 480 +     0028   0040      0047  G15  5   XRA  1-8A      B2.5    2.8E-04   1124
+
+ 490       0154   0154      0154  LEA  G   RBR  245       100                   
+
+ 550       0157   ////      0157  CUL  C   RSP  057-090   III/1                 
+
+ 560       0301   ////      0301  CUL  C   RSP  057-140   III/1                 
+
+ 500       0431   ////      0438  LEA  C   RSP  025-180   III/2             1126
+ 500 +     0435   0438      0440  G15  5   XRA  1-8A      B7.8    1.1E-04   1126
+ 500       0435   0436      0436  LEA  G   RBR  245       210               1126
+ 500       0436   0436      0437  LEA  G   RBR  410       500               1126
+ 500       0436   0436      0437  LEA  G   RBR  610       460               1126
+
+ 510       0507   0507      0507  LEA  G   RBR  245       120                   
+
+ 520       0604   ////      0604  LEA  C   RSP  104-180   III/1                 
+
+ 530       0742   ////      0742  LEA  C   RSP  081-180   III/1                 
+
+ 540 +     0807   0812      0816  G15  5   XRA  1-8A      B3.4    1.2E-04   1123
+ 540 +     0808   ////      0810  LEA  C   RSP  040-097   III/1             1123
+
+ 570       0939   ////      0945  LEA  C   RSP  077-180   III/2                 
+ 570 +     0939   0939      0939  SVI  G   RBR  245       640                   
+
+ 580       1007   1007      1007  SVI  G   RBR  245       160                   
+
+ 600 +     1013   1013      1036  SVI  G   RNS  245       140                   
+
+ 610       1214   ////      1214  SAG  C   RSP  118-180   III/1                 
+
+ 590       1214   1214      1214  SAG  G   RBR  245       100                   
+
+ 620       1214   ////      1214  SVI  C   RSP  028-151   III/1                 
+
+ 750      A1418   ////     A1033  SVI  3   DSF  S29W27    10                    
+
+ 630 +     1504   1504      1504  SAG  G   RBR  245       220                   
+
+ 640       1813   ////      1815  SAG  C   RSP  025-180   III/1                 
+ 640       1814   1814      1814  SAG  G   RBR  245       620                   
+ 640       1814   1814      1814  SAG  G   RBR  410       120                   
+ 640       1814   ////      1815  PAL  C   RSP  025-180   V/1                   
+
+ 650       1816   1817      1817  PAL  G   RBR  245       730                   
+ 650       1817   1817      1817  PAL  G   RBR  410       150                   

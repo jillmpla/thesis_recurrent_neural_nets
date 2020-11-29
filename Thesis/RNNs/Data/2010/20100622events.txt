@@ -1,0 +1,16 @@
+:Product: 20100622events.txt
+:Created: 2010 Jun 25 0332 UT
+:Date: 2010 06 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jun 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4740 +     0901   0904      0906  G14  5   XRA  1-8A      B1.0    1.6E-05   1082
+
+4750 +     0933   0938      0941  G14  5   XRA  1-8A      B2.1    6.0E-05   1082

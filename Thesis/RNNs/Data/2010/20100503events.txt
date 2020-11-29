@@ -1,0 +1,27 @@
+:Product: 20100503events.txt
+:Created: 2010 May 06 0332 UT
+:Date: 2010 05 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 May 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3290 +     0529   ////      0529  LEA  C   RSP  025-097   III/2                 
+
+3300 +     1252   1257      1302  G14  5   XRA  1-8A      B2.0    8.6E-05   1063
+
+3310 +     1338   1341      1343  G14  5   XRA  1-8A      B1.5    2.5E-05   0000
+3310 +     1338   1341      1343  G14  5   XRA  1-8A      B1.5    2.5E-05   0000
+
+3320       1500   1504      1507  G14  5   XRA  1-8A      B1.4    3.5E-05       
+
+3330 +     2150   2153      2156  G14  5   XRA  1-8A      B1.0    2.2E-05   1066
+
+3340       2246   ////      2246  PAL  C   RSP  025-091   III/1                 
+
+3350 +     2248   ////      2248  CUL  C   RSP  57-160    III/1                 

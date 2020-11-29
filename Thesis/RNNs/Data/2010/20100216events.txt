@@ -1,0 +1,33 @@
+:Product: 20100216events.txt
+:Created: 2010 Feb 19 0332 UT
+:Date: 2010 02 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Feb 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9430 +     0006   ////      0007  CUL  C   RSP  20-90     III/1                 
+
+9440       0030   ////      0030  PAL  U   RSP  025-082   III/1                 
+
+9450       0031   ////      0031  CUL  C   RSP  18-180    III/1                 
+
+9460       0044   ////      0044  CUL  C   RSP  23-80     III/1                 
+
+9470 +     0233   ////      0237  LEA  C   RSP  025-098   V/1                   
+9470       0233   ////      0235  CUL  C   RSP  18-100    III/1                 
+
+9480       0237   ////      0238  CUL  C   RSP  20-150    III/1                 
+
+9490 +     0348   0412      0432  G14  5   XRA  1-8A      B2.6    5.2E-04   1046
+
+9500 +     1411   ////      1412  SVI  C   RSP  025-064   III/2                 
+
+9510 +     1452   ////      1500  SVI  C   RSP  025-075   III/1                 
+
+9520 +     1907   ////      1913  SAG  C   RSP  025-180   III/1                 

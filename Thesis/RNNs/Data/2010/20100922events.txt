@@ -1,0 +1,35 @@
+:Product: 20100922events.txt
+:Created: 2010 Sep 25 0332 UT
+:Date: 2010 09 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Sep 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5080       0038   ////      0038  LEA  C   RSP  040-097   III/1                 
+
+5090 +     0350   0353      0357  G14  5   XRA  1-8A      B2.7    7.3E-05   1109
+
+5100       0426   0509      0537  G14  5   XRA  1-8A      B8.5    2.7E-03   1109
+5100       0507   ////      0507  LEA  C   RSP  040-061   III/1                 
+
+5110       0724   0724      0724  LEA  G   RBR  245       100                   
+
+5120       0724   0724      0724  SVI  G   RBR  245       190                   
+
+5130       1434   1442      1456  G14  5   XRA  1-8A      B2.7    3.4E-04   1106
+
+5140       1917   1918      1918  SAG  G   RBR  245       170                   
+
+5150       1934   1934      1934  SAG  G   RBR  245       110                   
+
+5160       1937   1937      1937  SAG  G   RBR  245       110                   
+
+5170       2047   ////      2047  PAL  C   RSP  030-082   III/1                 
+
+5180       2047   ////      2047  SAG  C   RSP  030-075   III/1                 

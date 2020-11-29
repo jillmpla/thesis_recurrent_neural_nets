@@ -1,0 +1,34 @@
+:Product: 20100831events.txt
+:Created: 2010 Sep 03 0332 UT
+:Date: 2010 08 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Aug 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3230       0238   ////      0238  CUL  C   RSP  057-140   III/1                 
+
+3240       0238   ////      0303  LEA  C   RSP  029-074   VI/1                  
+3240       0238   ////      0239  LEA  C   RSP  025-142   III/1                 
+
+3250       1326   ////      1355  SAG  C   RSP  025-083   VI/1                  
+3250 +     1335   ////      1337  SVI  C   RSP  025-137   V/1                   
+
+3260       1837   ////      1837  PAL  C   RSP  025-096   III/1                 
+
+3270       1838   ////      1839  SAG  C   RSP  025-153   III/1                 
+
+3280 +     1925   ////      1926  SAG  C   RSP  025-180   III/2                 
+
+3290 +     2050   ////      2053  SAG  C   RSP  025-180   III/1                 
+
+3300 +     2131   ////      2135  PAL  C   RSP  025-180   III/2                 
+
+3310 +     2150   2153      2156  G14  5   XRA  1-8A      B1.4    3.2E-05   1102
+
+3320 +     2243   2247      2249  G14  5   XRA  1-8A      B1.8    4.0E-05   1102

@@ -1,0 +1,24 @@
+:Product: 20100429events.txt
+:Created: 2010 May 02 0332 UT
+:Date: 2010 04 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Apr 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3020 +     0614   ////      0619  LEA  C   RSP  025-180   III/1                 
+
+3030 +     0722   ////      0722  SVI  C   RSP  025-125   III/2                 
+
+3040 +     0854   ////      0854  SVI  C   RSP  039-072   III/1                 
+
+3050 +     1358   ////      1400  SVI  C   RSP  025-180   III/1                 
+
+3060 +     1501   ////      1502  SVI  C   RSP  025-180   V/2                   
+
+3070 +     1524   ////      1524  SVI  C   RSP  039-140   III/1                 

@@ -1,0 +1,18 @@
+:Product: 20101028events.txt
+:Created: 2010 Oct 31 0332 UT
+:Date: 2010 10 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Oct 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8150 +     0354   ////      0355  CUL  C   RSP  057-090   III/1                 
+
+8160 +     0838   ////      0838  SVI  C   RSP  025-099   III/2                 
+
+8170 +     1012   1015      1019  G15  5   XRA  1-8A      B2.0    5.6E-05       

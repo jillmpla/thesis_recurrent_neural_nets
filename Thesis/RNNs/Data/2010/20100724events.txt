@@ -1,0 +1,20 @@
+:Product: 20100724events.txt
+:Created: 2010 Jul 27 0332 UT
+:Date: 2010 07 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jul 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6100       0305   0309      0313  G14  5   XRA  1-8A      B3.0    9.9E-05       
+
+6110       0430   0434      0439  G14  5   XRA  1-8A      B3.1    1.2E-04       
+
+6120       0604   0610      0616  SVI  3   FLA  S24E18    SF      ERU       1089
+
+6130       2033   2037      2041  G14  5   XRA  1-8A      B1.9    6.1E-05       

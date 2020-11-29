@@ -1,0 +1,30 @@
+:Product: 20100815events.txt
+:Created: 2010 Aug 18 0332 UT
+:Date: 2010 08 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Aug 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2620 +     0059   0104      0106  G14  5   XRA  1-8A      B3.9    9.4E-05   1099
+
+2630       0711   0712      0718  LEA  3   FLA  N17W63    SF                1099
+
+2640       0816   0820      0823  G14  5   XRA  1-8A      B4.9    1.4E-04   1099
+2640       0820   0820      0828  LEA  3   FLA  N16W63    SF                1099
+
+2650 +     1243   1249      1255  G14  5   XRA  1-8A      B7.8    4.2E-04   1099
+
+2660 +     1604   1609      1617  G14  5   XRA  1-8A      B5.3    3.1E-04   1099
+
+2670       1823   1830      1837  G14  5   XRA  1-8A      C5.4    2.8E-03   1099
+2670       1828   1832      1839  HOL  3   FLA  N15W71    SF      ERU       1099
+
+2680 +     1852   1857      1906  G14  5   XRA  1-8A      B6.4    4.3E-04   1099
+
+2690 +     2231   2236      2238  G14  5   XRA  1-8A      B3.0    8.5E-05   1099

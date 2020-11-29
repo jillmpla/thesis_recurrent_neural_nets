@@ -1,0 +1,28 @@
+:Product: 20100919events.txt
+:Created: 2010 Sep 22 0332 UT
+:Date: 2010 09 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Sep 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4780       0247   0256      0305  G14  5   XRA  1-8A      B2.4    2.3E-04   1106
+
+4790 +     0638   0716      0804  G14  5   XRA  1-8A      B3.6    5.3E-04   1108
+4790 +     0650   ////      0650  CUL  C   RSP  057-160   III/1                 
+
+4800 +     0714   ////      0720  LEA  C   RSP  025-095   III/1                 
+
+4810 +     0745   ////      0753  LEA  C   RSP  025-111   III/1                 
+
+4820 +     0823   ////      0824  SVI  C   RSP  025-119   III/1                 
+
+4850       1740   1742      1742  SAG  G   RNS  245       180                   
+4850       1740   1742      1742  SAG  G   RBR  245       180                   
+
+4840 +     1750   1750      1750  PAL  G   RBR  245       170                   

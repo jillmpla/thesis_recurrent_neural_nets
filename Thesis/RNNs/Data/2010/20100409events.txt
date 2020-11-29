@@ -1,0 +1,19 @@
+:Product: 20100409events.txt
+:Created: 2010 Apr 12 0332 UT
+:Date: 2010 04 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Apr 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2890       0444   0455      0502  G14  5   XRA  1-8A      B3.7    2.8E-04   1060
+2890       0448   0449      0456  LEA  3   FLA  N24E01    SF      BLU       1060
+
+2900       2018   2021      2023  G14  5   XRA  1-8A      B1.0    1.7E-05       
+
+2910       2032   2035      2040  G14  5   XRA  1-8A      B1.0    3.5E-05       

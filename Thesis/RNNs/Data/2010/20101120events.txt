@@ -1,0 +1,20 @@
+:Product: 20101120events.txt
+:Created: 2010 Nov 23 0332 UT
+:Date: 2010 11 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Nov 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 880 +     0421   0428      0439  G15  5   XRA  1-8A      B2.8    2.3E-04   1124
+
+ 890       0731   0731      0731  SVI  U   RBR  245       140                   
+
+ 900       0840   0840      0840  SVI  U   RBR  245       130                   
+
+ 910 +     1130   1134      1140  G15  5   XRA  1-8A      B1.8    8.5E-05   1124

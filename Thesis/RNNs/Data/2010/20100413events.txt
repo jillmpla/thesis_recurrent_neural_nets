@@ -1,0 +1,23 @@
+:Product: 20100413events.txt
+:Created: 2010 Apr 16 0332 UT
+:Date: 2010 04 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Apr 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2960       0019   ////      0019  CUL  C   RSP  20-80     III/1                 
+
+2930      A0215   ////     A1003  LEA  1   EPL  ////      0.32    B.4A          
+
+2920 +     0439   0443      0449  G14  5   XRA  1-8A      B3.7    1.3E-04   1062
+2920 +     0440   ////      0440  LEA  C   RSP  025-180   III/1             1062
+
+2940       0722   ////      0722  SVI  C   RSP  025-055   III/1                 
+
+2950 +     1415   ////      1423  SAG  C   RSP  025-141   III/1                 

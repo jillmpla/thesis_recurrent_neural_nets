@@ -1,0 +1,43 @@
+:Product: 20100209events.txt
+:Created: 2010 Feb 12 0332 UT
+:Date: 2010 02 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Feb 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7820       0013   0029      0054  G14  5   XRA  1-8A      B6.1    1.2E-03   1045
+
+7830 +     0103   ////      0104  CUL  C   RSP  18-180    III/1                 
+
+7840       0113   0125      0134  G14  5   XRA  1-8A      C2.7    2.1E-03   1045
+7840       0119   0123      0144  LEA  3   FLA  N22W13    SF                1045
+
+7850 +     0224   ////      0224  CUL  C   RSP  23-180    III/1                 
+
+7860       0404   0417      0422  G14  5   XRA  1-8A      C2.4    1.2E-03   1045
+7860       0412   0417      0430  LEA  3   FLA  N21W17    SF      ERU       1045
+
+7870 +     0534   ////      0540  CUL  C   RSP  23-180    III/1                 
+
+7950       0717   ////      0717  CUL  C   RSP  20-90     III/1                 
+
+7880       0744   0747      0750  G14  5   XRA  1-8A      B1.8    3.9E-05       
+
+7890       0816   0817      0820  LEA  3   FLA  N21W20    SF                1045
+
+7900       0844   0849      0854  G14  5   XRA  1-8A      B6.5    2.5E-04   1045
+7900       0847   0847      0856  LEA  3   FLA  N22W18    SF      ERU       1045
+
+7910 +     0939   ////      0941  SVI  C   RSP  025-062   III/2                 
+
+7920       1024   1031      1046  G14  5   XRA  1-8A      B2.5    2.7E-04       
+
+7930       1124   1131      1139  G14  5   XRA  1-8A      C1.8    9.3E-04       
+
+7940       1737   1741      1748  G14  5   XRA  1-8A      B2.4    1.2E-04       

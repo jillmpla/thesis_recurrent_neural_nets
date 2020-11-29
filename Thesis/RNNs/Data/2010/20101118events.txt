@@ -1,0 +1,43 @@
+:Product: 20101118events.txt
+:Created: 2010 Nov 21 0332 UT
+:Date: 2010 11 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Nov 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 660       0255   0258      0301  G15  5   XRA  1-8A      B1.8    4.1E-05       
+
+ 670       0415   ////      0415  LEA  C   RSP  036-058   III/1                 
+
+ 800       0449   ////      0451  CUL  C   RSP  057-160   III/1                 
+
+ 680 +     0449   ////      0454  LEA  C   RSP  025-180   III/2                 
+
+ 690 +     0648   0653      0657  G15  5   XRA  1-8A      B4.0    1.3E-04   1124
+
+ 700 +     0942   ////      0942  SVI  C   RSP  025-077   III/1                 
+
+ 710 +     1007   1010      1013  G15  5   XRA  1-8A      B2.0    4.6E-05   1124
+
+ 850      A1043   ////     A1032  SVI  3   DSF  N30E41    14                    
+
+ 720       1051   ////      1052  SVI  C   RSP  025-160   III/1                 
+
+ 730 +     1137   1140      1142  G15  5   XRA  1-8A      B3.3    4.3E-05   1124
+ 730       1138   ////      1140  SVI  C   RSP  025-180   III/1             1124
+
+ 740 +     1303   1307      1315  G15  5   XRA  1-8A      B2.4    1.4E-04   1126
+
+ 760 +     1437   ////      1439  SAG  C   RSP  025-144   III/1                 
+
+ 770 +     1442   1442      1442  SAG  G   RBR  245       130                   
+
+ 780      A2028   ////     A1525  HOL  4   DSF  N16E45    14                    
+
+ 790       2047   2051      2055  G15  5   XRA  1-8A      B2.5    8.1E-05       

@@ -1,0 +1,49 @@
+:Product: 20100731events.txt
+:Created: 2010 Aug 03 0332 UT
+:Date: 2010 07 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jul 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7010       0017   ////      0017  LEA  C   RSP  025-087   III/1                 
+
+7020       0118   ////      0126  LEA  C   RSP  025-145   III/1                 
+
+7030 +     0340   0400      0419  G14  5   XRA  1-8A      B4.7    8.5E-04   1089
+
+7040       0515   0529      0532  G14  5   XRA  1-8A      B4.8    3.5E-04   1092
+7040       0519   0526      0532  LEA  3   FLA  N10E41    SF                1092
+7040 +     0524   0529      0529  SVI  G   RBR  245       230               1092
+
+7130 +     0832   0840      0856  G14  5   XRA  1-8A      B3.1    4.3E-04   1092
+
+7050       0841   ////      0841  SVI  C   RSP  025-078   III/1                 
+
+7060       1052   ////      1058  SVI  C   RSP  025-052   III/1                 
+
+7070       1123   ////      1123  SVI  C   RSP  025-084   V/1                   
+
+7080       1137   ////      1140  SVI  C   RSP  025-151   III/1                 
+
+7090 +     1224   ////      1226  SAG  C   RSP  025-046   III/1                 
+
+7140 +     1301   1307      1317  G14  5   XRA  1-8A      B2.8    2.7E-04   1089
+
+7100 +     1507   ////      1507  SVI  C   RSP  025-151   III/1                 
+
+7110       1631   ////      1633  SAG  C   RSP  025-042   III/1                 
+
+7120       1814   ////      1816  SAG  C   RSP  025-180   V/2                   
+
+7150 +     1832   1909      1926  G14  5   XRA  1-8A      B7.4    1.6E-03   1092
+7150 +     1920   1922      1922  SAG  G   RBR  245       130               1092
+
+7160 +     2230   ////      2231  COM  C   RSP  025-084   III/1                 
+
+7180       2315   ////      2317  SAG  C   RSP  025-068   III/1                 

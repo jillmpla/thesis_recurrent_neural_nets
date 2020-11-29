@@ -1,0 +1,41 @@
+:Product: 20100917events.txt
+:Created: 2010 Sep 20 0332 UT
+:Date: 2010 09 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Sep 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4620 +     0014   0017      0019  G14  5   XRA  1-8A      B5.7    7.8E-05   1108
+4620 +     0014   ////      0016  PAL  C   RSP  025-180   V/2               1108
+4620 +     0016   ////      0018  CUL  C   RSP  057-200   III/3             1108
+4620       0016   0017      0017  LEA  U   RBR  245       160               1108
+
+4630       0020   0021      0021  PAL  G   RBR  245       180                   
+
+4660       0101   ////      0102  CUL  C   RSP  057-180   III/1                 
+
+4640 +     0117   0122      0125  G14  5   XRA  1-8A      C1.3    3.0E-04   1108
+4640       0119   ////      0120  CUL  C   RSP  057-120   III/1             1108
+4640       0120   0123      0127  LEA  3   FLA  S31E70    SF                1108
+
+4670       0337   ////      0356  LEA  C   RSP  164-177   VII/1                 
+4670 +     0353   ////      0353  CUL  C   RSP  057-180   III/1                 
+
+4680       0357   ////      0358  CUL  C   RSP  057-180   III/1                 
+
+4690 +     0418   0421      0423  G14  5   XRA  1-8A      B2.5    3.8E-05   1106
+4690       0422   ////      0422  CUL  C   RSP  057-160   III/1             1106
+
+4700 +     0516   ////      0517  LEA  C   RSP  025-097   III/1                 
+
+4710 +     1732   1736      1739  G14  5   XRA  1-8A      B2.7    7.4E-05   1106
+
+4720       1814   1814      1814  SAG  G   RBR  245       100                   
+
+4730       2341   ////      0119  LEA  C   RSP  025-132   VI/1                  

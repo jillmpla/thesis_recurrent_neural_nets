@@ -1,0 +1,35 @@
+:Product: 20100110events.txt
+:Created: 2010 Jan 13 0332 UT
+:Date: 2010 01 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jan 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4830       0009   0009      0011  LEA  2   FLA  N30E39    SF                1040
+
+4890       0027   0035      0045  G14  5   XRA  1-8A      B2.5    2.6E-04   1040
+
+4840       0115   0119      0128  LEA  3   FLA  N30E39    SF                1040
+
+4850       0129   0130      0147  LEA  3   FLA  N30E39    SF                1040
+
+4860       0140   0250      0308  G14  5   XRA  1-8A      B4.4    1.4E-03   1040
+4860       0152   0242      0319  LEA  3   FLA  N30E34    SF                1040
+
+4870       0321   0327      0331  LEA  3   FLA  N30E34    SF                1040
+
+4880 +     1152   1157      1201  G14  5   XRA  1-8A      B3.7    1.2E-04   1040
+
+4900       1539   1542      1545  G14  5   XRA  1-8A      B1.1    2.7E-05       
+
+4910       1645   ////      1646  SAG  C   RSP  025-180   III/1                 
+
+4920       1756   1800      1807  G14  5   XRA  1-8A      B1.9    9.7E-05       
+
+4930       2252   2257      2304  G14  5   XRA  1-8A      B2.3    1.2E-04       

@@ -1,0 +1,30 @@
+:Product: 20101206events.txt
+:Created: 2010 Dec 09 0332 UT
+:Date: 2010 12 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Dec 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1890       0616   ////      0616  CUL  C   RSP  057-130   III/1                 
+
+1800 +     0657   0657      0657  LEA  G   RBR  245       110                   
+
+1820 +     0700   0701      0703  LEA  G   RBR  245       360                   
+
+1830       0709   0709      0710  LEA  G   RBR  245       160                   
+
+1850 +     0712   0720      0727  LEA  G   RNS  245       150                   
+
+1840       0740   0740      0741  LEA  G   RBR  245       130                   
+
+1860       0838   0838      0838  LEA  G   RBR  245       190                   
+
+1880       1651   ////      1725  HOL  3   EPL  ////      0.2     B.9A          
+
+1900       2300   ////      2300  LEA  C   RSP  032-049   III/1                 

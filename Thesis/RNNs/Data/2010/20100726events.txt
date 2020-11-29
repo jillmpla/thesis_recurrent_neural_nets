@@ -1,0 +1,50 @@
+:Product: 20100726events.txt
+:Created: 2010 Jul 29 0332 UT
+:Date: 2010 07 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jul 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6190 +     0032   0036      0038  G14  5   XRA  1-8A      B2.7    5.6E-05   1089
+6190 +     0033   0034      0034  LEA  G   RBR  245       330               1089
+6190 +     0034   ////      0035  CUL  C   RSP  57-300    III/1             1089
+
+6200       0143   ////      0143  CUL  C   RSP  57-180    III/1                 
+
+6210       0214   ////      0214  CUL  C   RSP  100-170   III/1                 
+
+6220 +     0411   0415      0418  G14  5   XRA  1-8A      B3.8    9.7E-05   1091
+6220       0415   ////      0415  CUL  C   RSP  60-90     III/1             1091
+
+6230 +     0437   ////      0438  SVI  C   RSP  059-180   III/1                 
+
+6240 +     0454   0457      0459  G14  5   XRA  1-8A      B2.3    3.8E-05   1091
+6240 +     0456   ////      0456  SVI  C   RSP  036-093   III/1             1091
+
+6250 +     0534   ////      0543  SVI  C   RSP  053-180   III/1                 
+
+6260       0543   ////      0543  LEA  C   RSP  114-158   III/1                 
+
+6270 +     0610   0614      0621  G14  5   XRA  1-8A      B2.1    1.1E-04   1089
+
+6350       0703   ////      0703  CUL  C   RSP  57-180    III/1                 
+
+6290 +     1137   1141      1145  G14  5   XRA  1-8A      B3.3    1.1E-04   1089
+
+6300 +     1421   ////      1422  SVI  C   RSP  025-150   III/1                 
+
+6310 +     1506   1510      1515  G14  5   XRA  1-8A      B3.1    1.1E-04   1089
+
+6320 +     1528   ////      1532  SVI  C   RSP  025-143   III/1                 
+
+6330 +     1625   1632      1637  G14  5   XRA  1-8A      B4.7    2.4E-04   1089
+
+6340 +     1824   1829      1833  G14  5   XRA  1-8A      B5.8    1.8E-04   1089
+
+6360       2352   ////      2352  CUL  C   RSP  57-160    III/1                 

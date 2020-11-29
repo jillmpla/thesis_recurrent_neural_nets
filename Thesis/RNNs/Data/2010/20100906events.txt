@@ -1,0 +1,30 @@
+:Product: 20100906events.txt
+:Created: 2010 Sep 09 0332 UT
+:Date: 2010 09 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Sep 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3690       0026   0034      0042  G14  5   XRA  1-8A      B2.1    1.9E-04       
+
+3700       0249   0252      0257  G15  5   XRA  1-8A      B1.5    5.2E-05       
+
+3710 +     0510   0515      0519  G14  5   XRA  1-8A      B2.5    9.3E-05       
+
+3720       0632   0922      0934  G14  5   XRA  1-8A      B5.0    1.9E-03       
+
+3730       0909   0922      0930  G15  5   XRA  1-8A      B5.3    5.2E-04       
+
+3740 +     1454   1459      1501  G14  5   XRA  1-8A      C2.5    4.7E-04   1105
+3740       1458   1459      1516  HOL  3   FLA  N19W59    SF      ERU       1105
+3740       1458   1500      1521  SVI  3   FLA  N17W60    SF      ERU       1105
+
+3750 +     1605   1627      1641  G14  5   XRA  1-8A      B3.5    5.9E-04   1105
+
+3760       2333   ////      2334  LEA  C   RSP  025-050   III/1                 

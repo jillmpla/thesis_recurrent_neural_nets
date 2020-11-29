@@ -1,0 +1,14 @@
+:Product: 20100201events.txt
+:Created: 2010 Feb 04 0332 UT
+:Date: 2010 02 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Feb 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6470 +     0535   0553      0601  G14  5   XRA  1-8A      B3.4    3.6E-04   1043

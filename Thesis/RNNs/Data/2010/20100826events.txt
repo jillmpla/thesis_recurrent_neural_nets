@@ -1,0 +1,20 @@
+:Product: 20100826events.txt
+:Created: 2010 Aug 29 0332 UT
+:Date: 2010 08 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Aug 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2990 +     0534   0539      0547  SVI  3   FLA  S21W68    SF                1100
+
+2980 +     1047   1053      1102  G14  5   XRA  1-8A      B2.6    1.7E-04   1101
+
+3000 +     1731   1734      1736  G14  5   XRA  1-8A      B1.5    2.6E-05   1100
+
+3010 +     2350   2354      2359  G14  5   XRA  1-8A      B1.7    6.6E-05       

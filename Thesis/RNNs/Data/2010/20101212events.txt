@@ -1,0 +1,45 @@
+:Product: 20101212events.txt
+:Created: 2010 Dec 15 0332 UT
+:Date: 2010 12 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Dec 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2290       0056   ////      0057  CUL  C   RSP  057-170   III/1                 
+
+2180 +     0149   ////      0149  CUL  C   RSP  057-180   III/1                 
+
+2300       0304   ////      0305  CUL  C   RSP  057-180   III/2                 
+
+2190 +     0304   ////      0306  LEA  C   RSP  025-163   III/2                 
+
+2240       0337   0628      0906  G15  5   XRA  1-8A      B4.1    6.3E-03       
+
+2200 +     0406   ////      0407  CUL  C   RSP  057-160   III/1                 
+
+2210 +     0625   ////      0626  LEA  C   RSP  025-128   III/2                 
+
+2220       0828   ////      0836  SVI  C   RSP  025-180   III/1                 
+
+2250       1217   ////      1217  SAG  C   RSP  025-084   III/1                 
+
+2230       1217   ////      1220  SVI  C   RSP  025-180   III/1                 
+
+2260       1300   ////      1453  SAG  C   RSP  025-180   VI/2                  
+
+2270       1525   ////      1533  SAG  C   RSP  025-143   III/1                 
+
+2280       1843   1849      1854  G15  5   XRA  1-8A      B5.9    2.8E-04   1135
+2280       1849   1849      1852  HOL  3   FLA  N21E77    SF                    
+
+2310       2126   2130      2135  G15  5   XRA  1-8A      B2.4    9.5E-05       
+
+2320 +     2242   ////      2242  LEA  C   RSP  025-133   III/1                 
+
+2330       2243   ////      2243  CUL  C   RSP  057-170   III/1                 

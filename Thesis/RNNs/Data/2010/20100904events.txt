@@ -1,0 +1,51 @@
+:Product: 20100904events.txt
+:Created: 2010 Sep 07 0332 UT
+:Date: 2010 09 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Sep 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3420       0122   0125      0131  G15  5   XRA  1-8A      B1.0    3.9E-05       
+
+3430       0203   ////      0216  LEA  2   DSD  ////      0                 1103
+
+3440       0317   0407      0452  G14  5   XRA  1-8A      B2.5    1.2E-03   1105
+
+3450       0530   ////      0551  LEA  3   DSD  ////      0                 1103
+3450       0531   0531      0531  LEA  U   RBR  410       130                   
+
+3460 +     0700   0703      0706  G15  5   XRA  1-8A      B6.0    1.1E-04   1103
+3460 +     0702   0703      0703  LEA  G   RBR  245       130               1103
+
+3470       0719   0724      0730  G15  5   XRA  1-8A      B1.6    7.8E-05       
+3470 +     0722   ////      0723  SVI  C   RSP  025-060   III/1                 
+
+3480 +     0751   0755      0759  G14  5   XRA  1-8A      B1.8    6.0E-05       
+
+3490       0857   ////      0857  LEA  C   RSP  025-070   III/1                 
+3490       0857   ////      0858  SVI  C   RSP  025-081   V/2                   
+
+3500 +     1431   1435      1438  G14  5   XRA  1-8A      B2.5    6.4E-05   1101
+
+3510 +     1555   1600      1602  G14  5   XRA  1-8A      B4.3    1.1E-04   1101
+
+3520 +     1621   ////      1621  SAG  C   RSP  025-084   III/1                 
+
+3530       1714   1727      1738  G14  5   XRA  1-8A      B2.5    3.2E-04   1105
+3530       1726   1727      1731  HOL  3   FLA  N18W34    SF                1105
+3530 +     1729   ////      1730  SAG  C   RSP  025-153   III/1             1105
+
+3540       1912   1913      1915  HOL  3   FLA  N18W36    SF                1105
+
+3550 +     2204   2208      2211  G14  5   XRA  1-8A      B3.1    8.2E-05   1105
+3550       2208   2208      2215  HOL  3   FLA  N18W38    SF                1105
+
+3560       2217   2218      2219  HOL  3   FLA  N18W38    SF                1105
+
+3570 +     2326   2329      2331  G14  5   XRA  1-8A      B2.1    3.5E-05       

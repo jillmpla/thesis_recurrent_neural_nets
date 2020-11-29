@@ -1,0 +1,60 @@
+:Product: 20100915events.txt
+:Created: 2010 Sep 18 0332 UT
+:Date: 2010 09 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Sep 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4230       0252   ////      0253  LEA  C   RSP  029-146   III/1                 
+
+4380       0439   ////      0439  CUL  C   RSP  057-100   III/1                 
+
+4240       0439   ////      0439  LEA  C   RSP  025-113   III/1                 
+
+4290 +     0443   0508      0525  G14  5   XRA  1-8A      B5.0    9.2E-04   1106
+
+4250       0721   0724      0727  G15  5   XRA  1-8A      B2.8    6.3E-05   1107
+4250 +     0723   0723      0728  LEA  3   FLA  N30E35    SF                1107
+
+4260 +     0832   0842      0852  G15  5   XRA  1-8A      B2.8    2.9E-04   1106
+
+4270       0940   ////      0940  SVI  C   RSP  025-048   III/1                 
+
+4280 +     1304   ////      1305  SVI  C   RSP  025-052   III/1                 
+
+4300 +     1346   ////      1402  SVI  C   RSP  025-180   VI/2                  
+
+4310 +     1436   ////      1506  SAG  C   RSP  025-180   VI/2                  
+
+4320 +     1547   ////      1617  SVI  U   RSP  025-047   VI/1                  
+
+4340 +     1651   ////      1730  PAL  C   RSP  025-087   VI/1                  
+
+4330 +     1708   1715      1721  G14  5   XRA  1-8A      B9.1    4.6E-04   1108
+
+4350 +     1821   ////      1646  SAG  C   RSP  025-085   VI/1                  
+
+4360       1926   ////      1926  PAL  C   RSP  025-047   III/1                 
+
+4370       1928   ////      1929  SAG  C   RSP  025-061   III/1                 
+
+4390       2113   ////      2141  SAG  C   RSP  025-062   VI/1                  
+
+4400 +     2156   2201      2208  G14  5   XRA  1-8A      B3.4    1.9E-04   1106
+
+4410 +     2220   2225      2231  G14  5   XRA  1-8A      B5.3    2.5E-04   1106
+
+4420       2302   ////      2302  CUL  C   RSP  057-090   III/1                 
+4420 +     2302   ////      2324  LEA  C   RSP  025-098   VI/1                  
+
+4430       2318   ////      2318  CUL  C   RSP  057-090   III/1                 
+
+4440       2324   ////      2324  CUL  C   RSP  057-160   III/1                 
+
+4650       2340   ////      0118  PAL  C   RSP  025-087   VI/1                  

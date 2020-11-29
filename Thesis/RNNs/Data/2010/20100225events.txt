@@ -1,0 +1,29 @@
+:Product: 20100225events.txt
+:Created: 2010 Feb 28 0332 UT
+:Date: 2010 02 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Feb 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9830 +     0810   ////      0810  LEA  C   RSP  029-060   III/1                 
+
+9840 +     0855   ////      0903  LEA  C   RSP  029-097   III/1                 
+
+9860       1413   ////      1417  SVI  C   RSP  025-180   III/2                 
+9860       1415   1415      1415  SVI  G   RBR  410       130                   
+9860 +     1415   1417      1417  SAG  G   RBR  245       240                   
+
+9870 +     2014   ////      2015  PAL  C   RSP  025-180   III/1                 
+9870       2015   2016      2016  SAG  G   RBR  245       240                   
+
+9880       2019   2020      2020  PAL  G   RBR  245       250                   
+
+9890       2053   ////      2053  PAL  C   RSP  025-044   III/1                 
+
+9900 +     2054   ////      2054  CUL  C   RSP  20-90     III/1                 

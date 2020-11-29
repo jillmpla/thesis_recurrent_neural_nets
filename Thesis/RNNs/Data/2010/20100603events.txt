@@ -1,0 +1,22 @@
+:Product: 20100603events.txt
+:Created: 2010 Jun 06 0332 UT
+:Date: 2010 06 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jun 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3990       0158   0158      0201  LEA  2   FLA  S20W21    SF                1076
+
+4000 +     1128   1131      1145  G14  5   XRA  1-8A      B1.0    9.7E-05       
+
+4010 +     1230   1233      1236  G14  5   XRA  1-8A      B1.1    4.1E-05       
+
+4030       1332   1338      1343  G14  5   XRA  1-8A      B1.1    5.8E-05       
+
+4040       1349   1355      1402  G14  5   XRA  1-8A      B1.3    8.3E-05       

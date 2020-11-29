@@ -1,0 +1,32 @@
+:Product: 20100702events.txt
+:Created: 2010 Jul 05 0332 UT
+:Date: 2010 07 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jul 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4950       0337   ////      0337  CUL  C   RSP  57-170    III/1                 
+
+4960       0652   ////      0652  SVI  C   RSP  025-064   III/1                 
+
+4970       0912   ////      0912  SVI  C   RSP  025-148   III/2                 
+
+4980 +     1028   ////      1028  SVI  C   RSP  025-058   III/2                 
+
+4990 +     1201   ////      1201  SVI  C   RSP  025-125   III/2                 
+
+5000 +     1717   1717      1718  SAG  G   RBR  245       190                   
+
+5010       1829   ////      1830  PAL  C   RSP  025-064   III/1                 
+
+5020       1831   ////      1831  SAG  C   RSP  025-055   III/1                 
+
+5030       2029   ////      2029  PAL  C   RSP  025-047   III/1                 
+
+5040       2030   ////      2030  SAG  U   RSP  025-070   III/1                 

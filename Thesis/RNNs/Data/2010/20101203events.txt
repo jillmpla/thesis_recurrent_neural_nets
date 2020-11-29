@@ -1,0 +1,16 @@
+:Product: 20101203events.txt
+:Created: 2010 Dec 06 0332 UT
+:Date: 2010 12 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Dec 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1630       0651   0658      0704  G15  5   XRA  1-8A      B5.3    2.8E-04   1131
+
+1640       0900   0903      0905  G15  5   XRA  1-8A      B1.9    3.1E-05       

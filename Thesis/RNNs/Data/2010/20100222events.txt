@@ -1,0 +1,20 @@
+:Product: 20100222events.txt
+:Created: 2010 Feb 25 0332 UT
+:Date: 2010 02 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Feb 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9740       1313   1323      1332  G14  5   XRA  1-8A      B2.2    2.0E-04       
+
+9750 +     1827   1833      1839  G14  5   XRA  1-8A      B1.5    8.5E-05   1049
+
+9760 +     2132   2137      2156  G14  5   XRA  1-8A      B1.4    1.8E-04   1049
+
+9770 +     2256   2300      2304  G14  5   XRA  1-8A      B2.5    8.2E-05   1049

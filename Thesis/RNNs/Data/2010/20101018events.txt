@@ -1,0 +1,54 @@
+:Product: 20101018events.txt
+:Created: 2010 Oct 21 0332 UT
+:Date: 2010 10 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Oct 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6960       0028   ////      0032  CUL  C   RSP  057-180   III/1                 
+
+6940 +     0028   ////      0032  LEA  C   RSP  025-180   III/1                 
+
+6950       0101   ////      0231  LEA  C   RSP  025-180   VI/1                  
+6950 +     0102   ////      0112  CUL  C   RSP  057-140   III/1                 
+
+6970       0217   ////      0220  CUL  C   RSP  057-150   III/1                 
+
+7090       0440   ////      0442  CUL  C   RSP  057-160   III/1                 
+
+7100       0448   ////      0450  CUL  C   RSP  057-180   III/1                 
+
+7110       0518   ////      0518  CUL  C   RSP  057-100   III/1                 
+
+6980 +     0542   0551      0605  G14  5   XRA  1-8A      B4.4    4.5E-04   1112
+
+6990 +     0628   ////      0632  LEA  C   RSP  025-180   III/2                 
+
+7000       0932   ////      0932  SVI  C   RSP  025-083   III/1                 
+
+7010       1014   ////      1032  SVI  C   RSP  025-082   VI/1                  
+
+7020       1106   ////      1229  SVI  C   RSP  025-180   VI/2              1112
+7020 +     1125   1140      1152  G14  5   XRA  1-8A      C1.2    1.3E-03   1112
+
+7030       1155   ////      1229  SAG  C   RSP  025-180   VI/2                  
+
+7040 +     1302   1311      1320  G14  5   XRA  1-8A      B4.5    4.1E-04   1112
+7040       1306   ////      1319  SAG  C   RSP  025-180   VI/2              1112
+7040       1319   ////      1319  SVI  C   RSP  025-180   III/2             1112
+
+7050 +     1436   ////      1439  SAG  C   RSP  025-170   III/2                 
+
+7060 +     1526   1643      1716  G14  5   XRA  1-8A      C2.5    8.1E-03   1112
+7060 +     1548   1548      1548  SAG  G   RBR  245       100               1112
+7060       1554   ////      1602  SAG  C   RSP  025-180   III/1             1112
+
+7070 +     1808   ////      1812  SAG  C   RSP  025-180   III/1                 
+
+7080 +     2125   2139      2147  G14  5   XRA  1-8A      C1.2    1.1E-03       

@@ -1,0 +1,54 @@
+:Product: 20101116events.txt
+:Created: 2010 Nov 19 0332 UT
+:Date: 2010 11 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Nov 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 280 +     0033   0038      0044  G15  5   XRA  1-8A      B4.5    2.1E-04   1126
+ 280 +     0034   ////      0044  LEA  C   RSP  025-180   III/1             1126
+ 280       0034   ////      0046  PAL  C   RSP  025-180   VI/1              1126
+
+ 290 +     0258   0302      0304  G15  5   XRA  1-8A      B3.8    7.9E-05   1123
+ 290 +     0259   ////      0302  CUL  C   RSP  057-340   III/1             1123
+
+ 310       0320   ////      0320  CUL  C   RSP  057-100   III/1                 
+
+ 300 +     0325   ////      0328  LEA  C   RSP  025-111   III/1                 
+
+ 320       0422   ////      0422  CUL  C   RSP  057-140   III/1                 
+
+ 420       0532   ////      0532  CUL  C   RSP  057-090   III/1                 
+
+ 430       0607   ////      0607  CUL  C   RSP  057-140   III/1                 
+
+ 330       0607   ////      0607  LEA  C   RSP  025-102   III/1                 
+
+ 340 +     0651   ////      0656  CUL  C   RSP  057-300   III/1                 
+
+ 350 +     0710   0715      0720  G15  5   XRA  1-8A      B3.6    1.5E-04   1126
+ 350 +     0711   ////      0714  LEA  C   RSP  025-180   III/2             1126
+
+ 360       0732   ////      0732  SVI  C   RSP  025-038   III/1                 
+
+ 370 +     0859   ////      0903  LEA  C   RSP  025-119   III/1                 
+
+ 380 +     0953   ////      0954  LEA  C   RSP  025-163   III/1                 
+
+ 390       1446   ////      1446  SAG  C   RSP  025-083   III/1                 
+
+ 400       1907   ////      1907  SAG  C   RSP  025-046   III/1                 
+
+ 410       1907   ////      1908  PAL  C   RSP  025-068   III/1                 
+
+ 450       2241   2255      2300  G15  5   XRA  1-8A      B3.0    3.3E-04       
+
+ 460 +     2332   2345      2353  G15  5   XRA  1-8A      B3.0    3.7E-04   1127
+
+ 440       2348   2348      2348  LEA  G   RBR  245       110                   

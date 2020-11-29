@@ -1,0 +1,20 @@
+:Product: 20100224events.txt
+:Created: 2010 Feb 27 0332 UT
+:Date: 2010 02 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Feb 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9790       0156   0205      0209  G14  5   XRA  1-8A      B3.1    1.3E-04       
+
+9800 +     0218   0223      0226  G14  5   XRA  1-8A      B3.5    8.2E-05   1051
+
+9820 +     1828   1831      1835  G14  5   XRA  1-8A      B1.5    3.9E-05   1049
+
+9850      A2352   ////     B1553  HOL  3   DSF  S56E66    41      B.0A          

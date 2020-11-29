@@ -1,0 +1,45 @@
+:Product: 20100728events.txt
+:Created: 2010 Jul 31 0332 UT
+:Date: 2010 07 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jul 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6540       0044   ////      0044  LEA  C   RSP  025-097   III/1                 
+
+6550       0045   ////      0045  CUL  C   RSP  57-130    III/1                 
+
+6560       0215   ////      0215  LEA  C   RSP  025-095   III/1                 
+
+6570       0216   ////      0216  CUL  C   RSP  57-120    III/1                 
+
+6580       0229   ////      0229  LEA  C   RSP  025-096   III/1                 
+
+6590       0230   ////      0230  CUL  C   RSP  57-80     III/1                 
+
+6660       0633   ////      0633  CUL  C   RSP  57-90     III/1                 
+
+6600       0955   1002      1011  G14  5   XRA  1-8A      B5.3    3.8E-04       
+
+6610       1026   ////      1026  SVI  C   RSP  025-048   III/1                 
+
+6620 +     1123   ////      1123  SAG  C   RSP  025-049   III/1                 
+
+6630       1252   1307      1315  G14  5   XRA  1-8A      B8.1    7.5E-04   1089
+6630       1304   1307      1315  SVI  3   FLA  S24W42    SF      ERU       1089
+
+6640 +     1843   ////      1843  SAG  U   RSP  025-049   III/1                 
+
+6650 +     2033   2042      2049  G14  5   XRA  1-8A      C2.8    1.7E-03   1089
+
+6670       2209   ////      2209  CUL  C   RSP  57-100    III/1                 
+
+6680       2304   ////      2304  CUL  C   RSP  57-80     III/1                 
+
+6690       2345   ////      2345  CUL  C   RSP  57-100    III/1                 

@@ -1,0 +1,60 @@
+:Product: 20100213events.txt
+:Created: 2010 Feb 16 0332 UT
+:Date: 2010 02 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Feb 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8960       0139   0146      0149  G14  5   XRA  1-8A      B7.9    3.3E-04   1046
+8960       0142   0142      0142  LEA  G   RBR  245       350               1046
+8960       0142   ////      0151  LEA  C   RSP  025-180   III/2             1046
+8960       0143   0143      0147  LEA  3   FLA  N25E02    SF      BPT       1046
+
+8980       0239   0323      0329  G14  5   XRA  1-8A      B5.1    1.1E-03       
+
+8970       0244   ////      0244  LEA  C   RSP  025-180   III/1                 
+
+9060       0700   ////      1200  IZM  F   RNS  204       16                    
+
+8990 +     0746   0752      0806  G14  5   XRA  1-8A      C4.3    3.2E-03   1048
+
+9000       1020   1020      1020  SVI  G   RBR  245       150                   
+9000 +     1020   ////      1021  LEA  C   RSP  025-180   III/1                 
+
+9010       1021   1021      1021  LEA  G   RBR  245       150                   
+
+9020       1040   ////      1040  SVI  C   RSP  025-065   III/1                 
+
+9030       1049   1049      1049  SVI  G   RBR  245       180                   
+
+9040       1103   ////      1103  SVI  C   RSP  025-082   III/1                 
+
+9050 +     1228   1239      1248  G14  5   XRA  1-8A      C9.6    6.6E-03   1048
+9050       1240   ////      1250  SVI  C   RSP  025-135   III/2             1048
+
+9070 +     1510   ////      1511  SAG  C   RSP  025-129   III/1                 
+
+9080       1634   ////      1634  SAG  C   RSP  025-082   III/1                 
+
+9090 +     1812   1817      1821  G14  5   XRA  1-8A      B4.3    1.5E-04   1046
+
+9100       1958   2004      2008  G14  5   XRA  1-8A      C2.7    9.5E-04   1046
+9100 +     1959   ////      1959  PAL  C   RSP  025-180   III/1             1046
+9100       2001   2003      2009  HOL  3   FLA  N25W13    SF      ERU       1046
+9100 +     2004   2004      2005  PAL  G   RBR  245       140               1046
+
+9110       2042   2052      2105  G14  5   XRA  1-8A      C3.0    2.7E-03       
+
+9120       2133   2133      2133  PAL  G   RBR  245       130                   
+
+9130       2216   ////      2216  PAL  C   RSP  028-085   III/1                 
+
+9140       2324   2331      2333  G14  5   XRA  1-8A      B5.3    2.4E-04   1046
+9140 +     2328   2332      2336  HOL  3   FLA  N25W04    SF                1046
+9140 +     2331   2333      2333  PAL  G   RBR  245       290               1046

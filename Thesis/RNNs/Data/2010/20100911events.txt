@@ -1,0 +1,26 @@
+:Product: 20100911events.txt
+:Created: 2010 Sep 14 0332 UT
+:Date: 2010 09 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Sep 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4010 +     0111   0115      0117  G15  5   XRA  1-8A      B3.1    6.7E-05   1106
+
+4020 +     0320   0328      0337  G14  5   XRA  1-8A      B4.3    3.4E-04   1106
+
+4030 +     0810   0814      0818  G14  5   XRA  1-8A      B5.0    1.7E-04   1106
+
+4040       1030   1033      1039  G14  5   XRA  1-8A      B2.1    1.2E-04   1106
+
+4050 +     1146   ////      1146  SAG  C   RSP  025-150   V/2                   
+
+4060 +     1436   ////      1436  SAG  C   RSP  025-038   III/1                 
+
+4070 +     1801   1805      1810  G14  5   XRA  1-8A      B3.6    1.2E-04   1106

@@ -1,0 +1,16 @@
+:Product: 20100310events.txt
+:Created: 2010 Mar 13 0332 UT
+:Date: 2010 03 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Mar 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 440 +     0610   0713      0747  G14  5   XRA  1-8A      B3.0                  
+
+ 450 +     1529   1534      1541  G14  5   XRA  1-8A      B1.7    8.4E-05   1054

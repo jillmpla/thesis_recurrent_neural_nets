@@ -1,0 +1,18 @@
+:Product: 20101108events.txt
+:Created: 2010 Nov 11 0332 UT
+:Date: 2010 11 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Nov 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8940 +     0236   0239      0242  G15  5   XRA  1-8A      B1.8    3.8E-05   1121
+
+8950       0308   0308      0308  LEA  G   RBR  245       100                   
+
+8980      A1215   ////     A0742  SVI  3   DSF  S31E43    8                     

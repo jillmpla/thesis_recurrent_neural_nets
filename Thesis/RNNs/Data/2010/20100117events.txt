@@ -1,0 +1,24 @@
+:Product: 20100117events.txt
+:Created: 2010 Jan 20 0332 UT
+:Date: 2010 01 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jan 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5400       1334   1334      1334  SVI  G   RBR  410       100                   
+
+5410       1746   ////      1747  SAG  U   RSP  025-161   V/1                   
+
+5420 +     1938   1943      1950  G14  5   XRA  1-8A      B4.2    2.3E-04   1040
+
+5430       2020   2025      2030  G14  5   XRA  1-8A      B6.1    2.8E-04       
+
+5440 +     2153   ////      2153  CUL  C   RSP  20-90     III/1                 
+
+5450 +     2212   2233      2241  G14  5   XRA  1-8A      C2.1    2.2E-03   1040

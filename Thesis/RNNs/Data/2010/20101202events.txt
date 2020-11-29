@@ -1,0 +1,24 @@
+:Product: 20101202events.txt
+:Created: 2010 Dec 05 0332 UT
+:Date: 2010 12 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Dec 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1570       0214   0216      0217  G15  5   XRA  1-8A      B2.3    4.2E-05   1131
+
+1580       0256   0306      0313  G15  5   XRA  1-8A      B1.7    1.6E-04   1130
+
+1590 +     1220   1224      1229  G15  5   XRA  1-8A      B2.1    8.1E-05   1130
+
+1600       1255   1258      1303  G15  5   XRA  1-8A      B1.7    5.6E-05       
+
+1610       1305   1308      1310  G15  5   XRA  1-8A      B2.7    4.4E-05       
+
+1620       2224   2228      2230  G15  5   XRA  1-8A      B2.6    5.3E-05       

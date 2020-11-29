@@ -1,0 +1,44 @@
+:Product: 20100720events.txt
+:Created: 2010 Jul 23 0332 UT
+:Date: 2010 07 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jul 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5580       0052   ////      0052  LEA  C   RSP  025-043   III/1                 
+
+5590 +     0211   ////      0214  CUL  C   RSP  57-180    III/1                 
+
+5600       0408   0412      0415  G14  5   XRA  1-8A      B2.2    6.2E-05   1089
+
+5610       0502   0521      0530  G14  5   XRA  1-8A      B4.1    4.8E-04   1089
+
+5720       0556   ////      0558  CUL  C   RSP  57-180    III/1                 
+
+5620 +     0558   ////      0558  SVI  C   RSP  025-084   III/2                 
+
+5630 +     0716   ////      0718  SVI  C   RSP  025-180   III/1                 
+
+5640       0916   0942      1003  G14  5   XRA  1-8A      B8.0    1.3E-03   1089
+
+5650       1123   1130      1139  G14  5   XRA  1-8A      B5.6    4.0E-04       
+
+5660       1234   1239      1251  G14  5   XRA  1-8A      B5.6    4.4E-04       
+
+5670       1338   1345      1350  G14  5   XRA  1-8A      C1.4    6.3E-04   1089
+5670       1341   1343      1354  SVI  3   FLA  S21E55    SF      ERU       1089
+
+5680       1514   1515      1518  SVI  3   FLA  S21E55    SF      ERU       1089
+
+5710       1518   1525      1532  SVI  3   FLA  S23E65    SF      ERU       1089
+
+5690       1542   1553      1602  SVI  3   FLA  S21E55    SF      ERU       1089
+
+5700       1852   1855      1859  G14  5   XRA  1-8A      B8.0    2.2E-04   1089
+5700       1855   1856      1916  HOL  3   FLA  S22E63    SF                1089

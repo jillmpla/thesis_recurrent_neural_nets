@@ -1,0 +1,14 @@
+:Product: 20100424events.txt
+:Created: 2010 Apr 27 0332 UT
+:Date: 2010 04 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Apr 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3000       2256   2301      2307  G14  5   XRA  1-8A      B1.1    5.8E-05       

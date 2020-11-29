@@ -1,0 +1,43 @@
+:Product: 20101027events.txt
+:Created: 2010 Oct 30 0332 UT
+:Date: 2010 10 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Oct 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8020 +     0547   0550      0557  G14  5   XRA  1-8A      B2.5    1.0E-04   1115
+8020       0549   ////      0549  CUL  C   RSP  057-090   III/1             1115
+
+8030 +     0602   0613      0618  G14  5   XRA  1-8A      B7.0    4.8E-04   1117
+8030       0606   0607      0614  LEA  3   FLA  N20W18    SF      BPT       1117
+8030       0607   ////      0608  CUL  C   RSP  070-150   III/1             1117
+
+8040 +     0920   0926      0932  G14  5   XRA  1-8A      B1.9    1.1E-04   1117
+
+8050 +     0949   0954      0957  G14  5   XRA  1-8A      B2.9    8.9E-05   1117
+
+8060 +     1100   1107      1111  G15  5   XRA  1-8A      B2.0    9.5E-05   1117
+
+8070 +     1309   1312      1317  G14  5   XRA  1-8A      B1.5    5.1E-05   1117
+
+8080       1355   1407      1451  G15  5   XRA  1-8A      B2.1    6.2E-04       
+
+8100      B1655   ////     B2300  HOL  3   EPL  ////      0.18    B.7A          
+
+8090 +     1659   1704      1708  G15  5   XRA  1-8A      C1.2    3.5E-04   1117
+8090       1703   1703      1708  HOL  3   FLA  N18W25    SF      ERU       1117
+
+8110       2034   ////      2034  CUL  C   RSP  057-080   III/1                 
+
+8120       2124   ////      2124  CUL  C   RSP  057-090   III/1                 
+
+8130 +     2153   2159      2201  G14  5   XRA  1-8A      B1.8    5.7E-05   1117
+
+8140 +     2255   ////      2310  LEA  C   RSP  025-097   VI/1                  
+8140 +     2310   ////      2310  CUL  C   RSP  057-120   III/1                 

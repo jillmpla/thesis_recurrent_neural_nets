@@ -1,0 +1,33 @@
+:Product: 20100927events.txt
+:Created: 2010 Nov 04 1753 UT
+:Date: 2010 09 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Sep 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5510 +     0014   0018      0021  G14  5   XRA  1-8A      B3.3    9.5E-05   1110
+5510       0018   0018      0027  LEA  3   FLA  N21W02    SF      ERU       1110
+
+5520       0229   ////      0230  PAL  C   RSP  025-090   III/1                 
+
+5530       0232   ////      0232  LEA  C   RSP  029-098   III/1                 
+
+5540       1038   ////      1103  SVI  C   RSP  114-180   CTM/1                 
+
+5550 +     1441   1444      1449  G14  5   XRA  1-8A      B1.6    5.5E-05   1109
+
+5560       2103   ////      2104  PAL  C   RSP  025-151   III/1                 
+
+5570       2106   ////      2107  SAG  C   RSP  025-120   III/1                 
+
+5580 +     2136   2139      2142  G14  5   XRA  1-8A      B1.9    4.3E-05       
+
+5590 +     2147   ////      2147  PAL  C   RSP  025-087   III/1             1109
+5590 +     2152   2158      2202  G14  5   XRA  1-8A      B6.1    2.6E-04   1109
+5590       2155   2156      2204  HOL  1   FLA  N19E03    SF      ERU       1109

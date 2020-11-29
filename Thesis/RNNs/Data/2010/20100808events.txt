@@ -1,0 +1,27 @@
+:Product: 20100808events.txt
+:Created: 2010 Aug 11 0332 UT
+:Date: 2010 08 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Aug 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8560       0526   0526      0526  SVI  G   RBR  245       110                   
+
+8570       0713   ////      0900  LEA  U   RSP  025-030   III/1                 
+8570       0743   0751      0828  G14  5   XRA  1-8A      B2.1    4.4E-04   1093
+
+8580       0858   ////      0859  SVI  C   RSP  025-040   III/1                 
+
+8590       1222   ////      1223  SVI  C   RSP  025-050   III/1                 
+
+8600       1413   1417      1423  G14  5   XRA  1-8A      B2.3    9.6E-05   1093
+
+8610 +     1921   ////      1922  SAG  C   RSP  025-180   V/1                   
+
+8620       2221   ////      2222  SAG  C   RSP  025-054   III/1                 

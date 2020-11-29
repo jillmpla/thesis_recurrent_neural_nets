@@ -1,0 +1,20 @@
+:Product: 20100509events.txt
+:Created: 2010 May 12 0332 UT
+:Date: 2010 05 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 May 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3700       1523   1541      1614  G14  5   XRA  1-8A      B1.3    3.4E-04   1069
+
+3710       2007   ////      2007  SAG  C   RSP  025-072   III/1                 
+
+3720       2008   ////      2008  PAL  C   RSP  025-062   III/1                 
+
+3730       2050   2114      2144  G14  5   XRA  1-8A      B2.1    5.1E-04   1069

@@ -1,0 +1,24 @@
+:Product: 20100811events.txt
+:Created: 2010 Aug 14 0332 UT
+:Date: 2010 08 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Aug 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2380 +     0757   0801      0805  G14  5   XRA  1-8A      B2.6    8.5E-05   1098
+
+2390       1056   1103      1107  G14  5   XRA  1-8A      B1.8    9.1E-05       
+
+2400       1142   1146      1149  G14  5   XRA  1-8A      B1.9    5.1E-05       
+
+2410       1202   1206      1209  G14  5   XRA  1-8A      B3.9    8.7E-05       
+
+2420 +     1338   1348      1354  G14  5   XRA  1-8A      B3.8    2.6E-04   1098
+
+2430 +     1843   1846      1848  G14  5   XRA  1-8A      B1.7    2.5E-05   1098

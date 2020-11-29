@@ -1,0 +1,16 @@
+:Product: 20100522events.txt
+:Created: 2010 May 25 0332 UT
+:Date: 2010 05 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 May 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3800       1452   1456      1503  SVI  3   FLA  S15E10    SF      DSD       1072
+
+3810 +     2139   2147      2152  G14  5   XRA  1-8A      B1.3    7.3E-05   1072

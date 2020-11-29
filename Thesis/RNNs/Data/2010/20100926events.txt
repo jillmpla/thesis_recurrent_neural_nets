@@ -1,0 +1,51 @@
+:Product: 20100926events.txt
+:Created: 2010 Nov 04 1753 UT
+:Date: 2010 09 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Sep 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5330 +     0245   0249      0251  G15  5   XRA  1-8A      B2.0    4.7E-05   1109
+
+5340 +     0343   0347      0350  G14  5   XRA  1-8A      B2.2    5.5E-05   1109
+
+5350 +     0444   0449      0454  G14  5   XRA  1-8A      B3.0    1.2E-04   1109
+
+5360 +     0538   0542      0545  G14  5   XRA  1-8A      B2.5    6.9E-05   1109
+
+5370       0617   0619      0622  SVI  3   FLA  N21E23    SF      ERU       1109
+
+5380 +     0631   0636      0640  G15  5   XRA  1-8A      B1.9    7.0E-05   1109
+
+5390       0700   0704      0712  G15  5   XRA  1-8A      B2.6    1.3E-04       
+
+5400 +     0918   0926      0933  G14  5   XRA  1-8A      B5.3    3.3E-04   1109
+5400 +     0924   0925      0933  SVI  3   FLA  N21E22    SF      ERU       1109
+
+5410       1012   ////      1014  SVI  C   RSP  025-124   III/1                 
+
+5420 +     1113   ////      1113  SAG  C   RSP  063-180   III/1                 
+5420 +     1113   1113      1113  SVI  G   RBR  245       350                   
+
+5430 +     1242   1253      1300  G14  5   XRA  1-8A      B7.3    6.1E-04   1109
+
+5440 +     1338   1338      1338  SVI  G   RBR  245       160                   
+
+5450 +     1411   1416      1423  G14  5   XRA  1-8A      B3.3    1.7E-04   1110
+5450 +     1415   1418      1428  COM  3   FLA  N21E03    SF      BPT       1110
+
+5460       1800   1810      1821  G14  5   XRA  1-8A      B2.8    3.2E-04   1109
+
+5470 +     1845   1848      1851  G14  5   XRA  1-8A      B2.2    4.9E-05   1109
+
+5480 +     2023   2026      2033  G14  5   XRA  1-8A      B1.9    8.2E-05   1109
+
+5490 +     2041   2045      2050  G15  5   XRA  1-8A      B2.5    9.8E-05   1109
+
+5500 +     2124   2132      2142  G14  5   XRA  1-8A      B3.3    2.7E-04   1109

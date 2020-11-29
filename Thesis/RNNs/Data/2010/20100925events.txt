@@ -1,0 +1,23 @@
+:Product: 20100925events.txt
+:Created: 2010 Sep 28 0332 UT
+:Date: 2010 09 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Sep 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5280       0138   0223      0243  G14  5   XRA  1-8A      B4.0    1.1E-03   1109
+
+5290 +     0938   0951      1004  G14  5   XRA  1-8A      B2.8    3.9E-04   1109
+
+5320       1702   1716      1733  G14  5   XRA  1-8A      B2.5    4.4E-04       
+
+5300       1713   ////      1713  PAL  C   RSP  110-180   III/1                 
+
+5320       1716   ////      1716  SAG  C   RSP  115-180   III/1                 
+5320 +     1720   1720      1720  COM  G   RBR  245       470                   

@@ -1,0 +1,16 @@
+:Product: 20100914events.txt
+:Created: 2010 Sep 17 0332 UT
+:Date: 2010 09 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Sep 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4200       0404   ////      0404  CUL  C   RSP  057-180   III/1                 
+
+4210       0404   ////      0404  LEA  C   RSP  025-180   III/2                 

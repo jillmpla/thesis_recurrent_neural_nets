@@ -1,0 +1,35 @@
+:Product: 20100814events.txt
+:Created: 2010 Aug 17 0332 UT
+:Date: 2010 08 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Aug 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2610 +    A0014   ////      1244  HOL  3   DSF  N22E39    16      B.0A          
+
+2500 +     0027   0031      0040  LEA  2   FLA  N18W46    SF                1099
+
+2510 +     0057   0057      0105  LEA  3   FLA  N17W46    SF                1099
+2510 +     0102   0106      0112  G14  5   XRA  1-8A      B2.7    1.2E-04   1099
+
+2530 +     0352   0401      0414  G14  5   XRA  1-8A      B2.5    2.8E-04   1099
+
+2540 +     0938   1005      1031  G14  5   XRA  1-8A      C4.4    9.9E-03   1099
+
+2570 +     0939   1000      1030  SVI  3   FLA  N11W53    SF      ERU       1093
+
+2540 +     0941   0959      1110  SVI  3   FLA  N17W52    SF      ERU       1099
+2540 +     0952   ////      1009  SVI  C   RSP  025-180   II/1    406       1099
+
+2550 +     1038   1039      1040  SVI  G   RBR  606       170                   
+
+2590       1709   1714      1716  G14  5   XRA  1-8A      B9.7    2.0E-04   1099
+
+2600       1803   1808      1810  G14  5   XRA  1-8A      C1.6    3.6E-04   1099
+2600 +     1807   1807      1813  HOL  3   FLA  N19W54    SF                1099

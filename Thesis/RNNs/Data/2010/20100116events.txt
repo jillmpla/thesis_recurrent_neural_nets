@@ -1,0 +1,20 @@
+:Product: 20100116events.txt
+:Created: 2010 Jan 19 0332 UT
+:Date: 2010 01 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jan 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5360       1228   1240      1300  G14  5   XRA  1-8A      B3.9    6.1E-04   1040
+
+5370       1716   1723      1726  G14  5   XRA  1-8A      B1.9    8.6E-05   1040
+
+5380       1827   1830      1832  G14  5   XRA  1-8A      B3.5    5.5E-05   1040
+
+5390       2052   2057      2100  G14  5   XRA  1-8A      B1.5    5.1E-05   1040

@@ -1,0 +1,40 @@
+:Product: 20100805events.txt
+:Created: 2010 Aug 08 0332 UT
+:Date: 2010 08 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Aug 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8210 +     0016   0026      0039  G14  5   XRA  1-8A      B2.8    3.0E-04   1092
+
+8240       0059   ////      0059  CUL  C   RSP  57-180    III/1                 
+
+8250       0134   ////      0135  CUL  C   RSP  57-180    III/1                 
+
+8220       0312   0312      0312  LEA  G   RBR  606       220                   
+
+8230       0314   0314      0314  PAL  G   RBR  606       210                   
+
+8260       0316   ////      0316  CUL  C   RSP  57-130    III/1                 
+
+8270       0411   ////      0412  CUL  C   RSP  57-180    III/1                 
+
+8330       0559   ////      0559  CUL  C   RSP  57-180    III/1                 
+
+8340       0629   ////      0629  CUL  C   RSP  57-90     III/1                 
+
+8280 +     1109   ////      1109  SAG  C   RSP  025-151   III/2                 
+
+8290       1239   ////      1240  SVI  C   RSP  025-047   III/1                 
+
+8300       2039   2135      2203  G14  5   XRA  1-8A      C1.3    3.6E-03   1093
+
+8310       2140   ////      2140  PAL  C   RSP  025-087   III/1                 
+
+8320       2223   2227      2230  G14  5   XRA  1-8A      B5.7    2.7E-04   1094

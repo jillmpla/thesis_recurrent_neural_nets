@@ -1,0 +1,16 @@
+:Product: 20100912events.txt
+:Created: 2010 Sep 15 0332 UT
+:Date: 2010 09 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Sep 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4080       1620   1629      1633  G14  5   XRA  1-8A      B1.7    1.1E-04       
+
+4090 +     2110   2114      2118  G14  5   XRA  1-8A      B1.9    6.5E-05   1106

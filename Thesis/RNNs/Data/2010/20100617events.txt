@@ -1,0 +1,20 @@
+:Product: 20100617events.txt
+:Created: 2010 Jun 20 0332 UT
+:Date: 2010 06 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jun 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4670       1023   1033      1047  G14  5   XRA  1-8A      B5.0    4.9E-04   1082
+4670 +     1029   1029      1037  COM  3   FLA  N28E41    SF      ERU       1082
+4670       1030   ////      1030  SVI  C   RSP  025-051   III/1             1082
+
+4690       1733   1742      1758  G14  5   XRA  1-8A      B1.1    1.4E-04   1082
+
+4680 +     1844   1849      1855  G14  5   XRA  1-8A      B1.2    5.9E-05   1082

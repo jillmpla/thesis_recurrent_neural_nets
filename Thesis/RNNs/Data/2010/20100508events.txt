@@ -1,0 +1,39 @@
+:Product: 20100508events.txt
+:Created: 2010 May 11 0332 UT
+:Date: 2010 05 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 May 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3590       0058   0104      0110  G14  5   XRA  1-8A      B2.6    1.4E-04       
+
+3600       0131   0139      0146  G14  5   XRA  1-8A      B5.8    3.4E-04       
+
+3610       0318   0323      0327  G14  5   XRA  1-8A      B4.3    1.5E-04       
+
+3620       0451   0459      0504  G14  5   XRA  1-8A      C9.3    3.6E-03   1069
+3620       0455   0459      0532  LEA  3   FLA  N38W65    1F      VWL       1069
+3620 +     0456   0458      0458  SVI  G   RBR  245       2400              1069
+3620 +     0456   0458      0458  SVI  G   RBR  410       3000              1069
+3620       0458   ////      0502  SVI  C   RSP  025-180   III/2             1069
+
+3630       0837   0852      0857  G14  5   XRA  1-8A      B2.1    1.7E-04       
+
+3640       0915   0920      0923  G14  5   XRA  1-8A      B2.1    6.5E-05       
+
+3650       1011   1019      1023  G14  5   XRA  1-8A      B3.8    1.7E-04       
+
+3660 +     1140   1150      1155  G14  5   XRA  1-8A      C1.8    9.1E-04   1069
+
+3670       1508   ////      1509  SVI  C   RSP  025-058   III/1                 
+
+3680 +     1841   1855      1914  G14  5   XRA  1-8A      B7.2    9.4E-04   1069
+
+3690 +     2004   2011      2018  G14  5   XRA  1-8A      C2.4    1.1E-03   1069
+3690 +     2006   ////      2006  PAL  C   RSP  025-089   V/1               1069

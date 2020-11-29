@@ -1,0 +1,33 @@
+:Product: 20101031events.txt
+:Created: 2010 Nov 03 0332 UT
+:Date: 2010 10 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Oct 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8340 +     0112   0116      0119  G15  5   XRA  1-8A      B5.1    1.2E-04   1117
+
+8350 +     0313   0318      0321  G15  5   XRA  1-8A      C1.8    4.2E-04   1117
+8350       0317   0317      0328  LEA  3   FLA  N24W67    SF                1117
+
+8360 +     0415   0418      0421  G15  5   XRA  1-8A      B2.8    5.9E-05   1117
+
+8370 +     0426   0431      0436  G15  5   XRA  1-8A      C5.7    2.2E-03   1117
+
+8380 +     0907   0911      0915  G15  5   XRA  1-8A      B1.9    6.2E-05   1117
+
+8390 +     1804   1808      1813  G15  5   XRA  1-8A      B1.6    6.2E-05       
+
+8400 +     2009   2021      2028  G15  5   XRA  1-8A      B1.6    1.5E-04       
+
+8430       2112   2116      2119  G15  5   XRA  1-8A      B1.6    6.7E-05   1117
+
+8410 +     2201   2208      2214  G15  5   XRA  1-8A      B4.6    2.3E-04   1117
+
+8420 +     2232   2236      2239  G15  5   XRA  1-8A      B1.7    5.0E-05   1117

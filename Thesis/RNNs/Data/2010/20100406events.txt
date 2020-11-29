@@ -1,0 +1,26 @@
+:Product: 20100406events.txt
+:Created: 2010 Apr 09 0332 UT
+:Date: 2010 04 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Apr 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2800       0353   0402      0410  G14  5   XRA  1-8A      B1.5    1.2E-04   1060
+
+2810       0801   ////      0801  SVI  C   RSP  025-060   III/1                 
+
+2820       0859   ////      0859  SVI  C   RSP  025-049   III/1                 
+
+2830       1008   ////      1008  SVI  C   RSP  025-040   III/1                 
+
+2840 +     1152   ////      1153  SAG  C   RSP  025-180   III/1                 
+
+2850 +     1226   ////      1227  SAG  C   RSP  025-050   III/1                 
+
+2860 +     1308   ////      1310  SVI  C   RSP  025-042   III/1                 

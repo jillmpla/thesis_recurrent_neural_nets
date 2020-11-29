@@ -1,0 +1,42 @@
+:Product: 20100102events.txt
+:Created: 2010 Jan 05 0332 UT
+:Date: 2010 01 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jan 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4290 +     0310   0313      0319 ////  5   XRA  1-8A      B1.1    4.4E-05   1039
+
+4300       0709   0724      0740  G14  5   XRA  1-8A      C1.0    1.2E-03   1039
+4300       0721   0723      0746  LEA  3   FLA  S29W37    SF                1039
+
+4310       0758   0805      0813  G14  5   XRA  1-8A      B6.4    4.3E-04   1039
+4310       0803   0803      0811  LEA  3   FLA  S29W37    SF                1039
+
+4320 +     0858   ////      0859  LEA  C   RSP  025-180   III/1                 
+
+4330       0901   0910      0923  G14  5   XRA  1-8A      B4.5    4.8E-04   1039
+4330 +     0905   0917      0921  COM  3   FLA  S29W39    SF                1039
+
+4340 +     0957   ////      0957  LEA  C   RSP  074-173   III/1                 
+
+4350       1115   ////      1118  SVI  C   RSP  044-083   III/1                 
+
+4360       1159   1209      1224  G14  5   XRA  1-8A      B4.8    5.3E-04       
+
+4370       1408   1416      1424  G14  5   XRA  1-8A      C2.6    1.4E-03       
+
+4380       1558   ////      1604  SAG  C   RSP  025-124   III/1                 
+
+4390       2239   2246      2255  G14  5   XRA  1-8A      B4.3    2.8E-04   1039
+4390       2241   2246      2259  HOL  3   FLA  S27W44    SF      PRB       1039
+
+4400       2257   2319      2335  G14  5   XRA  1-8A      C3.1    4.5E-03   1039
+4400       2301   2312     A0000  HOL  3   FLA  S32W48    1F      ERU       1039
+4400 +     2318   ////      2319  LEA  C   RSP  025-165   III/1             1039

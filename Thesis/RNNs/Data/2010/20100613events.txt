@@ -1,0 +1,62 @@
+:Product: 20100613events.txt
+:Created: 2010 Jun 16 0332 UT
+:Date: 2010 06 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jun 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4430 +     0006   0014      0026  G14  5   XRA  1-8A      B8.8    7.2E-04   1081
+
+4440 +     0228   0231      0235  G14  5   XRA  1-8A      B4.6    1.2E-04   1079
+
+4450       0530   0539      0544  G14  5   XRA  1-8A      M1.0    4.2E-03   1079
+4450       0535   0535      0540  LEA  3   FLA  S25W84    SF                1079
+4450       0537   0537      0538  LEA  G   RBR  245       180               1079
+4450 +     0538   ////      0552  SVI  C   RSP  035-180   II/1    621       1079
+
+4460       0557   0559      0602  LEA  3   FLA  N23W63    SF                1081
+
+4470       0608   0611      0613  G14  5   XRA  1-8A      C1.2    1.9E-04   1081
+4470       0610   0611      0615  LEA  3   FLA  N23W59    SF                1081
+
+4480 +     0632   ////      0633  LEA  C   RSP  029-099   III/1                 
+
+4490       0655   0658      0700  G14  5   XRA  1-8A      B5.3    8.6E-05   1081
+4490       0659   0701      0707  LEA  3   FLA  N23W64    SF                1081
+
+4500 +     0705   ////      0707  SVI  C   RSP  025-144   III/2             1080
+4500       0705   0708      0710  G14  5   XRA  1-8A      C1.2    1.7E-04   1080
+4500       0707   0708      0711  LEA  3   FLA  S23W69    SF                1080
+
+4510       0731   0736      0739  LEA  3   FLA  N24W58    SF                1081
+4510       0731   0734      0738  G14  5   XRA  1-8A      C1.2    2.9E-04   1081
+4510       0733   0733      0733  LEA  G   RBR  410       130               1081
+4510       0733   ////      0734  SVI  C   RSP  025-083   III/1             1081
+
+4520       0751   0755      0758  LEA  3   FLA  N24W64    SF                1081
+
+4530       0806   0813      0816  G14  5   XRA  1-8A      C1.2    4.0E-04   1081
+4530       0814   0817      0825  SVI  3   FLA  N22W66    SF      ERU       1081
+
+4540       0914   0916      0922  SVI  3   FLA  N22W68    SF                1081
+
+4550       0941   0946      0948  G14  5   XRA  1-8A      C1.7    3.1E-04   1081
+4550       0944   0949      0957  SVI  3   FLA  S23W75    SF                1081
+
+4560 +     1047   1053      1055  G14  5   XRA  1-8A      C1.5    3.2E-04   1081
+
+4570       1224   1227      1229  G14  5   XRA  1-8A      B4.3    5.9E-05       
+
+4580       1320   1323      1326  G14  5   XRA  1-8A      B2.5    5.4E-05       
+
+4590       1424   1427      1430  G14  5   XRA  1-8A      B2.4    5.1E-05       
+
+4600       1545   1552      1559  G14  5   XRA  1-8A      B4.2    2.6E-04       
+
+4610       1810   1813      1817  G14  5   XRA  1-8A      B1.8    4.9E-05       

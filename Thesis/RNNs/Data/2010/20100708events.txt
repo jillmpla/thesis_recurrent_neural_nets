@@ -1,0 +1,23 @@
+:Product: 20100708events.txt
+:Created: 2010 Jul 11 0332 UT
+:Date: 2010 07 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jul 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5140 +     0119   0127      0135  G14  5   XRA  1-8A      B4.1    2.8E-04   1087
+
+5150 +     0253   0259      0308  G14  5   XRA  1-8A      B6.3    4.0E-04   1087
+
+5160       0431   ////      1036  SVI  3   DSF  N10W64    20      B.0A          
+
+5170 +     2203   2216      2224  G14  5   XRA  1-8A      C1.2    8.6E-04   1087
+5170       2206   2206      2206  PAL  G   RBR  245       120               1087
+
+5180 +     2357   0002      0006  G14  5   XRA  1-8A      B3.3    1.2E-04   1087

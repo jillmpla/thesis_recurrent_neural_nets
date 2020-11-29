@@ -1,0 +1,18 @@
+:Product: 20100320events.txt
+:Created: 2010 Mar 23 0332 UT
+:Date: 2010 03 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Mar 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1190       2145   2158      2207  G14  5   XRA  1-8A      B4.2    3.8E-04       
+
+1200       2304   2312      2322  G14  5   XRA  1-8A      B8.1    6.3E-04   1056
+1200       2311   2312      2323  LEA  3   FLA  N17E06    SF                1056
+1200       2312   2322      2325  HOL  3   FLA  N17E06    SF      DSD       1056

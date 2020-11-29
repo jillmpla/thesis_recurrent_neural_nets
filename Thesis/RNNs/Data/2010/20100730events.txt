@@ -1,0 +1,50 @@
+:Product: 20100730events.txt
+:Created: 2010 Aug 02 0332 UT
+:Date: 2010 07 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jul 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6830       0106   0109      0112  G14  5   XRA  1-8A      B2.7    6.0E-05       
+
+6840 +     0153   ////      0153  PAL  C   RSP  025-095   III/1                 
+
+6850       0221   0227      0256  G14  5   XRA  1-8A      B9.0    1.3E-03   1092
+6850       0227   0228      0244  LEA  3   FLA  N17E64    SF                1092
+
+6860 +     0431   ////      0432  LEA  C   RSP  025-146   III/1                 
+
+6870 +     0503   ////      0506  LEA  C   RSP  025-175   III/1                 
+
+6880 +     0634   ////      0637  SVI  C   RSP  025-083   III/1                 
+
+6890 +     0744   ////      0751  SVI  C   RSP  025-180   III/1             1092
+6890       0751   0752      0802  LEA  3   FLA  N16E58    SF                1092
+
+6900       0756   ////      0805  SVI  C   RSP  025-086   III/1                 
+
+6960       0811   0918      1012  G14  5   XRA  1-8A      B8.1    5.4E-03   1092
+
+6910       0845   ////      0846  SVI  C   RSP  025-121   III/1                 
+
+6920       1045   1045      1045  SAG  G   RBR  410       140                   
+
+6930       1401   ////      1401  SVI  C   RSP  025-155   III/2                 
+
+6940       1736   ////      1738  SAG  U   RSP  025-056   III/1                 
+
+6950       1901   ////      1905  SAG  U   RSP  025-083   III/1                 
+
+6970 +     2021   2025      2032  G14  5   XRA  1-8A      B4.7    2.4E-04   1092
+
+6980 +     2211   ////      2212  SAG  U   RSP  025-072   III/1                 
+
+6990 +     2232   2237      2242  G14  5   XRA  1-8A      B4.1    1.8E-04   1092
+
+7000 +     2252   ////      2253  PAL  C   RSP  025-051   III/1                 

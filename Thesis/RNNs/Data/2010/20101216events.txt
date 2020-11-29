@@ -1,0 +1,18 @@
+:Product: 20101216events.txt
+:Created: 2010 Dec 19 0332 UT
+:Date: 2010 12 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Dec 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2490       0400   0427      0530  G15  5   XRA  1-8A      B7.4    2.7E-03   1135
+
+2500       2225   2230      2237  G15  5   XRA  1-8A      B4.9    2.3E-04       
+
+2510       2354   0002      0009  G15  5   XRA  1-8A      B4.0    2.3E-04       

@@ -1,0 +1,19 @@
+:Product: 20100525events.txt
+:Created: 2010 May 28 0332 UT
+:Date: 2010 05 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 May 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3870       0652   0652      0656  SVI  3   FLA  S14W27    SF                1072
+
+3880 +     1307   ////      1308  SAG  U   RSP  025-084   III/1                 
+
+3890       1546   1551      1555  G14  5   XRA  1-8A      B6.5    1.8E-04   1072
+3890 +     1550   1550      1558  HOL  3   FLA  S16W32    SF      ERU       1072

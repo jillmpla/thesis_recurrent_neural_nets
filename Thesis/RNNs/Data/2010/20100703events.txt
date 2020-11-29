@@ -1,0 +1,16 @@
+:Product: 20100703events.txt
+:Created: 2010 Jul 06 0332 UT
+:Date: 2010 07 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jul 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5050 +     0612   ////      0612  SVI  C   RSP  025-076   III/1                 
+
+5060 +     1058   ////      1059  SAG  U   RSP  025-070   III/2                 

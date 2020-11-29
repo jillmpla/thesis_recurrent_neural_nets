@@ -1,0 +1,39 @@
+:Product: 20101014events.txt
+:Created: 2010 Nov 04 1753 UT
+:Date: 2010 10 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Oct 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6530       0019   ////      0045  LEA  C   RSP  025-096   VI/1                  
+6530 +     0025   ////      0025  LEA  C   RSP  025-180   III/1                 
+
+6540 +     0229   ////      0236  LEA  C   RSP  025-109   III/1                 
+
+6550       0423   ////      0426  LEA  C   RSP  025-088   III/1                 
+
+6560 +     0632   ////      0633  SVI  C   RSP  025-168   III/1                 
+
+6570 +     0702   ////      0702  SVI  C   RSP  025-059   III/1                 
+
+6580 +     0830   ////      0831  LEA  C   RSP  025-151   III/1                 
+
+6590 +     1214   1217      1221  G14  5   XRA  1-8A      B3.9    9.0E-05   1112
+
+6600 +     1354   1359      1404  G14  5   XRA  1-8A      B3.4    1.4E-04   1112
+6600 +     1401   ////      1407  SVI  C   RSP  025-084   III/1             1112
+
+6610 +     1419   1426      1428  G14  5   XRA  1-8A      B3.9    1.1E-04   1112
+6610 +     1422   1426      1433  HOL  3   FLA  S18E06    SF      DSD       1112
+
+6620 +     1658   1703      1708  G14  5   XRA  1-8A      B2.1    9.6E-05   1113
+
+6630       2003   ////      2003  SAG  C   RSP  025-082   III/1                 
+
+6640       2003   ////      2004  PAL  C   RSP  025-052   III/1                 

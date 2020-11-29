@@ -1,0 +1,46 @@
+:Product: 20101110events.txt
+:Created: 2010 Nov 13 0332 UT
+:Date: 2010 11 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Nov 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9000       0142   0149      0153  G15  5   XRA  1-8A      B2.1    9.9E-05   1121
+
+9010       0243   0246      0259  G15  5   XRA  1-8A      B1.5    1.2E-04   1121
+
+9020       0339   0406      0442  G15  5   XRA  1-8A      B6.5    1.5E-03   1121
+9020 +     0404   ////      0404  LEA  C   RSP  025-108   III/1                 
+
+9030       1215   1231      1247  G15  5   XRA  1-8A      B8.9    1.0E-03   1123
+9030       1226   1228      1252  SVI  3   FLA  S22E24    SF      ERU       1123
+
+9050 +     1311   ////      1314  SAG  C   RSP  025-180   III/2                 
+
+9060       1411   1416      1423  G15  5   XRA  1-8A      B6.0    2.8E-04   1123
+9060 +     1412   ////      1417  SAG  C   RSP  025-180   III/2             1123
+9060       1413   1413      1413  SVI  G   RBR  245       110               1123
+9060       1415   1417      1424  SVI  3   FLA  S21E22    SF      ERU       1123
+
+9090       1623   ////      1822  SAG  C   RSP  025-180   VI/1                  
+
+9070       1634   1639      1646  G15  5   XRA  1-8A      B9.0    4.0E-04   1123
+9070       1638   1641      1645  HOL  3   FLA  S22E20    SF      ERU       1123
+
+9080       1743   1746      1749  G15  5   XRA  1-8A      B2.6    5.4E-05   1123
+9080       1747   1747      1751  HOL  3   FLA  S20E17    SF                1123
+
+9100       1809   ////      1822  PAL  C   RSP  025-078   VI/1                  
+
+9110 +     1915   ////      1918  SAG  C   RSP  025-146   III/1                 
+
+9120       2159   2209      2233  G15  5   XRA  1-8A      B2.8    5.0E-04   1123
+
+9130       2247   2255      2301  G15  5   XRA  1-8A      B6.0    3.7E-04   1123
+9130 +     2251   2251      2254  HOL  3   FLA  S21E17    SF      ERU       1123

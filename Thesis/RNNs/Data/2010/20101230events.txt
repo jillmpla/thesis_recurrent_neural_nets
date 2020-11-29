@@ -1,0 +1,14 @@
+:Product: 20101230events.txt
+:Created: 2010 Dec 31 2102 UT
+:Date: 2010 12 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Dec 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2680       0456   ////      0456  LEA  C   RSP  025-059   III/1                 

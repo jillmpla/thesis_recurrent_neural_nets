@@ -1,0 +1,14 @@
+:Product: 20100428events.txt
+:Created: 2010 May 01 0332 UT
+:Date: 2010 04 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Apr 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3010       2344   ////      2344  CUL  C   RSP  100-180   III/1                 

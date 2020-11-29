@@ -1,0 +1,21 @@
+:Product: 20101004events.txt
+:Created: 2010 Oct 07 0332 UT
+:Date: 2010 10 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Oct 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6140 +     0543   0557      0607  G14  5   XRA  1-8A      B1.8    2.1E-04   1111
+
+6150 +     0935   0940      0945  G14  5   XRA  1-8A      B3.8    1.5E-04   1109
+
+6160 +     1507   1510      1525  G14  5   XRA  1-8A      B1.2    1.0E-04   1111
+
+6170 +     1628   1635      1641  G14  5   XRA  1-8A      C2.3    9.7E-04   1109
+6170      B1634  U1634      1638  HOL  1   FLA  N21W77    1F                1109

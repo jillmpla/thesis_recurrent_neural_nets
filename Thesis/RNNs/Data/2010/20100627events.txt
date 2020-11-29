@@ -1,0 +1,16 @@
+:Product: 20100627events.txt
+:Created: 2010 Jun 30 0332 UT
+:Date: 2010 06 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jun 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4820       0314   0317      0320  G14  5   XRA  1-8A      B1.5    3.2E-05       
+
+4830 +     0549   ////      0550  SVI  C   RSP  025-081   III/1                 

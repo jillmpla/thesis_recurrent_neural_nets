@@ -1,0 +1,51 @@
+:Product: 20101113events.txt
+:Created: 2010 Nov 16 0332 UT
+:Date: 2010 11 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Nov 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9680       0323   ////      0326  LEA  C   RSP  025-176   III/1                 
+
+9690       0611   0615      0621  G15  5   XRA  1-8A      B1.5    6.9E-05       
+
+9700       1024   1029      1034  G15  5   XRA  1-8A      B4.3    1.9E-04       
+9700       1026   ////      1026  SVI  C   RSP  025-082   III/1                 
+9700       1026   1027      1027  SVI  U   RBR  245       670                   
+
+9710       1128   1139      1149  G15  5   XRA  1-8A      C1.3    1.1E-03   1123
+9710       1130   ////      1137  SVI  C   RSP  025-129   III/2             1123
+9710       1132   1134      1152  SVI  3   FLA  S23W16    SF      ERU       1123
+9710 +     1133   1133      1133  SVI  U   RBR  245       100               1123
+
+9720 +     1228   1228      1228  SVI  G   RBR  410       1000                  
+
+9740       1343   ////      1406  SAG  C   RSP  025-180   VI/1                  
+
+9730       1344   ////      1345  SVI  C   RSP  025-081   III/1                 
+
+9740       1405   ////      1406  SVI  C   RSP  025-075   III/1                 
+
+9750       1601   1606      1613  G15  5   XRA  1-8A      B2.0    1.1E-04   1124
+
+9760       1704   1727      1736  G15  5   XRA  1-8A      B5.7    7.0E-04   1125
+9760       1710   1713      1719  HOL  3   FLA  N18E13    SF                1125
+9760       1717   ////      1730  SAG  U   RSP  025-180   VI/1              1125
+9760 +     1721   1721      1721  SAG  G   RBR  245       150               1125
+
+9770       1746   1750      1754  G15  5   XRA  1-8A      B2.8    9.9E-05   1125
+9770       1750   1750      1754  HOL  3   FLA  N18E12    SF                1125
+
+9780       2300   2306      2315  G15  5   XRA  1-8A      B1.6    1.2E-04       
+
+9800      A2336   ////     A1431  HOL  3   DSF  N31W09    22                    
+
+9790       2340   ////      0002  PAL  C   RSP  025-180   VI/1              1123
+9790       2350   0001      0010  G15  5   XRA  1-8A      C1.1    8.7E-04   1123
+9790       2355   2356      0002  LEA  3   FLA  S23W26    SF      ERU       1123

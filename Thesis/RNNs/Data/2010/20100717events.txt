@@ -1,0 +1,16 @@
+:Product: 20100717events.txt
+:Created: 2010 Jul 20 0332 UT
+:Date: 2010 07 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jul 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5490 +     0017   0020      0026  G14  5   XRA  1-8A      B1.3    5.0E-05   1087
+
+5500 +     1727   1801      1820  G14  5   XRA  1-8A      C2.4    4.5E-03   1087

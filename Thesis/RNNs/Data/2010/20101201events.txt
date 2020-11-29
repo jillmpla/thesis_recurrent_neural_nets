@@ -1,0 +1,54 @@
+:Product: 20101201events.txt
+:Created: 2010 Dec 04 0332 UT
+:Date: 2010 12 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Dec 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1530       0002   ////      0002  CUL  C   RSP  057-090   III/1                 
+
+1370       0011   0011      0011  LEA  G   RBR  245       120                   
+
+1380 +     0012   0016      0019  G15  5   XRA  1-8A      B2.7    7.5E-05   1130
+
+1390       0037   0040      0043  G15  5   XRA  1-8A      B2.3    4.9E-05       
+
+1400 +     0204   ////      0207  LEA  C   RSP  025-110   III/1                 
+
+1540       0217   ////      0217  CUL  C   RSP  057-120   III/1                 
+
+1410 +     0241   0244      0249  G15  5   XRA  1-8A      B2.4    7.9E-05   1130
+
+1550       0354   ////      0400  CUL  C   RSP  057-170   III/1                 
+
+1420       0356   ////      0427  LEA  C   RSP  025-180   VI/1                  
+1420       0426   ////      0427  CUL  C   RSP  057-130   III/1                 
+
+1430 +     0453   0500      0517  G15  5   XRA  1-8A      B2.6    3.1E-04   1130
+
+1440 +     0614   ////      0615  LEA  C   RSP  025-153   III/1             1130
+1440 +     0615   0622      0635  G15  5   XRA  1-8A      C1.0    9.2E-04   1130
+
+1450 +     0915   0918      0921  G15  5   XRA  1-8A      B1.9    4.0E-05   1130
+
+1460 +     0951   0956      1001  G15  5   XRA  1-8A      B3.7    1.5E-04   1130
+
+1470 +     1134   1148      1159  G15  5   XRA  1-8A      B3.9    4.4E-04   1130
+
+1480 +     1437   ////      1438  SVI  C   RSP  025-043   III/1                 
+
+1490       1543   ////      1543  SAG  C   RSP  025-180   III/1                 
+
+1500       1551   1557      1602  G15  5   XRA  1-8A      B2.8    1.4E-04       
+
+1510 +     1745   1754      1800  G15  5   XRA  1-8A      B3.6    2.5E-04   1130
+
+1520 +     1836   1845      1851  G15  5   XRA  1-8A      B6.1    4.1E-04   1130
+
+1560       2354   ////      2355  CUL  C   RSP  057-090   III/1                 

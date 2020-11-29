@@ -1,0 +1,49 @@
+:Product: 20100807events.txt
+:Created: 2010 Aug 10 0332 UT
+:Date: 2010 08 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Aug 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8450       0230   0244      0256  G14  5   XRA  1-8A      B3.0    3.9E-04   1094
+
+8470       0509   0513      0515  G14  5   XRA  1-8A      B1.7    3.9E-05       
+8470 +     0510   ////      0512  SVI  C   RSP  025-180   III/2                 
+
+8480       0951   ////      0951  SVI  C   RSP  025-042   III/1                 
+
+8490 +     1357   ////      1405  SVI  C   RSP  025-055   III/1                 
+
+8500       1456   ////      1457  SVI  C   RSP  025-082   III/1                 
+
+8510       1755   1824      1847  G14  5   XRA  1-8A      M1.0    1.8E-02   1093
+8510       1758   1815      1955  HOL  3   FLA  N11E34    2F      PRB       1093
+8510 +     1808   ////      1815  COM  C   RSP  30-80     II/2    675       1093
+8510 +     1818   ////      2232  PAL  C   RSP  25-180    IV/2              1093
+8510 +     1823   1825      0000  SAG  G   RBR  606       240               1093
+8510 +     1823   1825      0000  SAG  G   RBR  1415      230               1093
+8510 +     1824   1824      0000  SAG  G   RBR  2695      100               1093
+8510 +     1825   1825      0000  SAG  G   RBR  410       180               1093
+8510 +     1825   1825      1827  COM  G   RBR  245       120               1093
+
+8460 +     1841   1936      1954  PAL  G   RNS  606       910                   
+8460 +     1845   1933      1951  SAG  G   RNS  410       2800                  
+
+8520       1850   1850      1851  SAG  G   RBR  245       210                   
+
+8460 +     1850   1921      1951  SAG  G   RNS  245       630                   
+
+8530 +     1851   1901      1902  COM  G   RBR  2695      150                   
+
+8540 +     1919   1941      0000  PAL  G   RBR  410       3700                  
+8540 +     1919   1923      1925  COM  G   RBR  245       540                   
+8540 +     1920   1941      0000  PAL  G   RBR  606       11000                 
+8540 +     1921   1922      1922  SAG  G   RBR  1415      170                   
+
+8550       2240   2243      2246  G14  5   XRA  1-8A      B2.9    6.4E-05       

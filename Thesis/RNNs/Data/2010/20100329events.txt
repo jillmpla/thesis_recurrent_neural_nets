@@ -1,0 +1,44 @@
+:Product: 20100329events.txt
+:Created: 2010 Apr 01 0332 UT
+:Date: 2010 03 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Mar 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2270       0058   ////      0058  CUL  C   RSP  35-180    III/1                 
+
+2260       0101   0101      0101  PAL  G   RBR  245       130                   
+
+2280       0216   ////      0217  CUL  C   RSP  20-100    III/1                 
+
+2290 +     0357   ////      0357  LEA  C   RSP  025-179   III/1                 
+
+2300       0509   ////      0510  LEA  C   RSP  025-100   III/1                 
+
+2410       0600   ////      1200  IZM  F   RNS  204       26                    
+
+2310       0952   ////      0956  SVI  C   RSP  025-049   III/1                 
+
+2320 +     1312   ////      1319  SVI  C   RSP  025-048   III/1                 
+
+2330 +     1447   ////      1448  SVI  C   RSP  025-086   III/1                 
+
+2340       1551   1551      1551  SAG  G   RBR  245       100                   
+
+2350       1615   1616      1616  SAG  G   RBR  245       120                   
+
+2360       1624   ////      1624  SVI  C   RSP  035-060   III/1                 
+
+2370       1635   1635      1635  SAG  G   RBR  245       110                   
+
+2380       1652   1653      1653  SAG  G   RBR  245       110                   
+
+2400 +     1803   1804      1805  COM  G   RBR  245       110                   
+
+2440 +     2011   2012      2013  COM  G   RBR  245       130                   

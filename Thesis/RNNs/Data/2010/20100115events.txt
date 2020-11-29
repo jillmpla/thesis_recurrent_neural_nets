@@ -1,0 +1,22 @@
+:Product: 20100115events.txt
+:Created: 2010 Jan 18 0332 UT
+:Date: 2010 01 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jan 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5310 +     0159   0159      0201  LEA  G   RBR  245       130                   
+
+5320       0436   0436      0436  LEA  G   RBR  245       130                   
+
+5330       0722   0841      1022  G14  5   XRA  1-8A      C1.3    8.9E-03   1040
+
+5340       1417   1417      1417  SAG  G   RBR  245       130                   
+
+5350 +     1458   1458      1458  SAG  G   RBR  245       150                   

@@ -1,0 +1,38 @@
+:Product: 20101105events.txt
+:Created: 2010 Nov 08 0332 UT
+:Date: 2010 11 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Nov 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8660 +     0048   0056      0102  G15  5   XRA  1-8A      C9.7    5.7E-03   1121
+
+8670 +     0315   0321      0329  G15  5   XRA  1-8A      B9.4    5.8E-04   1121
+
+8680       0333   0333      0333  LEA  G   RBR  245       180                   
+
+8690 +     0627   0632      0638  G15  5   XRA  1-8A      B4.4    2.1E-04   1121
+
+8730       0803   0806      0809  G15  5   XRA  1-8A      B2.9    1.2E-04   1121
+
+8740       0851   0854      0856  G15  5   XRA  1-8A      B2.4    7.9E-05   1121
+
+8750       1021   1025      1030  G15  5   XRA  1-8A      B3.1    1.6E-04   1121
+
+8760       1109   1112      1116  G15  5   XRA  1-8A      B2.3    1.1E-04   1121
+
+8700       1243   1329      1406  G15  5   XRA  1-8A      M1.0    2.3E-02   1121
+
+8770       1837   1842      1848  G15  5   XRA  1-8A      B2.5    1.8E-04   1121
+
+8710       2008   2014      2019  G15  5   XRA  1-8A      B6.2    2.8E-04   1121
+8710       2012   2014      2016  HOL  3   FLA  S19E65    SF                1121
+
+8720       2326   2329      2332  G15  5   XRA  1-8A      B8.4    1.6E-04   1121
+8720       2328   2328      2336  HOL  3   FLA  S19E62    SF                1121

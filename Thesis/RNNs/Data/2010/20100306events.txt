@@ -1,0 +1,25 @@
+:Product: 20100306events.txt
+:Created: 2010 Mar 09 0332 UT
+:Date: 2010 03 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Mar 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 340       0103   0107      0110  G14  5   XRA  1-8A      B1.2    3.1E-05   1053
+ 340       0107   0107      0109  LEA  2   FLA  S22W93    SF                1053
+
+ 380       0521   ////      0656  LEA  3   DSF  N17E23    05      B.0A          
+
+ 350       0733   0801      0925  G14  5   XRA  1-8A      B5.2    2.8E-03       
+
+ 360       1434   1439      1443  G14  5   XRA  1-8A      B1.3    4.9E-05       
+
+ 370       1457   1502      1510  G14  5   XRA  1-8A      B2.5    1.4E-04       
+
+ 390       2107   2113      2120  G14  5   XRA  1-8A      B1.7    1.1E-04       

@@ -1,0 +1,43 @@
+:Product: 20100321events.txt
+:Created: 2010 Mar 24 0332 UT
+:Date: 2010 03 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Mar 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1210       0009   0018      0025  G14  5   XRA  1-8A      B5.5    3.6E-04       
+
+1220       0042   0046      0048  G14  5   XRA  1-8A      B3.8    8.1E-05       
+
+1230       0112   0124      0133  G14  5   XRA  1-8A      B6.5    5.8E-04   1056
+1230 +     0122   0123      0127  LEA  2   FLA  N18E04    SF                1056
+
+1240       0221   0229      0238  G14  5   XRA  1-8A      B3.0    2.4E-04       
+
+1250       0447   0504      0518  G14  5   XRA  1-8A      B4.6    6.8E-04       
+
+1260       0556   0600      0603  G14  5   XRA  1-8A      B3.2    8.6E-05       
+
+1270 +     0831   0900      0916  G14  5   XRA  1-8A      B6.8    1.6E-03   1056
+
+1280       0903  U0907     A0926  LEA  1   FLA  N18E00    SF                1056
+
+1270       0910   ////      0915  SVI  C   RSP  025-060   III/1             1056
+
+1300       1100   ////      1100  SAG  C   RSP  025-047   III/1                 
+
+1310       1426   1431      1442  G14  5   XRA  1-8A      B1.6    1.2E-04       
+
+1330       1752   1817      1831  G14  5   XRA  1-8A      B2.2    4.2E-04       
+
+1320       2006   2014      2017  G14  5   XRA  1-8A      B1.3    6.6E-05       
+
+1340 +     2302   ////      2310  CUL  C   RSP  20-180    III/1                 
+
+1350       2340   2345      2348  G14  5   XRA  1-8A      B1.6    4.8E-05       

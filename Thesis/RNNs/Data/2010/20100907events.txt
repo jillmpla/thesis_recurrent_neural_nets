@@ -1,0 +1,23 @@
+:Product: 20100907events.txt
+:Created: 2010 Sep 10 0332 UT
+:Date: 2010 09 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Sep 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3770       0427   0435      0442  G15  5   XRA  1-8A      B1.3    9.2E-05       
+
+3780       0520   0528      0549  G14  5   XRA  1-8A      B4.4    6.3E-04       
+
+3790       0617   0617      0623  LEA  3   FLA  N20W66    SF                1105
+
+3800 +     0852   0857      0900  G14  5   XRA  1-8A      B2.1    6.9E-05       
+3800       0856   0857      0901  LEA  3   FLA  N18W11    SF                    
+
+3810       1359   ////      1439  HOL  3   DSF  N11E19    11                    

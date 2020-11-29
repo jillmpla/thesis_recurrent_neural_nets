@@ -1,0 +1,21 @@
+:Product: 20100825events.txt
+:Created: 2010 Aug 28 0332 UT
+:Date: 2010 08 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Aug 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2930       0413   ////      0413  PAL  C   RSP  084-180   III/1                 
+
+2960       0414   ////      0414  CUL  C   RSP  057-330   III/1                 
+
+2940       0414   0414      0414  LEA  G   RBR  245       340                   
+2940       0414   ////      0414  LEA  C   RSP  056-180   III/1                 
+
+2950       0417   0417      0417  PAL  G   RBR  245       410                   

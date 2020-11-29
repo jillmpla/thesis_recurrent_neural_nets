@@ -1,0 +1,23 @@
+:Product: 20101107events.txt
+:Created: 2010 Nov 10 0332 UT
+:Date: 2010 11 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Nov 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8890       0131   0141      0152  G15  5   XRA  1-8A      C5.4    3.9E-03   1121
+8890       0137   0139      0152  LEA  3   FLA  S22E53    1F                1121
+
+8900 +     1312   1358      1428  G15  5   XRA  1-8A      B5.2    1.9E-03   1121
+
+8910 +     1628   1631      1638  G15  5   XRA  1-8A      B2.0    8.7E-05   1121
+
+8920 +     1821   1829      1845  G15  5   XRA  1-8A      B3.3    3.8E-04   1121
+
+8930 +     2355   2358      0000  G15  5   XRA  1-8A      B1.7    2.8E-05   1121

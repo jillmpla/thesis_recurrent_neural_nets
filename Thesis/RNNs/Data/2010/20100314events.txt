@@ -1,0 +1,50 @@
+:Product: 20100314events.txt
+:Created: 2010 Mar 17 0332 UT
+:Date: 2010 03 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Mar 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 720       0000   ////      0327  CUL  C   RSP  30-180    CTM/1             1054
+
+ 740       0228   0236      0241  G14  5   XRA  1-8A      B3.1    1.8E-04       
+
+ 860       0340   ////      0343  CUL  C   RSP  30-100    III/1                 
+
+ 750       0407   0420      0424  G14  5   XRA  1-8A      C1.3    5.8E-04   1054
+ 750       0419   0420      0428  LEA  2   FLA  N13E15    SF      BPT       1054
+
+ 870       0447   ////      0453  CUL  C   RSP  20-180    III/1                 
+
+ 760       0449   ////      0452  LEA  C   RSP  025-178   V/2                   
+
+ 770       0520   0524      0529  G14  5   XRA  1-8A      B3.3    1.1E-04   1054
+ 770       0523   0525      0529  LEA  2   FLA  N13E11    SF                1054
+
+ 780       0543   0549      0551  G14  5   XRA  1-8A      B5.2    1.1E-04   1054
+ 780       0551   ////      0811  SVI  C   RSP  025-180   CTM/1                 
+
+ 790 +     0600   ////      0600  LEA  C   RSP  025-136   III/1                 
+
+ 800       0654   0701      0703  LEA  2   FLA  N14E14    SF                1054
+
+ 810       0745   0754      0759  G14  5   XRA  1-8A      B2.4    1.4E-04   1054
+
+ 820       0945   ////      0945  SVI  C   RSP  025-041   III/1                 
+
+ 830       1147   1202      1230  G14  5   XRA  1-8A      B7.9    1.7E-03   1054
+
+ 840       1704   1713      1722  G14  5   XRA  1-8A      B2.1    1.8E-04   1054
+
+ 850 +     1742   ////      1743  SAG  C   RSP  025-180   III/1                 
+
+ 880       2017   ////      2113  SAG  U   RSP  032-084   CTM/1                 
+ 880       2032   ////      2040  CUL  C   RSP  40-90     III/1                 
+
+ 890       2300   ////      2302  CUL  C   RSP  30-90     III/1                 

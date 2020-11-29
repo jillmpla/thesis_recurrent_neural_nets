@@ -1,0 +1,16 @@
+:Product: 20100706events.txt
+:Created: 2010 Jul 09 0332 UT
+:Date: 2010 07 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jul 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5070      A0124   ////     B1314  HOL  3   DSF  N36E16    24      B.0A          
+
+5090 +     1002   1011      1016  G14  5   XRA  1-8A      B1.0    7.8E-05   1086

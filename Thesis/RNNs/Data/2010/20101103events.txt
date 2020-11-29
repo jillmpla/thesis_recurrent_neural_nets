@@ -1,0 +1,28 @@
+:Product: 20101103events.txt
+:Created: 2010 Nov 06 0332 UT
+:Date: 2010 11 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Nov 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8520 +     0047   0209      0229  G15  5   XRA  1-8A      B2.9    1.2E-03       
+
+8530 +     0554   0611      0626  G15  5   XRA  1-8A      C3.8    4.6E-03       
+
+8540 +     1207   1221      1233  G15  5   XRA  1-8A      C4.9    4.3E-03       
+8540       1213   1214      1214  SVI  G   RBR  2695      73                    
+8540 +     1215   1215      1215  SVI  G   RBR  410       3300                  
+8540 +     1215   1215      1216  SVI  G   RBR  245       2600                  
+8540 +     1216   ////      1219  SVI  U   RSP  118-167   II/1    837           
+
+8560 +     1243   1308      1351  G15  5   XRA  1-8A      C3.4    1.3E-02   1121
+
+8580 +     2041   2133      2221  G15  5   XRA  1-8A      B6.5    3.0E-03   1121
+
+8570      A2337   ////     A1452  HOL  3   DSF  S31E64    18                    

@@ -1,0 +1,24 @@
+:Product: 20100614events.txt
+:Created: 2010 Jun 17 0332 UT
+:Date: 2010 06 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jun 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4620       0033   0038      0040  G14  5   XRA  1-8A      B2.3    5.7E-05       
+
+4630       0044   0051      0054  G14  5   XRA  1-8A      C1.5    5.1E-04   1081
+4630 +     0047   ////      0049  LEA  C   RSP  025-180   III/1             1081
+4630       0049   0050      0103  HOL  3   FLA  N27W70    SF      ERU       1081
+
+4640       0426   0430      0435  G14  5   XRA  1-8A      B1.7    6.8E-05       
+
+4650       1249   1254      1258  G14  5   XRA  1-8A      B2.9    1.0E-04       
+
+4660       1756   ////      2035  HOL  3   EPL  ////      0.08    B.6A          

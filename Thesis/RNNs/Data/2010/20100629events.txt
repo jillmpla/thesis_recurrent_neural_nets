@@ -1,0 +1,29 @@
+:Product: 20100629events.txt
+:Created: 2010 Jul 02 0332 UT
+:Date: 2010 06 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jun 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4850       0457   0501      0504  G14  5   XRA  1-8A      B1.4    3.8E-05       
+4850       0500   0503      0507  LEA  3   FLA  N15W14    SF                    
+
+4880       0505   ////      0505  CUL  C   RSP  57-180    III/1                 
+
+4860 +     0800   0801      0801  SVI  G   RBR  245       250                   
+
+4870       1523   1553      1605  G14  5   XRA  1-8A      B1.3    2.2E-04       
+
+4890       2145   ////      2146  PAL  C   RSP  025-180   V/1                   
+4890       2146   ////      2146  CUL  C   RSP  57-180    III/1                 
+
+4900       2147   ////      2148  SAG  C   RSP  025-180   V/2                   
+4900       2147   ////      2148  CUL  C   RSP  57-200    III/2                 
+
+4910       2238   ////      2238  CUL  C   RSP  57-180    III/1                 

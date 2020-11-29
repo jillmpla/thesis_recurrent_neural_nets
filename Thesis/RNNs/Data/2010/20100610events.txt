@@ -1,0 +1,16 @@
+:Product: 20100610events.txt
+:Created: 2010 Jun 13 0332 UT
+:Date: 2010 06 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jun 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4250 +     0120   ////      0120  LEA  C   RSP  025-180   III/1                 
+
+4260       0121   ////      0121  CUL  C   RSP  57-200    III/1                 

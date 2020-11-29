@@ -1,0 +1,22 @@
+:Product: 20101015events.txt
+:Created: 2010 Oct 18 0332 UT
+:Date: 2010 10 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Oct 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6650 +     0748   0752      0755  G15  5   XRA  1-8A      B1.0    2.9E-05   1115
+
+6660 +     0813   0817      0821  G14  5   XRA  1-8A      B1.2    4.2E-05   1113
+
+6670       0914   ////      0916  SVI  C   RSP  025-044   III/1                 
+
+6680 +     1303   1307      1313  G15  5   XRA  1-8A      B1.0    4.8E-05   1113
+
+6690 +     2254   2257      2306  G15  5   XRA  1-8A      B1.2    6.8E-05   1112

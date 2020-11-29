@@ -1,0 +1,29 @@
+:Product: 20101010events.txt
+:Created: 2010 Oct 13 0332 UT
+:Date: 2010 10 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Oct 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6330       0640   0648      0655  G15  5   XRA  1-8A      B2.3    1.5E-04   1112
+6330       0645   0646      0650  LEA  3   FLA  S22E61    SF                1112
+
+6340       0757   0804      0808  G15  5   XRA  1-8A      B1.2    5.8E-05       
+
+6350 +     0839   0844      0848  G14  5   XRA  1-8A      B1.8    6.6E-05   1112
+6350       0842   0843      0846  LEA  3   FLA  S21E59    SF                1112
+
+6360 +     0935   0942      0947  G14  5   XRA  1-8A      B5.5    2.2E-04   1112
+6360 +     0942   0943      0955  SVI  3   FLA  S19E57    SF      ERU       1112
+
+6370 +     1635   1639      1645  G14  5   XRA  1-8A      B1.2    5.1E-05       
+
+6380 +     1732   1735      1742  G14  5   XRA  1-8A      B1.1    4.6E-05       
+
+6400 +     2026   ////      2026  PAL  C   RSP  025-087   III/1                 

@@ -1,0 +1,29 @@
+:Product: 20100121events.txt
+:Created: 2010 Jan 24 0332 UT
+:Date: 2010 01 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jan 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5940       0021   0026      0029  G14  5   XRA  1-8A      B7.9    4.4E-04       
+
+5950       0102   ////      0103  CUL  C   RSP  57-140    III/1                 
+
+5960       0116   0120      0124  G14  5   XRA  1-8A      C4.9    1.4E-03   1041
+5960       0119   0121      0125  LEA  3   FLA  S24E79    SF      BPT       1041
+
+5970       0321   0324      0327  LEA  3   FLA  S25E75    SF                1041
+
+5980       0349   0354      0358  G14  5   XRA  1-8A      C2.3    6.5E-04   1041
+
+5990       0404   ////      0404  CUL  C   RSP  57-140    III/1                 
+
+6000       1042   1049      1053  G14  5   XRA  1-8A      C1.2    3.8E-04   1041
+
+6010       1653   1733      1831  G14  5   XRA  1-8A      B4.6    2.1E-03   1041

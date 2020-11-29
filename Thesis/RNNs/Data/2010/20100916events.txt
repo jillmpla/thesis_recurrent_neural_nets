@@ -1,0 +1,48 @@
+:Product: 20100916events.txt
+:Created: 2010 Sep 19 0332 UT
+:Date: 2010 09 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Sep 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4450       0621   1109      1136  G14  5   XRA  1-8A      B4.5    3.8E-03       
+
+4460       0803   ////      0803  SVI  C   RSP  025-082   III/1                 
+4460 +     0832   ////      0905  SVI  C   RSP  025-126   VI/2                  
+
+4470       0909   0912      0914  G15  5   XRA  1-8A      B3.1    5.1E-05       
+
+4480       0943   ////      0944  SVI  C   RSP  025-149   III/2                 
+
+4490       1019   ////      1035  SVI  C   RSP  025-144   VI/2                  
+
+4500 +     1104   1109      1121  G15  5   XRA  1-8A      B4.6    3.6E-04   1106
+
+4510 +     1130   ////      1137  SVI  C   RSP  025-180   III/1                 
+
+4520 +     1301   ////      1301  SVI  C   RSP  025-126   III/2                 
+
+4530 +     1352   1400      1404  G15  5   XRA  1-8A      B3.6    1.9E-04   1108
+
+4540 +     1858   1903      1906  G14  5   XRA  1-8A      B3.7    1.2E-04   1108
+
+4550       2007   2007      2007  PAL  G   RBR  245       140                   
+
+4560 +     2228   ////      2228  PAL  C   RSP  025-153   III/1             1106
+4560 +     2229   2234      2240  G14  5   XRA  1-8A      B4.6    2.2E-04   1106
+
+4570       2258   ////      2258  PAL  C   RSP  025-086   III/1                 
+
+4590       2259   ////      2259  CUL  C   RSP  057-160   III/1                 
+
+4580       2259   ////      2300  LEA  C   RSP  025-157   III/1                 
+
+4600       2341   ////      2341  CUL  C   RSP  057-130   III/1                 
+
+4610       2348   ////      2348  CUL  C   RSP  057-090   III/1                 

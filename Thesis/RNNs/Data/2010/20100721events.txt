@@ -1,0 +1,62 @@
+:Product: 20100721events.txt
+:Created: 2010 Jul 24 0332 UT
+:Date: 2010 07 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Jul 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5730      B0110   0112      0121  LEA  1   FLA  S23E58    SF                1089
+
+5740       0133   0140      0154  LEA  1   FLA  S23E58    SF                1089
+
+5750       0243   0246      0249  G14  5   XRA  1-8A      B3.2    7.3E-05   1089
+
+5760       0255   0255      0300  LEA  2   FLA  S23E58    SF                1089
+
+5770       0302   0307      0317  LEA  2   FLA  S26E55    1F                1089
+
+5920       0317   0318      0320  LEA  3   FLA  S23E58    SF                1089
+
+5780       0321   0322      0324  LEA  3   FLA  S23E58    SF                1089
+
+5790       0325   0330      0335  LEA  3   FLA  S26E55    SF                1089
+
+5800       0339   0351      0359  LEA  3   FLA  S23E57    SF                1089
+
+5930       0409   0415      0440  LEA  3   FLA  S23E56    SF                1089
+
+5810       0434   0438      0441  LEA  3   FLA  N17W81    SF                1087
+5810       0434   0437      0440  G14  5   XRA  1-8A      B4.6    1.0E-04   1087
+
+5820       0441   0443      0453  LEA  3   FLA  S26E54    SF                1089
+
+5830       0502   0503      0510  LEA  3   FLA  S26E54    SF                1089
+
+5840       0550   0550      0556  SVI  3   FLA  S22E57    SF      ERU       1089
+
+5850       0656   0700      0705  LEA  2   FLA  S25E52    SF                1089
+
+5860       0712   0717      0721  LEA  2   FLA  S25E52    SF                1089
+
+5870       0724   0729      0737  G14  5   XRA  1-8A      B5.7    3.0E-04   1089
+5870       0725   0725      0735  LEA  3   FLA  S26E52    SF                1089
+
+5880       0746   0747      0756  LEA  3   FLA  S26E52    SF                1089
+
+5890       0807   0808      0810  SVI  3   FLA  S25E52    SF      ERU       1089
+
+5900 +     0907   0918      0925  G14  5   XRA  1-8A      B5.9    5.1E-04   1087
+
+5910 +     1227   1230      1233  G14  5   XRA  1-8A      B3.9    8.7E-05   1087
+
+5940 +     1424   1437      1449  G14  5   XRA  1-8A      B8.5    9.5E-04   1087
+
+5950 +     1641   1645      1647  G14  5   XRA  1-8A      B4.6    1.0E-04   1089
+
+5960 +     1845   1851      1855  G14  5   XRA  1-8A      B8.5    3.5E-04   1089

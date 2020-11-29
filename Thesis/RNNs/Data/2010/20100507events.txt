@@ -1,0 +1,22 @@
+:Product: 20100507events.txt
+:Created: 2010 May 10 0332 UT
+:Date: 2010 05 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 May 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3550       0030   0034      0036  G14  5   XRA  1-8A      B1.1    2.5E-05       
+
+3560       0555   0558      0600  G14  5   XRA  1-8A      B1.2    1.9E-05   1069
+3560 +     0558   0559      0604  LEA  3   FLA  N41W50    SF                1069
+
+3570       0729   0742      0802  G14  5   XRA  1-8A      C2.0    2.6E-03   1069
+3570 +     0738  U0749     A0834  SVI  3   FLA  N40W54    SF      ERU       1069
+
+3580 +     2249   2257      2303  G14  5   XRA  1-8A      B4.6    2.6E-04   1069

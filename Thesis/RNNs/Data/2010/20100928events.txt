@@ -1,0 +1,52 @@
+:Product: 20100928events.txt
+:Created: 2010 Oct 01 0332 UT
+:Date: 2010 09 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Sep 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5600 +     0051   ////      0053  LEA  C   RSP  032-109   III/1                 
+
+5610       0120   ////      0121  LEA  C   RSP  031-060   III/1                 
+
+5620       0236   ////      0251  LEA  C   RSP  025-180   VI/1              1108
+5620 +     0237   0241      0243  G14  5   XRA  1-8A      B2.3    4.9E-05   1108
+5620       0237   ////      0237  PAL  C   RSP  025-170   III/1             1108
+
+5630 +     0244   0247      0249  G14  5   XRA  1-8A      B2.1    3.4E-05   1108
+
+5640       0412   ////      0412  LEA  C   RSP  029-053   III/1                 
+
+5650       0457   0457      0457  LEA  U   RBR  245       55                    
+
+5660       0459   ////      0543  LEA  C   RSP  028-096   VI/1                  
+
+5690 +    U0522   0534      0640  LEA  G   RNS  245       420                   
+
+5670       0639   0642      0645  G15  5   XRA  1-8A      B1.4    3.3E-05       
+
+5680 +     0938   0948      0957  G14  5   XRA  1-8A      C1.7    1.3E-03   1110
+
+5700 +     1413   1422      1430  G14  5   XRA  1-8A      B2.8    2.3E-04   1109
+
+5710       1443   1505      1511  G14  5   XRA  1-8A      B5.2    6.6E-04   1110
+
+5720       1654   ////      1655  SAG  C   RSP  057-084   III/1                 
+
+5730       1656   ////      1657  PAL  C   RSP  075-085   III/1                 
+
+5740       1838   1846      1852  G15  5   XRA  1-8A      B2.4    1.6E-04       
+
+5750       2107   2112      2118  G15  5   XRA  1-8A      B6.1    2.6E-04   1110
+5750       2112   2113      2119  HOL  3   FLA  N19W30    SF                1110
+
+5760       2205   2211      2215  G14  5   XRA  1-8A      C2.0    6.5E-04   1110
+5760       2209   2210      2218  HOL  3   FLA  N19W31    SF                1110
+
+5770       2236   2242      2250  G14  5   XRA  1-8A      B2.5    1.7E-04       

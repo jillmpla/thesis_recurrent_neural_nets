@@ -1,0 +1,19 @@
+:Product: 20100403events.txt
+:Created: 2010 Apr 06 0332 UT
+:Date: 2010 04 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2010 Apr 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2690       0002   0002      0005  LEA  3   FLA  N16W63    SF                1057
+
+2700      A0024   ////     B1456  HOL  3   DSF  S25E00    11      B.0A      1059
+2700 +     0904   0954      1058  G14  5   XRA  1-8A      B7.4    3.7E-03   1059
+
+2710       1034   ////      1036  SVI  C   RSP  025-048   III/1                 
