@@ -1,0 +1,20 @@
+:Product: 20161021events.txt
+:Created: 2016 Oct 24 0357 UT
+:Date: 2016 10 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Oct 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2030       0711   ////      0712  SVI  U   RSP  028-140   III/1                 
+
+2040       0946   0949      0951  G15  5   XRA  1-8A      B1.2    2.0E-05   2603
+
+2070       1204   1204      1207  SVI  3   FLA  N14E10    SF                2603
+
+2080       1639   1642      1646  G15  5   XRA  1-8A      B1.6    4.5E-05   2603

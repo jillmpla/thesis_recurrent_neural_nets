@@ -1,0 +1,31 @@
+:Product: 20161207events.txt
+:Created: 2016 Dec 10 0357 UT
+:Date: 2016 12 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Dec 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3980       0114   0117      0128  G15  5   XRA  1-8A      B1.6    1.1E-04   2615
+
+4000       0238   ////      0953  LEA  2   DSD  ////      24                    
+
+3990       0334   0345      0354  G15  5   XRA  1-8A      B1.6    1.7E-04   2615
+
+4010 +     0854   ////      0855  LEA  C   RSP  032-113   III/2                 
+
+4030       0901   ////      1021  SVI  3   DSF  N12E57    23                    
+
+4020       0953   ////      1025  LEA  1   EPL  ////      0.17                  
+4020       0957   1000      1003  G15  5   XRA  1-8A      B1.7    3.8E-05   2615
+
+4040       1119   1123      1132  G15  5   XRA  1-8A      B1.7    1.1E-04   2615
+
+4050       1552   1556      1600  G15  5   XRA  1-8A      B1.6    5.3E-05   2615
+
+4060 +     1752   1809      1820  G15  5   XRA  1-8A      B3.6    4.4E-04   2615

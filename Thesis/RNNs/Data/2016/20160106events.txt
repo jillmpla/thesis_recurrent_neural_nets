@@ -1,0 +1,38 @@
+:Product: 20160106events.txt
+:Created: 2016 Jan 09 0357 UT
+:Date: 2016 01 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jan 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9980       0014   0025      0037  G15  5   XRA  1-8A      B4.4    5.5E-04   2476
+
+9990       0327   0348      0403  G15  5   XRA  1-8A      B6.6    1.1E-03   2480
+
+  10 +     0613   0616      0620  G15  5   XRA  1-8A      B5.6    1.4E-04   2478
+
+  20 +     0920   0925      0928  G15  5   XRA  1-8A      B8.2    2.4E-04   2480
+
+  30 +     1131   1137      1139  G15  5   XRA  1-8A      C1.8    3.3E-04   2480
+
+  40 +     1442   ////      1524  SVI  C   RSP  100-180   CTM/1                 
+  40       1444   1445      1446  G15  5   XRA  1-8A      B9.3    1.4E-04   2480
+
+  50       1656   1656      1656  SAG  G   RBR  410       240                   
+
+  60 +     1925   1930      1934  G15  5   XRA  1-8A      B6.8    2.5E-04   2480
+
+  70 +     2147   2200      2217  G15  5   XRA  1-8A      B7.0    1.1E-03   2480
+  70       2149   2149      2149  PAL  U   RBR  245       130                   
+  70       2201   ////      2359  LEA  C   RSP  079-180   CTM/1                 
+
+  90 +    A2208   ////     A2132  HOL  3   DSF  N07E34    12                2477
+
+  80       2300   2309      2323  G15  5   XRA  1-8A      B5.8    7.3E-04       
+  80 +     2301   ////      2302  LEA  C   RSP  031-180   III/1                 

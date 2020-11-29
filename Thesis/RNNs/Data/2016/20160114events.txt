@@ -1,0 +1,27 @@
+:Product: 20160114events.txt
+:Created: 2016 Jan 17 0357 UT
+:Date: 2016 01 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jan 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 500       0953   ////      0954  SVI  C   RSP  025-165   III/1                 
+
+ 510 +     1004   1008      1017  G15  5   XRA  1-8A      B3.7    2.1E-04   2480
+ 510       1016   1016      1021  SVI  3   FLA  N03W33    SF      DSD       2480
+
+ 540      A1035   ////     A2233  LEA  2   DSF  S32E06    20                    
+
+ 520       1247   ////      1247  SVI  C   RSP  025-067   III/1                 
+
+ 550       1803   ////      2048  HOL  3   DSF  S25W08    14                    
+
+ 530       2158   2200      2202  HOL  3   FLA  N15E69    SF      DSD       2485
+
+ 700      B2324   ////     A0906  SOH  3   CME  XUV,EUV,UV236-235/FS217           

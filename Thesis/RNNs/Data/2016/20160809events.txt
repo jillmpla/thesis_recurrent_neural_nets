@@ -1,0 +1,66 @@
+:Product: 20160809events.txt
+:Created: 2016 Aug 12 0357 UT
+:Date: 2016 08 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Aug 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6820 +     0034   0042      0052  G15  5   XRA  1-8A      C8.9    6.0E-03   2574
+6820       0038   0045      0105  LEA  3   FLA  N03E67    SF      ERU       2574
+
+6830       0155   0158      0209  G15  5   XRA  1-8A      B7.5    5.1E-04       
+
+6840 +     0417   0417      0417  LEA  G   RBR  245       210                   
+
+6850 +     0448   0448      0448  SVI  G   RBR  245       510                   
+6850       0448   ////      0449  SVI  C   RSP  025-180   III/1                 
+
+6860 +     0448   ////      0449  LEA  C   RSP  025-180   III/1                 
+
+6870 +     0455   ////      0500  LEA  C   RSP  025-180   III/2                 
+6870       0459   0459      0459  LEA  G   RBR  245       110                   
+
+6880       0500   0500      0500  SVI  G   RBR  245       110                   
+
+6890       0646   ////      0649  SVI  C   RSP  025-060   III/1                 
+
+6900 +     0726   ////      0726  LEA  C   RSP  025-066   III/1                 
+
+6910 +     0738   ////      0742  SVI  C   RSP  025-180   III/2                 
+6910 +     0738   0738      0738  SVI  G   RBR  245       230                   
+
+6920       0739   0742      0745  G15  5   XRA  1-8A      B3.5    7.9E-05       
+
+6930 +     0847   0855      0900  G15  5   XRA  1-8A      C2.5    1.1E-03   2574
+6930       0850   0851      0907  LEA  3   FLA  N04E59    SF      ERU       2574
+
+6940       0917   ////      0917  SVI  C   RSP  025-154   III/1                 
+
+6950       0936   ////      0937  SVI  C   RSP  032-171   III/1                 
+
+6960       1011   ////      1013  SVI  U   RSP  025-080   III/1                 
+
+6970 +     1250   ////      1254  SAG  C   RSP  025-082   III/1                 
+
+6980       1439   1454      1501  G15  5   XRA  1-8A      B4.3    4.5E-04   2574
+6980       1447   1448      1507  SVI  3   FLA  N07E57    SF      DSD       2574
+6980       1455   ////      1518  SVI  C   RSP  025-080   VI/1              2574
+
+6990       1517   ////      1518  SAG  C   RSP  025-057   III/1                 
+
+7000 +     1627   1631      1635  G15  5   XRA  1-8A      B3.5    1.1E-04   2571
+7000       1628   1629      1634  SVI  3   FLA  N10W39    SF                2571
+
+7050      A1704   ////     A0505  SVI  3   DSF  N26E60    29                    
+
+7010       1743   ////      1743  SAG  C   RSP  025-075   III/1                 
+
+7020       2232   2237      2243  G13  5   XRA  1-8A      B8.7    4.4E-04   2574
+
+7080      A2344   ////     A1406  HOL  2   DSF  N26E57    36                    

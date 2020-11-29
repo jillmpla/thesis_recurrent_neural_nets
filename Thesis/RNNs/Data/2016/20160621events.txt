@@ -1,0 +1,16 @@
+:Product: 20160621events.txt
+:Created: 2016 Jun 24 0357 UT
+:Date: 2016 06 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jun 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1100       0438   0534      0709  G15  5   XRA  1-8A      B3.8    3.1E-03   2553
+
+1110 +     2054   ////      2236  HOL  4   DSF  N03W36    14                    

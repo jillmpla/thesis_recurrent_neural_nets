@@ -1,0 +1,42 @@
+:Product: 20160507events.txt
+:Created: 2016 May 10 0357 UT
+:Date: 2016 05 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 May 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4600       0615   ////      0628  SVI  C   RSP  025-132   VI/1                  
+4600       0628   ////      0628  LEA  C   RSP  028-075   III/1                 
+
+4610 +     0635   0640      0647  G13  5   XRA  1-8A      B5.4    2.9E-04   2541
+4610       0638   0639      0700  SVI  3   FLA  N04E11    SF      ERU       2541
+
+4650 +     0754   ////      1225  SVI  3   DSF  S01E26    6                     
+
+4730      A0923   ////     A2323  LEA  3   DSF  N17E31    19                    
+
+4620 +     1248   1301      1343  G13  5   XRA  1-8A      B5.8    1.6E-03   2536
+4620       1343   1344      1346  SVI  3   FLA  N13W88    SF                2536
+
+4630 +     1353   ////      1353  SAG  C   RSP  025-065   III/1                 
+
+4660 +     1457   1504      1513  HOL  3   FLA  N04E08    SF      ERU       2541
+
+4700       1515   ////      1600  SVI  3   DSF  N20E28    12                    
+
+4710       1515   ////      1600  SVI  3   DSF  N16E27    8                     
+
+4720       1530   ////      1700  HOL  3   DSF  N08E27    25                2542
+
+4670 +     1611   ////      1612  SAG  C   RSP  025-180   III/1                 
+
+4680       1629   1629      1629  SVI  G   RBR  245       110                   
+
+4690 +     1704   1713      1724  G13  5   XRA  1-8A      C1.9    1.7E-03   2541
+4690       1706   1711      1749  HOL  4   FLA  N04E06    1F      ERU       2541

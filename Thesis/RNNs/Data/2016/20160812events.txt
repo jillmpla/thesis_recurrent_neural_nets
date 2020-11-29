@@ -1,0 +1,48 @@
+:Product: 20160812events.txt
+:Created: 2016 Aug 15 0357 UT
+:Date: 2016 08 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Aug 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7200 +     0412   0421      0426  G15  5   XRA  1-8A      B4.5    2.7E-04   2574
+7200       0415   0419      0425  LEA  3   FLA  N10E21    SF      ERU       2574
+
+7210 +     0650   0658      0702  G15  5   XRA  1-8A      B7.0    3.3E-04   2574
+7210 +     0654   0654      0709  LEA  3   FLA  N07E25    SF      DSD       2574
+
+7220 +     0842   ////      0842  LEA  C   RSP  090-180   III/1                 
+
+7230 +     1011   1016      1022  G15  5   XRA  1-8A      B4.5    2.0E-04   2574
+7230       1014   1015      1026  SVI  3   FLA  N12E22    SF      ERU       2574
+
+7240       1130   1130      1130  SVI  G   RBR  245       120                   
+
+7250       1153   1222      1241  G15  5   XRA  1-8A      B4.8    1.1E-03   2574
+
+7260 +     1425   1425      1425  SAG  G   RBR  245       100                   
+
+7270 +     1453   1454      1456  SAG  G   RBR  245       250                   
+
+7280 +     1507   1507      1507  SAG  G   RBR  245       240                   
+
+7290 +     1623   1627      1638  G15  5   XRA  1-8A      B4.3    2.8E-04   2574
+7290 +     1626   1628      1639  HOL  4   FLA  N13E18    SF      ERU       2574
+
+7300 +     1817   ////      1818  SAG  C   RSP  025-136   III/2                 
+
+7340       1913   ////      2301  PAL  U   RSP  042-083   CTM/1                 
+
+7310 +     1954   ////      1955  SAG  C   RSP  025-180   III/2                 
+
+7320       2105   ////      2105  PAL  C   RSP  025-124   III/2                 
+
+7330       2128   ////      2128  PAL  C   RSP  025-082   III/2                 
+
+7350 +     2336   ////      2336  LEA  C   RSP  025-122   III/1                 

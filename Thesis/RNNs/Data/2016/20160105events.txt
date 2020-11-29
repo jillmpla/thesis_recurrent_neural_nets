@@ -1,0 +1,22 @@
+:Product: 20160105events.txt
+:Created: 2016 Jan 08 0357 UT
+:Date: 2016 01 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jan 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9930       0327   ////      0417  LEA  3   EPL  ////      0.36                  
+
+9940 +     0930   ////      0933  LEA  C   RSP  030-127   III/1                 
+
+9960       1632   1648      1659  G15  5   XRA  1-8A      B3.8    5.7E-04       
+
+9950       2057   ////      2100  CUL  C   RSP  018-057   III/1                 
+
+9970       2333   2337      2338  G15  5   XRA  1-8A      B6.3    2.0E-04   2476

@@ -1,0 +1,35 @@
+:Product: 20161205events.txt
+:Created: 2016 Dec 08 0357 UT
+:Date: 2016 12 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Dec 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3840       0001   ////      0003  LEA  C   RSP  035-180   III/1                 
+3840       0001   0001      0001  LEA  G   RBR  245       200                   
+
+3850       0147   0147      0147  LEA  G   RBR  245       100                   
+
+3860 +     0400   0405      0413  G15  5   XRA  1-8A      B3.5    2.0E-04   2615
+
+3870       0510   ////      0510  LEA  C   RSP  037-180   III/1                 
+
+3880       0535   0536      0536  LEA  G   RBR  245       180                   
+
+3890 +     0557   0607      0614  G15  5   XRA  1-8A      C1.2    7.7E-04   2615
+3890       0558   ////      0559  LEA  C   RSP  025-180   III/2             2615
+3890       0601   0606      0612  LEA  3   FLA  S08W20    SF      ERU       2615
+
+3900       1050   1050      1050  SVI  G   RBR  410       170                   
+
+3910       1437   ////      1449  SAG  C   RSP  045-157   VI/1                  
+3910       1447   ////      1450  SVI  C   RSP  025-135   III/1                 
+
+3920       1710   1715      1719  G15  5   XRA  1-8A      B2.5    9.3E-05   2615
+3920       1713   1716      1722  HOL  3   FLA  S04W27    SF      DSD       2615

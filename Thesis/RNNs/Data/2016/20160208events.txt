@@ -1,0 +1,57 @@
+:Product: 20160208events.txt
+:Created: 2016 Feb 11 0357 UT
+:Date: 2016 02 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Feb 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3610       0002   ////      0607  LEA  C   RSP  075-171   CTM/1                 
+
+3600       0344   0347      0350  G15  5   XRA  1-8A      B6.4    1.3E-04       
+
+3620       0508   0513      0519  LEA  1   FLA  S16W26    SF      DSD       2494
+3620       0510   0510      0510  LEA  G   RBR  245       120               2494
+
+3630 +     0522   0529      0543  G15  5   XRA  1-8A      C1.6    1.6E-03   2492
+3630       0524   0525      0546  LEA  1   FLA  N14W08    SF      ERU       2492
+3630       0527   ////      0545  LEA  C   RSP  028-180   VI/1              2492
+
+3640 +     0712   ////      0713  LEA  C   RSP  028-098   III/1                 
+
+3740       0736   ////      0736  CUL  C   RSP  023-050   III/1                 
+
+3650       0823   0823      0823  LEA  G   RBR  245       220                   
+
+3660 +     0849   0852      0854  G15  5   XRA  1-8A      B5.7    9.0E-05   2497
+
+3670       1419   ////      1420  SVI  C   RSP  025-180   III/1                 
+
+3680       1447   ////      1449  SVI  C   RSP  025-180   III/1                 
+
+3690 +     1613   1618      1631  G15  5   XRA  1-8A      B7.8    6.5E-04   2492
+3690       1616   1617      1622  HOL  2   FLA  N15W14    SF      ERU       2492
+
+3790 +     1740   ////      2309  HOL  3   DSF  N09E11    24                2496
+
+3700       1755   ////      1756  SAG  C   RSP  025-180   III/1                 
+
+3750       2030   ////      2036  CUL  C   RSP  018-090   III/3                 
+
+3710       2031   ////      2033  PAL  C   RSP  025-153   III/2                 
+3710       2031   ////      2033  SAG  C   RSP  025-141   VI/1                  
+
+3760       2107   ////      2110  CUL  C   RSP  020-057   III/2                 
+
+3720       2107   ////      2109  PAL  C   RSP  025-082   III/2                 
+
+3770       2228   ////      2228  CUL  C   RSP  018-057   III/2                 
+
+3730       2230   2230      2230  PAL  U   RBR  245       100                   
+
+3780       2303   ////      2331  HOL  3   EPL  ////      0.28                  

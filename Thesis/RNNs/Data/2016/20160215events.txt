@@ -1,0 +1,75 @@
+:Product: 20160215events.txt
+:Created: 2016 Feb 18 0357 UT
+:Date: 2016 02 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Feb 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4880 +     0402   0419      0424  G15  5   XRA  1-8A      C3.9    2.9E-03   2497
+
+4890 +     0527   0533      0538  G15  5   XRA  1-8A      C1.4    6.9E-04   2497
+
+4900       0635   0638      0640  G15  5   XRA  1-8A      B6.4    1.1E-04       
+
+4910       0711   0711      0712  LEA  U   RBR  245       130                   
+
+4920 +     0720   0723      0732  G15  5   XRA  1-8A      B9.1    4.9E-04   2497
+4920 +     0726   0729      0746  SVI  3   FLA  N09W52    SF      ERU       2497
+
+4940       0804   0804      0805  SVI  3   FLA  N12W54    SF                2497
+
+4960 +     0821   0839      0901  SVI  3   FLA  N12W54    SF      ERU       2497
+4960 +     0826   0841      0846  G15  5   XRA  1-8A      C5.2    3.4E-03   2497
+
+4970       0908   0910      0919  SVI  3   FLA  N11W55    SF                2497
+
+4980       0921   0933      1037  SVI  3   FLA  N10W52    1F      ERU       2497
+4980 +     0929   0935      0944  G15  5   XRA  1-8A      C2.3    1.6E-03   2497
+
+4990       1037   1056      1159  SVI  3   FLA  N10W52    1N      ERU       2497
+4990 +     1041   1100      1106  G15  5   XRA  1-8A      M1.1    7.4E-03   2497
+
+5000       1056   1058      1104  SVI  3   FLA  S20W48    SF                2500
+
+5010       1214   1215      1219  SVI  3   FLA  N12W56    SF                2497
+
+5020       1223   1225      1229  SVI  3   FLA  N09W56    SF                2497
+
+5030       1240   1243      1249  SVI  3   FLA  N09W56    SF      ERU       2497
+
+5040       1254   1258      1309  SVI  3   FLA  N09W56    SF      ERU       2497
+
+5050 +     1440   1504      1513  G15  5   XRA  1-8A      C3.3    4.7E-03   2497
+5050       1442   1505      1545  HOL  2   FLA  N14W58    1F      DSD       2497
+
+5060       1528   1528      1528  SAG  G   RBR  610       300                   
+
+5070 +     1714   1723      1727  G15  5   XRA  1-8A      C2.5    1.2E-03   2497
+5070       1717   1755      1840  HOL  3   FLA  N14W58    SF      ERU       2497
+
+5080 +     1732   1736      1739  G15  5   XRA  1-8A      C1.6    4.5E-04   2497
+
+5090 +     1746   1752      1800  G15  5   XRA  1-8A      C4.2    2.4E-03   2497
+
+5100 +     1808   1812      1815  G15  5   XRA  1-8A      C2.2    6.1E-04       
+
+5110 +     1842   1846      1849  G15  5   XRA  1-8A      C2.9    7.6E-04   2497
+5110       1843   1846      1858  HOL  3   FLA  N14W58    SF      DSD       2497
+
+5120 +     1931   1937      1941  G15  5   XRA  1-8A      C1.2    5.1E-04       
+
+5130 +     1946   1952      1955  G15  5   XRA  1-8A      C1.7    5.9E-04   2497
+5130       1950   1952      1956  HOL  3   FLA  N14W61    SF      DSD       2497
+
+5140 +     2002   2006      2010  G15  5   XRA  1-8A      C1.6    5.4E-04   2497
+
+5150 +     2053   2058      2105  G15  5   XRA  1-8A      C1.2    6.3E-04   2497
+
+5160 +     2114   2140      2149  G15  5   XRA  1-8A      C4.1    5.5E-03   2497
+5160       2120   2126      2233  HOL  3   FLA  N16W57    1F      ERU       2497

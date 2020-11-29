@@ -1,0 +1,45 @@
+:Product: 20160209events.txt
+:Created: 2016 Feb 12 0357 UT
+:Date: 2016 02 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Feb 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3800 +     0021   0021      0021  LEA  G   RBR  245       100                   
+
+3810       0026   0031      0039  G15  5   XRA  1-8A      B7.4    4.5E-04   2492
+
+3820       0128   0128      0129  PAL  U   RBR  245       230                   
+
+3830       0130   0131      0133  LEA  2   FLA  S12W44    SF                2494
+
+3840       0138   0139      0140  LEA  2   FLA  S12W44    SF                2494
+
+3850 +     0558   0601      0606  G15  5   XRA  1-8A      C1.0    3.3E-04       
+3850       0604   ////      0806  LEA  C   RSP  032-173   CTM/1                 
+
+3860       0644   ////      0714  LEA  C   RSP  025-180   VI/1                  
+
+3880       1158   1206      1221  G15  5   XRA  1-8A      B5.6    7.6E-04   2492
+
+3890       1224   1228      1233  G15  5   XRA  1-8A      B6.7    3.6E-04   2492
+
+3900       1744   1747      1749  G15  5   XRA  1-8A      B5.6    2.0E-04   2492
+
+3870       1806   ////      1839  SAG  C   RSP  025-115   VI/1                  
+3870       1811   ////      1920  HOL  3   EPL  ////      0.26                  
+
+3910       1926   1939      1947  G15  5   XRA  1-8A      B9.1    9.6E-04   2494
+3910       1938   1939      1945  HOL  3   FLA  S11W55    SF                2494
+
+3920       1955   1955      2002  HOL  3   FLA  S10W56    SF                2494
+
+3930       2151   2205      2208  G15  5   XRA  1-8A      B6.2    5.3E-04   2498
+
+3940       2319   2328      2333  HOL  3   FLA  N16E61    SF      DSD       2498

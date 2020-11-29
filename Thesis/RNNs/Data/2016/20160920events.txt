@@ -1,0 +1,37 @@
+:Product: 20160920events.txt
+:Created: 2016 Sep 23 0357 UT
+:Date: 2016 09 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Sep 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9610       0010   0011      0017  HOL  2   FLA  N12W58    SF                2595
+
+9620 +     0245   0248      0254  G15  5   XRA  1-8A      B3.5    1.3E-04   2595
+
+9630       0807   ////      0813  SVI  C   RSP  025-143   III/1                 
+
+9640       1327   1328      1333  HOL  3   FLA  N11W66    SF      ERU       2595
+
+9650       1334   1336      1339  HOL  3   FLA  N11W66    SF      ERU       2595
+
+9660 +     1416   1419      1428  HOL  3   FLA  N12W68    SF      ERU       2595
+
+9670       1429   1431      1440  HOL  3   FLA  N12W68    SF      ERU       2595
+
+9680 +     1510   1510      1510  SAG  G   RBR  245       100                   
+
+9690 +     1521   1521      1521  SAG  G   RBR  245       140                   
+
+9700       1536   1543      1548  SVI  3   FLA  N06W69    SF                2595
+9700       1544   1544      1544  SAG  G   RBR  245       100               2595
+
+9710 +     1653   1653      1653  SAG  G   RBR  245       120                   
+
+9720       2327   ////      2335  PAL  C   RSP  025-077   III/1                 

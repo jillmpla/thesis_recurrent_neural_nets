@@ -1,0 +1,20 @@
+:Product: 20161001events.txt
+:Created: 2016 Oct 04 0357 UT
+:Date: 2016 10 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Oct 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 450 +    A0035   ////     A1332  HOL  3   DSF  N22E10    36                    
+
+ 440       0215   0219      0224  G15  5   XRA  1-8A      B3.4    1.3E-04   2598
+
+ 460 +     1117   ////      1118  SVI  C   RSP  025-036   III/2                 
+
+ 470       1355   ////      1407  HOL  3   EPL  ////      0.19                  

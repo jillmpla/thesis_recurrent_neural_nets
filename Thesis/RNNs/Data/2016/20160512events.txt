@@ -1,0 +1,24 @@
+:Product: 20160512events.txt
+:Created: 2016 May 15 0357 UT
+:Date: 2016 05 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 May 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5110       0340   0346      0350  LEA  3   FLA  N21E33    SF                2544
+
+5120       0831   0831      0835  LEA  2   FLA  N09W28    SF                2542
+
+5130 +     1220   1223      1227  G13  5   XRA  1-8A      B5.3    1.5E-04   2544
+
+5140 +     1606   1610      1614  G13  5   XRA  1-8A      B4.7    1.6E-04   2542
+
+5160       1843   ////      2015  HOL  3   DSF  N11W52    7                     
+
+5150       2302   ////      2310  HOL  3   EPL  ////      0.18    B.3A          

@@ -1,0 +1,35 @@
+:Product: 20160908events.txt
+:Created: 2016 Sep 11 0357 UT
+:Date: 2016 09 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Sep 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8870       0138   ////      0143  LEA  U   RSP  042-126   III/1                 
+
+8880       0225   0228      0231  G15  5   XRA  1-8A      B2.2    4.8E-05   2585
+
+8890       0352   0356      0358  G15  5   XRA  1-8A      B2.6    5.7E-05   2585
+
+8900 +     0414   0422      0425  G15  5   XRA  1-8A      B3.4    1.6E-04   2585
+
+8910       0443   0447      0451  G15  5   XRA  1-8A      B8.3    2.4E-04   2585
+
+8920 +     0604   0609      0613  G15  5   XRA  1-8A      B5.1    1.9E-04   2585
+
+8930 +     0637   0642      0646  G15  5   XRA  1-8A      B4.1    1.5E-04   2585
+
+8940       0732   0735      0739  G15  5   XRA  1-8A      B2.8    7.5E-05   2585
+
+8950       1241   1246      1253  G15  5   XRA  1-8A      B3.7    2.1E-04   2585
+
+8960       1619   1624      1627  G15  5   XRA  1-8A      B3.1    1.0E-04   2585
+
+8970 +     1913   1917      1921  G15  5   XRA  1-8A      B8.2    2.5E-04   2585
+8970       1917   1917      1941  HOL  3   FLA  N13W36    SF      ERU       2585

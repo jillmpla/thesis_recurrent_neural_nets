@@ -1,0 +1,51 @@
+:Product: 20160715events.txt
+:Created: 2016 Jul 18 0357 UT
+:Date: 2016 07 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jul 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2460       0054   0055      0057  HOL  3   FLA  N04E44    SF      DSD           
+
+2470       0223   0228      0232  G15  5   XRA  1-8A      B3.9    1.5E-04   2565
+2470       0226   0226      0234  LEA  3   FLA  N04E43    SF      DSD           
+
+2480       0328   0332      0334  LEA  3   FLA  N04E43    SF                    
+
+2490 +     0351   0354      0356  G15  5   XRA  1-8A      B5.9    9.8E-05   2565
+
+2500 +     0506   0512      0514  G15  5   XRA  1-8A      B7.4    2.2E-04   2567
+2500 +     0509   0510      0517  LEA  3   FLA  N06E41    SF      DSD       2567
+
+2510      B0623  U0655     A0705  SVI  3   FLA  N07E39    SF      DSD       2567
+2510       0658   ////      0658  SVI  C   RSP  027-042   III/1             2567
+
+2520      B0823  U0824     A0831  SVI  3   FLA  N07E32    SF                2565
+
+2530       0921   0923      0932  LEA  1   FLA  N05E38    SF      DSD       2567
+
+2540 +     1147   ////      1147  SVI  C   RSP  025-049   III/2                 
+
+2550 +     1248   1259      1323  HOL  3   FLA  N05E36    SF                2567
+
+2560       1405   1406      1417  HOL  3   FLA  N05E36    SF                2567
+
+2570 +     1423   1426      1429  G15  5   XRA  1-8A      B5.3    1.2E-04   2567
+
+2580 +     1507   1511      1514  G15  5   XRA  1-8A      C2.0    4.7E-04   2567
+2580       1510   1511      1518  HOL  3   FLA  N05E35    SF                2567
+
+2590 +     1642   1645      1648  G15  5   XRA  1-8A      B7.9    1.6E-04   2567
+2590       1644   1644      1646  HOL  3   FLA  N05E34    SF                2567
+
+2600 +     1712   1715      1717  G15  5   XRA  1-8A      B7.7    1.2E-04   2567
+
+2610       1830   1833      1837  G15  5   XRA  1-8A      B7.1    2.0E-04   2567
+
+2620      B2205  U2209      2222  HOL  2   FLA  N05E30    SF      DSD       2567

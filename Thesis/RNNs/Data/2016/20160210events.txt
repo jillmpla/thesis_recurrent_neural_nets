@@ -1,0 +1,36 @@
+:Product: 20160210events.txt
+:Created: 2016 Feb 13 0357 UT
+:Date: 2016 02 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Feb 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3950 +     0243   0250      0255  G15  5   XRA  1-8A      B9.1    4.8E-04   2497
+
+3960 +     0617   ////      0618  LEA  C   RSP  025-180   III/2                 
+3960       0618   0618      0618  LEA  G   RBR  245       140                   
+
+3970       0750   0801      0808  G15  5   XRA  1-8A      B6.3    6.3E-04   2497
+
+4040      A1029   ////     A2254  LEA  3   DSF  S44E01    6                     
+
+3980       1343   ////      1343  SVI  C   RSP  025-080   III/1                 
+
+3990       1439   1442      1444  G15  5   XRA  1-8A      B4.0    6.4E-05       
+
+4000 +     1512   1522      1534  G15  5   XRA  1-8A      C1.3    1.3E-03   2497
+4000       1515   1522      1538  HOL  5   FLA  N11E16    SF      ERU       2497
+
+4010       1939   1939      1939  PAL  U   RBR  245       120                   
+
+4020       2041   2048      2103  G15  5   XRA  1-8A      B5.9    6.3E-04   2496
+4020       2043   2047      2054  HOL  3   FLA  N08W04    SF      ERU       2496
+
+4030 +     2229   2235      2243  G15  5   XRA  1-8A      B5.8    3.8E-04   2496
+4030       2232   2234      2236  HOL  3   FLA  N10W03    SF      DSD       2496

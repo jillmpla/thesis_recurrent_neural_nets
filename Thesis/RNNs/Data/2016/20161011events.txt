@@ -1,0 +1,26 @@
+:Product: 20161011events.txt
+:Created: 2016 Oct 14 0357 UT
+:Date: 2016 10 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Oct 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1390 +     0002   ////      0002  LEA  C   RSP  025-180   III/2                 
+
+1400       0020   ////      0020  LEA  C   RSP  025-180   III/1                 
+
+1410       0130   ////      0130  LEA  C   RSP  025-103   III/1                 
+
+1420 +     0614   ////      0622  LEA  C   RSP  034-180   III/1                 
+
+1430 +     0642   ////      0642  LEA  C   RSP  025-180   III/2                 
+
+1440       0730   0730      0732  LEA  3   FLA  N06W59    SF      DSD       2601
+
+1450 +     0945   0948      0951  G15  5   XRA  1-8A      B3.7    7.9E-05   2598

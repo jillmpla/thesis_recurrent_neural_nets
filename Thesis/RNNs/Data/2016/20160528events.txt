@@ -1,0 +1,30 @@
+:Product: 20160528events.txt
+:Created: 2016 May 31 0357 UT
+:Date: 2016 05 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 May 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8810       0145   ////      0254  PAL  C   RSP  025-116   VI/1                  
+8810       0146   ////      0146  LEA  C   RSP  029-114   III/1                 
+8810       0201   ////      0419  LEA  C   RSP  059-144   CTM/1                 
+
+8820 +     0524   ////      0525  LEA  C   RSP  025-099   III/1                 
+
+8830 +     0750   ////      0837  SVI  C   RSP  025-165   VI/1                  
+8830 +     0809   ////      0940  SVI  C   RSP  057-171   CTM/1                 
+
+8840 +     1039   ////      1039  SAG  C   RSP  025-068   III/1                 
+
+8850 +     1149   1155      1216  G15  5   XRA  1-8A      B3.3    4.4E-04   2549
+8850       1151   1152      1205  SVI  3   FLA  S15E28    SF      DSD       2549
+
+8860 +     2015   ////      2015  PAL  C   RSP  025-078   III/1                 
+
+8870 +     2119   2123      2125  G14  5   XRA  1-8A      B2.8    6.1E-05   2549

@@ -1,0 +1,86 @@
+:Product: 20160718events.txt
+:Created: 2016 Jul 21 0357 UT
+:Date: 2016 07 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jul 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3610       0000   ////      0814  LEA  C   RSP  028-180   CTM/1                 
+
+3530       0000   ////      0119  PAL  C   RSP  025-180   CTM/1                 
+
+3520       0041   0041      0042  PAL  G   RBR  245       100                   
+
+3530       0049   ////      0154  LEA  C   RSP  028-083   VI/1                  
+
+3540       0244   0244      0244  PAL  G   RBR  245       120                   
+
+3550       0310   ////      0310  LEA  C   RSP  055-144   III/1                 
+
+3560       0333   0333      0333  PAL  G   RBR  245       130                   
+
+3570       0357   0357      0357  PAL  G   RBR  245       1300                  
+
+3580 +     0424   ////      0425  LEA  C   RSP  027-148   III/1             2565
+3580       0425   0433      0627  SVI  3   FLA  N06W06    SF                2565
+
+3590 +     0432   0433      0433  SVI  G   RBR  245       140                   
+
+3710       0456   ////      1712  SVI  C   RSP  025-180   VI/1                  
+
+3620       0457   ////      0745  LEA  C   RSP  025-180   VI/1                  
+
+3600       0533   0533      0533  SVI  G   RBR  245       190                   
+
+3630       0720   0720      0720  SVI  G   RBR  245       140                   
+
+3640      B0753  U0826      0930  SVI  3   FLA  N06W07    SN      ERU       2565
+3640 +     0809   0823      0832  G15  5   XRA  1-8A      C4.4    3.9E-03   2565
+3640 +     0810   ////      0817  SVI  C   RSP  025-180   III/2             2565
+3640 +     0812   0812      0814  LEA  G   RBR  410       5600              2565
+3640       0812   0812      0813  LEA  G   RBR  610       690               2565
+3640 +     0812   0812      0813  SVI  G   RBR  1415      140               2565
+3640       0812   0813      0813  SVI  G   RBR  2695      79                2565
+3640       0812   0812      0812  SVI  G   RBR  8800      58                2565
+3640       0812   0812      0812  SVI  G   RBR  15400     54                2565
+3640       0812   0812      0813  SVI  G   RBR  4995      66                2565
+3640 +     0821   ////      1805  SVI  C   RSP  025-180   IV/2              2565
+3640 +     0830   0830      0831  SVI  G   RBR  245       110               2565
+
+3650       0833   0833      0835  SVI  G   RBR  245       150                   
+
+3700 +     0837   0854      1210  SVI  G   RNS  245       560                   
+
+3660       0851   0851      0851  SVI  U   RBR  410       130                   
+
+3670 +     0857   ////      0859  SVI  C   RSP  025-180   III/2                 
+
+3680       0928   0931      0947  SVI  3   FLA  N18E38    SF      ERU       2569
+3680       0941   ////      1852  SAG  C   RSP  025-180   IV/1              2569
+
+3720       0953   ////      1823  SAG  C   RSP  025-066   VI/1                  
+
+3690       1037   1037      1037  SAG  G   RBR  245       100                   
+
+3730       1414   1414      1414  SVI  G   RBR  245       130                   
+
+3740       1613   ////      1956  PAL  C   RSP  117-180   IV/1                  
+
+3750 +     1834   1839      1845  G15  5   XRA  1-8A      B5.6    2.6E-04   2565
+
+3760       1834   ////      1839  PAL  C   RSP  025-180   III/2                 
+
+3750       1835   ////      1838  SAG  C   RSP  025-180   III/2             2565
+3750 +     1835   1837      1838  SAG  G   RBR  245       150               2565
+3750       1836   1836      1836  SAG  G   RBR  410       100               2565
+3750      B1837  U1839      1847  HOL  1   FLA  N08W14    SF                2565
+
+3770       1915   ////      2334  PAL  C   RSP  025-082   VI/1                  
+
+3780       2320   ////      2359  LEA  C   RSP  075-180   CTM/1                 

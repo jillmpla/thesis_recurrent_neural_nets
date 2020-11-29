@@ -1,0 +1,95 @@
+:Product: 20160410events.txt
+:Created: 2016 Apr 13 0357 UT
+:Date: 2016 04 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Apr 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9990       0000   ////      0958  LEA  C   RSP  033-180   CTM/2                 
+
+9970       0000   ////      0439  PAL  C   RSP  100-180   CTM/1                 
+
+9980 +     0026   0408      0418  LEA  G   RNS  245       310                   
+
+9940       0031   0044      0047  G15  5   XRA  1-8A      C1.1    7.3E-04   2529
+
+9930       0032   0034      0037  HOL  3   FLA  N07E55    SF      ERU       2529
+
+9940       0040   0045      0048  HOL  2   FLA  N07E55    SF      ERU       2529
+
+ 220 +    A0108   ////     A1340  HOL  3   DSF  N12E29    21                    
+
+9950       0125   0125      0125  PAL  G   RBR  245       100                   
+
+9960       0249   0250      0300  PAL  G   RBR  245       190                   
+
+  10       0432   ////      1712  SVI  C   RSP  025-171   CTM/2                 
+
+9980 +     0544   0544      0642  LEA  G   RNS  410       150                   
+
+  20       0549   0934      1304  G15  5   XRA  1-8A      C1.5    3.0E-02   2529
+
+  30       0657   ////      0657  SVI  C   RSP  025-075   III/1                 
+
+  40 +     0659   0659      0659  SVI  G   RBR  410       120                   
+
+  50       0949   0949      0949  LEA  U   RBR  410       100                   
+
+ 290       1021   ////      2249  SAG  C   RSP  043-180   CTM/1                 
+
+ 260       1044   1519      2240  SAG  G   RNS  245       830                   
+
+  60       1111   1111      1111  SAG  G   RBR  410       120                   
+
+  70       1119   1119      1119  SAG  G   RBR  410       100                   
+
+ 260       1128   1136      1136  SAG  G   RNS  410       160                   
+
+  80 +     1146   ////      1534  SVI  C   RSP  025-143   VI/2                  
+
+  90       1330   1330      1330  SAG  G   RBR  410       240                   
+
+ 100 +     1342   1342      1343  SAG  G   RBR  245       2600                  
+ 100       1342   1342      1342  SVI  G   RBR  1415      67                    
+ 100       1343   1343      1343  SAG  G   RBR  410       100                   
+
+ 120       1439   1439      1439  SAG  G   RBR  410       130                   
+
+ 130      B1516  U1517     A1527  SVI  3   FLA  N11E48    SF                2529
+ 130       1517   1517      1517  SAG  G   RBR  410       110               2529
+
+ 140 +     1533   1534      1534  SAG  G   RBR  245       1500                  
+
+ 300       1629   ////      2359  PAL  C   RSP  102-180   CTM/1                 
+
+ 150       1641   1641      1641  PAL  G   RBR  245       310                   
+
+ 160 +     1646   1646      1646  SAG  G   RBR  245       1000                  
+
+ 170       1654   1654      1654  PAL  G   RBR  245       540                   
+
+ 180       1726   1726      1727  PAL  G   RBR  245       490                   
+
+ 190       1731   1731      1731  PAL  G   RBR  245       460                   
+
+ 200       1737   1737      1738  PAL  G   RBR  245       570                   
+
+ 210       1756   1756      1756  PAL  G   RBR  245       690                   
+
+ 230 +     1838   1838      1838  SAG  G   RBR  245       1200                  
+
+ 240       1939   ////      1940  PAL  C   RSP  025-062   III/1                 
+
+ 250       1955   ////      2043  PAL  C   RSP  025-075   VI/1                  
+
+ 340      A2101   ////     A2331  HOL  2   DSF  N41W32    7                     
+
+ 270       2207   2207      2207  PAL  G   RBR  245       570                   
+
+ 280 +     2220   2220      2220  PAL  G   RBR  410       230                   

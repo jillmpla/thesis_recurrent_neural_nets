@@ -1,0 +1,53 @@
+:Product: 20160115events.txt
+:Created: 2016 Jan 18 0357 UT
+:Date: 2016 01 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jan 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 680      B0005   ////     B1444  HOL  3   DSF  S50E28    22                    
+
+ 570 +     0234   0239      0241  G15  5   XRA  1-8A      C2.8    5.8E-04   2480
+ 570 +     0237   0237      0237  LEA  U   RBR  410       270                   
+ 570 +     0237   0237      0237  LEA  U   RBR  245       2600                  
+ 570       0237   ////      0238  LEA  C   RSP  114-180   III/1                 
+ 570       0241   ////      0243  LEA  C   RSP  057-180   II/1    550           
+
+ 590 +     1135   1140      1144  G15  5   XRA  1-8A      B4.2    1.6E-04   2480
+
+ 600 +     1210   1216      1218  G15  5   XRA  1-8A      C1.0    2.6E-04   2480
+
+ 610       1325   1328      1331  G13  5   XRA  1-8A      B5.1    1.1E-04   2480
+ 610 +     1327   1327      1327  SVI  G   RBR  410       580                   
+
+ 620       1352   1355      1401  G15  5   XRA  1-8A      B3.2    1.2E-04   2480
+
+ 630 +     1405   1405      1405  SAG  G   RBR  410       250                   
+
+ 640 +     1500   1500      1500  SAG  G   RBR  245       160                   
+
+ 650 +     1518   1525      1531  G15  5   XRA  1-8A      C1.7    8.5E-04   2480
+ 650       1520   1526      1533  HOL  3   FLA  N07W49    SF      ERU       2480
+
+ 660       1556   1556      1556  SAG  G   RBR  245       150                   
+
+ 670 +     1741   1745      1748  G15  5   XRA  1-8A      B4.4    1.2E-04   2480
+
+ 690 +     1956   2002      2005  G15  5   XRA  1-8A      B8.6    3.0E-04   2480
+
+ 710 +     2009   2016      2036  G15  5   XRA  1-8A      B8.8    1.1E-03       
+
+ 720       2100   2100      2100  PAL  U   RBR  245       400                   
+
+ 730 +     2159   2203      2205  G15  5   XRA  1-8A      C1.1    2.2E-04   2480
+ 730       2200   2201      2201  PAL  U   RBR  245       220                   
+
+ 740       2313   2313      2313  LEA  G   RBR  245       100                   
+
+ 750       2358   ////      0000  PAL  U   RBR  245       19                    

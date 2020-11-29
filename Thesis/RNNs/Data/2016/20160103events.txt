@@ -1,0 +1,19 @@
+:Product: 20160103events.txt
+:Created: 2016 Jan 06 0357 UT
+:Date: 2016 01 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jan 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9880      B0951   ////     B1021  LEA  3   EPL  ////      0.18                  
+
+9890       2020   2024      2027  G15  5   XRA  1-8A      B4.7    1.3E-04   2476
+9890       2024   2024      2026  HOL  3   FLA  S11E40    SF      ERU       2476
+
+9910      A2346   ////     A1539  HOL  2   DSF  S36E65    9                     

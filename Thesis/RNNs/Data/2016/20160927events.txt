@@ -1,0 +1,42 @@
+:Product: 20160927events.txt
+:Created: 2016 Sep 30 0357 UT
+:Date: 2016 09 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Sep 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 260       0005   ////      0105  LEA  2   DSF  N16W77    17                    
+
+ 230 +     0115   0121      0127  G15  5   XRA  1-8A      B4.1    2.2E-04       
+
+ 240 +     0536   0544      0558  G15  5   XRA  1-8A      B3.6    3.7E-04       
+
+ 250 +     0733   0748      0805  G15  5   XRA  1-8A      C1.0    1.3E-03   2597
+ 250       0743  U0744     A0803  SVI  3   FLA  S14W30    SF      ERU       2597
+
+ 310      A0940   ////     A2237  LEA  3   DSF  S32W18    7                     
+
+ 270 +     0951   0958      1009  G15  5   XRA  1-8A      B4.3    3.3E-04   2597
+ 270       0955  U0956     A1006  SVI  3   FLA  S16W43    SF      ERU       2597
+
+ 280       1249   1254      1258  G15  5   XRA  1-8A      B2.5    9.6E-05       
+
+ 290       1515   ////      1534  SVI  C   RSP  039-150   VI/1              2597
+ 290 +     1525   1555      1640  HOL  3   FLA  S14W46    SF      ERU       2597
+
+ 330      A1548   ////     A0604  SVI  3   DSF  S36W13    10                    
+
+ 300 +     1757   1803      1806  G15  5   XRA  1-8A      B6.7    2.3E-04   2597
+ 300       1801   1804      1808  HOL  3   FLA  S14W49    SF      ERU       2597
+
+ 320       2248   ////      2308  LEA  2   DSF  S26W43    11                    
+
+ 410      A2354   ////     A1344  HOL  3   DSF  N03E03    16                    
+
+ 420      A2354   ////     A1344  HOL  3   DSF  S03W28    9                     

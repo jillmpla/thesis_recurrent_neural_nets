@@ -1,0 +1,48 @@
+:Product: 20160509events.txt
+:Created: 2016 May 12 0357 UT
+:Date: 2016 05 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 May 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4750 +     0511   0523      0534  G13  5   XRA  1-8A      B9.4    9.4E-04   2541
+4750       0514  U0518     A0519  SVI  3   FLA  N01W15    SF      ERU       2541
+
+4760       0516   ////      0642  SVI  3   DSF  N03W15    13                2541
+
+4750 +     0520   ////      0521  LEA  C   RSP  083-180   III/1             2541
+
+4820 +     1403   ////      1709  SVI  3   DSF  N32E13    13                    
+
+4780       1442   ////      1443  SAG  C   RSP  045-180   III/1                 
+
+4770 +     1442   1442      1442  SAG  G   RBR  245       200                   
+4770       1442   ////      1443  SVI  C   RSP  045-170   III/1                 
+
+4850       1446   ////      1547  HOL  3   DSF  N17E21    9                     
+
+4790       1609   ////      1609  SVI  C   RSP  060-171   III/1                 
+
+4800 +     1617   1620      1622  G13  5   XRA  1-8A      B3.3    5.1E-05   2542
+4800 +     1619   ////      1621  SAG  C   RSP  039-180   III/2                 
+4800 +     1619   1619      1620  SAG  G   RBR  245       600                   
+
+4810 +     1739   1748      1800  G13  5   XRA  1-8A      B6.8    6.8E-04   2542
+4810       1741   1742      1754  HOL  3   FLA  N09E06    SF      ERU       2542
+
+4830       2151   2151      2203  HOL  3   FLA  S21E19    SF      ERU           
+
+4840       2207   2207      2207  SAG  G   RBR  245       110                   
+
+4860       2207   2207      2207  PAL  G   RBR  245       130                   
+
+4880       2307   ////      2359  LEA  C   RSP  109-180   CTM/1                 
+
+4870 +     2333   2343      2353  G13  5   XRA  1-8A      B8.1    7.6E-04   2543
+4870       2344   2344      2346  LEA  3   FLA  S06E01    SF      DSD       2543

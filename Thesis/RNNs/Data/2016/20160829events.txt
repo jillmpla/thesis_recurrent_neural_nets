@@ -1,0 +1,57 @@
+:Product: 20160829events.txt
+:Created: 2016 Sep 01 0357 UT
+:Date: 2016 08 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Aug 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8120      A0102   ////     A1330  HOL  3   DSF  N12W47    22                    
+
+7970       0155   ////      0155  LEA  U   RSP  025-042   III/1                 
+
+7980       0229   0236      0239  G15  5   XRA  1-8A      B5.0    1.9E-04       
+
+7990 +     0334   0346      0402  G15  5   XRA  1-8A      C2.2    2.7E-03   2583
+7990       0336   0345      0404  LEA  3   FLA  N12W51    SF      YSR       2583
+7990       0344   ////      0400  LEA  C   RSP  073-152   VI/1              2583
+
+8020       0351   0421      0431  LEA  3   FLA  N11W27    SF      ERU       2579
+
+8000       0415   0416      0417  LEA  3   FLA  N15W50    SF                2583
+
+8010       0420   0427      0436  G15  5   XRA  1-8A      C1.3    1.4E-03   2583
+8010       0439   0439      0439  LEA  3   FLA  N13W54    SF      DSD       2583
+
+8030       0450   0453      0455  LEA  3   FLA  N13W54    SF                2583
+
+8040       0531   ////      0533  LEA  C   RSP  029-180   III/1                 
+
+8050       0558   ////      0846  LEA  C   RSP  077-148   CTM/1                 
+8050       0615   ////      0615  LEA  C   RSP  025-180   III/1                 
+
+8060 +     0726   0731      0740  G15  5   XRA  1-8A      B5.2    3.4E-04   2585
+
+8070       0939   0939      0945  LEA  3   FLA  N13W56    SF      DSD       2583
+
+8160 +    A0952   ////     A2318  LEA  3   DSF  N19W39    6                     
+
+8080 +     1035   1039      1044  G15  5   XRA  1-8A      B5.1    2.0E-04   2585
+
+8090       1054   ////      1054  SAG  C   RSP  100-180   III/1                 
+
+8100       1247   ////      1256  SAG  C   RSP  025-180   III/1                 
+
+8110      B1327  U1328      1346  HOL  2   FLA  N14W60    SF      DSD       2583
+
+8130       1733   1736      1738  G13  5   XRA  1-8A      C1.1    1.7E-04   2583
+8130       1736   1736      1738  HOL  3   FLA  N16W57    SF                2583
+
+8140 +     2305   2309      2317  G15  5   XRA  1-8A      B5.7    3.0E-04   2585
+
+8150 +     2348   2355      0000  G15  5   XRA  1-8A      B8.9    4.5E-04   2585

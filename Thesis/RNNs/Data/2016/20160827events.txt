@@ -1,0 +1,16 @@
+:Product: 20160827events.txt
+:Created: 2016 Aug 30 0357 UT
+:Date: 2016 08 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Aug 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7880 +     0010   ////      0011  PAL  C   RSP  025-076   III/2                 
+
+7890 +     1424   1429      1434  G15  5   XRA  1-8A      B2.5    1.1E-04   2582

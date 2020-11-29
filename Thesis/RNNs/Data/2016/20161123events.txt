@@ -1,0 +1,20 @@
+:Product: 20161123events.txt
+:Created: 2016 Nov 26 0357 UT
+:Date: 2016 11 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Nov 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2790       0618   0622      0631  G15  5   XRA  1-8A      B1.4    8.8E-05   2612
+
+2800       0653   0654      0656  SVI  3   FLA  S15W02    SF      ERU           
+
+2820 +     1454   1501      1509  G15  5   XRA  1-8A      B2.2    1.5E-04   2612
+
+2830 +     2228   2234      2240  G15  5   XRA  1-8A      B2.7    1.4E-04   2612

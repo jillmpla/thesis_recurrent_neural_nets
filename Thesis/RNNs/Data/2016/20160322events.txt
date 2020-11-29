@@ -1,0 +1,37 @@
+:Product: 20160322events.txt
+:Created: 2016 Mar 25 0357 UT
+:Date: 2016 03 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Mar 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8290      A0055   ////     A1826  HOL  2   DSF  S25E66    26                    
+
+8200       0107   ////      0141  LEA  C   RSP  028-028   VI/1                  
+8200       0108   ////      0111  CUL  C   RSP  018-075   III/1                 
+
+8300       0212   ////      0212  CUL  C   RSP  020-057   III/1                 
+
+8210       0912   ////      1016  LEA  C   RSP  112-180   CTM/1                 
+8210 +     0912   0918      0922  SVI  G   RBR  245       280                   
+
+8250       0917   ////      1301  SVI  C   RSP  104-171   CTM/1                 
+
+8220       0918   0918      0919  LEA  G   RBR  245       440                   
+
+8230       0949   ////      0949  LEA  C   RSP  028-078   III/1                 
+
+8240       1036   1036      1036  SVI  G   RBR  245       380                   
+
+8260       1147   ////      1308  SAG  C   RSP  107-180   CTM/1                 
+8260 +     1203   1203      1203  SVI  G   RBR  245       130                   
+
+8270 +     1321   ////      1321  SAG  C   RSP  025-087   III/1                 
+
+8280       1340   1340      1340  SVI  G   RBR  245       110                   

@@ -1,0 +1,49 @@
+:Product: 20160724events.txt
+:Created: 2016 Jul 27 0357 UT
+:Date: 2016 07 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jul 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5690 +     0050   0055      0059  G15  5   XRA  1-8A      C1.2    4.5E-04   2567
+
+5700 +     0108   0113      0117  G15  5   XRA  1-8A      C1.9    6.4E-04   2567
+
+5710 +     0348   0352      0356  G15  5   XRA  1-8A      B6.6    2.1E-04   2567
+
+5720 +     0450   0501      0522  G15  5   XRA  1-8A      C1.5    2.3E-03   2567
+
+5730 +     0609   0620      0632  G15  5   XRA  1-8A      M2.0    1.7E-02   2567
+5730 +     0613   0614      0614  LEA  G   RBR  8800      160               2567
+5730       0616   0618      0625  SVI  3   FLA  N03W84    SF      ERU       2567
+
+5740       0642   ////      0643  SVI  C   RSP  025-044   III/1             2567
+
+5750 +     0731   ////      0731  LEA  C   RSP  025-096   III/1                 
+
+5760 +     0756   0804      0810  G15  5   XRA  1-8A      C1.5    9.4E-04   2567
+
+5770 +     1028   1032      1035  G15  5   XRA  1-8A      C1.0    2.6E-04   2567
+5770       1030   1030      1042  SVI  3   FLA  N03E84    SF      ERU       2567
+
+5780 +     1135   1141      1148  G15  5   XRA  1-8A      B9.2    5.1E-04   2567
+
+5790 +     1156   1202      1210  G15  5   XRA  1-8A      B9.6    6.4E-04   2567
+
+5800 +     1218   1228      1236  G15  5   XRA  1-8A      C1.5    1.3E-03   2567
+
+5810 +     1256   1303      1313  G15  5   XRA  1-8A      C2.5    2.0E-03   2567
+
+5820 +     1315   1323      1330  G15  5   XRA  1-8A      C3.5    2.4E-03   2567
+
+5830 +     1334   1404      1411  G15  5   XRA  1-8A      C6.9    1.1E-02   2567
+
+5840 +     1730   1743      1812  G15  5   XRA  1-8A      M1.9    3.6E-02   2567
+
+5850       2254   2258      2303  G15  5   XRA  1-8A      B4.8    1.9E-04   2567

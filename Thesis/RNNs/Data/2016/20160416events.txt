@@ -1,0 +1,57 @@
+:Product: 20160416events.txt
+:Created: 2016 Apr 19 0357 UT
+:Date: 2016 04 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Apr 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2090       0018   0018      0018  PAL  G   RBR  245       100                   
+
+2100 +     0506   0513      0538  G15  5   XRA  1-8A      B7.0    1.1E-03   2529
+2100 +     0507   0507      0509  LEA  G   RBR  245       200               2529
+2100 +     0508   ////      0508  SVI  C   RSP  025-148   III/1             2529
+2100       0511   0511      0533  SVI  3   FLA  N09W35    SF      DSD       2529
+
+2110       0540   0509      0545  LEA  3   FLA  N12W15    SF      DSD       2529
+
+2120       0653   ////      0653  SVI  C   RSP  025-073   III/1                 
+
+2130       1039   ////      1039  SVI  C   RSP  073-123   III/1                 
+
+2140 +     1230   1233      1235  G15  5   XRA  1-8A      B4.8    7.2E-05       
+
+2150 +     1359   ////      1359  SVI  C   RSP  025-113   III/1                 
+
+2160 +     1430   1439      1453  G15  5   XRA  1-8A      C1.0    1.1E-03       
+
+2170 +     1504   1504      1504  SAG  G   RBR  245       420                   
+
+2180       1505   1524      1554  SVI  3   FLA  N08W29    SF      ERU       2529
+
+2190 +     1914   1920      1923  G15  5   XRA  1-8A      C1.4    4.7E-04   2529
+2190       1917   1922      1924  HOL  3   FLA  N10W16    SF      ERU       2529
+
+2200 +     1942   1958      2012  G15  5   XRA  1-8A      C5.8    6.1E-03   2529
+
+2260       1943   ////      2013  HOL  2   DSF  N09W50    8                     
+
+2200 +     1943   ////      2224  PAL  C   RSP  025-180   VI/1              2529
+2200       1947   1953      2029  HOL  3   FLA  N13W43    SF      ERU       2529
+2200 +     1952   1952      1956  PAL  G   RBR  410       230               2529
+2200 +     1952   1952      1956  PAL  G   RBR  610       510               2529
+2200 +     1952   1955      1956  PAL  G   RBR  245       440               2529
+
+2250 +     2005   2005      2100  PAL  G   RNS  245       260                   
+
+2210 +     2032   ////      2219  PAL  C   RSP  025-104   CTM/2                 
+2210 +     2049   ////      2055  PAL  C   RSP  025-073   II/1    743           
+
+2220       2138   2138      2138  SAG  G   RBR  245       100                   
+
+2230 +     2306   2312      2316  G15  5   XRA  1-8A      B5.8    2.6E-04   2529

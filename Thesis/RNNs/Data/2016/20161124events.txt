@@ -1,0 +1,22 @@
+:Product: 20161124events.txt
+:Created: 2016 Nov 27 0357 UT
+:Date: 2016 11 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Nov 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2840       0719   ////      0719  SVI  C   RSP  025-137   III/1                 
+
+2850       0730   ////      0742  SVI  C   RSP  025-171   VI/2                  
+
+2900      A1008   ////     A2229  LEA  3   DSF  N15W60    5                     
+
+2860       1018   1018      1018  LEA  U   RBR  610       110                   
+
+2870 +     1249   ////      1250  SVI  C   RSP  025-134   III/1                 

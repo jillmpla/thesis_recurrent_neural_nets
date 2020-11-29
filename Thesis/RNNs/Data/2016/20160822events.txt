@@ -1,0 +1,22 @@
+:Product: 20160822events.txt
+:Created: 2016 Aug 25 0357 UT
+:Date: 2016 08 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Aug 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7710       0935   0938      0946  G15  5   XRA  1-8A      B1.3    6.3E-05   2580
+
+7720       1402   1403      1419  HOL  2   FLA  N11E24    SF                2579
+
+7730       1431   1432      1439  SVI  3   FLA  N11E24    SF                2579
+
+7740      B1549  U1554     A1555  SVI  3   FLA  N11E23    SF                2579
+
+7750 +     2148   2152      2157  G15  5   XRA  1-8A      B2.8    1.0E-04   2579

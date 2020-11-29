@@ -1,0 +1,18 @@
+:Product: 20161203events.txt
+:Created: 2016 Dec 06 0357 UT
+:Date: 2016 12 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Dec 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3630       1703   1716      1724  G15  5   XRA  1-8A      B2.1    2.5E-04   2612
+
+3640       1733   1801      1813  G15  5   XRA  1-8A      B2.8    5.6E-04   2615
+
+3650       2347   2350      2352  G15  5   XRA  1-8A      B1.7    2.7E-05   2615

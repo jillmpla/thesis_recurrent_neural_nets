@@ -1,0 +1,45 @@
+:Product: 20160128events.txt
+:Created: 2016 Jan 31 0357 UT
+:Date: 2016 01 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jan 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1850      A0009   ////     A1428  HOL  3   DSF  N20W44    9                     
+
+1780 +     0109   ////      0109  LEA  C   RSP  028-070   III/1                 
+
+1790 +     0307   ////      0308  CUL  C   RSP  018-057   III/1                 
+
+1800 +     0318   0322      0325  G15  5   XRA  1-8A      B6.1    1.7E-04   2489
+
+1820       0334   ////      0633  LEA  C   RSP  084-171   CTM/1                 
+
+1810 +     0517   0523      0528  G15  5   XRA  1-8A      C5.3    2.0E-03   2488
+
+1900       0625   ////      0626  CUL  C   RSP  020-057   III/1                 
+
+1830 +     0652   ////      0709  CUL  C   RSP  018-057   III/1                 
+1830 +     0652   0702      0712  G15  5   XRA  1-8A      C2.8    2.2E-03   2488
+1830       0655   ////      0706  LEA  C   RSP  025-180   VI/1                  
+
+1920       0716   ////      0716  CUL  C   RSP  020-045   III/1                 
+
+1930       0735   ////      0736  CUL  C   RSP  030-057   III/1                 
+
+1840 +     1148   1202      1216  G15  5   XRA  1-8A      C9.6    8.9E-03   2488
+1840      B1212  U1217      1244  SVI  3   FLA  N06W45    1F      ERU       2488
+
+1860       1855   1855      1858  HOL  3   FLA  N08W48    SF      DSD       2488
+
+1870 +     2148   2157      2202  G15  5   XRA  1-8A      C3.3    1.5E-03   2488
+1870       2151   2155      2212  HOL  4   FLA  N09W50    SF      YSR       2488
+1870 +     2151   ////      2157  PAL  C   RSP  025-164   III/2             2488
+
+1940       2304   ////      2332  LEA  C   RSP  028-103   VI/1                  

@@ -1,0 +1,20 @@
+:Product: 20161104events.txt
+:Created: 2016 Nov 07 0357 UT
+:Date: 2016 11 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Nov 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2340      A1006   ////     A2248  LEA  3   DSF  N20E63    6                 2606
+
+2310       1226   1247      1321  G15  5   XRA  1-8A      B2.2    5.3E-04   2605
+
+2350 +    A1441   ////     A0646  SVI  3   DSF  N24W15    18                    
+
+2360      A2219   ////     A2120  HOL  2   DSF  N24E01    15                    

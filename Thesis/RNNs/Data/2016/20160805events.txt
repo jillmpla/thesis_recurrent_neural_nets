@@ -1,0 +1,50 @@
+:Product: 20160805events.txt
+:Created: 2016 Aug 08 0357 UT
+:Date: 2016 08 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Aug 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6180       0006   0009      0011  G15  5   XRA  1-8A      B1.6    2.6E-05   2572
+
+6190 +     0039   0044      0046  G15  5   XRA  1-8A      B8.8    1.7E-04   2572
+6190       0042   0042      0049  HOL  3   FLA  N14W33    SF      DSD           
+
+6330      A0050   ////     A1251  HOL  3   DSF  N37W45    6                     
+
+6200 +     0053   0056      0058  G15  5   XRA  1-8A      B2.3    3.1E-05   2572
+
+6230 +     0219   0224      0227  G15  5   XRA  1-8A      B5.2    1.2E-04   2572
+
+6240 +     0350   0355      0357  G15  5   XRA  1-8A      B3.4    8.0E-05   2572
+
+6250 +     0429   0434      0436  G15  5   XRA  1-8A      B2.8    6.3E-05   2572
+6250       0433   0438      0441  SVI  3   FLA  N11W34    SF      ERU       2572
+
+6260 +     0510   0514      0521  G15  5   XRA  1-8A      B3.8    1.6E-04   2572
+6260 +     0512   ////      0512  LEA  C   RSP  025-116   III/1                 
+6260 +     0517   0517      0523  SVI  3   FLA  N11W35    SF      ERU           
+
+6270       0816   0819      0822  G15  5   XRA  1-8A      B1.1    2.6E-05   2572
+
+6350       0818   ////      0940  SVI  3   DSF  N43W55    9                     
+
+6280 +     0920   0929      0934  G15  5   XRA  1-8A      B3.8    2.2E-04   2572
+6280       0923   0923      0929  SVI  3   FLA  N11W39    SF      ERU           
+
+6290 +     1008   1012      1014  G15  5   XRA  1-8A      C1.4    2.2E-04   2572
+6290       1010   1012      1025  SVI  3   FLA  N11W40    SF      ERU       2572
+
+6300       1103   1103      1105  SVI  3   FLA  N11W38    SF      ERU       2572
+
+6310       1220   1223      1225  G15  5   XRA  1-8A      B1.7    2.7E-05   2572
+
+6320      B1249   1259      1312  HOL  4   FLA  N13W40    SF      ERU       2572
+
+6340       1806   1811      1815  G15  5   XRA  1-8A      B2.0    7.7E-05   2572

@@ -1,0 +1,16 @@
+:Product: 20161108events.txt
+:Created: 2016 Nov 11 0357 UT
+:Date: 2016 11 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Nov 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2420      A1422   ////     A0654  SVI  3   DSF  S38E31    9                     
+
+2430      A1422   ////     A0654  SVI  3   DSF  N13E48    10                    

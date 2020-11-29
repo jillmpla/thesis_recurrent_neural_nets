@@ -1,0 +1,87 @@
+:Product: 20160722events.txt
+:Created: 2016 Jul 25 0357 UT
+:Date: 2016 07 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jul 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5120       0000   ////      0341  PAL  C   RSP  025-110   VI/1                  
+
+5090       0012   ////      0102  LEA  C   RSP  025-130   VI/1                  
+
+5100       0319   0319      0320  LEA  U   RBR  245       330                   
+
+5110       0329   0329      0329  LEA  U   RBR  245       130                   
+
+5190       0421   ////      1010  SVI  C   RSP  025-180   CTM/1                 
+
+5130       0428   0428      0428  SVI  G   RBR  245       160                   
+
+5140       0458   ////      0459  SVI  C   RSP  025-078   III/1                 
+
+5180 +     0501   0550      0942  LEA  G   RNS  245       570                   
+
+5150 +     0634   0651      0658  G15  5   XRA  1-8A      C6.6    4.3E-03   2567
+5150       0642   0651      0723  SVI  3   FLA  N01W59    SF      ERU       2567
+5150       0643   ////      0841  SVI  C   RSP  025-180   VI/2              2567
+5150       0646   ////      0648  LEA  C   RSP  028-083   III/1             2567
+
+5160 +     0723   0726      0731  G15  5   XRA  1-8A      C1.2    4.0E-04   2567
+5160       0725   0725      0745  SVI  3   FLA  N00W61    SF      ERU       2567
+
+5240 +     0748   ////      0944  SVI  3   DSF  N24E68    20                    
+
+5170       0808   0808      0808  SVI  U   RBR  245       110                   
+
+5200 +     0830   0834      0838  G15  5   XRA  1-8A      B6.8    2.3E-04   2567
+
+5210       0841   ////      0841  LEA  C   RSP  049-158   III/1                 
+
+5220       0933   ////      0934  SVI  C   RSP  025-041   III/1                 
+
+5230       0943   ////      1032  SAG  C   RSP  138-180   CTM/1                 
+5230       0947   ////      0948  SVI  C   RSP  025-048   III/1                 
+
+5250       1114   1131      1145  G15  5   XRA  1-8A      B9.1    1.4E-03   2567
+5250 +     1118   ////      1126  SVI  C   RSP  025-180   III/1             2567
+5250 +     1119   1119      1119  SAG  G   RBR  245       330               2567
+5250       1120   1138      1150  SVI  3   FLA  N05W61    SF                2567
+
+5260       1146   ////      1150  SVI  C   RSP  025-055   III/1                 
+
+5270       1305   1305      1305  SVI  U   RBR  245       130                   
+
+5280 +     1323   ////      1325  SVI  C   RSP  025-076   III/2                 
+
+5290       1336   1336      1336  SVI  U   RBR  245       160                   
+
+5300 +     1340   ////      1341  SAG  C   RSP  025-065   III/1                 
+
+5310 +     1400   1400      1400  SAG  G   RBR  245       160                   
+
+5320       1422   ////      1422  SVI  C   RSP  025-049   III/1                 
+
+5330       1506   1506      1506  SVI  G   RBR  245       100                   
+
+5340       1550   ////      1550  SVI  C   RSP  025-046   III/1                 
+
+5370       1743   ////      1743  SAG  C   RSP  025-066   III/1                 
+
+5380 +     2008   ////      2015  PAL  C   RSP  025-180   III/2             2567
+5380 +     2009   2020      2031  G15  5   XRA  1-8A      C2.4    2.2E-03   2567
+
+5390 +     2009   2009      2009  SAG  G   RBR  245       730                   
+
+5380 +     2012   2012      2012  PAL  G   RBR  245       110               2567
+5380       2016   2019      2026  HOL  3   FLA  N07W68    SF                2567
+
+5400 +     2226   2230      2234  G15  5   XRA  1-8A      B5.6    1.7E-04   2567
+
+5410 +     2309   2315      2327  G15  5   XRA  1-8A      B7.6    6.3E-04   2567
+5410       2318   ////      2359  LEA  C   RSP  093-180   CTM/1                 

@@ -1,0 +1,20 @@
+:Product: 20160803events.txt
+:Created: 2016 Aug 06 0357 UT
+:Date: 2016 08 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Aug 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6130       0346   0346      0346  LEA  U   RBR  245       190                   
+
+6140 +     1027   ////      1028  SVI  C   RSP  025-078   III/1                 
+
+6150       1716   ////      1827  HOL  4   DSF  N22E12    13                    
+
+6210      A1730   ////     A0443  SVI  3   DSF  N27E24    12                    

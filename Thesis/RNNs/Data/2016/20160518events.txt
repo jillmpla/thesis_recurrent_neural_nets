@@ -1,0 +1,21 @@
+:Product: 20160518events.txt
+:Created: 2016 May 21 0357 UT
+:Date: 2016 05 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 May 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6050 +     1100   ////      1102  SAG  C   RSP  025-180   III/1                 
+
+6070 +     1611   ////      1612  SAG  C   RSP  025-156   III/1                 
+
+6080       1632   ////      1632  SVI  C   RSP  132-171   III/1                 
+6080 +     1632   1632      1632  SAG  G   RBR  245       120                   
+
+6090 +     1752   1758      1807  G14  5   XRA  1-8A      B5.1    3.7E-04   2544

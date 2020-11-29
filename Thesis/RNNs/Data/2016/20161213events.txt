@@ -1,0 +1,14 @@
+:Product: 20161213events.txt
+:Created: 2016 Dec 16 0357 UT
+:Date: 2016 12 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Dec 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4300       1247   ////      1247  SAG  C   RSP  025-039   III/1                 

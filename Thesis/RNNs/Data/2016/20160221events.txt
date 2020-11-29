@@ -1,0 +1,27 @@
+:Product: 20160221events.txt
+:Created: 2016 Feb 24 0357 UT
+:Date: 2016 02 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Feb 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5850       0423   0426      0429  G15  5   XRA  1-8A      B2.5    5.6E-05       
+
+5860       0743   0753      0755  G15  5   XRA  1-8A      B5.1    2.8E-04   2505
+5860       0748  U0752      0759  SVI  3   FLA  N06W39    SF                2505
+
+5870       1010   1013      1021  G15  5   XRA  1-8A      B2.9    1.5E-04   2505
+5870       1013   1013      1018  SVI  3   FLA  N06W38    SF                2505
+
+5880       1123   ////      1127  SVI  U   RSP  043-120   III/1                 
+
+5890 +     1300   1304      1308  G15  5   XRA  1-8A      B5.1    1.5E-04   2505
+5890       1303   1303      1308  SVI  3   FLA  N06W39    SF                2505
+
+5900       2313   ////      2313  CUL  C   RSP  018-057   III/1                 

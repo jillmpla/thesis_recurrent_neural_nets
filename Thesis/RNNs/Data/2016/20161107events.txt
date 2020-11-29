@@ -1,0 +1,19 @@
+:Product: 20161107events.txt
+:Created: 2016 Nov 10 0357 UT
+:Date: 2016 11 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Nov 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2380 +     0112   0112      0112  LEA  G   RBR  245       860                   
+2380       0112   ////      0112  LEA  C   RSP  116-180   III/1                 
+
+2390       0448   0502      0505  G15  5   XRA  1-8A      B1.5    1.1E-04   2605
+
+2400 +     0807   0807      0807  SVI  G   RBR  245       100                   

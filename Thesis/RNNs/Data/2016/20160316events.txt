@@ -1,0 +1,50 @@
+:Product: 20160316events.txt
+:Created: 2016 Mar 19 0357 UT
+:Date: 2016 03 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Mar 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7720      A0001   ////     A1412  HOL  3   DSF  N24W47    7                     
+
+7590       0244   ////      0252  LEA  C   RSP  127-180   CTM/1                 
+
+7600 +     0337   ////      0337  LEA  C   RSP  025-161   III/2                 
+
+7610 +     0539   ////      0623  SVI  C   RSP  078-169   CTM/1                 
+
+7620 +     0634   0646      0657  G15  5   XRA  1-8A      C2.2    2.2E-03   2522
+7620 +     0636   ////      0640  LEA  C   RSP  025-180   V/3                   
+7620 +     0645   ////      0711  SVI  C   RSP  025-132   II/2    853           
+
+7630 +     0752   ////      0802  SVI  C   RSP  025-180   III/2                 
+
+7640       0922   ////      0931  LEA  C   RSP  030-139   III/1                 
+
+7650       0953   ////      1022  LEA  C   RSP  032-180   VI/1                  
+
+7660       1244   ////      1244  SVI  C   RSP  025-067   III/1                 
+
+7670       1345   ////      1410  SVI  C   RSP  025-171   VI/2                  
+7670       1355   ////      1359  SAG  C   RSP  025-180   III/1                 
+
+7680       1523   ////      1534  SAG  C   RSP  025-143   VI/1                  
+7680       1533   ////      1534  SVI  C   RSP  025-078   III/1                 
+
+7690 +     1605   ////      1606  SAG  C   RSP  025-180   III/2                 
+
+7700       1814   ////      1814  SAG  C   RSP  025-130   III/1                 
+
+7730       1910   ////      2016  SAG  C   RSP  025-180   VI/2                  
+
+7710 +     1952   1955      1957  G15  5   XRA  1-8A      B4.3    6.0E-05   2519
+
+7740       2114   ////      2147  HOL  3   DSF  S48W42    12      B.9A          
+
+7750       2243   ////      2359  LEA  C   RSP  064-180   CTM/1                 

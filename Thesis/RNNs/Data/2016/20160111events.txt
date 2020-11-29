@@ -1,0 +1,20 @@
+:Product: 20160111events.txt
+:Created: 2016 Jan 14 0357 UT
+:Date: 2016 01 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jan 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 300 +     1118   1121      1124  G15  5   XRA  1-8A      B4.0    8.6E-05       
+
+ 310       1700   1714      1733  G15  5   XRA  1-8A      B4.4    8.3E-04   2480
+
+ 320       2041   2114      2136  G15  5   XRA  1-8A      B4.9    1.4E-03   2480
+
+ 330       2304   2305      2307  HOL  2   FLA  N18E36    SF                2483

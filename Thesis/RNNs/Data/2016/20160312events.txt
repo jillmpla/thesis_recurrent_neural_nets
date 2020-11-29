@@ -1,0 +1,21 @@
+:Product: 20160312events.txt
+:Created: 2016 Mar 15 0357 UT
+:Date: 2016 03 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Mar 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7220       0343   0405      0420  G15  5   XRA  1-8A      B8.8    1.5E-03   2519
+
+7230 +     0615   0619      0623  G15  5   XRA  1-8A      C1.1    3.4E-04   2513
+7230       0618   0619      0622  LEA  3   FLA  N09W46    SF                2513
+
+7270      A1104   ////     A0854  SVI  3   DSF  N54E29    33                    
+
+7240       1900   1901      1904  HOL  3   FLA  N19E22    SF                2521

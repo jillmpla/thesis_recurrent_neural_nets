@@ -1,0 +1,22 @@
+:Product: 20160404events.txt
+:Created: 2016 Apr 07 0357 UT
+:Date: 2016 04 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Apr 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8860       0126   ////      0357  LEA  3   EPL  ////      0.18                  
+
+8870       0940   0943      0948  G15  5   XRA  1-8A      B1.3    4.6E-05       
+
+8880       1014   1014      1016  SVI  3   FLA  S05W64    SF                2526
+
+8890       1243   1248      1256  G15  5   XRA  1-8A      B2.0    1.2E-04       
+
+8900       1925   1939      1949  G15  5   XRA  1-8A      B4.1    4.3E-04   2528

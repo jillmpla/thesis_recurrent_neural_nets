@@ -1,0 +1,22 @@
+:Product: 20161006events.txt
+:Created: 2016 Oct 09 0357 UT
+:Date: 2016 10 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Oct 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 770       0944   0950      0959  SVI  3   FLA  S12E44    SF      ERU       2599
+
+ 780       1107   1107      1113  SVI  3   FLA  S12E44    SF      ERU       2599
+
+ 790       1134   1137      1141  G15  5   XRA  1-8A      B2.8    7.9E-05       
+
+ 800 +     1914   ////      1914  SAG  C   RSP  025-072   III/1                 
+
+ 810 +     2008   ////      2008  PAL  C   RSP  025-075   III/2                 

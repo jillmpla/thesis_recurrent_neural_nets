@@ -1,0 +1,83 @@
+:Product: 20160205events.txt
+:Created: 2016 Feb 08 0357 UT
+:Date: 2016 02 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Feb 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3210       0000   ////      0940  LEA  C   RSP  025-168   CTM/2                 
+
+2800       0018   0018      0018  PAL  G   RBR  410       160                   
+
+2810 +     0029   0033      0040  G15  5   XRA  1-8A      C1.4    6.6E-04       
+
+2820 +     0049   0056      0103  G15  5   XRA  1-8A      C3.0    1.7E-03   2494
+
+2830       0203   0203      0203  LEA  G   RBR  245       100                   
+
+2840       0220   ////      0220  LEA  C   RSP  025-121   III/1                 
+
+2850 +     0322   0326      0332  G15  5   XRA  1-8A      B8.4    3.5E-04   2491
+
+2860 +     0715   0722      0730  G15  5   XRA  1-8A      C2.9    1.7E-03   2494
+2860      B0719  U0719     A0729  SVI  3   FLA  S12E06    SF      ERU       2494
+
+2930       0752   ////      1458  SVI  3   DSF  N37W33    8                     
+
+2870 +     0845   0850      0859  G15  5   XRA  1-8A      B9.3    5.9E-04   2490
+
+2880       1027   1027      1028  LEA  G   RBR  245       140                   
+
+2890       1108   ////      1108  SVI  C   RSP  025-079   III/1                 
+
+2900       1229   1229      1229  SAG  G   RBR  245       120                   
+
+2910 +     1305   1311      1317  G15  5   XRA  1-8A      C1.1    5.5E-04   2496
+
+2940       1733   1733      1733  PAL  U   RBR  245       120                   
+
+2950 +     1802   1807      1813  G15  5   XRA  1-8A      B7.7    3.8E-04   2495
+
+3040 +     1829   ////      1941  HOL  3   DSF  N02E08    9                     
+3040       1900   2120      2349  G15  5   XRA  1-8A      C1.0    1.4E-02       
+
+2970 +     1939   ////      2016  HOL  3   DSF  S14W30    10                    
+
+2960       2044   2045      2049  PAL  U   RBR  245       190                   
+
+2980       2054   2054      2054  PAL  U   RBR  245       100                   
+
+2990       2105   2105      2105  PAL  U   RBR  245       100                   
+
+3000       2111   2111      2111  PAL  U   RBR  245       110                   
+
+3010       2121   2121      2121  PAL  U   RBR  245       100                   
+
+3020       2124   2124      2125  PAL  U   RBR  245       100                   
+
+3030       2129   2129      2129  PAL  U   RBR  245       100                   
+
+3050       2149   2149      2149  PAL  U   RBR  245       100                   
+
+3060       2153   2153      2153  PAL  U   RBR  245       110                   
+
+3070       2159   2159      2200  PAL  U   RBR  245       120                   
+
+3110       2224   ////      2359  LEA  C   RSP  025-180   CTM/2                 
+3110 +     2224   2229      2308  LEA  G   RNS  410       210                   
+3110       2225   2245      2254  PAL  U   RNS  610       180                   
+3110 +     2225   2234      2312  LEA  G   RNS  245       150                   
+
+3120       2245   ////      2359  LEA  C   RSP  025-180   VI/2                  
+
+3080 +     2245   2245      2245  PAL  G   RBR  610       400                   
+
+3090       2310   2310      2310  PAL  G   RBR  610       100                   
+
+3100       2312   2312      2312  PAL  U   RBR  245       100                   

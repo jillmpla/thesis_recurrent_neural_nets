@@ -1,0 +1,16 @@
+:Product: 20160109events.txt
+:Created: 2016 Jan 12 0357 UT
+:Date: 2016 01 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jan 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 240       1341   ////      1342  SVI  C   RSP  025-039   III/1                 
+
+ 250       1725   ////      1725  SAG  C   RSP  025-123   III/1                 

@@ -1,0 +1,26 @@
+:Product: 20160601events.txt
+:Created: 2016 Jun 04 0357 UT
+:Date: 2016 06 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jun 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9130       0056   ////      0056  LEA  C   RSP  025-095   III/1                 
+
+9140 +     0429   ////      0429  SVI  C   RSP  038-080   III/1                 
+
+9150 +     0442   ////      0442  LEA  C   RSP  086-180   III/1                 
+
+9160       1433   1437      1441  G15  5   XRA  1-8A      B1.8    6.2E-05   2551
+
+9170       1615   1619      1623  G15  5   XRA  1-8A      B2.3    7.8E-05   2551
+
+9180 +     2220   2235      2257  G14  5   XRA  1-8A      B7.9    1.4E-03       
+
+9190       2321   ////      2321  LEA  C   RSP  048-180   III/1                 

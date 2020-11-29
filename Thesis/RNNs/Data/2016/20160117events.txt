@@ -1,0 +1,18 @@
+:Product: 20160117events.txt
+:Created: 2016 Jan 20 0357 UT
+:Date: 2016 01 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jan 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 850       1036   1049      1112  G15  5   XRA  1-8A      B3.7    6.9E-04   2485
+
+ 860 +     1919   ////      1920  SAG  C   RSP  025-101   III/1                 
+
+ 870       2245   ////      2245  CUL  C   RSP  018-057   III/1                 

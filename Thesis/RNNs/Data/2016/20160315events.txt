@@ -1,0 +1,39 @@
+:Product: 20160315events.txt
+:Created: 2016 Mar 18 0357 UT
+:Date: 2016 03 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Mar 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7470       0001   0001      0001  PAL  U   RBR  245       130                   
+
+7580       0211   ////      0212  CUL  C   RSP  030-057   III/1                 
+
+7490       0250   0250      0250  PAL  U   RBR  245       120                   
+
+7500       0252   ////      0536  LEA  C   RSP  086-171   CTM/1                 
+7500 +     0324   0324      0324  LEA  G   RBR  245       320                   
+7500       0347   0421      0452  G15  5   XRA  1-8A      B4.3    1.4E-03       
+
+7510       0412   0412      0412  LEA  G   RBR  245       100                   
+
+7520       0418   ////      0518  LEA  2   EPL  ////      0.23                  
+
+7530       0923   0929      0934  G13  5   XRA  1-8A      C1.2    5.3E-04   2521
+7530       0927   0928      0935  LEA  2   FLA  N21W14    SF      DSD       2521
+
+7540 +     1532   1538      1543  G15  5   XRA  1-8A      C1.0    4.4E-04   2521
+7540       1535   1538      1539  HOL  3   FLA  N20W15    SF      ERU       2521
+
+7550       1647   1651      1654  G15  5   XRA  1-8A      B6.4    1.8E-04   2521
+
+7560 +     1805   1811      1820  G15  5   XRA  1-8A      B8.6    5.8E-04   2521
+
+7570       2037   2040      2048  G15  5   XRA  1-8A      B5.2    2.5E-04   2521
+7570       2040   2040      2042  HOL  3   FLA  N20W15    SF      DSD       2521

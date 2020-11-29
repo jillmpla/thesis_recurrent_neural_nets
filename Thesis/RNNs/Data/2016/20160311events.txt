@@ -1,0 +1,18 @@
+:Product: 20160311events.txt
+:Created: 2016 Mar 14 0357 UT
+:Date: 2016 03 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Mar 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7190       0211   0216      0220  G15  5   XRA  1-8A      B3.4    1.7E-04   2511
+
+7200       0312   0315      0317  G15  5   XRA  1-8A      B2.7    9.3E-05   2518
+
+7210       1513   ////      1513  SVI  C   RSP  025-122   III/1                 

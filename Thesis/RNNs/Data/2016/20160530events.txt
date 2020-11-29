@@ -1,0 +1,38 @@
+:Product: 20160530events.txt
+:Created: 2016 Jun 02 0357 UT
+:Date: 2016 05 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 May 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8980 +     0410   0414      0422  G14  5   XRA  1-8A      B2.1    1.2E-04       
+
+8990 +     0733   0737      0742  G14  5   XRA  1-8A      C1.4    4.7E-04   2550
+8990       0734   0739      0754  SVI  3   FLA  N13W21    SF      DSD       2550
+8990 +     0735   0735      0735  SVI  G   RBR  410       500               2550
+8990       0736   0736      0736  SVI  G   RBR  245       100               2550
+
+9000 +     0817   ////      0818  SVI  C   RSP  025-080   III/1                 
+
+9010       1054   1058      1115  SVI  3   FLA  N13W23    SF                2550
+
+9020 +     1206   1212      1217  G14  5   XRA  1-8A      B3.0    1.5E-04       
+
+9030 +     1318   1324      1328  G14  5   XRA  1-8A      C1.0    3.8E-04   2550
+9030 +     1321   1326      1334  HOL  3   FLA  N15W24    SF      ERU       2550
+
+9040 +     1502   1507      1511  G14  5   XRA  1-8A      B4.1    1.5E-04   2550
+9040       1505   1506      1511  HOL  3   FLA  N15W24    SF      ERU       2550
+
+9050 +     1608   ////      1609  SAG  C   RSP  025-079   III/1                 
+
+9060 +     1703   1710      1712  G14  5   XRA  1-8A      B4.1    1.5E-04   2550
+9060       1706   1707      1720  HOL  3   FLA  N15W25    SF      ERU       2550
+
+9070       1746   1746      1753  HOL  3   FLA  N15W25    SF      ERU       2550

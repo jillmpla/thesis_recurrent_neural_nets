@@ -1,0 +1,20 @@
+:Product: 20160705events.txt
+:Created: 2016 Jul 08 0357 UT
+:Date: 2016 07 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jul 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1400 +     0112   0112      0112  LEA  G   RBR  245       350                   
+
+1410 +     0620   ////      0621  SVI  C   RSP  025-115   III/1                 
+
+1420       0838   ////      1150  SVI  3   DSF  S34W39    9                     
+
+1440      A1732   ////     A0458  SVI  3   DSF  N03E60    8                     

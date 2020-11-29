@@ -1,0 +1,22 @@
+:Product: 20160914events.txt
+:Created: 2016 Sep 17 0357 UT
+:Date: 2016 09 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Sep 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9280      A0043   ////     A1319  HOL  3   DSF  S01W50    7                 2589
+
+9300       0642   ////      0842  SVI  3   DSF  N03W53    11                2589
+
+9290       1032   ////      1152  SVI  3   DSF  N19W56    6                 2589
+
+9270       1540   1544      1550  G15  5   XRA  1-8A      B1.9    8.5E-05   2589
+
+9310       1906   1911      1924  G15  5   XRA  1-8A      B2.4    2.1E-04   2589

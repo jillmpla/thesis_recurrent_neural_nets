@@ -1,0 +1,65 @@
+:Product: 20160616events.txt
+:Created: 2016 Jun 19 0357 UT
+:Date: 2016 06 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jun 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 510 +     0020   0025      0034  G15  5   XRA  1-8A      B3.2    2.0E-04   2553
+ 510       0023   0024      0036  HOL  3   FLA  S04E03    SF      ERU       2553
+
+ 520 +     0601   ////      0601  LEA  C   RSP  025-109   III/1                 
+
+ 530       0703   ////      0746  SVI  C   RSP  025-079   VI/1                  
+ 530       0746   ////      0746  LEA  C   RSP  025-035   III/1                 
+
+ 540       0944   0948      0952  G15  5   XRA  1-8A      B2.1    7.3E-05       
+
+ 550 +     1040   1044      1046  G15  5   XRA  1-8A      B3.8    8.0E-05   2555
+
+ 560 +     1158   1203      1209  G15  5   XRA  1-8A      B2.6    1.3E-04   2555
+
+ 570 +     1212   1218      1221  G15  5   XRA  1-8A      B3.5    1.3E-04   2555
+ 570       1217   ////      1449  SAG  C   RSP  025-093   VI/1                  
+
+ 580       1229   ////      1231  SVI  C   RSP  025-051   III/1                 
+
+ 590 +     1317   1324      1327  G15  5   XRA  1-8A      B8.8    2.9E-04   2555
+ 590       1321   1329      1335  HOL  3   FLA  S08W50    SF      ERU       2555
+
+ 600       1400   1402      1417  HOL  3   FLA  S08W50    SF      ERU       2555
+
+ 610 +     1517   1523      1532  G15  5   XRA  1-8A      B3.8    2.5E-04   2555
+ 610       1520   1521      1522  HOL  3   FLA  S08W50    SF      ERU       2555
+
+ 620 +     1553   1554      1556  HOL  3   FLA  N05E05    SF      ERU       2555
+
+ 630       1603   ////      1604  SVI  C   RSP  025-080   III/1                 
+ 630       1603   ////      2229  SAG  C   RSP  025-057   VI/1                  
+
+ 640       1609   1613      1617  G15  5   XRA  1-8A      B2.9    9.4E-05       
+
+ 650       1627   ////      1627  SVI  C   RSP  035-080   III/1                 
+
+ 660 +     1741   1741      1741  SAG  G   RBR  245       130                   
+
+ 670 +     1746   1753      1806  G15  5   XRA  1-8A      B4.0    3.7E-04   2556
+
+ 690       1959   2000      2006  HOL  3   FLA  S08W52    SF                2555
+
+ 700 +     2025   2025      2025  PAL  G   RBR  245       130                   
+
+ 710       2042   2043      2044  HOL  3   FLA  S08W53    SF                2555
+ 710       2042   2042      2042  SAG  G   RBR  245       100               2555
+
+ 720       2120   2120      2120  PAL  G   RBR  245       130                   
+
+ 730       2201   2201      2201  SAG  G   RBR  245       100                   
+
+ 740       2229   ////      2229  PAL  C   RSP  025-053   III/2                 

@@ -1,0 +1,66 @@
+:Product: 20160514events.txt
+:Created: 2016 May 17 0357 UT
+:Date: 2016 05 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 May 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5260 +     0051   0054      0056  G14  5   XRA  1-8A      B5.8    9.7E-05   2543
+5260       0053   0054      0057  HOL  2   FLA  S04W49    SF                2543
+
+5270 +     0342   0345      0348  G14  5   XRA  1-8A      B4.4    9.4E-05   2543
+
+5280 +     0448   0449      0449  LEA  G   RBR  410       280                   
+
+5290       0534   0537      0539  G14  5   XRA  1-8A      B3.8    6.4E-05   2543
+5290 +     0535   0535      0535  LEA  G   RBR  245       170                   
+5290       0535   ////      0535  SVI  C   RSP  158-171   III/1                 
+5290       0535   0535      0535  LEA  G   RBR  610       100                   
+
+5300 +     0618   0622      0625  G14  5   XRA  1-8A      B6.1    1.5E-04   2543
+
+5310      B0653  U0658     A0659  SVI  3   FLA  S07W54    SF                2543
+
+5320 +     0744   0752      0758  G14  5   XRA  1-8A      B7.6    4.4E-04   2542
+5320 +     0747  U0751     A0821  SVI  3   FLA  N07W53    SF                2542
+
+5330 +     0921   0931      0934  G14  5   XRA  1-8A      C2.5    8.0E-04   2543
+5330       0929  U0931     A0944  SVI  3   FLA  S07W56    SF                2543
+5330 +     0929   0929      0929  SVI  G   RBR  245       100               2543
+
+5350       0939   0952      1002  G14  5   XRA  1-8A      B9.0    1.1E-03   2544
+5350      B0940  U0953      1023  SVI  3   FLA  N20E07    SF      ERU       2544
+
+5360       1052   1056      1059  G13  5   XRA  1-8A      B6.3    1.8E-04   2543
+
+5370       1125  U1134      1157  SVI  3   FLA  S07W58    1N      BPT       2543
+5370 +     1128   1134      1137  G14  5   XRA  1-8A      C7.4    1.6E-03   2543
+5370 +     1133   1133      1133  SVI  G   RBR  245       2600              2543
+5370 +     1133   ////      1133  SAG  C   RSP  025-180   III/1             2543
+5370 +     1133   1133      1133  SVI  G   RBR  410       160               2543
+
+5380       1319   ////      1319  SVI  C   RSP  025-080   III/1                 
+
+5390 +     1515   1519      1522  G14  5   XRA  1-8A      C4.8    9.1E-04   2543
+5390 +     1519   1519      1520  SAG  G   RBR  245       310                   
+5390 +     1519   ////      1522  SAG  C   RSP  025-180   III/1                 
+
+5400 +     1546   ////      1551  SAG  C   RSP  025-180   III/1                 
+
+5410 +     1642   ////      1658  SAG  C   RSP  025-180   VI/2                  
+5410       1658   ////      1658  PAL  C   RSP  050-180   III/2                 
+
+5420 +     1737   1741      1743  G14  5   XRA  1-8A      B8.4    1.6E-04   2543
+5420       1738   ////      1742  SAG  C   RSP  036-180   III/1                 
+
+5430 +     1922   1927      1930  G14  5   XRA  1-8A      B6.3    2.1E-04       
+5430 +     1926   1926      1926  SAG  G   RBR  245       550                   
+5430 +     1926   ////      1928  SAG  C   RSP  044-180   III/2                 
+
+5440 +     2311   2315      2323  G14  5   XRA  1-8A      B6.7    3.6E-04       

@@ -1,0 +1,78 @@
+:Product: 20160306events.txt
+:Created: 2016 Mar 09 0357 UT
+:Date: 2016 03 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Mar 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6840       0243   ////      0243  CUL  C   RSP  018-057   III/1                 
+
+6850       0307   ////      0309  CUL  C   RSP  018-057   III/2                 
+
+6660 +     0308   ////      0308  LEA  C   RSP  025-180   III/2                 
+
+6670 +     0419   ////      0516  LEA  C   RSP  025-180   III/2                 
+6670       0419   0419      0420  LEA  U   RBR  245       380                   
+
+6680       0434   0434      0434  LEA  U   RBR  245       740                   
+
+6690       0458   0512      0519  G15  5   XRA  1-8A      B7.2    5.3E-04   2512
+6690 +     0506   0507      0507  LEA  U   RBR  245       270               2512
+6690       0510   0510      0510  LEA  U   RBR  410       210               2512
+6690       0510   ////      0511  LEA  C   RSP  025-180   V/3               2512
+6690       0512   0512      0515  LEA  3   FLA  N11W19    SF                2512
+
+6700       0608   ////      0616  SVI  C   RSP  025-180   III/1                 
+6700       0609   ////      0812  LEA  C   RSP  025-180   VII/2                 
+
+6710       0623   0627      0630  G15  5   XRA  1-8A      B2.8    7.8E-05   2514
+6710       0624   ////      0626  SVI  C   RSP  025-180   III/2                 
+6710 +     0625   0625      0625  SVI  G   RBR  245       280                   
+
+6720       0630   ////      0711  SVI  C   RSP  025-172   VI/2              2512
+6720      B0631   0632     A0639  LEA  2   FLA  N11W19    SF                2512
+6720       0640   0640      0640  LEA  U   RBR  245       220               2512
+
+6730       0726   0730      0733  G15  5   XRA  1-8A      B3.1    8.7E-05   2512
+6730       0728   0728      0729  LEA  U   RBR  245       270                   
+
+6740 +     0734   0743      0745  G15  5   XRA  1-8A      B7.0    2.6E-04   2512
+6740       0743   0743      0743  LEA  U   RBR  410       300                   
+
+6750       0923   0927      0931  G13  5   XRA  1-8A      B5.1    1.7E-04   2512
+6750       0923   ////      0927  SVI  C   RSP  025-171   V/2                   
+6750       0923   ////      0942  LEA  C   RSP  025-180   VII/1                 
+6750       0923   0923      0924  LEA  U   RBR  245       170                   
+
+6760       0934   ////      0941  SVI  C   RSP  025-164   III/2                 
+6760 +     0936   0936      0936  SVI  G   RBR  410       120                   
+6760 +     0937   0937      0937  LEA  U   RBR  245       100                   
+6760 +     0938   0939      0942  LEA  U   RBR  610       140                   
+
+6770       0950   ////      1147  SVI  C   RSP  044-171   CTM/1                 
+
+6780 +     1121   ////      1123  SVI  C   RSP  025-171   III/2                 
+
+6790       1201   ////      1207  SVI  C   RSP  025-168   III/1                 
+
+6800 +     1233   1307      1314  G15  5   XRA  1-8A      B4.3    8.6E-04   2512
+6800 +     1300   ////      1310  SAG  C   RSP  025-180   III/1                 
+
+6810 +     1320   ////      1330  SAG  C   RSP  025-180   III/1                 
+
+6820 +     1418   ////      1531  SAG  C   RSP  025-180   VI/1                  
+
+6830 +     1802   1805      1808  G15  5   XRA  1-8A      B2.7    5.8E-05   2512
+
+6860 +     2110   ////      2113  PAL  C   RSP  025-180   III/2                 
+
+6870       2207   ////      2222  PAL  C   RSP  025-067   VI/2                  
+
+6880       2239   ////      2342  LEA  C   RSP  073-180   CTM/1                 
+6880       2335   ////      2335  LEA  U   RSP  035-089   III/1                 

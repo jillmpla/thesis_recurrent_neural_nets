@@ -1,0 +1,42 @@
+:Product: 20160609events.txt
+:Created: 2016 Jun 12 0357 UT
+:Date: 2016 06 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jun 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9550 +     0456   0501      0505  G14  5   XRA  1-8A      B2.8    1.1E-04   2552
+9550       0457   0459      0507  SVI  3   FLA  N14W37    SF      DSD       2552
+
+9580 +     0624   0627      0630  G14  5   XRA  1-8A      B3.5    7.1E-05       
+
+9590 +     0636   0639      0643  G14  5   XRA  1-8A      B2.6    7.3E-05       
+
+9600       0733   0737      0744  G15  5   XRA  1-8A      B2.1    1.1E-04       
+
+9610       1017   1025      1029  G15  5   XRA  1-8A      B2.7    1.4E-04       
+
+9620       1043   1047      1051  G15  5   XRA  1-8A      B2.4    8.1E-05       
+
+9630       1209   1218      1223  G15  5   XRA  1-8A      B9.9    4.9E-04   2552
+9630       1213   1233      1249  SVI  3   FLA  N14W42    SF      ERU       2552
+
+9640       1228   1234      1237  G15  5   XRA  1-8A      C1.5    5.0E-04       
+
+9650       1256   1306      1310  G15  5   XRA  1-8A      B5.7    3.5E-04   2552
+9650       1302   1307      1318  SVI  3   FLA  N14W43    SF      ERU       2552
+
+9660       1323   1326      1332  G15  5   XRA  1-8A      B3.0    1.2E-04       
+
+9670       1503   1514      1517  G15  5   XRA  1-8A      C1.1    5.9E-04   2552
+9670       1507   1514      1524  SVI  3   FLA  N14W45    SF      ERU       2552
+
+9720      A1557   ////     A0441  SVI  3   DSF  N17W29    14                    
+
+9730      A2346   ////     A1225  HOL  2   DSF  N15W40    7                     

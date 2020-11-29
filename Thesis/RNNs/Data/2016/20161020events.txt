@@ -1,0 +1,20 @@
+:Product: 20161020events.txt
+:Created: 2016 Oct 23 0357 UT
+:Date: 2016 10 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Oct 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2020 +    A1000   ////     A2235  LEA  3   DSF  N22W03    9                     
+
+2050      A1159   ////     A0654  SVI  3   DSF  N30W08    10                    
+
+2060      A1159   ////     A0654  SVI  3   DSF  N14W03    10                    
+
+2010       2348   2349      2352  HOL  3   FLA  N06W51    SF      DSD       2602

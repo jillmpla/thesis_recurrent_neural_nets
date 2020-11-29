@@ -1,0 +1,18 @@
+:Product: 20160602events.txt
+:Created: 2016 Jun 05 0357 UT
+:Date: 2016 06 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jun 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9200       0450   0450      0450  SVI  G   RBR  245       140                   
+
+9210 +     1150   1150      1150  SVI  G   RBR  245       150                   
+
+9220       1427   ////      1430  SVI  C   RSP  032-080   III/1                 

@@ -1,0 +1,32 @@
+:Product: 20160113events.txt
+:Created: 2016 Jan 16 0357 UT
+:Date: 2016 01 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jan 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 400       0205   ////      0205  LEA  C   RSP  033-076   III/1                 
+
+ 410       0642   ////      0643  LEA  C   RSP  032-071   III/1                 
+
+ 420       0705   0725      0743  G15  5   XRA  1-8A      B3.9    7.4E-04   2483
+
+ 430       1113   1122      1127  G15  5   XRA  1-8A      B2.5    2.0E-04   2480
+
+ 440       1333   1351      1410  G15  5   XRA  1-8A      B2.4    4.8E-04   2483
+
+ 450       1457   1505      1513  G15  5   XRA  1-8A      B2.4    2.3E-04       
+
+ 460       1659   1705      1708  G15  5   XRA  1-8A      B2.3    1.3E-04   2483
+
+ 470       1827   1834      1841  G15  5   XRA  1-8A      B4.4    2.8E-04       
+
+ 480       1908   ////      1926  PAL  C   RSP  025-115   VI/2                  
+
+ 490       2351   0001      0011  G15  5   XRA  1-8A      B2.5    2.8E-04   2480

@@ -1,0 +1,27 @@
+:Product: 20160612events.txt
+:Created: 2016 Jun 15 0357 UT
+:Date: 2016 06 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jun 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9890       0151   0155      0202  G15  5   XRA  1-8A      B4.0    1.9E-04   2552
+
+9900       0809   0812      0815  G15  5   XRA  1-8A      B2.8    5.9E-05   2552
+
+9910 +     0904   0910      0918  G15  5   XRA  1-8A      B5.8    3.5E-04   2554
+9910       0908   ////      0913  SVI  C   RSP  025-050   III/1                 
+
+9920 +     1418   ////      1418  SAG  C   RSP  025-083   III/1                 
+
+9930 +     1926   ////      1926  PAL  C   RSP  025-082   III/1                 
+
+9940 +     2030   2040      2052  G15  5   XRA  1-8A      C1.8    1.8E-03   2552
+
+9950       2101   ////      2102  SAG  C   RSP  025-084   III/1                 

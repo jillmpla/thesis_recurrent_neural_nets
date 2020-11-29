@@ -1,0 +1,57 @@
+:Product: 20161204events.txt
+:Created: 2016 Dec 07 0357 UT
+:Date: 2016 12 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Dec 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3660 +     0122   0126      0129  G15  5   XRA  1-8A      B4.0    9.8E-05   2615
+
+3670 +     0153   0157      0202  G15  5   XRA  1-8A      B5.3    1.8E-04   2615
+
+3680 +     0247   0251      0254  G15  5   XRA  1-8A      C1.1    2.4E-04   2615
+3680       0250   0251      0253  LEA  3   FLA  S06W03    SF      ERU       2615
+
+3690       0424   0427      0430  G15  5   XRA  1-8A      B4.2    8.2E-05   2615
+3690       0426   0426      0428  LEA  3   FLA  S06W04    SF                2615
+
+3700 +     0715   0723      0725  G15  5   XRA  1-8A      C1.2    2.9E-04   2615
+3700 +     0722   0722      0725  LEA  3   FLA  S07W05    SF                2615
+
+3710 +     0815   ////      0819  SVI  C   RSP  079-180   III/1                 
+3710 +     0816   0816      0816  SVI  G   RBR  245       100                   
+
+3720       0821   0825      0830  G15  5   XRA  1-8A      B2.8    1.1E-04   2615
+
+3730 +     1022   1025      1027  G15  5   XRA  1-8A      B2.8    4.0E-05   2615
+
+3740       1044   ////      1044  SVI  C   RSP  029-180   III/1                 
+3740       1044   1044      1044  SVI  G   RBR  245       130                   
+
+3750       1047   1050      1053  G15  5   XRA  1-8A      B2.5    5.2E-05   2615
+
+3760       1153   ////      1156  SVI  C   RSP  029-180   III/1                 
+3760       1154   1154      1154  SVI  G   RBR  245       300                   
+
+3770       1204   ////      1205  SVI  C   RSP  052-133   III/1                 
+
+3780       1218   1224      1229  G15  5   XRA  1-8A      B2.3    1.1E-04   2615
+
+3790 +     1403   ////      1406  SAG  C   RSP  025-175   III/1                 
+
+3800 +     1612   1615      1619  G15  5   XRA  1-8A      B2.7    7.4E-05   2615
+3800       1614   1617      1619  HOL  3   FLA  S06W15    SF      DSD       2615
+
+3810       1650   ////      1651  SAG  C   RSP  025-160   III/1                 
+
+3820 +     1735   1755      1814  G15  5   XRA  1-8A      C1.8    3.0E-03   2615
+3820       1739   1742      1819  HOL  4   FLA  S06W16    SF      ERU       2615
+
+3830       2153   2153      2153  LEA  G   RBR  245       220                   
+3830 +     2153   ////      2154  LEA  C   RSP  075-180   III/2                 

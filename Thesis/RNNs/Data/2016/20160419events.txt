@@ -1,0 +1,65 @@
+:Product: 20160419events.txt
+:Created: 2016 Apr 22 0357 UT
+:Date: 2016 04 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Apr 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2450       0032   0032      0032  PAL  U   RBR  245       130                   
+
+2460       0033   0033      0033  LEA  G   RBR  245       170                   
+
+2690      A0035   ////     A1336  HOL  2   DSF  N13E29    13                    
+
+2470       0040   0040      0040  LEA  G   RBR  245       120                   
+
+2480       0046   0046      0046  PAL  U   RBR  245       120                   
+
+2490       0134   0134      0135  PAL  U   RBR  245       130                   
+
+2500       0140   0140      0142  PAL  U   RBR  245       110                   
+
+2510       0151   0151      0151  LEA  U   RBR  245       120                   
+
+2520       0155   0155      0155  LEA  U   RBR  245       130                   
+
+2530       0157   0157      0157  PAL  U   RBR  245       150                   
+
+2540       0217   0217      0217  PAL  U   RBR  245       270                   
+
+2550       0224   0224      0224  PAL  U   RBR  245       150                   
+
+2560       0224   0224      0224  LEA  U   RBR  245       160                   
+
+2570 +     0249   0249      0251  LEA  U   RBR  245       170                   
+
+2580       0518   0518      0518  SVI  G   RBR  245       160                   
+
+2590       0915   0915      0915  SVI  G   RBR  245       130                   
+
+2600       0920   0920      0920  SVI  G   RBR  245       120                   
+
+2610       0938   0938      0939  SVI  G   RBR  245       200                   
+
+2640       1218   1234      1242  G15  5   XRA  1-8A      B5.4    6.0E-04   2529
+
+2630 +     1249   1257      1305  G15  5   XRA  1-8A      B6.6    5.0E-04   2529
+
+2650 +     1503   1503      1503  SAG  G   RBR  245       140                   
+
+2660 +     1534   1534      1534  SAG  G   RBR  245       120                   
+
+2670       1637   1637      1637  SAG  G   RBR  245       120                   
+
+2680 +     1812   1817      1822  G15  5   XRA  1-8A      B4.4    1.9E-04   2529
+
+2700       1926   1934      1942  G15  5   XRA  1-8A      B4.3    3.8E-04   2529
+
+2710 +     2252   2302      2309  G15  5   XRA  1-8A      C1.0    8.0E-04   2529
+2710       2254   2256      2304  HOL  3   FLA  N14W74    SF      ERU       2529

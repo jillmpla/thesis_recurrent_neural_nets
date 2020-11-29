@@ -1,0 +1,55 @@
+:Product: 20160902events.txt
+:Created: 2016 Sep 05 0357 UT
+:Date: 2016 09 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Sep 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8490       0000   ////      0957  LEA  C   RSP  076-180   CTM/1                 
+
+8390       0249   0249      0249  LEA  G   RBR  245       140                   
+
+8400       0308   0309      0310  LEA  G   RBR  245       130                   
+
+8470       0314   0332      0402  LEA  G   RNS  245       320                   
+
+8410       0428   0429      0430  LEA  3   FLA  N08E60    SF      DSD       2585
+
+8420       0438   0441      0443  G15  5   XRA  1-8A      B9.1    1.3E-04   2585
+8420       0439   0441      0444  LEA  3   FLA  N08E59    SF                2585
+
+8510       0451   ////      1707  SVI  C   RSP  025-180   CTM/1                 
+
+8430 +     0616   0620      0622  G15  5   XRA  1-8A      B5.9    1.3E-04   2585
+8430       0618  U0620     A0625  SVI  3   FLA  N11E57    SF      ERU       2585
+
+8440       0623   0623      0623  LEA  G   RBR  245       180                   
+
+8450       0631   0632      0632  LEA  G   RBR  245       130                   
+
+8460      B0648  U0649     A0653  SVI  3   FLA  N10E57    SF      ERU       2585
+
+8480      B0649  U0651     A0656  SVI  3   FLA  S22W71    SF                2580
+
+8520       1110   ////      1814  SAG  C   RSP  102-180   CTM/1                 
+
+8500 +     1336   1339      1342  G15  5   XRA  1-8A      B5.9    1.3E-04   2585
+8500 +     1338   1339      1346  SVI  3   FLA  N07E50    SF      ERU       2585
+
+8530       1345   1345      1345  SAG  G   RBR  245       130                   
+
+8540       1354   ////      1412  SVI  C   RSP  025-080   VI/1              2585
+8540 +     1356   1356      1418  HOL  3   FLA  N07E50    SF      ERU       2585
+
+8550       1538  U1538      1540  SVI  3   FLA  N10E60    SF                    
+
+8560       1707   1708      1713  HOL  4   FLA  N09E50    SF      ERU       2585
+
+8570 +     1846   1849      1852  G15  5   XRA  1-8A      B8.9    2.0E-04   2585
+8570       1848   1849      1858  HOL  4   FLA  N05E47    SF                2585

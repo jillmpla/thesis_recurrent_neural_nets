@@ -1,0 +1,20 @@
+:Product: 20160303events.txt
+:Created: 2016 Mar 06 0357 UT
+:Date: 2016 03 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Mar 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6470       0136   0203      0257  G15  5   XRA  1-8A      B4.6    1.7E-03   2510
+
+6480       1104   ////      1104  SVI  U   RSP  025-064   III/1                 
+
+6490       1519   1550      1608  G15  5   XRA  1-8A      B5.2    1.0E-03   2510
+
+6500       2241   ////      2343  LEA  C   RSP  033-180   VI/1                  

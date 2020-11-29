@@ -1,0 +1,24 @@
+:Product: 20160831events.txt
+:Created: 2016 Sep 03 0357 UT
+:Date: 2016 08 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Aug 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8210       0723   0726      0730  SVI  3   FLA  N09W79    SF      ERU       2582
+
+8220       0745   0746      0748  SVI  3   FLA  N09W79    SF      ERU       2582
+
+8230       0753   0755      0809  SVI  3   FLA  N09W80    SF      ERU       2582
+
+8240       0812   0819      0826  G15  5   XRA  1-8A      C1.1    8.6E-04   2585
+
+8250 +     2010   2019      2039  G15  5   XRA  1-8A      C2.2    2.9E-03   2585
+
+8260       2326   ////      2334  LEA  C   RSP  025-180   III/1                 

@@ -1,0 +1,38 @@
+:Product: 20160708events.txt
+:Created: 2016 Jul 11 0357 UT
+:Date: 2016 07 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jul 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1550      A0029   ////     A1314  HOL  3   DSF  N46E06    14                    
+
+1500 +     0048   0056      0105  G15  5   XRA  1-8A      C2.7    1.8E-03   2564
+
+1510       0234   0316      0324  G15  5   XRA  1-8A      B9.1    1.8E-03   2564
+
+1520       0516   0520      0531  G15  5   XRA  1-8A      B4.3    3.1E-04   2564
+
+1690       0517   ////      1047  SVI  3   DSF  N48E04    17                    
+
+1530       0609   0624      0631  G15  5   XRA  1-8A      B6.3    6.0E-04   2562
+
+1540 +     1244   ////      1244  SAG  C   RSP  025-082   III/1                 
+
+1560 +     1627   1629      1630  HOL  3   FLA  N18E61    SF      ERU       2563
+
+1570       1731   1736      1740  G15  5   XRA  1-8A      B4.7    1.8E-04   2561
+
+1580       1855   1855      1901  HOL  3   FLA  N18E61    SF      DSD       2563
+
+1590 +     1945   1950      1956  G15  5   XRA  1-8A      B5.5    2.7E-04   2564
+
+1600       2211   2214      2220  HOL  2   FLA  S09E19    SF      ERU       2560
+
+1610 +     2305   2311      2313  G15  5   XRA  1-8A      B7.6    2.1E-04   2564

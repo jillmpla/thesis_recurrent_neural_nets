@@ -1,0 +1,38 @@
+:Product: 20161008events.txt
+:Created: 2016 Oct 11 0357 UT
+:Date: 2016 10 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Oct 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 860 +     0215   0219      0225  G15  5   XRA  1-8A      B5.3    2.3E-04   2598
+
+ 870       0543   ////      0549  SVI  C   RSP  030-169   III/1                 
+ 870       0544   ////      0549  LEA  C   RSP  034-168   CTM/1                 
+ 870       0547   0547      0547  SVI  G   RBR  410       100                   
+
+ 890       0558   ////      1607  SVI  C   RSP  025-171   CTM/1                 
+
+ 900       0712   ////      1008  LEA  C   RSP  036-173   CTM/1                 
+
+ 910       0903   0903      0903  LEA  G   RBR  245       230                   
+
+ 920       1000   1000      1004  LEA  G   RBR  245       170                   
+
+ 930       1051   1056      1056  SVI  U   RBR  245       200                   
+
+ 940       1059   1102      1103  SVI  U   RBR  245       210                   
+
+ 950       1107   ////      1731  SAG  C   RSP  047-180   CTM/1                 
+
+ 960 +     1504   ////      1507  SAG  C   RSP  025-180   III/2                 
+
+ 970 +     1848   ////      1849  SAG  C   RSP  025-180   III/1                 
+
+ 980       2214   ////      2359  LEA  C   RSP  069-180   CTM/1                 

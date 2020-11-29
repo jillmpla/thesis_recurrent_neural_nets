@@ -1,0 +1,22 @@
+:Product: 20160305events.txt
+:Created: 2016 Mar 08 0357 UT
+:Date: 2016 03 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Mar 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6610       0035   0040      0047  G15  5   XRA  1-8A      B3.6    1.9E-04   2506
+
+6620       0302   0302      0302  LEA  U   RBR  245       120                   
+
+6630 +     0316   0322      0336  G15  5   XRA  1-8A      B4.4    4.1E-04   2515
+6630       0320   0321      0327  LEA  3   FLA  S03W16    SF      ERU       2515
+6630       0323   0323      0323  LEA  U   RBR  245       120               2515
+
+6650       1048   1056      1104  G15  5   XRA  1-8A      B4.7    3.5E-04   2506

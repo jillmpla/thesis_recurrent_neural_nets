@@ -1,0 +1,53 @@
+:Product: 20161009events.txt
+:Created: 2016 Oct 12 0357 UT
+:Date: 2016 10 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Oct 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1000       0000   ////      0543  LEA  C   RSP  048-180   CTM/1                 
+
+ 990       0005   ////      0005  LEA  C   RSP  025-180   III/1                 
+
+1000       0036   ////      0036  LEA  C   RSP  025-180   III/1                 
+
+1010 +     0111   ////      0112  LEA  C   RSP  025-180   III/2                 
+
+1020       0336   ////      0346  LEA  C   RSP  025-180   III/1                 
+
+1030       0421   0421      0422  LEA  G   RBR  245       110                   
+
+1040       0437   0437      0437  LEA  G   RBR  245       100                   
+
+1060       0546   ////      0952  SVI  C   RSP  075-180   CTM/1                 
+
+1050 +     0641   ////      0641  SVI  C   RSP  025-180   III/1                 
+
+1070       0706   ////      0952  SVI  C   RSP  025-180   VI/2                  
+
+1080 +     0837   ////      0838  SVI  C   RSP  025-180   III/2                 
+
+1090 +     0910   ////      0910  SVI  C   RSP  025-180   III/2                 
+1090 +     0910   0910      0910  SVI  G   RBR  245       610                   
+
+1100       1055   ////      1056  SVI  C   RSP  025-180   III/2                 
+
+1110 +     1251   ////      1352  SVI  C   RSP  025-180   VI/1                  
+
+1150       1427   ////      1955  SAG  C   RSP  103-180   CTM/1                 
+
+1120       1431   ////      1606  SVI  C   RSP  104-180   CTM/1                 
+
+1130       1627   ////      1628  SAG  C   RSP  025-075   III/1                 
+
+1140 +     1858   1903      1910  G15  5   XRA  1-8A      B5.1    2.7E-04   2598
+
+1160 +     1914   ////      2053  PAL  C   RSP  025-180   VI/1                  
+
+1170       2140   2140      2140  PAL  G   RBR  245       170                   

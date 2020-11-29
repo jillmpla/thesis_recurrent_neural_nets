@@ -1,0 +1,23 @@
+:Product: 20160506events.txt
+:Created: 2016 May 09 0357 UT
+:Date: 2016 05 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 May 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4550 +     0417   ////      0418  LEA  C   RSP  025-180   III/1                 
+
+4560 +     1004   1010      1024  G13  5   XRA  1-8A      B4.4    4.5E-04   2541
+
+4580 +     1228   1232      1237  G13  5   XRA  1-8A      B5.3    2.0E-04   2541
+4580       1228   1231      1244  SVI  3   FLA  N04E23    SF                2541
+
+4590       1404   1405      1428  SVI  3   FLA  N04E20    SF      ERU       2541
+
+4640      A1705   ////     A0447  SVI  3   DSF  S21W39    12                    

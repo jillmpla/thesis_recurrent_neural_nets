@@ -1,0 +1,22 @@
+:Product: 20160817events.txt
+:Created: 2016 Aug 20 0357 UT
+:Date: 2016 08 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Aug 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7620 +     0230   0234      0238  G15  5   XRA  1-8A      B2.2    7.1E-05       
+7620 +     0233   ////      0234  LEA  C   RSP  025-097   III/1                 
+
+7630       0937   ////      0937  LEA  U   RSP  028-077   III/1                 
+
+7640 +     0956   1001      1006  G15  5   XRA  1-8A      B3.5    1.2E-04   2576
+7640       1001   1001      1010  SVI  3   FLA  S15W30    SF      ERU       2576
+
+7650 +     1524   ////      1525  SAG  C   RSP  025-180   III/1                 

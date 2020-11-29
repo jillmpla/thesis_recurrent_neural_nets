@@ -1,0 +1,25 @@
+:Product: 20161016events.txt
+:Created: 2016 Oct 19 0357 UT
+:Date: 2016 10 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Oct 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1870       0557   ////      0558  LEA  C   RSP  025-125   III/1                 
+
+1880 +     1036   1057      1110  G15  5   XRA  1-8A      B5.5    8.2E-04       
+
+1890 +     1127   1135      1142  G15  5   XRA  1-8A      B7.5    5.0E-04   2599
+
+1900       1329   1356      1404  G15  5   XRA  1-8A      B3.5    5.3E-04   2602
+1900 +     1354  U1359      1403  SVI  3   FLA  N06E09    SF      ERU       2602
+
+1920       1703   1725      1738  G15  5   XRA  1-8A      B7.4    1.1E-03       
+
+1930 +     2242   2302      2315  G15  5   XRA  1-8A      B8.4    1.1E-03       

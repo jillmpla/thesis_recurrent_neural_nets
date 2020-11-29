@@ -1,0 +1,79 @@
+:Product: 20160428events.txt
+:Created: 2016 May 01 0357 UT
+:Date: 2016 04 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Apr 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3350       0000   ////      0209  LEA  C   RSP  075-141   CTM/1                 
+3350       0000   ////      0445  PAL  C   RSP  025-180   VI/2                  
+
+3360 +     0118   0125      0136  G15  5   XRA  1-8A      B8.1    6.4E-04   2535
+3360 +     0119   ////      0122  LEA  C   RSP  025-120   III/2                 
+3360       0119   ////      0217  LEA  C   RSP  025-180   VI/2                  
+
+3370       0216   ////      0217  PAL  C   RSP  025-180   III/2                 
+3370 +     0216   0216      0216  LEA  G   RBR  245       250                   
+
+3380       0328   ////      0339  LEA  C   RSP  025-180   VI/2                  
+3380 +     0336   0342      0346  G15  5   XRA  1-8A      C1.1    4.2E-04   2535
+
+3400 +     0510   ////      0606  LEA  C   RSP  025-180   VI/2                  
+
+3390 +     0557   0602      0605  G15  5   XRA  1-8A      C1.8    4.7E-04   2535
+3390       0559   0559      0559  LEA  G   RBR  610       100                   
+3390       0600   ////      0604  SVI  C   RSP  025-171   III/2                 
+3390 +     0600   0600      0600  LEA  G   RBR  245       1500                  
+3390 +     0600   0600      0600  LEA  G   RBR  410       130                   
+
+3410 +     0633   0633      0633  LEA  G   RBR  245       260                   
+
+3420 +    B0638  U0639     A0656  SVI  3   FLA  N04E26    SF                2535
+
+3430      B0733  U0734     A0747  SVI  3   FLA  S10W57    SF                2537
+
+3440 +     0758   ////      0805  LEA  C   RSP  025-180   III/2                 
+3440 +     0801   0801      0801  SVI  G   RBR  245       130                   
+
+3450 +     0809   ////      0809  LEA  C   RSP  025-180   III/2                 
+
+3460      B0814  U0814     A0830  SVI  3   FLA  S10W57    SF                2537
+
+3480 +     0844   ////      0855  LEA  C   RSP  025-180   VI/2                  
+
+3470 +     0845   0852      0855  G15  5   XRA  1-8A      C1.7    5.6E-04   2535
+3470       0847  U0853     A0859  SVI  3   FLA  N04E26    SF      ERU       2535
+
+3490 +     0927   0932      0937  G15  5   XRA  1-8A      B6.2    2.6E-04   2535
+3490 +     0928   ////      0935  SVI  C   RSP  025-171   III/2             2535
+3490      B0931  U0933     A0937  SVI  3   FLA  N08E24    SF      ERU       2535
+
+3500       0955   ////      0956  SVI  C   RSP  025-079   III/1                 
+
+3510 +     1106   1106      1106  SVI  G   RBR  245       140                   
+3510 +     1106   ////      1107  SAG  C   RSP  025-180   III/2                 
+
+3540       1134   ////      1327  SAG  C   RSP  025-180   VI/2                  
+
+3520       1157   ////      1204  SVI  C   RSP  025-137   III/1                 
+
+3530       1235   ////      1253  SVI  C   RSP  025-171   VI/2              2535
+3530 +     1246   1251      1254  G15  5   XRA  1-8A      C1.9    5.0E-04   2535
+3530      B1253  U1255      1258  HOL  2   FLA  N05E21    SF                2535
+
+3550 +     1440   ////      1449  SVI  C   RSP  025-080   III/1                 
+
+3560 +     1705   ////      1705  SAG  C   RSP  025-081   III/1                 
+
+3570       1953   1957      2000  G13  5   XRA  1-8A      B5.6    1.5E-04       
+3570 +     1956   ////      1957  SAG  C   RSP  025-089   III/2                 
+
+3580       2318   2322      2325  G15  5   XRA  1-8A      B3.4    9.8E-05   2535
+
+3590 +     2353   ////      2354  PAL  C   RSP  025-075   III/2                 

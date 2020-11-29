@@ -1,0 +1,27 @@
+:Product: 20160219events.txt
+:Created: 2016 Feb 22 0357 UT
+:Date: 2016 02 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Feb 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5720 +     0003   0019      0053  G15  5   XRA  1-8A      C1.6    4.0E-03   2497
+
+5730 +     0306   0321      0352  G15  5   XRA  1-8A      C2.0    4.3E-03       
+
+5740       0433   0508      0551  G15  5   XRA  1-8A      C2.1    7.7E-03   2497
+5740       0454   0454      0454  LEA  G   RBR  2695      110                   
+
+5780 +     0849   0902      0921  G15  5   XRA  1-8A      C1.4    2.1E-03   2497
+
+5790 +     1236   1240      1252  G15  5   XRA  1-8A      B4.0    3.1E-04   2497
+
+5800 +     1749   1758      1806  G15  5   XRA  1-8A      C1.0    8.4E-04       
+
+5810 +     2249   2310      2318  G15  5   XRA  1-8A      C2.7    2.6E-03       

@@ -1,0 +1,27 @@
+:Product: 20160826events.txt
+:Created: 2016 Aug 29 0357 UT
+:Date: 2016 08 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Aug 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7820 +     0128   0137      0146  G15  5   XRA  1-8A      B5.8    4.5E-04   2579
+7820       0130   ////      0130  LEA  C   RSP  025-144   III/1             2579
+7820       0132   0132      0143  LEA  3   FLA  N12W24    SF      ERU       2579
+
+7830 +     0550   0600      0628  SVI  3   FLA  N15E34    SF      ERU       2581
+
+7840 +     0650   0702      0727  G15  5   XRA  1-8A      B6.6    1.1E-03   2579
+7840 +     0653   0657      0712  LEA  3   FLA  N11W27    SF      ERU       2579
+
+7850       0707   0707      0710  SVI  3   FLA  N14E33    SF      ERU       2581
+
+7860       1123   1128      1136  SVI  3   FLA  N14E31    SF      ERU       2581
+
+7870       2037   ////      2038  SAG  C   RSP  025-088   III/1                 

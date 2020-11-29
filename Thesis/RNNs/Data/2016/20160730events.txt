@@ -1,0 +1,19 @@
+:Product: 20160730events.txt
+:Created: 2016 Aug 02 0357 UT
+:Date: 2016 07 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jul 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6080 +     0920   0934      0941  G15  5   XRA  1-8A      B5.3    3.5E-04       
+6080       0922   0933      0948  SVI  3   FLA  S16E13    SF      ERU           
+
+6090       1447   ////      1448  SVI  C   RSP  025-041   III/1                 
+
+6100       2055   ////      2056  SAG  C   RSP  025-071   III/1                 

@@ -1,0 +1,24 @@
+:Product: 20161215events.txt
+:Created: 2016 Dec 18 0357 UT
+:Date: 2016 12 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Dec 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4310 +     0324   0330      0334  G15  5   XRA  1-8A      B2.5    8.7E-05   2617
+
+4320       1652   ////      1653  SAG  C   RSP  025-061   V/1                   
+
+4360 +     1913   ////      2029  HOL  3   DSF  N28W24    8                     
+
+4330 +     2051   2056      2059  G15  5   XRA  1-8A      B1.8    5.2E-05   2617
+
+4340       2119   2125      2129  G15  5   XRA  1-8A      B1.3    5.7E-05   2617
+
+4350       2143   2145      2150  HOL  3   FLA  N14W82    SF      DSD           

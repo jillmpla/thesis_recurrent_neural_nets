@@ -1,0 +1,33 @@
+:Product: 20160813events.txt
+:Created: 2016 Aug 16 0357 UT
+:Date: 2016 08 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Aug 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7360 +     0122   ////      0122  LEA  C   RSP  042-095   III/1                 
+
+7370       0142   ////      0230  LEA  C   RSP  025-134   VI/1                  
+
+7380 +     0458   ////      0458  SVI  C   RSP  025-078   III/1                 
+
+7390 +     0513   ////      0516  LEA  C   RSP  029-088   III/1                 
+
+7400       0609   0615      0627  G15  5   XRA  1-8A      B2.5    2.1E-04   2574
+
+7410       1259   ////      1259  SVI  C   RSP  025-078   III/1                 
+7410       1259   ////      1311  SAG  C   RSP  025-089   VI/1                  
+
+7420       1309   ////      1311  SVI  C   RSP  025-171   III/1                 
+
+7430 +     1450   ////      1451  SVI  C   RSP  025-166   III/2                 
+
+7440       1500   ////      1501  SVI  C   RSP  031-058   III/1                 
+
+7450 +     1936   1941      1944  G15  5   XRA  1-8A      B2.9    9.2E-05   2574

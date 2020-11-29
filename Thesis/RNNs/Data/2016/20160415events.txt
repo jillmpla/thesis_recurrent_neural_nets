@@ -1,0 +1,76 @@
+:Product: 20160415events.txt
+:Created: 2016 Apr 18 0357 UT
+:Date: 2016 04 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Apr 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1800       0007   0007      0007  PAL  G   RBR  245       170                   
+
+1810 +     0013   0013      0014  LEA  G   RBR  245       200                   
+
+1820       0042   0042      0042  PAL  G   RBR  245       120                   
+
+1830       0043   0043      0043  LEA  G   RBR  245       110                   
+
+2050      A0102   ////     A1335  HOL  3   DSF  S20W22    5                     
+
+1840 +     0105   0105      0106  LEA  G   RBR  245       310                   
+1840       0105   0105      0105  PAL  G   RBR  410       100                   
+
+1850       0106   0106      0106  LEA  G   RBR  8800      100                   
+1850       0106   0106      0106  LEA  G   RBR  15400     130                   
+
+1860       0113   0113      0113  LEA  G   RBR  245       100                   
+
+1870       0116   0116      0116  PAL  G   RBR  245       140                   
+
+1880       0149   0149      0149  LEA  G   RBR  245       100                   
+
+1890 +     0246   0250      0303  G15  5   XRA  1-8A      B7.6    5.9E-04       
+
+1900       0321   0321      0321  PAL  G   RBR  245       120                   
+
+1910       0352   0352      0353  PAL  G   RBR  245       120                   
+
+2000       0353   0353      0413  LEA  G   RNS  245       250                   
+
+1920       0354   ////      0354  LEA  C   RSP  025-042   III/1                 
+
+1930       0453   0453      0453  LEA  G   RBR  245       110                   
+
+1940       0521   0524      0538  SVI  3   FLA  N11W12    SF      DSD       2529
+
+1950       0614   0626      0634  G15  5   XRA  1-8A      B7.7    7.6E-04   2529
+1950       0616   0618      0645  SVI  3   FLA  N09W12    SF      ERU       2529
+
+1960       0643   0643      0643  LEA  G   RBR  245       230                   
+
+1970       0646   0646      0646  SVI  G   RBR  245       280                   
+
+1980       0811   0815      0818  G15  5   XRA  1-8A      B6.8    1.8E-04   2529
+
+1990 +     0925   0928      1001  G15  5   XRA  1-8A      B8.3    1.4E-03   2529
+1990 +     0927   0929      1012  SVI  3   FLA  N12W18    SF      ERU       2529
+
+2010       1058   ////      1058  SVI  C   RSP  025-041   III/1                 
+
+2020 +     1237   1242      1244  G15  5   XRA  1-8A      B7.7    2.0E-04   2529
+2020       1239   1241      1245  SVI  3   FLA  N13W20    SF      ERU       2529
+
+2030       1357   1400      1402  SVI  3   FLA  N11W20    SF                2529
+
+2040 +     1404   1430      1443  G15  5   XRA  1-8A      C4.1    4.6E-03   2529
+2040 +     1420   1428      1459  SVI  3   FLA  N11W20    1F      ERU       2529
+
+2060       1505   1511      1518  SVI  3   FLA  N11W15    SF      ERU       2529
+
+2070       1550   1557      1629  SVI  3   FLA  N09W17    SF      ERU       2529
+
+2080 +     2357   0005      0016  G15  5   XRA  1-8A      B7.9    7.2E-04   2529

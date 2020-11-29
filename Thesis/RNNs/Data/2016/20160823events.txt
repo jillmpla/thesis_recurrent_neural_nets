@@ -1,0 +1,22 @@
+:Product: 20160823events.txt
+:Created: 2016 Aug 26 0357 UT
+:Date: 2016 08 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Aug 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7760       0219   0223      0226  G15  5   XRA  1-8A      B2.2    6.0E-05   2579
+
+7770 +     0335   0339      0342  G15  5   XRA  1-8A      B3.0    7.3E-05   2579
+
+7780 +     0600   0603      0605  G15  5   XRA  1-8A      B2.8    4.3E-05   2579
+
+7790 +     0847   0851      0857  G15  5   XRA  1-8A      B2.8    1.2E-04   2580
+
+7800       1303   ////      1303  SAG  C   RSP  074-180   III/1                 

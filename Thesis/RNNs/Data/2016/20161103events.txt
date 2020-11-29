@@ -1,0 +1,16 @@
+:Product: 20161103events.txt
+:Created: 2016 Nov 06 0357 UT
+:Date: 2016 11 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Nov 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2300 +    A1504   ////     A0645  SVI  3   DSF  S25W22    12                    
+
+2330      A2240   ////     A1540  HOL  2   DSF  N23E44    6                     

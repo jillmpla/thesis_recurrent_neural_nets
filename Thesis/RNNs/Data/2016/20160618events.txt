@@ -1,0 +1,27 @@
+:Product: 20160618events.txt
+:Created: 2016 Jun 21 0357 UT
+:Date: 2016 06 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jun 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 930       0017   ////      0017  LEA  C   RSP  025-110   III/1                 
+
+ 940 +     1144   1148      1151  G15  5   XRA  1-8A      B3.8    9.3E-05   2555
+
+ 950 +     1430   1435      1439  G15  5   XRA  1-8A      B3.1    1.1E-04   2556
+
+ 960 +     1604   1611      1615  G15  5   XRA  1-8A      B2.7    1.3E-04   2555
+
+1000      A1635   ////     A1045  SVI  3   DSF  S03W20    8                     
+
+ 970 +     2031   2045      2050  G15  5   XRA  1-8A      B3.2    2.6E-04       
+ 970       2034   2036      2048  HOL  3   FLA  N07W24    SF      ERU           
+
+ 980       2100   ////      2101  SAG  C   RSP  025-063   III/1                 

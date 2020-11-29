@@ -1,0 +1,62 @@
+:Product: 20160713events.txt
+:Created: 2016 Jul 16 0357 UT
+:Date: 2016 07 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jul 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2220       0028   ////      0938  LEA  C   RSP  086-180   CTM/1                 
+
+2160       0230   0230      0230  LEA  G   RBR  245       110                   
+
+2170       0232   ////      0413  PAL  C   RSP  104-180   CTM/1                 
+2170 +     0234   0234      0236  LEA  G   RBR  245       370                   
+
+2210 +     0356   0430      0619  LEA  G   RNS  245       150                   
+
+2180       0403   ////      0640  SVI  C   RSP  103-180   CTM/1                 
+2180       0457   0457      0457  SVI  G   RBR  245       110                   
+
+2190       0644   0644      0644  LEA  G   RBR  245       170                   
+
+2200       0653   0718      0732  SVI  3   FLA  N06E59    SF                2565
+2200 +     0729   0729      0729  LEA  G   RBR  245       100               2565
+
+2230       0855   0855      0855  LEA  G   RBR  245       110                   
+
+2240       0917   0917      0917  SVI  G   RBR  245       160                   
+
+2250       0918   0918      0918  LEA  G   RBR  245       100                   
+
+2260       0922   0923      0923  LEA  G   RBR  245       100                   
+
+2270       0927   0927      0928  SVI  G   RBR  245       130                   
+
+2280       0928   0928      0928  LEA  G   RBR  245       110                   
+
+2290       0930   0930      0930  SVI  G   RBR  245       150                   
+
+2300       0933   0933      0933  LEA  G   RBR  245       100                   
+
+2310       1434   1434      1434  SVI  G   RBR  245       120                   
+
+2320       1436   1436      1436  SVI  G   RBR  245       100                   
+
+2330       1440   1444      1449  G15  5   XRA  1-8A      B4.3    1.7E-04   2562
+2330       1442   1444      1452  SVI  3   FLA  S07E02    SF                2562
+
+2340 +     1458   1458      1458  SAG  G   RBR  245       110                   
+
+2350       1508   1511      1515  SVI  3   FLA  S09E01    SF      ERU       2562
+
+2360       1651   1651      1651  SVI  G   RBR  245       160                   
+
+2370       1906   ////      2055  SAG  C   RSP  025-180   VI/1                  
+2370       1944   ////      2056  SAG  C   RSP  025-180   CTM/1                 
+2370       1948   2102      2133  G15  5   XRA  1-8A      B8.7    5.2E-03   2565

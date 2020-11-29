@@ -1,0 +1,69 @@
+:Product: 20160101events.txt
+:Created: 2016 Jan 04 0357 UT
+:Date: 2016 01 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jan 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9750       0000   ////      0006  LEA  C   RSP  028-180   IV/1                  
+
+9580       0058   ////      0058  LEA  C   RSP  025-180   III/1                 
+
+9590       0206   ////      0224  LEA  C   RSP  035-149   VI/1                  
+
+9600       0302   ////      0323  LEA  C   RSP  025-101   VI/1                  
+
+9620       0425   ////      0629  LEA  C   RSP  025-180   VI/1                  
+
+9610 +     0438   0441      0451  G15  5   XRA  1-8A      B6.2    3.6E-04   2477
+
+9630 +     0633   0638      0643  G15  5   XRA  1-8A      C2.3    8.4E-04   2473
+9630       0635   0637      0639  LEA  3   FLA  S19W67    SF                2473
+
+9640 +     0714   ////      0723  LEA  C   RSP  025-180   III/1                 
+
+9650 +     0812   ////      0816  SVI  C   RSP  025-180   III/1                 
+9650       0814   0814      0814  SVI  G   RBR  245       130                   
+
+9660       0831   ////      0831  LEA  C   RSP  039-147   III/1                 
+
+9670       0847   ////      0848  SVI  C   RSP  138-180   III/1                 
+9670       0848   0848      0848  SVI  G   RBR  245       130                   
+
+9680 +     0903   ////      0903  LEA  C   RSP  038-180   III/1                 
+
+9700 +     0936   0948      0956  G15  5   XRA  1-8A      C2.4    2.0E-03   2473
+9700 +     0940   0948      1001  SVI  3   FLA  S20W71    SF      ERU       2473
+9700       0944   0944      0944  SVI  G   RBR  410       100               2473
+
+9710       1027   ////      1027  LEA  C   RSP  025-146   III/1                 
+
+9780      A1028   ////     A0123  LEA  3   DSF  N45W76    26                    
+
+9790      A1028   ////     A0123  LEA  3   DSF  S34W63    6                     
+
+9830      A1222   ////     A0717  SVI  3   DSF  N41W54    10                    
+
+9840      A1222   ////     A0717  SVI  3   DSF  S32W67    9                     
+
+9720 +     1730   1736      1743  G15  5   XRA  1-8A      B8.4    4.7E-04   2473
+
+9730 +     2018   2021      2023  G15  5   XRA  1-8A      B5.5    8.8E-05   2473
+9730 +     2020   2020      2020  PAL  G   RBR  245       170                   
+
+9740 +     2225   2230      2233  G15  5   XRA  1-8A      C2.7    7.0E-04   2473
+9740 +     2227   ////      2229  PAL  C   RSP  025-180   III/2                 
+9740 +     2227   2228      2228  PAL  G   RBR  245       260                   
+9740       2228   2228      2228  LEA  G   RBR  1415      100                   
+
+9770 +     2310   0011      0101  G15  5   XRA  1-8A      M2.3    1.1E-01   2473
+9770       2321   ////      2324  LEA  C   RSP  030-039   II/1    1095          
+
+9760       2324   ////      2359  LEA  C   RSP  036-180   IV/1                  
+9760       2324   ////      2326  LEA  C   RSP  030-039   II/1    1095          

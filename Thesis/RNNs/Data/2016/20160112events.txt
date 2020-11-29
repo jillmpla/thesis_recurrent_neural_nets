@@ -1,0 +1,23 @@
+:Product: 20160112events.txt
+:Created: 2016 Jan 15 0357 UT
+:Date: 2016 01 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jan 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 350 +     0903   0907      0912  G15  5   XRA  1-8A      B6.8    2.3E-04   2483
+
+ 360       1339   1353      1409  G15  5   XRA  1-8A      B5.3    7.5E-04   2480
+ 360       1349   1352      1357  SVI  3   FLA  N02W00    SF                2480
+
+ 370       1919   1931      1954  G15  5   XRA  1-8A      B3.3    6.4E-04   2480
+
+ 390       2151   2231      2244  G15  5   XRA  1-8A      B4.0    1.2E-03   2480
+
+ 380       2321   ////      2321  CUL  C   RSP  020-057   III/1                 

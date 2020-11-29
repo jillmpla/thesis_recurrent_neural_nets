@@ -1,0 +1,58 @@
+:Product: 20160207events.txt
+:Created: 2016 Feb 10 0357 UT
+:Date: 2016 02 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Feb 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3400       0027   ////      0028  LEA  C   RSP  087-180   III/1                 
+
+3580       0114   ////      0114  CUL  C   RSP  020-040   III/1                 
+
+3410       0152   0158      0203  G15  5   XRA  1-8A      B8.2    4.1E-04   2494
+3410 +     0155   ////      0155  LEA  C   RSP  025-113   III/1                 
+
+3420       0438   ////      0438  LEA  C   RSP  027-146   III/1                 
+
+3430 +     0439   0445      0449  G15  5   XRA  1-8A      C1.7    7.1E-04   2496
+
+3440       0526   0531      0555  LEA  1   FLA  S11W70    SF      DSD       2495
+
+3460       0611   0633      0705  LEA  1   FLA  S11W71    1F      DSD       2495
+
+3450       0655   0658      0701  G15  5   XRA  1-8A      B7.0    1.6E-04   2495
+3450       0658   0658      0733  SVI  3   FLA  S11W66    SF      DSD       2495
+
+3470       0735   0737      0738  SVI  3   FLA  S10W68    SF                2495
+
+3480       0802   0803      0803  LEA  G   RBR  245       180                   
+
+3490       0858   ////      0859  SVI  C   RSP  025-079   III/1                 
+3490       0858   ////      0930  LEA  C   RSP  029-084   VI/1                  
+
+3500       0918   0919      0922  SVI  3   FLA  S10W69    SF      DSD       2495
+
+3510       0924   0927      0929  SVI  3   FLA  S10W69    SF                2495
+
+3520 +     1029   1035      1041  G15  5   XRA  1-8A      C1.1    5.7E-04   2496
+3520      B1033  U1033     A1102  SVI  3   FLA  N09E43    SF      ERU       2496
+
+3530 +     1154   1202      1212  G15  5   XRA  1-8A      C2.7    2.2E-03   2496
+3530      B1158  U1203     A1211  SVI  3   FLA  N15E38    SF                2496
+3530       1203   ////      1204  SVI  C   RSP  102-133   III/1             2496
+
+3540       1310   ////      1314  SVI  C   RSP  025-048   III/1                 
+
+3550       1514   ////      1515  SVI  C   RSP  057-080   III/1                 
+
+3560       2226   ////      2258  LEA  C   RSP  109-180   CTM/1                 
+
+3570       2303   2303      2303  LEA  G   RBR  245       120                   
+
+3590       2352   2352      2352  LEA  G   RBR  245       270                   

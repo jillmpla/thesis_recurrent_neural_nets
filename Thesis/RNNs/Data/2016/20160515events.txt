@@ -1,0 +1,82 @@
+:Product: 20160515events.txt
+:Created: 2016 May 18 0357 UT
+:Date: 2016 05 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 May 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5450       0223   ////      0233  LEA  C   RSP  028-180   III/1                 
+
+5460       0247   0255      0302  LEA  3   FLA  N21E33    SF      BPT       2544
+
+5470       0316   0316      0316  PAL  G   RBR  245       110                   
+5470 +     0316   ////      0317  PAL  C   RSP  025-082   III/2                 
+
+5480       0325   0332      0334  LEA  3   FLA  N21E33    SF      DSD       2544
+
+5490 +     0340   0345      0352  G14  5   XRA  1-8A      B9.0    5.0E-04   2544
+
+5640       0357   0359      0402  LEA  3   FLA  S21W51    SF      ERU       2545
+
+5500 +     0358   0409      0416  G14  5   XRA  1-8A      C4.9    3.4E-03   2543
+
+5630       0359   0407      0430  LEA  3   FLA  N21E33    SF      BPT       2544
+
+5500       0403   0407      0414  LEA  3   FLA  S05W63    SF      ERU       2543
+
+5510       0432   ////      0445  LEA  C   RSP  025-180   VI/1                  
+5510 +     0433   ////      0439  SVI  C   RSP  025-180   III/1                 
+5510 +     0434   0434      0434  LEA  G   RBR  245       140                   
+
+5520 +     0457   0502      0505  G14  5   XRA  1-8A      C1.3    4.2E-04   2544
+5520       0500   0502      0507  LEA  3   FLA  N21E33    SF      ERU       2544
+
+5530       0515   0523      0530  LEA  3   FLA  N21E33    SF                2544
+
+5540 +     0604   ////      0700  SVI  C   RSP  103-180   CTM/1             2544
+5540 +     0633   ////      0643  LEA  C   RSP  025-180   VII/2             2544
+5540 +     0636   0636      0637  LEA  G   RBR  245       2500              2544
+5540       0704   0705      0713  LEA  3   FLA  N21E33    SF      DSD       2544
+
+5550       0802   0804      0806  LEA  3   FLA  S21W51    SF                2545
+
+5580       0806   0820      0831  LEA  3   FLA  N21E33    SF                2544
+
+5560 +     0818   0824      0830  G14  5   XRA  1-8A      C2.9    1.5E-03   2543
+5560       0820   0823      0827  LEA  3   FLA  S05W63    SF      BPT       2543
+
+5570 +     0845   ////      0847  LEA  C   RSP  029-180   III/1                 
+
+5590 +     0948   0951      0954  G14  5   XRA  1-8A      C1.3    2.8E-04   2544
+5590       0953   ////      0954  SVI  C   RSP  025-137   III/1                 
+
+5600      B1003  U1003     A1025  SVI  3   FLA  N21W06    SF      ERU       2544
+
+5610 +     1038   ////      1047  SAG  C   RSP  025-180   III/1                 
+
+5650       1151   1159      1204  G14  5   XRA  1-8A      C1.2    8.6E-04   2544
+
+5660 +     1355   1400      1406  G14  5   XRA  1-8A      C1.1    5.4E-04   2544
+
+5670       1420   ////      1421  SVI  C   RSP  025-036   III/1                 
+
+5680 +     1444   1448      1451  G14  5   XRA  1-8A      B6.1    1.6E-04   2544
+
+5690 +     1507   ////      1507  SVI  C   RSP  025-062   III/1                 
+
+5710       1519   1603      1733  G14  5   XRA  1-8A      C3.2    1.8E-02   2542
+5710      B1532  U1548     A1633  SVI  3   FLA  N10W62    SF      PRB           
+
+5700      B1537  U1539     A1543  SVI  3   FLA  N20W10    SF                2544
+
+5720      B1548  U1602     A1633  SVI  3   FLA  N20W10    SF      ERU       2544
+
+5730       1910   1913      1917  G14  5   XRA  1-8A      C1.5    6.7E-04   2544
+
+5740       2247   2247      2247  PAL  G   RBR  410       130                   

@@ -1,0 +1,14 @@
+:Product: 20160911events.txt
+:Created: 2016 Sep 14 0357 UT
+:Date: 2016 09 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Sep 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9240       0641   ////      0641  SVI  C   RSP  025-043   III/1                 

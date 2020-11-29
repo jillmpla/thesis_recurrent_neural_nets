@@ -1,0 +1,22 @@
+:Product: 20161007events.txt
+:Created: 2016 Oct 10 0357 UT
+:Date: 2016 10 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Oct 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 820       0036   0040      0044  G15  5   XRA  1-8A      B3.5    1.2E-04   2598
+
+ 830       0555   0555      0555  SVI  G   RBR  245       130                   
+
+ 840       1152   ////      1152  SVI  C   RSP  025-080   III/1                 
+
+ 880      A1527   ////     A0547  SVI  3   DSF  S01W14    7                     
+
+ 850       2258   ////      2259  LEA  C   RSP  031-060   III/1                 

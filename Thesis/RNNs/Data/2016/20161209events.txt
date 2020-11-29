@@ -1,0 +1,25 @@
+:Product: 20161209events.txt
+:Created: 2016 Dec 12 0357 UT
+:Date: 2016 12 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Dec 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4170 +     0621   ////      0624  LEA  C   RSP  025-180   III/2                 
+4170 +     0623   0623      0623  LEA  G   RBR  245       240                   
+
+4180       0633   0633      0633  SVI  G   RBR  245       100                   
+
+4190       0721   0725      0727  G15  5   XRA  1-8A      B1.5    3.3E-05   2615
+
+4200       1051   ////      1052  SVI  C   RSP  033-079   III/1                 
+
+4210       1214   ////      1214  SVI  C   RSP  025-080   III/1                 
+
+4220       1456   ////      1600  SAG  C   RSP  025-133   VI/1                  

@@ -1,0 +1,23 @@
+:Product: 20160711events.txt
+:Created: 2016 Jul 14 0357 UT
+:Date: 2016 07 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jul 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1820 +     0755   ////      0755  LEA  C   RSP  025-101   III/1                 
+
+1830       1453   ////      1454  SVI  C   RSP  025-079   III/1                 
+
+1840 +     1534   ////      1535  SAG  C   RSP  025-083   III/1                 
+
+1850 +     1551   ////      2105  SAG  C   RSP  025-180   VI/2                  
+
+1860 +     2127   2133      2137  G15  5   XRA  1-8A      B9.4    3.4E-04   2564
+1860       2130   2132      2145  HOL  3   FLA  N10E44    SF      ERU       2564

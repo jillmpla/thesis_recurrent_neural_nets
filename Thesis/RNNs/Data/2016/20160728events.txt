@@ -1,0 +1,18 @@
+:Product: 20160728events.txt
+:Created: 2016 Jul 31 0357 UT
+:Date: 2016 07 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jul 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6020       1344   1348      1351  G15  5   XRA  1-8A      B1.1    3.0E-05       
+
+6030 +    A1359   ////     A1805  HOL  4   DSF  N03W03    25                    
+
+6060      B2224   ////     A1418  SOH  4   CME  XUV,EUV,UV250-249/FS243           

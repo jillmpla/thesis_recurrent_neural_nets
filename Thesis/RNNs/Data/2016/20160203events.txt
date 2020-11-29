@@ -1,0 +1,51 @@
+:Product: 20160203events.txt
+:Created: 2016 Feb 06 0357 UT
+:Date: 2016 02 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Feb 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2500       0209   0235      0245  G15  5   XRA  1-8A      B7.8    1.3E-03   2490
+
+2510       0439   0459      0524  G15  5   XRA  1-8A      B6.8    1.5E-03   2490
+
+2520       0535   ////      0535  LEA  C   RSP  032-112   III/1                 
+
+2530 +     0756   ////      0814  LEA  C   RSP  031-087   VI/1                  
+2530       0757   ////      0757  CUL  C   RSP  025-057   III/1                 
+
+2550       1203   1223      1242  G15  5   XRA  1-8A      C1.0    2.2E-03   2492
+
+2540       1327   ////      1333  SVI  C   RSP  025-180   III/1                 
+
+2560       1447   1453      1502  G15  5   XRA  1-8A      C1.0    7.3E-04       
+
+2570 +     1512   1524      1531  G15  5   XRA  1-8A      C1.8    1.6E-03       
+
+2580 +     1534   ////      1534  SAG  C   RSP  025-180   III/1                 
+
+2590 +     1629   1634      1639  G15  5   XRA  1-8A      C1.4    5.5E-04   2493
+2590       1631   1634      1647  HOL  3   FLA  S07W26    SF      DSD       2493
+
+2600 +     1825   1833      1840  G15  5   XRA  1-8A      B7.5    5.3E-04   2493
+2600       1828   1830      1836  HOL  3   FLA  S06W26    SF      DSD       2493
+
+2610       2139   2145      2151  HOL  2   FLA  N12E54    SF                2492
+
+2620       2154   ////      2154  CUL  C   RSP  020-057   III/1                 
+
+2630 +     2205   2210      2217  G15  5   XRA  1-8A      C1.1    5.8E-04   2493
+2630       2208   2216      2221  HOL  2   FLA  S07W28    SF      DSD       2493
+
+2640 +     2325   ////      2328  CUL  C   RSP  018-070   III/3                 
+2640       2325   ////      2326  LEA  C   RSP  025-180   V/2                   
+
+2650       2325   ////      2326  LEA  C   RSP  025-180   V/2                   
+
+2640 +     2325   2325      2325  LEA  G   RBR  245       440                   

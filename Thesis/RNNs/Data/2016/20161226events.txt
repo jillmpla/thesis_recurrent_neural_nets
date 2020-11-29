@@ -1,0 +1,22 @@
+:Product: 20161226events.txt
+:Created: 2016 Dec 29 0357 UT
+:Date: 2016 12 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Dec 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4470      A1017   ////     A2203  LEA  3   DSF  S10W03    14                    
+
+4430 +     1847   1852      1858  G15  5   XRA  1-8A      B3.0    1.4E-04   2621
+
+4440 +     2056   2101      2105  G15  5   XRA  1-8A      B8.3    2.3E-04   2621
+
+4450 +     2158   2202      2227  G15  5   XRA  1-8A      B2.9    4.0E-04   2621
+
+4460 +     2325   2329      2332  G15  5   XRA  1-8A      B3.3    8.4E-05   2621

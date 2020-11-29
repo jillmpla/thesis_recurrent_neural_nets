@@ -1,0 +1,38 @@
+:Product: 20161128events.txt
+:Created: 2016 Dec 01 0357 UT
+:Date: 2016 11 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Nov 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3040 +     0205   0212      0226  G15  5   XRA  1-8A      B3.6    3.5E-04   2611
+
+3050 +     0335   0339      0344  G15  5   XRA  1-8A      B4.7    1.6E-04   2611
+
+3060       0531   0534      0538  G15  5   XRA  1-8A      B2.2    6.0E-05   2611
+
+3070 +     0755   0801      0803  G15  5   XRA  1-8A      C1.4    3.2E-04   2611
+
+3080 +     0840   0846      0850  G15  5   XRA  1-8A      B3.8    1.5E-04   2611
+
+3090       0937   0938      0949  SVI  3   FLA  N07E15    SF      ERU       2612
+
+3100 +     1145   1149      1153  G15  5   XRA  1-8A      B3.5    1.1E-04       
+
+3110       1335   1335     A1459  SVI  3   FLA  N07E41    SF                    
+
+3120       1731   1734      1736  G15  5   XRA  1-8A      B3.1    5.1E-05       
+
+3130 +     2218   ////      2218  PAL  C   RSP  025-141   III/2                 
+
+3150       2235   ////      2237  PAL  C   RSP  025-076   III/1                 
+
+3140       2235   ////      2235  LEA  C   RSP  025-122   III/1                 
+
+3160       2318   2320      2320  LEA  U   RBR  245       290                   

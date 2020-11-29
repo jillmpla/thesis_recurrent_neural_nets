@@ -1,0 +1,63 @@
+:Product: 20160213events.txt
+:Created: 2016 Feb 16 0357 UT
+:Date: 2016 02 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Feb 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4430 +     0020   0026      0032  G15  5   XRA  1-8A      B8.9    4.4E-04   2497
+4430 +     0025   0026      0028  LEA  3   FLA  N11W21    SF      ERU       2497
+
+4440 +     0059   0103      0106  G15  5   XRA  1-8A      B8.0    2.1E-04   2497
+
+4450 +     0646   0650      0654  G15  5   XRA  1-8A      B6.6    2.2E-04   2497
+
+4460 +     0825   0831      0834  G15  5   XRA  1-8A      C1.3    4.4E-04   2497
+4460       0830   0832      0834  LEA  3   FLA  N13W26    SF      DSD       2497
+
+4470 +     0854   ////      0855  SVI  C   RSP  025-079   III/1                 
+
+4490       0956   ////      1016  LEA  3   BSL  ////      0.11                  
+
+4480 +     1004   1009      1013  G15  5   XRA  1-8A      C2.8    8.4E-04   2497
+4480       1007   1009      1017  LEA  3   FLA  N13W27    SF      ERU       2497
+
+4500 +     1039   ////      1039  SVI  C   RSP  025-079   III/1                 
+
+4510       1058   1101      1106  G15  5   XRA  1-8A      B8.5    2.9E-04   2497
+
+4520       1226   1227      1241  SVI  3   FLA  N11W28    SF                2497
+
+4530 +     1332   1343      1358  G15  5   XRA  1-8A      B6.9    8.8E-04   2497
+4530       1338  U1341      1351  SVI  3   FLA  N11W29    SF      ERU       2497
+
+4540 +     1516   1524      1526  G15  5   XRA  1-8A      M1.8    4.3E-03   2497
+4540       1523   1524      1550  HOL  3   FLA  N13W25    1B      BPT       2497
+
+4550       1600   1600      1621  HOL  3   FLA  N13W25    SF      ERU       2497
+
+4560 +     1850   1855      1902  G15  5   XRA  1-8A      C1.6    6.8E-04   2497
+
+4580 +     2045   2105      2112  G15  5   XRA  1-8A      C2.5    2.7E-03   2497
+4580 +     2049   2049      2049  SAG  G   RBR  245       200               2497
+4580       2050   2054      2112  HOL  3   FLA  N14W33    SF      ERU       2497
+
+4590       2119   2121      2124  HOL  3   FLA  N08W46    SF      ERU       2496
+
+4600 +     2129   2134      2140  G15  5   XRA  1-8A      C1.1    5.3E-04   2497
+4600       2132   2133      2141  HOL  3   FLA  N14W33    SF      ERU       2497
+
+4610 +     2157   2201      2206  G15  5   XRA  1-8A      B9.5    3.7E-04   2497
+
+4620 +     2207   2213      2216  G15  5   XRA  1-8A      C2.1    7.6E-04       
+
+4630       2249   2249      2249  LEA  U   RBR  245       110                   
+
+4640 +     2341   2354      0002  G15  5   XRA  1-8A      B8.6    7.9E-04   2497
+4640       2343   2343      2343  LEA  G   RBR  610       110                   

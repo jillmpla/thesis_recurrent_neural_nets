@@ -1,0 +1,53 @@
+:Product: 20160615events.txt
+:Created: 2016 Jun 18 0357 UT
+:Date: 2016 06 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jun 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 340       0047   ////      0307  LEA  C   RSP  110-145   CTM/1                 
+ 340 +     0122   ////      0123  PAL  C   RSP  025-072   III/1                 
+
+ 350 +     0410   ////      0524  LEA  C   RSP  083-180   CTM/1                 
+
+ 360       0717   ////      0803  LEA  C   RSP  071-146   CTM/1                 
+ 360       0744   ////      0755  SVI  C   RSP  025-044   VI/1                  
+
+ 370       0856   ////      0918  SVI  C   RSP  025-055   VI/1                  
+
+ 380 +     1041   ////      1041  SAG  C   RSP  025-068   III/1                 
+
+ 390       1053   1056      1058  G15  5   XRA  1-8A      B1.7    2.9E-05       
+
+ 400 +     1144   ////      1227  SAG  C   RSP  106-180   CTM/1                 
+ 400 +     1149   ////      1226  SAG  C   RSP  025-108   VI/1                  
+
+ 410 +     1300   1311      1330  G15  5   XRA  1-8A      B4.2    5.6E-04       
+
+ 420 +     1353   ////      1355  SVI  C   RSP  025-074   III/1                 
+
+ 430       1434   ////      1434  SVI  C   RSP  025-061   III/1                 
+
+ 440 +     1438   ////      1441  SVI  C   RSP  047-171   III/1                 
+ 440 +     1441   1441      1441  SAG  G   RBR  245       2000                  
+ 440 +     1441   1441      1441  SAG  G   RBR  410       130                   
+
+ 450       1702   ////      1810  SVI  C   RSP  109-172   CTM/1                 
+
+ 460       1819   ////      1820  SAG  C   RSP  025-041   III/1                 
+
+ 480       1833   ////      2009  SAG  C   RSP  025-072   VI/1                  
+
+ 470 +     1920   1920      1920  SAG  G   RBR  245       260                   
+
+ 680       2004   ////      2358  HOL  4   DSF  N14E44    11                    
+
+ 490       2043   2047      2049  G15  5   XRA  1-8A      B2.2    4.6E-05       
+
+ 500 +     2301   ////      2301  PAL  C   RSP  025-068   III/2                 

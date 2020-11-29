@@ -1,0 +1,56 @@
+:Product: 20161130events.txt
+:Created: 2016 Dec 03 0357 UT
+:Date: 2016 11 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Nov 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3410       0100   0104      0108  G15  5   XRA  1-8A      B3.4    1.1E-04   2615
+
+3420 +     0114   0119      0123  G15  5   XRA  1-8A      C6.0    1.4E-03   2615
+3420       0118   0120      0126  LEA  3   FLA  S08E51    SF                2615
+
+3430 +     0209   0222      0224  G15  5   XRA  1-8A      C3.1    1.5E-03   2615
+3430       0213   0218      0232  LEA  3   FLA  S08E51    SF      ERU       2615
+
+3440 +     0232   ////      0234  LEA  C   RSP  025-103   III/1                 
+
+3450 +     0248   0253      0257  G15  5   XRA  1-8A      B4.7    1.8E-04   2615
+3450       0251   0254      0255  LEA  3   FLA  S07E51    SF                2615
+
+3460 +     0438   0445      0447  G15  5   XRA  1-8A      B3.7    1.3E-04   2615
+
+3470 +     0506   0511      0518  G15  5   XRA  1-8A      B3.8    2.0E-04   2615
+3470       0510   0512      0514  LEA  3   FLA  S08E50    SF      DSD       2615
+
+3480 +     0522   0526      0528  G15  5   XRA  1-8A      B3.9    6.9E-05   2614
+3480       0526   0526      0528  LEA  3   FLA  N05E18    SF                2614
+
+3490       0604   ////      0605  LEA  C   RSP  029-096   III/1                 
+
+3500 +     0703   ////      0703  LEA  C   RSP  025-075   III/1                 
+
+3510 +     0709   0712      0714  G15  5   XRA  1-8A      B2.4    3.7E-05       
+
+3520       1105   1111      1119  G15  5   XRA  1-8A      B1.7    1.2E-04   2615
+
+3530 +     1145   1150      1153  G15  5   XRA  1-8A      B4.3    1.2E-04   2615
+
+3540 +     1312   1318      1321  G15  5   XRA  1-8A      B4.0    1.3E-04   2615
+3540       1314   1317      1326  SVI  3   FLA  S06E45    SF      ERU       2615
+
+3550 +     1500   1507      1511  G15  5   XRA  1-8A      C1.0    3.5E-04   2615
+3550       1506   1509      1530  HOL  3   FLA  S07E43    SF      ERU       2615
+
+3560 +     1522   1525      1527  G15  5   XRA  1-8A      C2.3    2.6E-04   2615
+
+3570       1533   1540      1541  HOL  3   FLA  S07E43    SF      ERU       2615
+
+3580 +     2013   2017      2022  G15  5   XRA  1-8A      B2.0    7.6E-05   2615
+3580       2015   2018      2022  HOL  3   FLA  S07E39    SF      ERU       2615

@@ -1,0 +1,51 @@
+:Product: 20160617events.txt
+:Created: 2016 Jun 20 0357 UT
+:Date: 2016 06 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jun 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 750       0120   0120      0120  PAL  G   RBR  245       120                   
+
+ 900      A0143   ////     A1259  HOL  4   DSF  S30E16    5                     
+
+ 910       0404   0421      0428  G15  5   XRA  1-8A      B2.3    2.8E-04       
+
+ 920       0456   0519      0540  G15  5   XRA  1-8A      B2.7    5.5E-04   2556
+
+ 760 +     0612   ////      0613  LEA  C   RSP  028-102   III/1                 
+
+ 770 +     0825   0831      0838  G15  5   XRA  1-8A      B3.4    1.8E-04   2555
+
+ 780 +     0916   0926      0934  G15  5   XRA  1-8A      B4.0    3.0E-04   2555
+
+ 790 +     1103   ////      1103  SAG  C   RSP  025-056   III/1                 
+
+ 800       1120   1120      1121  SAG  G   RBR  410       230                   
+
+ 810       1133   1133      1133  SAG  G   RBR  410       130                   
+
+ 820       1153   1153      1153  SAG  G   RBR  245       150                   
+
+ 830       1221   ////      1221  SAG  C   RSP  025-051   III/1                 
+
+ 840 +     1224   1229      1234  G15  5   XRA  1-8A      B3.3    1.4E-04   2555
+
+ 850       1310   1314      1316  G15  5   XRA  1-8A      B1.7    3.8E-05   2555
+ 850 +     1312   ////      1312  SAG  C   RSP  025-150   III/1                 
+
+ 860       1400   1403      1405  G15  5   XRA  1-8A      B1.9    3.2E-05   2555
+ 860 +     1400   ////      1403  SAG  C   RSP  025-138   III/1             2555
+ 860       1402   1403      1405  HOL  3   FLA  S06W64    SF      DSD       2555
+
+ 870 +     1628   ////      1629  SVI  C   RSP  025-152   III/1                 
+
+ 880       1939   ////      1939  SAG  C   RSP  025-070   III/1                 
+
+ 890 +     2034   2040      2049  G15  5   XRA  1-8A      B2.7    1.8E-04   2555

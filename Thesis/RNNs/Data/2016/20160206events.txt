@@ -1,0 +1,70 @@
+:Product: 20160206events.txt
+:Created: 2016 Feb 09 0357 UT
+:Date: 2016 02 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Feb 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3130       0021   0022      0025  LEA  G   RBR  610       560                   
+
+3140       0031   0032      0032  LEA  G   RBR  610       130                   
+
+3150       0034   0035      0036  LEA  G   RBR  610       130                   
+
+3220       0156   ////      0947  LEA  C   RSP  025-180   VI/2                  
+
+3180       0240   0311      0330  G15  5   XRA  1-8A      C1.1    2.4E-03   2494
+
+3160       0356   0421      0439  G15  5   XRA  1-8A      B8.5    2.0E-03   2494
+3160      B0417   0426      0440  LEA  2   FLA  S11W07    SF                2494
+
+3190       0630   ////      0809  SVI  C   RSP  075-113   CTM/1                 
+3190       0630   ////      1001  SVI  C   RSP  025-146   VI/2                  
+
+3200       0844   0844      0844  LEA  U   RBR  245       430                   
+
+3230       1032   1032      1032  LEA  G   RBR  245       100                   
+
+3240       1138   1138      1138  SVI  G   RBR  245       110                   
+
+3250       1138   ////      1138  SVI  C   RSP  025-078   III/1                 
+
+3260 +     1257   ////      1631  SAG  C   RSP  025-180   VI/2                  
+
+3270 +     1548   1551      1553  G15  5   XRA  1-8A      B6.6    1.0E-04   2494
+3270       1550   1551      1555  HOL  3   FLA  S13E12    SF      ERU       2494
+
+3280       1743   1743      1747  HOL  3   FLA  N15E69    SF      ERU       2497
+
+3290       1826   1828      1831  HOL  3   FLA  N15E69    SF      ERU       2497
+
+3300       1906   1907      1912  HOL  3   FLA  N11E66    SF      ERU       2497
+
+3310 +     1933   1938      1942  G15  5   XRA  1-8A      C1.0    3.9E-04   2494
+3310       1935   1942      1944  HOL  3   FLA  S13W11    SF      ERU       2494
+
+3320       2003   2005      2009  HOL  3   FLA  N11E66    SF      ERU       2497
+
+3330       2121   2121      2124  HOL  3   FLA  N11E66    SF                2497
+
+3340 +     2148   2151      2153  G15  5   XRA  1-8A      B7.8    1.2E-04   2494
+
+3350       2156   2156      2158  HOL  3   FLA  N11E66    SF                2497
+
+3360       2209   2210      2218  HOL  3   FLA  N11E49    SF                2492
+
+3370       2226   2227      2232  HOL  3   FLA  N11E49    SF      ERU       2492
+
+3380 +     2237   2244      2248  G15  5   XRA  1-8A      C1.5    7.1E-04   2494
+3380       2239   2244      2250  HOL  3   FLA  S13W13    SF      ERU       2494
+3380       2240   2240      2240  LEA  G   RBR  410       330               2494
+3380       2240   2240      2241  LEA  G   RBR  245       500               2494
+3380       2240   ////      2243  LEA  C   RSP  025-180   III/1             2494
+
+3390 +     2311   2311      2311  LEA  G   RBR  245       1200                  

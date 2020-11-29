@@ -1,0 +1,14 @@
+:Product: 20160731events.txt
+:Created: 2016 Aug 03 0357 UT
+:Date: 2016 07 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jul 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6110       2125   2140      2156  G15  5   XRA  1-8A      B2.9    4.4E-04       

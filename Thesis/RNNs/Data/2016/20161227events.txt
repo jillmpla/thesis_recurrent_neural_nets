@@ -1,0 +1,22 @@
+:Product: 20161227events.txt
+:Created: 2016 Dec 30 0357 UT
+:Date: 2016 12 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Dec 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4480       0552   ////      0552  LEA  C   RSP  025-115   III/1                 
+
+4490 +     0820   0846      0858  G15  5   XRA  1-8A      B3.1    5.3E-04   2621
+4490 +     0823   0839      0840  SVI  3   FLA  N09W50    SF      ERU       2621
+
+4500       1004   1012      1018  G15  5   XRA  1-8A      B1.6    1.0E-04   2621
+4500       1009   1010      1014  SVI  3   FLA  N09W52    SF      ERU       2621
+
+4510 +     1233   1238      1242  G15  5   XRA  1-8A      B1.5    5.6E-05   2621

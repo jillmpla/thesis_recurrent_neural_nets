@@ -1,0 +1,37 @@
+:Product: 20160313events.txt
+:Created: 2016 Mar 16 0357 UT
+:Date: 2016 03 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Mar 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7250       0004   0005      0005  LEA  U   RBR  610       110                   
+
+7290       0027   ////      0027  CUL  C   RSP  020-050   III/1                 
+
+7300       0059   ////      0100  CUL  C   RSP  020-057   III/1                 
+
+7310       0155   ////      0155  CUL  C   RSP  018-057   III/1                 
+
+7320       0214   ////      0214  CUL  C   RSP  018-070   III/1                 
+
+7260       0214   ////      0214  LEA  U   RSP  033-122   III/1                 
+
+7330       0221   ////      0221  CUL  C   RSP  040-057   III/1                 
+
+7340       0417   ////      0417  CUL  C   RSP  027-057   III/1                 
+
+7350       0709   ////      0710  CUL  C   RSP  023-057   III/1                 
+
+7360       0739   ////      0739  CUL  C   RSP  020-057   III/1                 
+
+7280       1403   ////      1403  SVI  C   RSP  027-171   III/1                 
+
+7370 +     2144   2148      2152  G15  5   XRA  1-8A      B6.4    2.1E-04   2521
+7370       2146   2147      2155  HOL  3   FLA  N18E07    SF      ERU       2521

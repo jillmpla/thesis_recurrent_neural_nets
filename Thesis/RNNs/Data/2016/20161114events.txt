@@ -1,0 +1,17 @@
+:Product: 20161114events.txt
+:Created: 2016 Nov 17 0357 UT
+:Date: 2016 11 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Nov 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2560      A1010   ////     A2321  LEA  2   DSF  N12W22    15                    
+
+2550       2337   2341      2344  G15  5   XRA  1-8A      B1.2    3.5E-05   2610
+2550       2340   2341      2343  HOL  2   FLA  N14E03    SF                2610

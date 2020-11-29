@@ -1,0 +1,24 @@
+:Product: 20160102events.txt
+:Created: 2016 Jan 05 0357 UT
+:Date: 2016 01 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jan 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9800       0226   ////      0655  LEA  2   LPS  ////      0.04              2473
+
+9810       0400   ////      0400  LEA  C   RSP  099-180   III/1                 
+
+9820       0921   0922      0925  SVI  3   FLA  S25W89    SF      DSD       2473
+
+9850       1120   ////      1121  SVI  C   RSP  105-160   III/1                 
+
+9860       1703   1705      1705  SAG  G   RBR  245       210                   
+
+9870 +     2249   2251      2251  PAL  G   RBR  245       1400                  

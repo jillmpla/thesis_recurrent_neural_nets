@@ -1,0 +1,22 @@
+:Product: 20160806events.txt
+:Created: 2016 Aug 09 0357 UT
+:Date: 2016 08 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Aug 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6360 +     0030   0043      0059  G15  5   XRA  1-8A      B3.0    4.1E-04       
+
+6390       0149   0213      0317  G15  5   XRA  1-8A      B2.9    1.3E-03   2572
+
+6370 +     0614   ////      0615  SVI  U   RSP  029-048   III/1                 
+
+6380       1646   ////      1646  SAG  U   RSP  025-058   III/1                 
+
+6400       2358   0028      0037  G15  5   XRA  1-8A      B8.8    1.5E-03   2571

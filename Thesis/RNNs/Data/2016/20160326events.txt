@@ -1,0 +1,25 @@
+:Product: 20160326events.txt
+:Created: 2016 Mar 29 0357 UT
+:Date: 2016 03 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Mar 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8450       0719   0722      0724  G15  5   XRA  1-8A      B1.6    2.6E-05   2526
+8450       0721   0723      0724  SVI  3   FLA  S04E57    SF                2526
+
+8460       0734   0737      0741  G15  5   XRA  1-8A      B1.7    4.8E-05   2526
+
+8470 +     1317   1317      1317  SVI  G   RBR  245       100                   
+
+8480       1333   1333      1333  SAG  G   RBR  245       100                   
+
+8490       1404   ////      1554  HOL  3   DSF  N24W47    5                     
+
+8500       2312   2317      2327  G15  5   XRA  1-8A      B1.9    1.4E-04   2526

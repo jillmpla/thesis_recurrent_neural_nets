@@ -1,0 +1,59 @@
+:Product: 20160211events.txt
+:Created: 2016 Feb 14 0357 UT
+:Date: 2016 02 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Feb 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4050       0316   ////      0319  LEA  C   RSP  025-182   III/1                 
+
+4060       0348   ////      0349  LEA  C   RSP  025-097   III/2                 
+
+4070       0408   0413      0419  G15  5   XRA  1-8A      B4.7    2.3E-04   2497
+4070       0412   0414      0414  LEA  3   FLA  N11E01    SF      DSD       2497
+
+4080       0419   ////      0429  LEA  C   RSP  025-130   VI/1                  
+
+4090       0611   ////      0611  LEA  C   RSP  025-091   III/1                 
+
+4100       0640   ////      0748  SVI  C   RSP  025-180   VI/2                  
+
+4110 +     0821   ////      0824  LEA  C   RSP  025-070   III/1                 
+
+4120 +     0908   ////      0908  LEA  C   RSP  025-055   III/1                 
+
+4130       1204   ////      1205  SVI  C   RSP  025-079   III/1                 
+
+4140 +     1622   1649      1704  G15  5   XRA  1-8A      C2.6    5.1E-03   2497
+4140       1625   1704      1719  HOL  3   FLA  N11E02    SF      ERU       2497
+
+4150       1845   ////      1853  SAG  C   RSP  025-180   III/1                 
+
+4160       2006   ////      2006  PAL  C   RSP  025-180   III/1                 
+
+4170 +     2018   2103      2128  G15  5   XRA  1-8A      C8.9    2.3E-02   2497
+4170       2022   ////      2103  HOL  3   DSF  N09W08    11                2497
+4170 +     2022   2046      2225  HOL  3   FLA  N11W07    1F      ERU       2497
+4170 +     2026   2026      2027  SAG  G   RBR  610       250               2497
+4170 +     2027   2029      2030  SAG  G   RBR  410       1100              2497
+4170 +     2035   ////      2044  SAG  C   RSP  025-133   II/1    483       2496
+4170       2103   ////      2104  PAL  C   RSP  025-060   III/1             2497
+
+4180       2200   ////      2200  PAL  C   RSP  025-180   III/1                 
+4180       2200   2200      2200  PAL  U   RBR  245       170                   
+
+4190       2228   2229      2238  HOL  3   FLA  N12W08    SF                2497
+4190       2228   ////      2307  LEA  C   RSP  099-180   IV/1              2497
+
+4200       2242   ////      2244  PAL  C   RSP  025-045   III/2                 
+4200       2242   ////      2300  LEA  C   RSP  025-180   VI/1                  
+
+4210 +     2354   2359      0002  G15  5   XRA  1-8A      C1.2    3.9E-04   2492
+4210 +     2354   2356      2356  LEA  G   RBR  245       390                   
+4210       2354   ////      2359  LEA  C   RSP  025-180   III/1                 

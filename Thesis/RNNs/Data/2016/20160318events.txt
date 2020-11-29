@@ -1,0 +1,45 @@
+:Product: 20160318events.txt
+:Created: 2016 Mar 21 0357 UT
+:Date: 2016 03 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Mar 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7900       0004   ////      0112  LEA  U   RSP  030-090   VI/1                  
+
+7890 +     0011   0017      0024  G15  5   XRA  1-8A      B5.1    2.7E-04   2523
+
+7970      A0051   ////     A1343  HOL  3   DSF  S08W18    11                    
+
+7910       0136   ////      0136  LEA  C   RSP  028-090   III/1                 
+
+7920       0230   ////      0318  LEA  C   RSP  025-140   VI/2                  
+7920       0312   ////      0313  PAL  C   RSP  025-114   III/1                 
+
+7930       0450   ////      0619  LEA  C   RSP  025-180   VI/2                  
+7930       0523   0523      0523  SVI  G   RBR  245       230                   
+7930       0546   ////      0549  SVI  C   RSP  025-132   III/1                 
+
+7940       0617   ////      0619  SVI  C   RSP  025-135   III/1                 
+
+7950       1154   ////      1154  SVI  C   RSP  025-124   III/1                 
+
+7960 +     1339   ////      1340  SVI  C   RSP  025-079   III/1                 
+
+7980 +     1852   1856      1900  G15  5   XRA  1-8A      B3.4    1.1E-04   2521
+
+7990 +     1852   ////      1853  PAL  C   RSP  025-066   III/1                 
+
+8000       1922   1922      1929  HOL  3   FLA  N13E55    SF      DSD       2524
+
+8010       2111   2111      2111  SAG  G   RBR  245       110                   
+
+8020 +     2303   2318      2331  G15  5   XRA  1-8A      B6.7    9.2E-04   2519
+8020       2304   ////      2306  LEA  C   RSP  026-146   III/1             2519
+8020       2308   2310      2314  HOL  3   FLA  N06W40    SF      DSD       2519

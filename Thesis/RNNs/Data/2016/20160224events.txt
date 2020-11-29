@@ -1,0 +1,39 @@
+:Product: 20160224events.txt
+:Created: 2016 Feb 27 0357 UT
+:Date: 2016 02 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Feb 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5960       0054   0101      0104  G15  5   XRA  1-8A      B3.0    1.2E-04   2506
+
+5970 +     0113   0118      0120  G15  5   XRA  1-8A      B3.5    9.3E-05   2506
+
+5980 +     0343   0348      0350  G15  5   XRA  1-8A      B2.6    6.8E-05   2506
+
+5990       0527   0530      0532  G15  5   XRA  1-8A      B1.9    3.2E-05   2501
+
+6000 +     0657   0702      0705  G15  5   XRA  1-8A      B2.9    8.7E-05   2501
+
+6010 +     0808   0812      0815  G15  5   XRA  1-8A      B3.0    7.3E-05   2501
+
+6080      A1022   ////     A2310  LEA  2   DSF  S26E50    6                     
+
+6020 +     1223   1229      1232  G15  5   XRA  1-8A      C1.4    4.1E-04   2506
+
+6030 +     1641   1646      1649  G15  5   XRA  1-8A      B4.4    1.4E-04   2506
+6030       1643   1643      1643  SAG  G   RBR  245       110                   
+6030       1645   1646      1649  HOL  3   FLA  S09E53    SF      ERU       2506
+
+6040 +     1717   1720      1722  G15  5   XRA  1-8A      B4.5    6.9E-05   2506
+
+6050 +     1840   1846      1848  G15  5   XRA  1-8A      B4.3    1.2E-04   2506
+
+6070       2124   2136      2146  G15  5   XRA  1-8A      B3.4    3.7E-04   2506
+6070       2125   2127      2128  HOL  3   FLA  S07E58    SF      ERU       2506

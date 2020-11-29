@@ -1,0 +1,30 @@
+:Product: 20160328events.txt
+:Created: 2016 Mar 31 0357 UT
+:Date: 2016 03 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Mar 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8630 +     0218   0228      0232  G15  5   XRA  1-8A      C2.1    9.1E-04   2524
+8630       0221   0221      0221  PAL  G   RBR  245       190                   
+8630 +     0222   ////      0222  CUL  C   RSP  140-260   III/1                 
+
+8640 +     0254   0259      0304  G15  5   XRA  1-8A      B3.3    1.4E-04   2526
+
+8660       0509   ////      0601  LEA  3   DSF  S19W31    5                     
+
+8650 +     0752   0757      0810  G15  5   XRA  1-8A      B3.7    2.9E-04   2526
+8650 +     0754   ////      0756  SVI  C   RSP  025-171   III/1             2526
+8650       0756   0756      0810  SVI  3   FLA  S06E27    SF      ERU       2526
+
+8670       1009   ////      1010  SVI  C   RSP  025-171   III/1                 
+
+8680 +     1838   1844      1900  G15  5   XRA  1-8A      B3.4    3.4E-04   2524
+
+8690 +     2341   2347      2356  G15  5   XRA  1-8A      B2.4    1.7E-04   2524

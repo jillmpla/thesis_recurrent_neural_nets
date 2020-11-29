@@ -1,0 +1,30 @@
+:Product: 20160903events.txt
+:Created: 2016 Sep 06 0357 UT
+:Date: 2016 09 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Sep 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8600       0042   0103      0113  G15  5   XRA  1-8A      B6.4    9.8E-04   2585
+
+8580 +     0505   ////      0506  LEA  C   RSP  025-160   III/1                 
+8580 +     0525   0530      0533  G15  5   XRA  1-8A      B7.1    2.4E-04   2585
+
+8590       0535   0537      0540  SVI  2   FLA  N10E52    SF      ERU       2585
+
+8620       0703   ////      0822  SVI  3   DSF  N18E27    7                     
+
+8610       0816   ////      0816  SVI  C   RSP  025-047   III/1                 
+
+8630       1306   ////      1307  SVI  C   RSP  025-080   III/1                 
+8630       1306   ////      1321  SAG  C   RSP  025-036   VI/1                  
+
+8640 +     1506   1510      1529  SVI  3   FLA  N10E36    SF      ERU       2585
+
+8660 +    A1614   ////     A0544  SVI  3   DSF  N10W35    7                     

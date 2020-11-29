@@ -1,0 +1,14 @@
+:Product: 20161111events.txt
+:Created: 2016 Nov 14 0357 UT
+:Date: 2016 11 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Nov 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2470 +     0733   ////      0733  LEA  C   RSP  033-051   III/1                 

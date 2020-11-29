@@ -1,0 +1,15 @@
+:Product: 20160325events.txt
+:Created: 2016 Mar 28 0357 UT
+:Date: 2016 03 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Mar 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8440 +     1455   1500      1502  G15  5   XRA  1-8A      B6.5    1.2E-04   2526
+8440 +     1459   1459      1503  HOL  3   FLA  S06E68    SF      ERU       2526

@@ -1,0 +1,37 @@
+:Product: 20160510events.txt
+:Created: 2016 May 13 0357 UT
+:Date: 2016 05 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 May 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4890       0000   ////      0153  LEA  C   RSP  122-180   CTM/1                 
+
+4900       0127  U0129     A0131  HOL  3   FLA  S04E01    SF                2543
+
+4910       0333   0335      0348  LEA  3   FLA  S06E01    SF      DSD       2543
+
+4920 +     0424   ////      0616  LEA  C   RSP  084-180   CTM/1                 
+4920       0454   0454      0454  LEA  U   RBR  245       210                   
+
+4930 +     0742   ////      0936  LEA  C   RSP  077-180   CTM/1                 
+
+4940 +     1236   ////      1238  SVI  C   RSP  025-078   III/1                 
+
+4950       1336   ////      1527  SVI  C   RSP  025-080   VI/1                  
+4950       1405   ////      1405  SAG  C   RSP  025-055   III/1                 
+4950 +     1419   ////      1521  SAG  C   RSP  125-180   CTM/1                 
+
+4960       1518   ////      1518  SAG  C   RSP  025-045   III/1                 
+
+5100      A1642   ////     A1142  SVI  3   DSF  S00W32    12                    
+
+5070      A1642   ////     A1142  SVI  3   DSF  S18W33    5                     
+
+5080      A1642   ////     A1142  SVI  3   DSF  N23E56    8                     

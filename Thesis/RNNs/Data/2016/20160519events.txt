@@ -1,0 +1,32 @@
+:Product: 20160519events.txt
+:Created: 2016 May 22 0357 UT
+:Date: 2016 05 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 May 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6100 +     1245   ////      1246  SAG  C   RSP  102-180   III/1                 
+6100 +     1246   1246      1246  SVI  G   RBR  245       480                   
+
+6110 +     1705   ////      1705  SVI  C   RSP  102-180   III/2                 
+6110 +     1705   1705      1705  SAG  G   RBR  245       250                   
+
+6120 +     1737   ////      1742  PAL  C   RSP  102-180   III/1                 
+
+6130 +     1742   ////      1742  SAG  C   RSP  103-180   III/1                 
+6130 +     1742   1742      1742  SAG  G   RBR  245       100                   
+
+6140 +     1748   1748      1748  SAG  G   RBR  245       160                   
+6140 +     1748   ////      1748  SAG  C   RSP  120-180   III/1                 
+
+6150 +     1825   ////      1825  PAL  C   RSP  105-180   III/1                 
+
+6160 +     2213   ////      2214  SAG  C   RSP  054-180   III/2                 
+6160 +     2213   2214      2214  PAL  G   RBR  245       290                   
+6160 +     2214   2214      2214  PAL  G   RBR  410       200                   

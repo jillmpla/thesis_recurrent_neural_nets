@@ -1,0 +1,65 @@
+:Product: 20160525events.txt
+:Created: 2016 May 28 0357 UT
+:Date: 2016 05 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 May 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8310 +     0000   ////      0302  PAL  C   RSP  025-180   CTM/1                 
+
+8300 +     0007   ////      0007  PAL  C   RSP  025-052   III/2                 
+
+8310       0058   ////      0215  PAL  C   RSP  025-081   VI/1                  
+
+8320       0107   ////      0116  LEA  C   RSP  025-105   VI/1                  
+
+8330 +     0154   ////      0202  LEA  C   RSP  025-180   III/2             2546
+8330 +     0159   0203      0206  G14  5   XRA  1-8A      B3.8    1.0E-04   2546
+8330       0201   0204      0205  LEA  3   FLA  S11W56    SF      DSD       2546
+
+8340 +     0409   ////      0734  LEA  C   RSP  025-180   VI/2                  
+8340 +     0409   ////      0410  PAL  C   RSP  025-114   III/1                 
+
+8350 +     1036   ////      1404  SAG  C   RSP  025-180   VI/2                  
+
+8360       1251   ////      1252  SVI  C   RSP  025-180   III/2                 
+8360       1251   1251      1251  SVI  G   RBR  245       330                   
+
+8370 +     1315   ////      1731  SAG  C   RSP  041-180   CTM/1                 
+
+8450       1401   1402      1502  SVI  G   RNS  410       210                   
+
+8380       1403   ////      1410  SVI  C   RSP  025-080   III/1                 
+
+8450       1438   1442      1442  SVI  G   RNS  245       170                   
+
+8390       1441   ////      1441  SVI  C   RSP  032-079   III/1                 
+
+8400       1526   ////      1527  SVI  C   RSP  032-044   III/1                 
+8400       1526   ////      1611  SAG  C   RSP  025-180   VI/1                  
+
+8410       1549   ////      1611  SVI  C   RSP  032-171   VI/1                  
+8410       1553   ////      1700  SVI  C   RSP  075-172   CTM/1                 
+
+8420 +     1631   1631      1632  SAG  G   RBR  245       160                   
+
+8430 +     1742   ////      1744  SAG  C   RSP  025-180   III/1                 
+
+8440 +     1805   1805      1805  SAG  G   RBR  245       150                   
+
+8460       1932   1932      1932  SAG  G   RBR  410       100                   
+
+8470       2012   ////      2127  SAG  C   RSP  025-180   VI/2              2548
+8470       2012   ////      2017  PAL  C   RSP  025-134   III/2             2548
+8470       2104   2117      2129  G15  5   XRA  1-8A      B9.3    1.1E-03   2548
+8470       2122   2123      2129  HOL  3   FLA  N17W22    SF      DSD       2548
+
+8480       2305   ////      2305  PAL  C   RSP  025-082   III/1                 
+
+8490 +     2336   ////      2336  LEA  C   RSP  047-180   III/1                 

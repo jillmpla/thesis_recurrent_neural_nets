@@ -1,0 +1,17 @@
+:Product: 20161221events.txt
+:Created: 2016 Dec 24 0357 UT
+:Date: 2016 12 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Dec 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4410 +     1412   1419      1426  G15  5   XRA  1-8A      B2.7    1.5E-04   2620
+
+4420 +     1747   ////      1749  SAG  C   RSP  075-180   III/1                 
+4420 +     1748   1748      1748  SAG  G   RBR  245       130                   

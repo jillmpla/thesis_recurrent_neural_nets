@@ -1,0 +1,38 @@
+:Product: 20160119events.txt
+:Created: 2016 Jan 22 0357 UT
+:Date: 2016 01 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jan 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 940       0027   ////      0027  LEA  C   RSP  025-180   III/1                 
+
+ 950      B0057   ////     B0544  LEA  2   EPL  ////      0.09                  
+
+ 980       0328   0338      0342  G15  5   XRA  1-8A      B2.6    1.9E-04       
+
+ 960 +     0331   ////      0332  LEA  C   RSP  025-180   III/2                 
+
+1030      A0839   ////     A0704  SVI  3   DSF  S35E26    9                     
+
+ 970       0849   0900      0906  G15  5   XRA  1-8A      B2.9    2.6E-04   2485
+
+ 990       1033   1036      1041  G13  5   XRA  1-8A      B4.1    1.4E-04       
+
+1000       1557   ////      1557  SAG  C   RSP  025-180   III/1                 
+
+1030       1727   ////      2124  HOL  3   DSF  S35E19    9                     
+
+1010       1820   1821      1834  HOL  3   FLA  N09W63    SF      DSD       2484
+
+1050       1832   ////      2227  HOL  2   DSF  N12W16    7                     
+
+1020       2001   2009      2012  HOL  3   FLA  N09W64    SF      DSD       2484
+
+1040       2047   2112      2144  G15  5   XRA  1-8A      B5.5    1.6E-03       

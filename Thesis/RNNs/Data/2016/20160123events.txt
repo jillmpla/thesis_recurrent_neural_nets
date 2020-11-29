@@ -1,0 +1,18 @@
+:Product: 20160123events.txt
+:Created: 2016 Jan 26 0357 UT
+:Date: 2016 01 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jan 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1340       0053   0057      0104  G15  5   XRA  1-8A      B4.3    2.2E-04   2487
+
+1350       0655   0655      0655  SVI  G   RBR  410       110                   
+
+1360      B2145   2148      2155  HOL  2   FLA  N07E12    SF                2488

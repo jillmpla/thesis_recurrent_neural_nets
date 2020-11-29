@@ -1,0 +1,57 @@
+:Product: 20160212events.txt
+:Created: 2016 Feb 15 0357 UT
+:Date: 2016 02 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Feb 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4230       0004   0005      0024  HOL  2   FLA  N12W09    SF                2497
+
+4250       0048   0053      0100  LEA  3   FLA  N11W10    SF      DSD       2497
+4250 +     0049   0053      0056  G15  5   XRA  1-8A      C1.2    3.3E-04   2497
+
+4260       0124   ////      0136  LEA  C   RSP  028-172   VI/1                  
+
+4270       0300   ////      0303  LEA  C   RSP  028-172   III/1                 
+
+4280       0331   0331      0331  LEA  G   RBR  245       370                   
+
+4290       0458   0458      0458  LEA  G   RBR  245       130                   
+4290       0458   ////      0459  LEA  C   RSP  025-172   III/1                 
+
+4300       0459   ////      0532  LEA  3   BSD  ////      14                2492
+
+4310       0603   ////      0604  LEA  C   RSP  025-087   III/1                 
+
+4320 +     0627   0636      0655  G15  5   XRA  1-8A      C2.1    2.7E-03   2492
+4320 +     0629   ////      0633  SVI  C   RSP  025-180   III/1             2492
+4320 +     0631   0631      0634  LEA  3   FLA  N12W65    SF      DSD       2492
+
+4330       0743   0743      0743  LEA  G   RBR  245       290                   
+
+4340 +     0944   ////      0953  LEA  C   RSP  029-180   III/1                 
+4340       0946   0946      0946  LEA  G   RBR  245       100                   
+
+4350 +     1036   1047      1053  G15  5   XRA  1-8A      M1.0    5.8E-03   2497
+
+4360       1508   1509      1513  HOL  3   FLA  N12W16    SF      ERU       2497
+
+4370 +     1710   1721      1727  G15  5   XRA  1-8A      C6.8    3.9E-03   2497
+4370       1712   1724      1736  HOL  3   FLA  N12W17    SF      ERU       2497
+
+4380       1715   1717      1808  HOL  3   FLA  N08W11    SF      ERU       2496
+
+4390       2023   2023      2023  PAL  U   RBR  245       120                   
+4390 +     2023   ////      2023  SAG  C   RSP  025-129   III/2                 
+
+4400 +     2105   2110      2120  G15  5   XRA  1-8A      B7.5    5.3E-04   2497
+
+4410 +     2204   2215      2225  G15  5   XRA  1-8A      B7.7    8.0E-04   2497
+
+4420 +     2234   2239      2243  G15  5   XRA  1-8A      C3.0    1.1E-03   2497

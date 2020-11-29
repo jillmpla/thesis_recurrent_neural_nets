@@ -1,0 +1,45 @@
+:Product: 20160426events.txt
+:Created: 2016 Apr 29 0357 UT
+:Date: 2016 04 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Apr 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3140      A0040   ////     A1325  HOL  3   DSF  S13W44    5                     
+
+3030 +     0253   0258      0303  G15  5   XRA  1-8A      B4.0    1.6E-04   2536
+
+3040 +     0401   0407      0410  G15  5   XRA  1-8A      B4.9    1.6E-04   2536
+
+3050 +     0613   0616      0620  G15  5   XRA  1-8A      B3.5    9.3E-05   2536
+3050      B0615  U0616     A0630  SVI  3   FLA  N17E63    SF                2536
+
+3060       0651  U0659     A0711  SVI  3   FLA  N17E63    SF                2536
+3060 +     0657   0701      0707  G15  5   XRA  1-8A      B4.0    1.6E-04   2536
+
+3070 +     0955   1001      1011  G15  5   XRA  1-8A      B2.5    1.9E-04       
+
+3080 +     1137   1144      1149  G15  5   XRA  1-8A      B5.7    2.7E-04   2536
+3080       1141   1143      1207  SVI  3   FLA  N17E61    SF      ERU       2536
+
+3090       1208   1224      1231  SVI  3   FLA  N18E62    SF      DSD       2536
+
+3100       1242   1243      1251  SVI  3   FLA  N18E61    SF                2536
+
+3110 +     1252   1258      1303  G15  5   XRA  1-8A      B3.3    1.6E-04       
+
+3120 +     1328   1332      1336  G15  5   XRA  1-8A      B7.6    2.1E-04   2536
+
+3130       1352   1354      1358  SVI  3   FLA  N18E60    SF      DSD       2536
+
+3150       2037   2043      2046  G15  5   XRA  1-8A      B8.0    3.0E-04       
+
+3160       2128   2131      2133  G15  5   XRA  1-8A      B4.5    7.4E-05       
+
+3170       2237   2239      2242  HOL  3   FLA  N15E56    SF      ERU       2536

@@ -1,0 +1,56 @@
+:Product: 20160504events.txt
+:Created: 2016 May 07 0357 UT
+:Date: 2016 05 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 May 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4230 +     0103   0122      0135  G13  5   XRA  1-8A      B6.9    1.1E-03   2541
+4230       0106   0106      0117  HOL  3   FLA  S00E54    SF      ERU       2541
+4230 +     0130   ////      0131  LEA  C   RSP  030-180   III/1             2541
+
+4240 +     0239   ////      0239  LEA  C   RSP  025-114   III/1                 
+
+4250 +     0357   ////      0358  LEA  C   RSP  025-180   III/1                 
+4250 +     0358   0358      0358  LEA  G   RBR  245       190                   
+
+4260 +     0645   ////      0646  SVI  C   RSP  025-126   III/1                 
+
+4280 +     1034   ////      1042  SVI  C   RSP  025-086   III/1                 
+
+4290       1141   ////      1142  SVI  C   RSP  025-127   III/2                 
+
+4300 +     1340   ////      1349  SVI  C   RSP  025-076   III/1             2535
+4300 +     1341   1351      1407  G13  5   XRA  1-8A      C1.3    1.5E-03   2535
+4300       1343   1345      1411  HOL  3   FLA  N08W61    SF      ERU       2535
+4300 +     1353   ////      1411  SVI  C   RSP  025-135   II/2    560       2535
+
+4310 +     1801   ////      1802  SAG  C   RSP  025-180   III/1                 
+
+4320       1821   1824      1828  G14  5   XRA  1-8A      B3.2    8.9E-05   2539
+4320       1822   1823      1827  HOL  3   FLA  N20W11    SF      ERU       2539
+
+4330 +     1841   1841      1841  SAG  G   RBR  245       150                   
+
+4340 +     1907   ////      1908  SAG  C   RSP  025-083   III/1                 
+
+4350 +     1921   ////      1922  PAL  C   RSP  025-075   III/1                 
+
+4360       1959   2003      2006  G14  5   XRA  1-8A      B3.0    8.2E-05       
+4360       2001   ////      2002  PAL  C   RSP  025-082   III/1                 
+4360       2002   ////      2023  SAG  C   RSP  025-180   VI/2                  
+
+4370       2016   ////      2017  PAL  C   RSP  025-180   III/2                 
+
+4380       2211   ////      2211  PAL  C   RSP  025-082   III/1                 
+
+4390 +     2243   2248      2251  G13  5   XRA  1-8A      C1.7    4.1E-04   2542
+4390 +     2244   ////      2250  PAL  C   RSP  025-180   III/3             2542
+4390       2246   2248      2251  HOL  3   FLA  N10E72    1N      DSD       2542
+4390       2246   2246      2247  PAL  G   RBR  245       160               2542

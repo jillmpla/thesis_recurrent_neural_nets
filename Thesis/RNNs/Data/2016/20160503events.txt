@@ -1,0 +1,42 @@
+:Product: 20160503events.txt
+:Created: 2016 May 06 0357 UT
+:Date: 2016 05 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 May 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4110 +     0054   0100      0105  G13  5   XRA  1-8A      B6.4    2.9E-04   2539
+4110       0056   0057      0108  HOL  3   FLA  N18E09    SF      ERU       2539
+
+4120 +     0236   ////      0237  PAL  C   RSP  025-125   III/1                 
+
+4130 +     0726   ////      0738  LEA  C   RSP  044-120   VI/1                  
+
+4140 +     0810   0817      0844  G13  5   XRA  1-8A      B6.2    1.1E-03   2541
+
+4150       0854   ////      0900  SVI  U   RSP  025-047   III/1                 
+
+4160       1053   ////      1101  SVI  C   RSP  025-133   III/1                 
+
+4170       1148   ////      1150  SVI  C   RSP  036-080   III/1                 
+
+4180       1322   ////      1323  SVI  C   RSP  063-081   III/1                 
+
+4190 +     1406   ////      1632  SAG  C   RSP  025-180   VI/1                  
+
+4270      A1624   ////     A0803  SVI  3   DSF  S58E05    7                     
+
+4200       1624   1627      1630  G14  5   XRA  1-8A      B3.2    7.1E-05       
+
+4210       2310   2313      2315  G14  5   XRA  1-8A      B3.1    5.2E-05   2539
+4210       2311   2312      2312  LEA  G   RBR  245       120                   
+4210       2313   ////      2315  LEA  C   RSP  070-180   III/1                 
+
+4220 +     2355   0001      0004  G13  5   XRA  1-8A      B7.5    2.8E-04       
+4220 +     2356   ////      2358  LEA  C   RSP  025-180   III/2                 

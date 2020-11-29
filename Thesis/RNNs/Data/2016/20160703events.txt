@@ -1,0 +1,19 @@
+:Product: 20160703events.txt
+:Created: 2016 Jul 06 0357 UT
+:Date: 2016 07 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jul 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1360      A0104   ////     A1244  HOL  3   DSF  N33W04    33                    
+
+1350       0952   0958      1003  G15  5   XRA  1-8A      B1.6    7.9E-05       
+1350       0954   0958      1000  SVI  3   FLA  N15W04    SF                    
+
+1370       1858   ////      1859  SAG  C   RSP  025-150   III/1                 

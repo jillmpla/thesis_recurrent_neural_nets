@@ -1,0 +1,38 @@
+:Product: 20160710events.txt
+:Created: 2016 Jul 13 0357 UT
+:Date: 2016 07 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jul 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1720       0043   ////      0044  LEA  C   RSP  099-180   III/1                 
+
+1730 +     0053   0059      0103  G15  5   XRA  1-8A      C8.6    2.6E-03   2564
+1730 +     0056   ////      0058  PAL  C   RSP  025-180   III/2             2564
+1730 +     0059   0100      0100  LEA  G   RBR  245       1900              2564
+1730 +     0059   ////      0115  LEA  C   RSP  025-180   II/3    1435      2564
+1730       0100   0100      0110  LEA  3   FLA  N11E69    2F      ERU       2564
+
+1750       0149   ////      0215  LEA  C   RSP  027-136   VI/1                  
+
+1740       0205   ////      0212  PAL  C   RSP  025-082   III/1                 
+
+1760       0314   ////      0315  LEA  C   RSP  025-180   III/1                 
+
+1770 +     0549   ////      0549  LEA  C   RSP  042-114   III/1                 
+
+1780       0840   0843      0845  G15  5   XRA  1-8A      B3.4    5.8E-05   2564
+1780       0841   0842      0853  SVI  3   FLA  N12E64    SF      DSD       2564
+
+1790       0947   0953      0959  G15  5   XRA  1-8A      B4.1    2.3E-04   2562
+
+1800       1115   1115      1117  SVI  3   FLA  N15E61    SF                2564
+
+1810      A1719   ////     A0448  SVI  3   DSF  S29E46    14                    
+1810       2007   ////      2107  HOL  3   DSF  S32E44    7       B.4A          

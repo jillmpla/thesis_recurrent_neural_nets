@@ -1,0 +1,19 @@
+:Product: 20160626events.txt
+:Created: 2016 Jun 29 0357 UT
+:Date: 2016 06 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Jun 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1220 +     0406   0411      0417  G15  5   XRA  1-8A      B2.1    9.9E-05       
+
+1230       1046   1050      1055  G15  5   XRA  1-8A      B1.3    5.2E-05       
+
+1240 +     1557   1604      1623  G15  5   XRA  1-8A      B3.8    4.6E-04       
+1240       1601   1603      1610  HOL  3   FLA  N13E51    SF      ERU           

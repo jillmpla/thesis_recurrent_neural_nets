@@ -1,0 +1,17 @@
+:Product: 20160904events.txt
+:Created: 2016 Sep 07 0357 UT
+:Date: 2016 09 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Sep 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8650       1038   1039      1040  SVI  3   FLA  N10E26    SF      ERU       2585
+
+8670 +     1804   1817      1831  G15  5   XRA  1-8A      B9.2    1.1E-03   2585
+8670       1809   1819      1829  HOL  3   FLA  N11E21    SF      ERU       2585

@@ -1,0 +1,92 @@
+:Product: 20160408events.txt
+:Created: 2016 Apr 11 0357 UT
+:Date: 2016 04 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 Apr 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9060       0501   0505      0509  G15  5   XRA  1-8A      B7.2    2.4E-04   2529
+
+9070       0749   0749      0749  LEA  G   RBR  245       140                   
+
+9080 +     1217   1217      1217  SVI  G   RBR  245       110                   
+
+9090 +     1219   1220      1220  SVI  G   RBR  245       370                   
+
+9100       1225   1227      1227  SVI  G   RBR  245       120                   
+
+9350       1225   1441      2213  SAG  G   RNS  245       650                   
+
+9110       1314   1314      1314  SVI  G   RBR  245       180                   
+
+9120       1317   1319      1319  SVI  G   RBR  245       380                   
+
+9130       1341   1344      1347  SVI  G   RBR  245       550                   
+
+9140       1354   1355      1357  SVI  G   RBR  245       380                   
+
+9150       1411   1411      1411  SVI  G   RBR  245       120                   
+
+9160       1433   1434      1434  SVI  G   RBR  245       340                   
+
+9170       1436   1436      1437  SVI  G   RBR  245       200                   
+
+9180       1440   1441      1442  SVI  G   RBR  245       680                   
+
+9190       1450   1452      1452  SVI  G   RBR  245       220                   
+
+9200       1522   1522      1523  SVI  G   RBR  245       210                   
+
+9210 +     1610   1614      1618  G15  5   XRA  1-8A      B6.1    2.0E-04   2529
+
+9220 +     1631   1638      1645  G15  5   XRA  1-8A      C1.1    7.1E-04   2529
+9220       1640   1641      1642  PAL  G   RBR  245       480                   
+
+9230       1646   1646      1647  PAL  G   RBR  245       150                   
+
+9240       1653   1655      1656  PAL  G   RBR  245       500                   
+
+9250       1659   1701      1701  PAL  G   RBR  245       250                   
+
+9260       1724   ////      1755  SAG  C   RSP  114-180   CTM/1                 
+9260       1729   1729      1729  PAL  G   RBR  245       110                   
+
+9360       1738   1740      1746  PAL  G   RBR  245       210                   
+
+9270       1758   1758      1759  PAL  G   RBR  245       230                   
+
+9280       1811   1811      1811  PAL  G   RBR  245       230                   
+
+9290       1838   1838      1838  PAL  G   RBR  245       290                   
+
+9300       2026   2026      2026  PAL  G   RBR  245       110                   
+
+9440 +     2103   ////      2200  HOL  3   DSF  S00E48    11                    
+
+9310       2103   2103      2103  PAL  G   RBR  245       100                   
+
+9320       2146   2146      2146  PAL  G   RBR  245       100                   
+
+9330       2203   2203      2203  PAL  G   RBR  245       100                   
+
+9340       2212   2212      2213  PAL  G   RBR  245       220                   
+
+9370       2243   2243      2243  PAL  G   RBR  245       150                   
+
+9380       2251   ////      2311  LEA  C   RSP  130-180   CTM/1                 
+9380       2257   2257      2257  LEA  G   RBR  245       150                   
+
+9390       2317   2317      2317  PAL  G   RBR  245       110                   
+
+9400       2328   2328      2328  PAL  G   RBR  245       100                   
+
+9410       2334   2335      2338  PAL  G   RBR  245       310                   
+
+9420       2341   ////      2359  LEA  C   RSP  109-180   CTM/1                 
+9420       2346   2346      2346  PAL  G   RBR  245       310                   

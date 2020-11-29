@@ -1,0 +1,36 @@
+:Product: 20160529events.txt
+:Created: 2016 Jun 01 0357 UT
+:Date: 2016 05 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2016 May 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8950       0233   0321      0430  G14  5   XRA  1-8A      B3.4    2.0E-03       
+
+8880 +     0650   0656      0702  G14  5   XRA  1-8A      B7.2    3.9E-04   2548
+
+8890       0732   0732      0732  LEA  G   RBR  245       130                   
+8890       0732   ////      0733  SVI  C   RSP  034-054   III/1                 
+
+8900 +     0856   0904      0911  G14  5   XRA  1-8A      B6.5    4.4E-04   2548
+8900       0857   ////      0902  LEA  C   RSP  025-161   III/1             2548
+8900       0857   ////      0950  SVI  C   RSP  025-155   VI/2              2548
+8900 +    B0901  U0902     A0906  SVI  3   FLA  N15W71    SF      ERU       2548
+
+8910       1045   ////      1108  SVI  C   RSP  025-080   VI/2                  
+
+8920 +     1147   ////      1147  SAG  C   RSP  025-076   III/1                 
+
+8930 +     1258   ////      1258  SAG  C   RSP  025-085   III/1                 
+
+8960 +     1435   ////      1501  SAG  C   RSP  025-180   VI/2                  
+
+8940       1447   1450      1457  G15  5   XRA  1-8A      B1.7    7.8E-05   2548
+
+8970 +     1538   ////      1544  SAG  C   RSP  025-058   III/1                 
