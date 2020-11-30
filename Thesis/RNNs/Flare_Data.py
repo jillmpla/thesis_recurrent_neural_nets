@@ -417,6 +417,7 @@ def getAllData(binary):
 	a_control = 0
 	a_control_2 = 0
 	a_control_3 = 0
+	a_control_4 = 0
 
 	grouped_data = new_k_data_f.groupby(['Date', 'NOAA_AR'])
 	
@@ -426,36 +427,42 @@ def getAllData(binary):
 		mydata = mygroup[['Date', 'NOAA_AR']][:1].to_numpy()
 		mylabel = new_labs.loc[(new_labs['Date_Day_Before'] == mydata[0,0])] 
 		mylabel_1 = mylabel.loc[(mylabel['NOAA_AR'] == str(mydata[0,1]))]
-        #create allLabels list~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		#create allLabels list~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		if not mylabel_1.empty:
 			fla_class = mylabel_1['Class_Val']
 			fla_class_1 = ' '.join(map(str, fla_class))
 			if binary == True:
 				if fla_class_1 == 'A':
 					continue
-				if fla_class_1 == 'B':
+				elif fla_class_1 == 'B':
 					continue
-				if fla_class_1 == 'X':
+				elif fla_class_1 == 'X':
 					continue
-				else:
+				elif fla_class_1 == 'C':
 					allLabels.append('F')
-			if binary == False:
+				elif fla_class_1 == 'M':
+					allLabels.append('F')
+				else:
+					allLabels.append('Error') #if Error shows up something wrong
+			elif binary == False:
 				if fla_class_1 == 'A':
 					continue
-				if fla_class_1 == 'B':
+				elif fla_class_1 == 'B':
+					allLabels.append(fla_class_1)
+				elif fla_class_1 == 'X':
 					continue
-				if fla_class_1 == 'X':
-					continue
-				if fla_class_1 == 'C':
-					if a_control % 4 == 0: #2
-						allLabels.append('C')
+				elif fla_class_1 == 'C':
+					if a_control % 4 == 0:
+						allLabels.append(fla_class_1)
 						a_control += 1
-					else: 
+					else:
 						a_control += 1
 						continue
-				else:
+				elif fla_class_1 == 'M':
 					allLabels.append(fla_class_1)
-		if mylabel_1.empty:
+				else:
+					allLabels.append('Error') #if Error shows up something wrong
+		elif mylabel_1.empty:
 			if binary == True:
 				if a_control_2 % 10 == 0:
 					no_fla = 'N'
@@ -464,31 +471,23 @@ def getAllData(binary):
 				else:
 					a_control_2 += 1
 					continue
-			if binary == False:
-				if a_control_3 % 40 == 0: #22
-					no_fla = 'N'
-					allLabels.append(no_fla)
-					a_control_3 += 1
-				else:
-					a_control_3 += 1
-					continue
-        #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			elif binary == False:
+				continue
 		del mygroup['Date']
 		del mygroup['NOAA_AR']
 		del mygroup['HARPNUM']
 		del mygroup['DATE_TIME']
-        #normalize features per group/day+AR~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		#normalize group per day + AR
 		min_max_scale = MinMaxScaler()
 		scaled = min_max_scale.fit_transform(mygroup.astype('float64'))
 		normalized_mygroup = pd.DataFrame(scaled)
-        #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		allData.append(normalized_mygroup.to_numpy())
-        #check inverse~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        #invers = min_max_scale.inverse_transform(normalized)
-        #n_inversed = pd.DataFrame(invers)
-        #n_inversed.describe().apply(lambda p: p.apply(lambda k: format(k, 'g')))
-        #print(n_inversed)
-        #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		#check inverse~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		#invers = min_max_scale.inverse_transform(normalized)
+		#n_inversed = pd.DataFrame(invers)
+		#n_inversed.describe().apply(lambda p: p.apply(lambda k: format(k, 'g')))
+		#print(n_inversed)
+		#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 	allData = np.array(allData)
 	allLabels = np.array(allLabels)
@@ -496,7 +495,6 @@ def getAllData(binary):
 	num_sequences = allData.shape[0] #number of sequences
 	tim_steps = allData.shape[1] #number of timesteps
 	n_feats = allData.shape[2] #number of features per timestep
-
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#one-hot encoding----------------------------------------------------------------------------------
