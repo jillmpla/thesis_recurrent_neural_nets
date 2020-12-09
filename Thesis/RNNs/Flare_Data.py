@@ -389,8 +389,8 @@ def getAllData(binary):
 	#reset index
 	new_k_data.reset_index(drop=True, inplace=True)
 
-	#remove date+AR with < 90 records (75% of 120 [every 12 minutes] max entries per day, per AR) 
-	#to ensure a good random sample per day, per AR
+	#remove date+AR with < 114 records (no more than 5% of entries missing 
+	#per day, per AR) to ensure a good random sample per day, per AR
 	count_Ds = new_k_data.groupby(['Date', 'NOAA_AR']).filter(lambda x : len(x)>113)
 	count_Ds.reset_index(drop=True, inplace=True)
 
