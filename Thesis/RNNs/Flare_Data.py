@@ -400,7 +400,7 @@ def getAllData(binary):
 	#in the next 24 hours after the end time of a sequence
 	#-------------------------------------------------------------------------#
 
-	#get :::90::: random rows per day, per AR
+	#get :::114::: random rows per day, per AR
 	np.random.seed(0)
 	count_Ds = count_Ds.astype({"Date": str})
 	COLS = ['DATE_TIME', 'HARPNUM', 'TOTUSJH', 'TOTUSJZ', 'SAVNCPP', 'USFLUX', 'ABSNJZH', 'TOTPOT', 'SIZE_ACR', 'NACR', 'MEANPOT', 'SIZE', 'MEANJZH', 'SHRGT45', 'MEANSHR', 'MEANJZD', 'MEANALP', 'MEANGBT', 'MEANGAM', 'MEANGBZ', 'MEANGBH', 'NPIX']
