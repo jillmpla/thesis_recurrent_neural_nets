@@ -498,8 +498,6 @@ def getAllData(binary):
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 	#one-hot encoding----------------------------------------------------------------------------------
-	#6 flare classes: N is no flare, A is smallest, X is largest, N is no flare
-	#key = {'A', 'B', 'C', 'M', 'N', 'X'}
 	a_encoder = LabelBinarizer()
 	allLabels_enc = a_encoder.fit_transform(allLabels)
 	#number of flare classes actually found in overall dataset
